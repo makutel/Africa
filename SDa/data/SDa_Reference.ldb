@@ -1,0 +1,783 @@
+TDB: empty
+ADB: SDa
+problem: SDa
+description:
+# Sudan
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity H l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary z
+# Primary level energies for Sudan
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_SDELST04 A l
+# DummyCom_SDELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 2620.66 2796.35 2975.29 3148.62 3319.17 3487.17 3652.93 3819.73 3987.82 4157.42 4328.75 4502.04 4680.68 4862.91 5044.7 5226.28 5407.83 5590.67 5774.9 5960.6 6147.85 6336.72 6336.72
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+r-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+s-f 0.063787 0.143427 0.065391 0.087105 0.285971 \
+0.031037 0.048157 0.065856 0.143792 0.065477
+systems.SDWDLC00.g.capfac 0.478146 0.46767 0.640062 0.308205 0.371893 \
+0.381813 0.3534 0.313818 0.342142 0.504777
+systems.SDWDLCZ008_Dongola3.Q.capfac 0.820418 0.561226 0.711744 0.673211 0.40737 \
+0.469399 0.604008 0.839466 0.605461 0.789012
+systems.SDWDLCZ008_Dongola2.P.capfac 0.820418 0.561226 0.711744 0.673211 0.40737 \
+0.469399 0.604008 0.839466 0.605461 0.789012
+systems.SDWDLCZ008_Dongola1.O.capfac 0.820418 0.561226 0.711744 0.673211 0.40737 \
+0.469399 0.604008 0.839466 0.605461 0.789012
+systems.SDWDLCZ008_Elgobosh.N.capfac 0.820418 0.561226 0.711744 0.673211 0.40737 \
+0.469399 0.604008 0.839466 0.605461 0.789012
+systems.SDWDOC00.K.capfac 0.478146 0.46767 0.640062 0.308205 0.371893 \
+0.381813 0.3534 0.313818 0.342142 0.504777
+systems.SDWDOCZ002.M.capfac 0.38004 0.460696 0.399911 0.327834 0.479739 \
+0.395097 0.323155 0.400822 0.445049 0.394573
+systems.SDWDOCZ001.L.capfac 0.23541 0.377313 0.260541 0.523083 0.658679 \
+0.440502 0.440378 0.213064 0.371021 0.21447
+systems.SDWDLCZ010.J.capfac 0.900639 0.660491 0.855216 0.715829 0.489245 \
+0.524244 0.687691 0.802639 0.536995 0.794358
+systems.SDWDLCZ009.I.capfac 0.825652 0.68297 0.839906 0.612907 0.577166 \
+0.502189 0.572042 0.740217 0.609574 0.749641
+systems.SDWDLCZ008.H.capfac 0.820418 0.561226 0.711744 0.673211 0.40737 \
+0.469399 0.604008 0.839466 0.605461 0.789012
+systems.SDWDLCZ007.G.capfac 0.86285 0.633166 0.775037 0.726089 0.497952 \
+0.308162 0.484173 0.770148 0.538315 0.684608
+systems.SDWDLCZ006.F.capfac 0.881072 0.648508 0.883144 0.697269 0.568865 \
+0.48482 0.628839 0.762836 0.512941 0.773291
+systems.SDWDLCZ005.E.capfac 0.636719 0.811265 0.696552 0.640953 0.762433 \
+0.567268 0.534336 0.529043 0.713419 0.581183
+systems.SDWDLCZ004.D.capfac 0.787483 0.545714 0.713951 0.666605 0.453886 \
+0.526375 0.63611 0.840671 0.622359 0.79623
+systems.SDWDLCZ003.C.capfac 0.867533 0.580713 0.749709 0.735289 0.459814 \
+0.568351 0.692237 0.871428 0.540383 0.780479
+systems.SDWDLCZ002.B.capfac 0.885502 0.821957 0.903326 0.663704 0.646871 \
+0.530641 0.593128 0.746615 0.665467 0.787732
+systems.SDWDLCZ001.A.capfac 0.864053 0.641392 0.747187 0.698334 0.476528 \
+0.375911 0.512712 0.758464 0.483571 0.64506
+systems.SDSOTN00.h.capfac 0.000006 0.560711 0.000142 0.000244 0.508527 \
+0.002864 0 0 0.51712 0.000019
+systems.SDSOTNZ002.C.capfac 0.003929 0.855382 0.759302 0.021316 0.802579 \
+0.630533 0.130052 0 0.755886 0.449373
+systems.SDSOTNZ001.B.capfac 0.00073 0.855912 0.866291 0.000721 0.854298 \
+0.829578 0.221889 0 0.800247 0.649256
+systems.SDSOTS00.i.capfac 0 0.54626 0.153022 0 0.54626 \
+0.283738 0.065878 0.000217 0.546359 0.15248
+systems.SDSOTSZ002.E.capfac 0.495569 0.894917 0.983598 0.193056 0.871281 \
+0.953588 0.774304 0.214513 0.823553 0.887614
+systems.SDSOTSZ001.D.capfac 0.485779 0.889648 0.979601 0.176078 0.905139 \
+0.974501 0.850264 0.281605 0.837739 0.960501
+systems.SDSOPC00.j.capfac 0.000006 0.533693 0.000136 0.000232 0.484024 \
+0.002726 0 0 0.492203 0.000018
+systems.SDSOPCZ008_WestOmdurman.T.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ008_ElObeid2.S.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ008_ElObeid1.R.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ008_Adila.Q.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ001_SmallUnits.P.capfac 0.000011 0.460953 0 0.000166 0.470737 \
+0.000087 0 0.000004 0.401146 0
+systems.SDSOPCZ003_MadaniSolar.O.capfac 0.000004 0.46535 0 0.000042 0.433746 \
+0 0 0 0.409963 0
+systems.SDSOPCZ005_AtbaraSolar.N.capfac 0.000023 0.459012 0 0.00039 0.457862 \
+0 0 0.000025 0.400196 0
+systems.SDSOPCZ008_Omdurman.M.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ009_Port_SudanSolar.L.capfac 0.000774 0.467103 0 0.003747 0.475736 \
+0.000243 0 0.000545 0.39999 0
+systems.SDSOPCZ010.K.capfac 0.00043 0.462319 0 0.00212 0.436787 \
+0 0 0.000362 0.407845 0
+systems.SDSOPCZ009.J.capfac 0.000774 0.467103 0 0.003747 0.475736 \
+0.000243 0 0.000545 0.39999 0
+systems.SDSOPCZ008.I.capfac 0 0.474032 0 0.000013 0.421788 \
+0.000115 0 0 0.418656 0
+systems.SDSOPCZ007.H.capfac 0.000015 0.464578 0 0.000064 0.446855 \
+0.00001 0 0.000002 0.408273 0
+systems.SDSOPCZ006.G.capfac 0.000004 0.459617 0 0.000201 0.494764 \
+0.000089 0 0 0.403693 0
+systems.SDSOPCZ005.F.capfac 0.000023 0.459012 0 0.00039 0.457862 \
+0 0 0.000025 0.400196 0
+systems.SDSOPCZ004.E.capfac 0.000019 0.461363 0 0.000061 0.468356 \
+0.000321 0 0 0.406128 0
+systems.SDSOPCZ003.D.capfac 0.000004 0.46535 0 0.000042 0.433746 \
+0 0 0 0.409963 0
+systems.SDSOPCZ002.C.capfac 0.000005 0.467129 0 0.000009 0.424328 \
+0 0 0 0.411197 0
+systems.SDSOPCZ001.B.capfac 0.000011 0.460953 0 0.000166 0.470737 \
+0.000087 0 0.000004 0.401146 0
+systems.SDSOPCZNV54.A.capfac 0.00492 0.531765 0 0.010884 0.479697 \
+0 0 0.002971 0.487974 0
+systems.SDHYRO_Sabaloka.X.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.SDHYRO_Mograt.W.capfac 0.425428 0.425428 0.425428 0.551477 0.551477 \
+0.551477 0.551477 0.522003 0.522003 0.522003
+systems.SDHYRO_Dagash.V.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.SDHYRO_Kajbar.U.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.SDHYRO_Dal_Shereik.T.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.SDSOPU00.g.capfac 0.000005 0.480324 0.000122 0.000209 0.435622 \
+0.002454 0 0 0.442982 0.000016
+systems.SDSOPB00.g.capfac 0.000005 0.480324 0.000122 0.000209 0.435622 \
+0.002454 0 0 0.442982 0.000016
+systems.SDSOPR00.g.capfac 0.208469 0.391984 0.398829 0.194241 0.390868 \
+0.521736 0.354435 0.212024 0.390233 0.398019
+systems.SDSOPS00.h.capfac 0.000005 0.480324 0.000122 0.000209 0.435622 \
+0.002454 0 0 0.442982 0.000016
+systems.SDRIDM_Upper_Atbara.A.capfac 0.012474 0.012474 0.012474 0.012474 0.012474 \
+0.012474 0.012474 0.012474 0.012474 0.012474
+systems.SDRIDM_Jebel_Aulia.B.capfac 0.194312 0.194312 0.194312 0.194312 0.194312 \
+0.194312 0.194312 0.194312 0.194312 0.194312
+systems.SDRIDM_Sennar.C.capfac 0.00186 0.00186 0.00186 0.461527 0.461527 \
+0.461527 0.461527 0.076798 0.076798 0.076798
+systems.SDRIDM_Roseires.D.capfac 0.011323 0.011323 0.011323 0.488639 0.488639 \
+0.488639 0.488639 0.227952 0.227952 0.227952
+systems.SDRIDM_Merowe.E.capfac 0.389002 0.389002 0.389002 0.73058 0.73058 \
+0.73058 0.73058 0.495434 0.495434 0.495434
+systems.SDRIDM_Kashm_El_Girba.F.capfac 0.010324 0.010324 0.010324 0.356923 0.356923 \
+0.356923 0.356923 0.155603 0.155603 0.155603
+systems.SDELPT04.G.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.SDELDT04_01.H.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.SDELDT04_01.I.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.SDELDT04_02.J.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.SDELDT04_02.K.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.SDELDT04_03.L.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.SDELDT04_03.M.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+D_SDHYDM_Upper_Atbara D001 o 0
+*
+D_SDHYDM_Jebel_Aulia D002 o 0
+*
+D_SDHYDM_Sennar D003 o 0
+*
+D_SDHYDM_Roseires D004 o 0
+*
+D_SDHYDM_Merowe D005 o 0
+*
+D_SDHYDM_Kashm_El_Girba D006 o 0
+*
+SS_SDELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_SDELST04 PC01 o 
+*
+PS_SDELST04 PS01 o 0
+*
+DC_SDELST04_01 DC01 o 
+*
+DC_SDELST04_02 DC02 o 
+*
+DC_SDELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+SDEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+SDEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+SDEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+SDEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+SDEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+SDEL00TUI a
+# Description: Industry Demand
+*
+SDEL00TUR a
+# Description: Rural Demand
+*
+SDEL00TUS a
+# Description: SentOut Demand
+*
+SDEL00TUU a
+# Description: Urban Demand
+*
+SDEL00TUC a
+# Description: Commerce Demand
+*
+SDEL00e00 a
+# Description: Export of Electricity
+*
+SDEL00i00 I
+# Description: Import of Electricity
+*
+SDELBS00 z
+# Description: Backstop
+*
+SDDS00I00 b
+# Description: Import of Diesel
+*
+SDDSRC00 g
+# Description: Generic Diesel Engine
+*
+SDDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+SDDSSC03 C
+bdi up c 32
+# Description: Port Sudan (Diesel)
+*
+SDDSSC02 B
+bdi up c 155
+# Description: SD_Diesel Units
+*
+SDDSSC01 A
+bdi up c 480
+# Description: GarriCC_1/GarriCC_2
+*
+SDDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+SDDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+SDDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+SDDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+SDHF00I00 h
+# Description: Import of HFO
+*
+SDHFRC00 g
+# Description: Generic HFO
+*
+SDHFSC00 h
+# Description: Generic HFO Steam Turbine
+*
+SDHFSC14_Garry_3_Saudi I
+bdi up c 525
+# Description: Garry 3 Saudi GT
+*
+SDHFSC14_Garry_3_Siemens H
+bdi up c 561
+# Description: Garry 3 Siemens GT
+*
+SDHFSC14_Port_Sudan G
+bdi up c 374
+# Description: Port Sudan Siemens GT
+*
+SDHFSC14_Ali_Fula F
+bdi up c 405
+# Description: Ali Fula
+*
+SDHFSC14_Garii_3 E
+bdi up c 240
+# Description: Garri 3 CC
+*
+SDHFSC14_Al_Bagir D
+bdi up c 525
+# Description: Al Baqir GT
+*
+SDHFSC13 C
+bdi up c 150
+# Description: Port Sudan (PPA)
+*
+SDHFSC12 B
+bdi up c 200
+# Description: Khartoum North 5 and 6 (ST)
+*
+SDHFSC11 K
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 381
+# Description: AlFula
+*
+SDHFSC10 J
+bdi up c 500
+# Description: Kusti
+*
+SDHFSC01 A
+bdi up c 110
+# Description: Garri 4 GT
+*
+SDCO00I00 h
+# Description: Import of Coal
+*
+SDCOSC00 g
+# Description: Generic Coal
+*
+SDCOSC10 J
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 534
+# Description: RedSea
+*
+SDCOSC11 K
+bdi up c 5228
+# Description: Candidate SD-ST-SUBCRI_20/SD-ST-SUBCRI_35
+*
+SDCOSC01 A
+bdi up c 100
+# Description: Existing GarriST_4
+*
+SDNG00X00 g
+# Description: Extraction of Natural Gas
+*
+SDNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+SDNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+SDNGCC13 C
+bdi up c 150
+# Description: Khartoum North 1 and 2 (GT)
+*
+SDNGCC12 B
+bdi up c 120
+# Description: Khartoum North 3 and 4
+*
+SDNGCC11 A
+bdi up c 60
+# Description: Khartoum North 1 and 2
+*
+SDNGCC10 J
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 900
+# Description: Port Sudan CCGT
+*
+SDNUPW00 g
+# Description: Generic Nuclear
+*
+SDWDLC00 g
+# Description: Generic Wind
+*
+SDWDLCZ008_Dongola3 Q
+bdi up c 500
+# Description: Dongola III Wind
+*
+SDWDLCZ008_Dongola2 P
+bdi up c 500
+# Description: Dongola II Wind
+*
+SDWDLCZ008_Dongola1 O
+bdi up c 250
+# Description: Dongola I Wind
+*
+SDWDLCZ008_Elgobosh N
+bdi up c 100
+# Description: El Gobosh Wind
+*
+SDWDOC00 K
+# Description: Generic OffShore Wind
+*
+SDWDOCZ002 M
+bdi up c 7107.93
+# Description: Offshore Wind Zone 002
+*
+SDWDOCZ001 L
+bdi up c 928.14
+# Description: Offshore Wind Zone 001
+*
+SDWDLCZ010 J
+bdi up c 271.39
+# Description: Wind Zone 010
+*
+SDWDLCZ009 I
+bdi up c 15459.63
+# Description: Wind Zone 009
+*
+SDWDLCZ008 H
+bdi up c 51675.11
+# Description: Wind Zone 008
+*
+SDWDLCZ007 G
+bdi up c 47622.82
+# Description: Wind Zone 007
+*
+SDWDLCZ006 F
+bdi up c 19352.06
+# Description: Wind Zone 006
+*
+SDWDLCZ005 E
+bdi up c 6708.31
+# Description: Wind Zone 005
+*
+SDWDLCZ004 D
+bdi up c 62204.85
+# Description: Wind Zone 004
+*
+SDWDLCZ003 C
+bdi up c 25623.63
+# Description: Wind Zone 003
+*
+SDWDLCZ002 B
+bdi up c 37153.89
+# Description: Wind Zone 002
+*
+SDWDLCZ001 A
+bdi up c 6421.31
+# Description: Wind Zone 001
+*
+SDSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+SDSOTNZ002 C
+fyear 2026
+bdi up c 6587.73
+# Description: Solar CSP 6hrStor Zone 002
+*
+SDSOTNZ001 B
+fyear 2026
+bdi up c 158124.81
+# Description: Solar CSP 6hrStor Zone 001
+*
+SDSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+SDSOTSZ002 E
+fyear 2050
+bdi up c 3293.87
+# Description: Solar CSP 12hrStor Zone 002
+*
+SDSOTSZ001 D
+fyear 2050
+bdi up c 79062.41
+# Description: Solar CSP 12hrStor Zone 001
+*
+SDSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+SDSOPC00 j
+# Description: Generic PV System (utility)
+*
+SDSOPCZ008_WestOmdurman T
+bdi up c 200
+# Description: West Omdurman PV
+*
+SDSOPCZ008_ElObeid2 S
+bdi up c 100
+# Description: El Obeid 2
+*
+SDSOPCZ008_ElObeid1 R
+bdi up c 100
+# Description: El Obeid 1
+*
+SDSOPCZ008_Adila Q
+bdi up c 50
+# Description: Adila Solar
+*
+SDSOPCZ001_SmallUnits P
+bdi up c 40
+# Description: Small Solar Units
+*
+SDSOPCZ003_MadaniSolar O
+bdi up c 50
+# Description: Madani Solar
+*
+SDSOPCZ005_AtbaraSolar N
+bdi up c 200
+# Description: Atbara Solar
+*
+SDSOPCZ008_Omdurman M
+bdi up c 200
+# Description: Omdurman Gomouia PV
+*
+SDSOPCZ009_Port_SudanSolar L
+bdi up c 150
+# Description: Port Sudan Solar
+*
+SDSOPCZ010 K
+bdi up c 12556.9
+# Description: Solar PV Zone 010
+*
+SDSOPCZ009 J
+bdi up c 13038.09
+# Description: Solar PV Zone 009
+*
+SDSOPCZ008 I
+bdi up c 30934.42
+# Description: Solar PV Zone 008
+*
+SDSOPCZ007 H
+bdi up c 23221.06
+# Description: Solar PV Zone 007
+*
+SDSOPCZ006 G
+bdi up c 95907.35
+# Description: Solar PV Zone 006
+*
+SDSOPCZ005 F
+bdi up c 26858.44
+# Description: Solar PV Zone 005
+*
+SDSOPCZ004 E
+bdi up c 29601.52
+# Description: Solar PV Zone 004
+*
+SDSOPCZ003 D
+bdi up c 16768.75
+# Description: Solar PV Zone 003
+*
+SDSOPCZ002 C
+bdi up c 9695.94
+# Description: Solar PV Zone 002
+*
+SDSOPCZ001 B
+bdi up c 46733.94
+# Description: Solar PV Zone 001
+*
+SDSOPCZNV54 A
+bdi up c 0
+# Description: PV Zone NV_Site ID 54
+*
+SDGOCV00 k
+# Description: Generic Geothermal
+*
+SDBM00X00 a
+# Description: Extraction of Bagasse
+*
+SDBW00X00 a
+# Description: Extraction of Wood
+*
+SDHY00X00 a
+# Description: Supply of Hydro
+*
+SDSO00X00 a
+# Description: Supply of Solar
+*
+SDWD00X00 a
+# Description: Supply of Wind
+*
+SDBMST00 g
+# Description: Generic Bagasse
+*
+SDBWST00 a
+# Description: Generic Wood
+*
+SDHYRO00 g
+# Description: Generic Hydro ROR
+*
+SDHYRO_Sabaloka X
+bdi up c 205
+# Description: Sabaloka
+*
+SDHYRO_Mograt W
+bdi up c 312
+# Description: Mograt
+*
+SDHYRO_Dagash V
+bdi up c 312
+# Description: Dagash
+*
+SDHYRO_Kajbar U
+bdi up c 360
+# Description: Candidate Kajbar
+*
+SDHYRO_Dal_Shereik T
+bdi up c 1068
+# Description: Dal/Shereik
+*
+SDHYDM_Upper_Atbara J
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 320
+# Description: Upper Atbara
+*
+SDHYDM_Jebel_Aulia D
+bdi up c 32
+# Description: Jebel_Aulia Dam
+*
+SDHYDM_Sennar C
+bdi up c 15
+# Description: Sennar Dam
+*
+SDHYDM_Roseires B
+bdi up c 280
+# Description: Roseires Dam
+*
+SDHYDM_Merowe A
+bdi up c 1250
+# Description: Merowe Dam
+*
+SDHYDM00 h
+# Description: Generic Hydro with DAM
+*
+SDHYDM_RosariesH F
+bdi up c 162
+# Description: Rosaries Heightening
+*
+SDHYDM_SennarEast E
+bdi up c 126
+# Description: Sennar East
+*
+SDHYMI00 g
+# Description: Generic Hydro Small
+*
+SDHYDM_Kashm_El_Girba B
+bdi up c 17.8
+# Description: Kashm_El_Girba (Cabline and Pump)
+*
+SDSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+SDSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+SDSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+SDSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+SDRIDM_Upper_Atbara A
+*
+SDRIDM_Jebel_Aulia B
+*
+SDRIDM_Sennar C
+*
+SDRIDM_Roseires D
+*
+SDRIDM_Merowe E
+*
+SDRIDM_Kashm_El_Girba F
+*
+SDELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+SDELPT04 G
+*
+SDELDT04_01 H
+2. activity I
+*
+SDELDT04_02 J
+2. activity K
+*
+SDELDT04_03 L
+2. activity M
+*
+SDEXDT00 N
+*
+resources: 
+endata
+

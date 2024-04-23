@@ -1,0 +1,502 @@
+TDB: empty
+ADB: BIa
+problem: BIa
+description:
+# Burundi
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity c l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary B
+# Primary level energies for Burundi
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_BIELST04 A l
+# DummyCom_BIELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 31.51 31.96 40.72 44.06 47.3 50.67 54.22 57.98 61.92 66.04 70.36 74.88 79.63 84.61 89.81 95.25 100.93 106.92 113.17 119.69 126.49 133.59 133.59
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+r-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+s-f 0.076525 0.164757 0.08221 0.081444 0.176688 \
+0.037834 0.049597 0.076158 0.156613 0.098174
+systems.BIWDLC00.g.capfac 0.196939 0.378429 0.194964 0.064585 0.091998 \
+0.064997 0.045121 0.141396 0.284362 0.114329
+systems.BIWDOC00.A.capfac 0.196939 0.378429 0.194964 0.064585 0.091998 \
+0.064997 0.045121 0.141396 0.284362 0.114329
+systems.BISOTNZ001.B.capfac 0 0.471189 0.089362 0.000155 0.690663 \
+0.575248 0.20831 0 0.578537 0.147068
+systems.BISOTS00.i.capfac 0 0.549682 0.153981 0 0.549682 \
+0.285516 0.066291 0.000219 0.549781 0.153435
+systems.BISOTSZ001.D.capfac 0.031727 0.62803 0.403375 0.212115 0.818346 \
+0.876217 0.640976 0.076957 0.735909 0.530774
+systems.BISOPC00.j.capfac 0.010459 0.46196 0 0.008623 0.507338 \
+0 0 0.010324 0.455397 0
+systems.BISOPC_1.G.capfac 0.010459 0.46196 0 0.008623 0.507338 \
+0 0 0.010324 0.455397 0
+systems.BISOPC_BU_PV.D.capfac 0.010459 0.46196 0 0.008623 0.507338 \
+0 0 0.010324 0.455397 0
+systems.BISOPCZ005.F.capfac 0.000063 0.380819 0.001569 0.000002 0.408665 \
+0.000565 0 0.001578 0.41039 0.00024
+systems.BISOPCZ004.E.capfac 0 0.378901 0 0 0.391693 \
+0 0 0.000006 0.407133 0
+systems.BISOPCZ003.C.capfac 0.000042 0.366286 0.002272 0 0.402334 \
+0.001808 0 0.001958 0.385883 0.000422
+systems.BISOPCZ002.B.capfac 0.000014 0.383719 0.000377 0.000002 0.399549 \
+0.000001 0 0.000422 0.410741 0.000041
+systems.BISOPCZ001.A.capfac 0 0.380339 0.006893 0 0.412558 \
+0.01 0 0.005271 0.400838 0.001405
+systems.BIHYRO_Nyamyotsi.U.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Buhiga.T.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Marangara.S.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Kayenzi.R.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Gikonge.Q.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Ruvyironza.P.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Nyemanga.O.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.BIHYRO_Ruzizi_III.J.capfac 0.744893 0.744893 0.744893 0.244125 0.244125 \
+0.244125 0.244125 0.503566 0.503566 0.503566
+systems.BIHYRO_Mulembwe.K.capfac 0.793638 0.793638 0.793638 0.267973 0.267973 \
+0.267973 0.267973 0.552923 0.552923 0.552923
+systems.BIHYRO_Kabu.I.capfac 0.372198 0.372198 0.372198 0.119496 0.119496 \
+0.119496 0.119496 0.246615 0.246615 0.246615
+systems.BIHYRO_Jiji.H.capfac 1 1 1 0.501618 0.501618 \
+0.501618 0.501618 0.981327 0.981327 0.981327
+systems.BIHYRO_Ruzizi_IV.D.capfac 0.744893 0.744893 0.744893 0.244125 0.244125 \
+0.244125 0.244125 0.503566 0.503566 0.503566
+systems.BIHYRO_Ruzibazi.C.capfac 0.686117 0.686117 0.686117 0.22028 0.22028 \
+0.22028 0.22028 0.454614 0.454614 0.454614
+systems.BIHYRO_Rusumo_Falls.B.capfac 0.829087 0.829087 0.829087 0.336378 0.336378 \
+0.336378 0.336378 0.240602 0.240602 0.240602
+systems.BIHYRO_Kagunizi.E.capfac 0.768426 0.768426 0.768426 0.255525 0.255525 \
+0.255525 0.255525 0.527352 0.527352 0.527352
+systems.BIHYRO_Mpanda.A.capfac 1 1 1 0.715071 0.715071 \
+0.715071 0.715071 1 1 1
+systems.BISOPU00.g.capfac 0.009413 0.415765 0 0.00776 0.456604 \
+0 0 0.00929 0.409858 0
+systems.BISOPB00.g.capfac 0.009413 0.415765 0 0.00776 0.456604 \
+0 0 0.00929 0.409858 0
+systems.BISOPR00.g.capfac 0.199198 0.374552 0.381092 0.185602 0.373485 \
+0.498533 0.338672 0.202595 0.372878 0.380318
+systems.BISOPS00.h.capfac 0.009413 0.415765 0 0.00776 0.456604 \
+0 0 0.00929 0.409858 0
+systems.BIELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.BIELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.BIELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.BIELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.BIELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.BIELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.BIELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.BIRIDM_Ruzizi_II.H.capfac 0.716511 0.716511 0.716511 0.230038 0.230038 \
+0.230038 0.230038 0.474753 0.474753 0.474753
+relationsc:
+relationsp:
+relationss:
+SS_BIELST04 SS01 o 0
+*
+D_BIHYDM_Ruzizi_II D001 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_BIELST04 PC01 o 
+*
+PS_BIELST04 PS01 o 0
+*
+DC_BIELST04_01 DC01 o 
+*
+DC_BIELST04_02 DC02 o 
+*
+DC_BIELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+BIEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+BIEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+BIEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+BIEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+BIEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+BIEL00TUI a
+# Description: Industry Demand
+*
+BIEL00TUR g
+# Description: Rural Demand
+*
+BIEL00TUS a
+# Description: SentOut Demand
+*
+BIEL00TUU g
+# Description: Urban Demand
+*
+BIEL00TUC a
+# Description: Commerce Demand
+*
+BIEL00e00 a
+# Description: Export of Electricity
+*
+BIEL00i00 I
+# Description: Import of Electricity
+*
+BIDS00I00 b
+# Description: Import of Diesel
+*
+BIDSRC00 g
+# Description: Generic Diesel Centralized
+*
+BIDSRC_Gaz_oils B
+# Description: Gaz_oils
+*
+BIDSRC_Burundi_exi_the A
+# Description: Burundi_exi_the
+*
+BIDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+BIDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+BIDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+BIDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+BIDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+BIHF00I00 b
+# Description: Import of HFO
+*
+BIHFRC00 g
+# Description: Generic HFO
+*
+BICO00I00 h
+# Description: Import of Coal
+*
+BICOSC00 g
+# Description: Generic Coal
+*
+BING00I00 g
+# Description: Import of Natural Gas
+*
+BINGSC00 g
+# Description: Generic Gas Open Cycle
+*
+BINGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+BIWDLC00 g
+# Description: Generic Wind
+*
+BIWDOC00 A
+# Description: Generic OffShore Wind
+*
+BISOTN00 h
+# Description: Generic Solar thermal no storage
+*
+BISOTNZ001 B
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 001
+*
+BISOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+BISOTSZ001 D
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+BISOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+BISOPC00 j
+# Description: Generic PV System (utility)
+*
+BISOPC_1 G
+# Description: Solar_Project
+*
+BISOPC_BU_PV D
+# Description: BU_PV
+*
+BISOPCZ005 F
+# Description: Solar PV Zone 005
+*
+BISOPCZ004 E
+# Description: Solar PV Zone 004
+*
+BISOPCZ003 C
+# Description: Solar PV Zone 003
+*
+BISOPCZ002 B
+# Description: Solar PV Zone 002
+*
+BISOPCZ001 A
+# Description: Solar PV Zone 001
+*
+BIGOCV00 k
+# Description: Generic Geothermal
+*
+BIBM00X00 g
+# Description: Extraction of Bagasse
+*
+BIBW00X00 a
+# Description: Extraction of Wood
+*
+BIHY00X00 g
+# Description: Supply of Hydro
+*
+BISO00X00 a
+# Description: Supply of Solar
+*
+BIWD00X00 a
+# Description: Supply of Wind
+*
+BIBMST00 g
+# Description: Generic Bagasse
+*
+BIBWST00 a
+# Description: Generic Wood
+*
+BIHYRO00 g
+# Description: Generic Hydro ROR
+*
+BIHYRO_Nyamyotsi U
+# Description: Nyamyotsi
+*
+BIHYRO_Buhiga T
+# Description: Buhiga
+*
+BIHYRO_Marangara S
+# Description: Marangara
+*
+BIHYRO_Kayenzi R
+# Description: Kayenzi
+*
+BIHYRO_Gikonge Q
+# Description: Gikonge
+*
+BIHYRO_Ruvyironza P
+# Description: Ruvyironza
+*
+BIHYRO_Nyemanga O
+# Description: Nyemanga
+*
+BIHYRO_Mini_hydro N
+# Description: Mini_hydro
+*
+BIHYRO_Ruvubu M
+# Description: Ruvubu
+*
+BIHYRO_Siguvyaye L
+# Description: Siguvyaye
+*
+BIHYRO_Ruzizi_III J
+# Description: Ruzizi_III_Burundi_share
+*
+BIHYRO_Mulembwe K
+# Description: Mulembwe
+*
+BIHYRO_Kabu I
+# Description: Kabu_16
+*
+BIHYRO_Jiji H
+# Description: Jiji
+*
+BIHYRO_Ruzizi_IV D
+# Description: Ruzizi_Burundi_4
+*
+BIHYRO_Ruzibazi C
+# Description: Ruzibazi
+*
+BIHYRO_Rusumo_Falls B
+# Description: RUSUMO_FALLS
+*
+BIHYDM00 h
+# Description: Generic Hydro with DAM
+*
+BIHYDM_Ruzizi_II V
+# Description: Ruzizi_II_Burundi_share
+*
+BIHYRO_Rwegura G
+# Description: Rwegura
+*
+BIHYRO_Mugere F
+# Description: Mugere
+*
+BIHYRO_Kagunizi E
+# Description: Kagunizi
+*
+BIHYRO_Mpanda A
+# Description: Mpanda
+*
+BIHYMI00 g
+# Description: Generic Hydro Small
+*
+BISOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+BISOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+BISOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+BISOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+BIELBS00 z
+# Description: Backstop
+*
+BIELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+BIELPT04 A
+*
+BIELDT04_01 B
+2. activity C
+*
+BIELDT04_02 D
+2. activity E
+*
+BIELDT04_03 F
+2. activity G
+*
+BIRIDM_Ruzizi_II H
+*
+BIEXDT00 I
+*
+resources: 
+endata
+

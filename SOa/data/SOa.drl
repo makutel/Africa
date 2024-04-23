@@ -1,0 +1,12 @@
+daytypes	Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Holiday
+dayrels	Monday	Monday
+dayrels	Tuesday	Tuesday
+dayrels	Wednesday	Wednesday
+dayrels	Thursday	Thursday
+dayrels	Friday	Friday
+dayrels	Saturday	Saturday
+dayrels	Sunday	Sunday
+dayrels	Workday	Monday,Tuesday,Wednesday,Thursday,Friday
+dayrels	SunandHol	Sunday,Holiday
+dayrels	SSH	Saturday,Sunday,Holiday
+dayrels	anyday	Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Holiday

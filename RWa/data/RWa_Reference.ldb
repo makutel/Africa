@@ -1,0 +1,581 @@
+TDB: empty
+ADB: RWa
+problem: RWa
+description:
+# Rwanda
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity G l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary x
+# Primary Energy
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_RWELST04 A l
+# DummyCom_RWELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 100.19 101.44 118.4 129.96 142.59 155.62 169.05 183.71 199.65 216.96 235.72 256 279.18 305.45 335.02 368.12 405.02 448.03 497.68 554.59 619.44 692.98 692.98
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+r-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+s-f 0.077466 0.162932 0.068372 0.078661 0.173038 \
+0.03235 0.038559 0.079103 0.220805 0.068714
+systems.RWWDLC00.i.capfac 0.076543 0.067242 0.07743 0.105026 0.184045 \
+0.175547 0.131898 0.052596 0.163758 0.099887
+systems.RWWDOC00.A.capfac 0.076543 0.067242 0.07743 0.105026 0.184045 \
+0.175547 0.131898 0.052596 0.163758 0.099887
+systems.RWSOTS00.h.capfac 0 0.549682 0.153981 0 0.549682 \
+0.285516 0.066291 0.000219 0.549781 0.153435
+systems.RWSOPC00.i.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_Rwinkwavu_PV_gen.L.capfac 0 0.372451 0 0 0.37379 \
+0 0 0.000001 0.39486 0
+systems.RWSOPC_Bugesera_PV_gen.K.capfac 0.000003 0.392048 0.000116 0.000008 0.385157 \
+0.000065 0 0.000173 0.404115 0.000008
+systems.RWSOPC_NashoPV_gen.J.capfac 0 0.37716 0 0 0.382201 \
+0 0 0.000044 0.398951 0
+systems.RWSOPC_GigawattPV_gen.I.capfac 0.000001 0.385023 0.000161 0.000011 0.379166 \
+0.000096 0 0.000196 0.401481 0.000011
+systems.RWSOPC_RW_PV.E.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_Nyagatare_PV.D.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_JaliSolar.C.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPCZ005.H.capfac 0.000003 0.392048 0.000116 0.000008 0.385157 \
+0.000065 0 0.000173 0.404115 0.000008
+systems.RWSOPCZ004.G.capfac 0 0.37716 0 0 0.382201 \
+0 0 0.000044 0.398951 0
+systems.RWSOPCZ003.F.capfac 0 0.380623 0 0 0.379218 \
+0 0 0 0.400513 0
+systems.RWSOPCZ002.B.capfac 0 0.372451 0 0 0.37379 \
+0 0 0.000001 0.39486 0
+systems.RWSOPCZ001.A.capfac 0.000001 0.385023 0.000161 0.000011 0.379166 \
+0.000096 0 0.000196 0.401481 0.000011
+systems.RWHYRO_Nyabarongo_I.F.capfac 0.41578 0.41578 0.41578 0.375787 0.375787 \
+0.375787 0.375787 0.358454 0.358454 0.358454
+systems.RWHYRO_Ruzizi_IV.B.capfac 0.744893 0.744893 0.744893 0.244125 0.244125 \
+0.244125 0.244125 0.503566 0.503566 0.503566
+systems.RWHYRO_Rusumo.A.capfac 0.829087 0.829087 0.829087 0.336378 0.336378 \
+0.336378 0.336378 0.240602 0.240602 0.240602
+systems.RWSOPU00.g.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWSOPB00.g.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWSOPR00.g.capfac 0.195678 0.367934 0.374359 0.182323 0.366886 \
+0.489725 0.332688 0.199015 0.36629 0.373598
+systems.RWSOPS00.h.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWRIDM_Nyabarongo_II.C.capfac 0.55706 0.55706 0.55706 0.25023 0.25023 \
+0.25023 0.25023 0.117254 0.117254 0.117254
+systems.RWRIDM_Rwanda_Ruzizi_III.D.capfac 0.716511 0.716511 0.716511 0.230038 0.230038 \
+0.230038 0.230038 0.474753 0.474753 0.474753
+systems.RWELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.RWELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.RWELDT04_01.E.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.RWELDT04_02.F.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.RWELDT04_02.G.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.RWELDT04_03.H.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.RWELDT04_03.I.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.RWRIDM_Ruzizi_II.J.capfac 0.716511 0.716511 0.716511 0.230038 0.230038 \
+0.230038 0.230038 0.474753 0.474753 0.474753
+relationsc:
+relationsp:
+relationss:
+D_RWHYDM_Nyabarongo_II D001 o 0
+*
+D_RWHYDM_Rwanda_Ruzizi_III D002 o 0
+*
+SS_RWELST04 SS01 o 0
+*
+D_RWHYDM_Ruzizi_II D003 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+upper ts 100 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 300 350 400 450 500 500
+*
+PVBR PVBR o 
+upper ts 100 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 300 350 400 450 500 500
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_RWELST04 PC01 o 
+*
+PS_RWELST04 PS01 o 0
+*
+DC_RWELST04_01 DC01 o 
+*
+DC_RWELST04_02 DC02 o 
+*
+DC_RWELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+RWEL00T00 g
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+RWEL00e00 a
+# Description: Export of Electricity
+*
+RWEL00i00 I
+# Description: Import of Electricity
+*
+RWEL00TDI g
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+RWEL00TDR g
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+RWEL00TDU g
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+RWEL00TDC g
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+RWEL00TUI a
+# Description: Industry Demand
+*
+RWEL00TUR a
+# Description: Rural Demand
+*
+RWEL00TUS a
+# Description: SentOut Demand
+*
+RWEL00TUU a
+# Description: Urban Demand
+*
+RWEL00TUC a
+# Description: Commerce Demand
+*
+RWDS00I00 b
+# Description: Import of Diesel
+*
+RWDSRC00 g
+# Description: Generic Diesel Centralized
+*
+RWDSRC_RW_Diesel D
+# Description: RW_Diesel
+*
+RWDSRC_Mukungwa C
+# Description: Mukungwa
+*
+RWDSRC_Jabana1 B
+# Description: Jabana1
+*
+RWDSRC_Gikondo A
+# Description: Gikondo
+*
+RWDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+RWDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+RWDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+RWDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+RWDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+RWHF00I00 g
+# Description: Import of HFO
+*
+RWHFRC00 g
+# Description: Generic HFO
+*
+RWHFRC_KSEZ_HFO B
+# Description: KSEZ_HFO
+*
+RWHFRC_Jabana2 A
+# Description: Jabana2
+*
+RWCO00I00 b
+# Description: Import of Coal
+*
+RWNG00X00 a
+# Description: Extraction of Natural Gas
+*
+RWNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+RWNGSC_Shema_I_II_II_GT D
+# Description: Shema_(IPP)_I_II_III
+*
+RWNGSC_KivuWattGT_Existing C
+# Description: KivuWattGT_Existing
+*
+RWNGSC_KP1_Gisenyi_Methan B
+# Description: KP1_Gisenyi_Methan
+*
+RWNGSC_Gisenyi_Methane A
+# Description: Gisenyi_Methane
+*
+RWCOSC00 g
+# Description: Generic Coal
+*
+RWCOSC_HakanPeat C
+# Description: Hakan-Mamba (Peat) (IPP)
+*
+RWCOSC_Gishoma_Peat B
+# Description: Gishoma_Peat
+*
+RWCOSC_Akanyaru_Peat A
+# Description: Akanyaru_Peat
+*
+RWNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+RWWDLC00 i
+# Description: Generic Wind
+*
+RWWDOC00 A
+# Description: Generic OffShore Wind
+*
+RWSOTN00 g
+# Description: Generic Solar thermal no storage
+*
+RWSOTS00 h
+# Description: Generic Solar thermal with Storage
+*
+RWSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+RWSOPC00 i
+# Description: Generic PV System (utility)
+*
+RWSOPC_Rwinkwavu_PV_gen L
+# Description: Rwinkwavu_PV_gen
+*
+RWSOPC_Bugesera_PV_gen K
+# Description: Bugesera_PV_gen
+*
+RWSOPC_NashoPV_gen J
+# Description: NashoPV
+*
+RWSOPC_GigawattPV_gen I
+# Description: GigawattPV_gen
+*
+RWSOPC_RW_PV E
+# Description: RW_PV
+*
+RWSOPC_Nyagatare_PV D
+# Description: Nyagatare_PV
+*
+RWSOPC_JaliSolar C
+# Description: JaliSolar
+*
+RWSOPCZ005 H
+# Description: Solar PV Zone 005
+*
+RWSOPCZ004 G
+# Description: Solar PV Zone 004
+*
+RWSOPCZ003 F
+# Description: Solar PV Zone 003
+*
+RWSOPCZ002 B
+# Description: Solar PV Zone 002
+*
+RWSOPCZ001 A
+# Description: Solar PV Zone 001
+*
+RWGOCV00 j
+# Description: Generic Geothermal
+*
+RWBM00X00 a
+# Description: Extraction of Bagasse
+*
+RWBW00X00 a
+# Description: Extraction of Wood
+*
+RWHY00X00 g
+# Description: Supply of Hydro
+*
+RWSO00X00 a
+# Description: Supply of Solar
+*
+RWWD00X00 g
+# Description: Supply of Wind
+*
+RWBMST00 g
+# Description: Generic Bagasse
+*
+RWBMST02 B
+# Description: Biomass_Bagasse_2
+*
+RWBMST01 A
+# Description: Biomass_Bagasse_1
+*
+RWBWST00 a
+# Description: Generic Wood
+*
+RWHYRO00 g
+# Description: Generic Hydro ROR
+*
+RWHYRO_Kilimbi_combined N
+# Description: Kilimbi_combined
+*
+RWHYRO_Kabavu M
+# Description: Kabavu
+*
+RWHYRO_Gihira_combined L
+# Description: Gihira_combined
+*
+RWHYRO_RukararaV_HY_gen z
+# Description: RukararaV_HY_gen
+*
+RWHYRO_RukararaII_HY_gen y
+# Description: RukararaII_HY_gen
+*
+RWHYRO_RukararaI_HY_gen x
+# Description: RukararaI_HY_gen
+*
+RWHYRO_Uganda_imports w
+# Description: Uganda_hydro_imports_Committed
+*
+RWHYRO_Rukarara_V_Mushishito v
+# Description: Rukarara_V_Mushishito
+*
+RWHYRO_Bihongore_HY_gen t
+# Description: Bihongore_HY_gen P
+*
+RWHYRO_GakenkeBaseIIMHPP_HY_gen r
+# Description: GakenkeBaseIIMHPP_HY_gen G
+*
+RWHYRO_GakenkeBaseIMHPP_HY_gen q
+# Description: GakenkeBaseIMHPP_HY_gen F
+*
+RWHYRO_Gaseke_HY_gen p
+# Description: Gaseke_HY_gen q
+*
+RWHYRO_GiciyeI_HY_gen n
+# Description: GiciyeI_HY_gen l
+*
+RWHYRO_GiciyeII_HY_gen m
+# Description: GiciyeII_HY_gen m
+*
+RWHYRO_GiciyeIII_HY_gen l
+# Description: GiciyeIII_HY_gen H
+*
+RWHYRO_Keya_HY_gen e
+# Description: Keya_HY_gen h
+*
+RWHYRO_Kigasa_HY_gen d
+# Description: Kigasa_HY_gen p
+*
+RWHYRO_Mukungwa1_HY_gen Y
+# Description: Mukungwa1_HY_gen 4
+*
+RWHYRO_Mukungwa2_HY_gen X
+# Description: Mukungwa2_HY_gen k
+*
+RWHYRO_Rukarara_6 U
+# Description: Rukarara_6_(IPP)
+*
+RWHYRO_Ngororero_HY_gen S
+# Description: Ngororero_HY_gen K
+*
+RWHYRO_NtarukaI_HY_gen P
+# Description: NtarukaI_HY_gen 3
+*
+RWHYRO_NtarukaII_HY_gen O
+# Description: NtarukaII_HY_gen L
+*
+RWHYRO_Nyirantaruko_HY_gen K
+# Description: Nyirantaruko_HY_gen C
+*
+RWHYRO_Nyundo_HY_gen J
+# Description: Nyundo_HY_gen D
+*
+RWHYRO_Rubagabaga_HY_gen I
+# Description: Rubagabaga_HY_gen Q
+*
+RWHYRO_Rucanzogera_HY_gen H
+# Description: Rucanzogera_HY_gen V
+*
+RWHYRO_Rugezi_HY_gen G
+# Description: Rugezi_HY_gen i
+*
+RWHYRO_Nyabarongo_I F
+# Description: Nyabarongo1_ROR_Existing
+*
+RWHYRO_MiniHydro_1-IV C
+# Description: Rwanda_MiniHydro_1-IV
+*
+RWHYRO_Ruzizi_IV B
+# Description: RUZIZI_Rwanda_4
+*
+RWHYRO_Rusumo A
+# Description: Rusumo_RW
+*
+RWHYDM00 h
+# Description: Generic Hydro DAM
+*
+RWHYDM_Ruzizi_II W
+# Description: Ruzizi_II_Rwanda_Share
+*
+RWHYDM_Nyabarongo_II E
+# Description: Nyabarongo2_Dam_Committed
+*
+RWHYDM_Rwanda_Ruzizi_III D
+# Description: P_Rwanda_Ruzizi_3_(H)_Share
+*
+RWHYMI00 g
+# Description: Generic Hydro Small
+*
+RWSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+RWSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+RWSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+RWSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+RWELBS00 z
+# Description: Backstop
+*
+RWRIDM_Nyabarongo_II C
+*
+RWRIDM_Rwanda_Ruzizi_III D
+*
+RWELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+RWELPT04 A
+*
+RWELDT04_01 B
+2. activity E
+*
+RWELDT04_02 F
+2. activity G
+*
+RWELDT04_03 H
+2. activity I
+*
+RWRIDM_Ruzizi_II J
+*
+RWEXDT00 K
+*
+resources: 
+endata
+

@@ -1,0 +1,642 @@
+TDB: empty
+ADB: TZa
+problem: TZa
+description:
+# UnitedRepublicofTanzania
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity P l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary p
+# Primary Energy
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_TZELST04 A l
+# DummyCom_TZELST04
+*
+demand:
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 859.13 880.37 924.54 1126.58 1343.2 1574.33 1819.83 2086.19 2373.52 2681.88 3011.28 3361.71 3747.43 4168.73 4598.77 5005.88 5387.45 5765.23 6136.5 6498.84 6850.17 7188.68 7188.68
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+loadcurve:
+year 2019
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.07949 0.166089 0.064095 0.081248 0.176766 \
+0.030101 0.035485 0.081391 0.220802 0.064533
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+systems.TZWDLC00.g.capfac 0.116894 0.182258 0.213175 0.538097 0.489534 \
+0.614511 0.610777 0.325441 0.401361 0.536645
+systems.TZWDOC00.K.capfac 0.116894 0.182258 0.213175 0.538097 0.489534 \
+0.614511 0.610777 0.325441 0.401361 0.536645
+systems.TZWDLCZ010.J.capfac 0.330945 0.213837 0.4468 0.656095 0.477287 \
+0.912927 0.911602 0.645826 0.573461 0.833132
+systems.TZWDLCZ009.I.capfac 0.311075 0.28637 0.353559 0.881173 0.636153 \
+0.819177 0.88528 0.528139 0.429333 0.581467
+systems.TZWDLCZ008.H.capfac 0.406232 0.52057 0.535112 0.731673 0.529983 \
+0.800998 0.770014 0.361094 0.503024 0.715175
+systems.TZWDLCZ007.G.capfac 0.2035 0.301098 0.389018 0.633117 0.820409 \
+0.859861 0.789739 0.441379 0.691893 0.74209
+systems.TZWDLCZ006.F.capfac 0.277462 0.354254 0.213647 0.707405 0.705217 \
+0.395943 0.466467 0.465965 0.614389 0.358279
+systems.TZWDLCZ005.E.capfac 0.306283 0.228962 0.341921 0.894615 0.69277 \
+0.898405 0.918042 0.627207 0.496584 0.723347
+systems.TZWDLCZ004.D.capfac 0.326175 0.21587 0.299603 0.848445 0.59216 \
+0.719726 0.81811 0.63464 0.457762 0.62487
+systems.TZWDLCZ003.C.capfac 0.241023 0.235222 0.378107 0.730247 0.618206 \
+0.954655 0.933325 0.502669 0.535423 0.771046
+systems.TZWDLCZ002.B.capfac 0.208233 0.276788 0.414552 0.483999 0.613252 \
+0.874695 0.745378 0.488685 0.660388 0.800406
+systems.TZWDLCZ001.A.capfac 0.32284 0.265931 0.323166 0.820695 0.66427 \
+0.699884 0.835701 0.693579 0.602175 0.731738
+systems.TZSOTN00.h.capfac 0.019616 0.476149 0 0.017789 0.540084 \
+0 0 0.026234 0.563676 0
+systems.TZSOTNZ002.C.capfac 0.000037 0.625245 0.197032 0.000161 0.795437 \
+0.804745 0.391452 0.000261 0.763889 0.438467
+systems.TZSOTNZ001.B.capfac 0.000143 0.590358 0.182771 0.000582 0.800767 \
+0.750884 0.37856 0.017404 0.763001 0.418636
+systems.TZSOTS00.i.capfac 0.025587 0.561355 0.090143 0.025587 0.561355 \
+0.225358 0 0.026183 0.561187 0.089713
+systems.TZSOTSZ002.E.capfac 0.129478 0.754298 0.6154 0.33951 0.856513 \
+0.968006 0.846695 0.327842 0.84451 0.846834
+systems.TZSOTSZ001.D.capfac 0.105269 0.706343 0.50306 0.413829 0.898931 \
+0.988852 0.923133 0.296976 0.837074 0.793929
+systems.TZSOPC00.j.capfac 0.017212 0.488414 0 0.01698 0.529823 \
+0 0 0.01878 0.511899 0
+systems.TZSOPC_Kishapu.L.capfac 0.000607 0.428252 0.000173 0.00062 0.452174 \
+0 0 0.00198 0.465449 0
+systems.TZSOPCZ010.K.capfac 0.002921 0.446927 0 0.002953 0.456218 \
+0 0 0.005299 0.50028 0
+systems.TZSOPCZ009.J.capfac 0.002684 0.410828 0.001513 0.001499 0.454483 \
+0 0 0.005288 0.488529 0.000047
+systems.TZSOPCZ008.I.capfac 0.00033 0.423609 0.000186 0.00029 0.456672 \
+0 0 0.001519 0.466691 0
+systems.TZSOPCZ007.H.capfac 0.001595 0.424294 0.000202 0.001676 0.441044 \
+0 0 0.002819 0.448045 0
+systems.TZSOPCZ006.G.capfac 0.000464 0.416018 0.000302 0.000318 0.451289 \
+0 0 0.00173 0.472361 0
+systems.TZSOPCZ005.F.capfac 0.000729 0.394887 0.00202 0.000089 0.466034 \
+0 0 0.003023 0.46371 0.000466
+systems.TZSOPCZ004.E.capfac 0.001289 0.42802 0.000009 0.001195 0.43117 \
+0 0 0.003791 0.490245 0
+systems.TZSOPCZ003.D.capfac 0.00108 0.428829 0.000013 0.001054 0.448247 \
+0 0 0.003143 0.488646 0
+systems.TZSOPCZ002.C.capfac 0.003534 0.406469 0.001011 0.002869 0.445619 \
+0 0 0.006714 0.488213 0
+systems.TZSOPCZ001.B.capfac 0.000607 0.428252 0.000173 0.00062 0.452174 \
+0 0 0.00198 0.465449 0
+systems.TZHYRO00.D.capfac 0.2 0.2 0.2 0.2 0.2 \
+0.2 0.2 0.2 0.2 0.2
+systems.TZHYRO_Rumakali.U.capfac 0.879615 0.879615 0.879907 0.216316 0.216316 \
+0.216316 0.214253 0.138141 0.138141 0.139183
+systems.TZHYRO_Kakono.L.capfac 0.792998 0.792998 0.792758 0.11396 0.11396 \
+0.11396 0.112839 0.088635 0.088635 0.089613
+systems.TZHYRO_EA_Power_Mapembasi_Mwenga.D.capfac 0.406734 0.406734 0.408118 0.278852 0.278852 \
+0.278852 0.276364 0.13011 0.13011 0.130299
+systems.TZSOPU00.g.capfac 0.01704 0.413615 0 0.015453 0.469153 \
+0 0 0.022789 0.489646 0
+systems.TZSOPB00.g.capfac 0.01704 0.413615 0 0.015453 0.469153 \
+0 0 0.022789 0.489646 0
+systems.TZSOPR00.g.capfac 0.237002 0.418505 0.349555 0.228502 0.421993 \
+0.493717 0.259332 0.242246 0.416613 0.346752
+systems.TZSOPS00.h.capfac 0.01704 0.413615 0 0.015453 0.469153 \
+0 0 0.022789 0.489646 0
+systems.TZRIDM_Mpanga.O.capfac 0.655764 0.655764 0.655412 0.028995 0.028995 \
+0.028995 0.028766 0.017967 0.017967 0.018479
+systems.TZRIDM_Malagaresi.P.capfac 0.677688 0.677688 0.677467 0.033313 0.033313 \
+0.033313 0.032998 0.035435 0.035435 0.035869
+systems.TZRIDM_Songwe_Bipungu_Manolo_Sofre.Q.capfac 0.615784 0.615784 0.615921 0.074823 0.074823 \
+0.074823 0.074151 0.016643 0.016643 0.016938
+systems.TZRIDM_Masigira.R.capfac 0.395335 0.395335 0.395577 0.063551 0.063551 \
+0.063551 0.062893 0.040131 0.040131 0.040309
+systems.TZRIDM_Taveta.S.capfac 0.282974 0.282974 0.283534 0.105894 0.105894 \
+0.105894 0.104941 0.023907 0.023907 0.023948
+systems.TZRIDM_Upper_Kihansi.T.capfac 0.628484 0.628484 0.628213 0.027158 0.027158 \
+0.027158 0.026922 0.017787 0.017787 0.01822
+systems.TZRIDM_Ruhudji.U.capfac 0.648841 0.648841 0.648579 0.026364 0.026364 \
+0.026364 0.026132 0.016774 0.016774 0.017196
+systems.TZRIDM_Steiglers_Gorge_I-II.W.capfac 0.694867 0.694867 0.694695 0.054487 0.054487 \
+0.054487 0.054001 0.035209 0.035209 0.035704
+systems.TZRIDM_Rusumo.Y.capfac 0.67731 0.67731 0.677954 0.247473 0.247473 \
+0.247473 0.245563 0.161029 0.161029 0.161607
+systems.TZRIDM_Kikonge.a.capfac 0.653532 0.653532 0.653486 0.05009 0.05009 \
+0.05009 0.049762 0.025237 0.025237 0.025498
+systems.TZRIDM_Nyumba_Ya_Mungu_Hale.c.capfac 0.301762 0.301762 0.302423 0.121396 0.121396 \
+0.121396 0.120255 0.053339 0.053339 0.053398
+systems.TZRIDM_Mtera_Pangani_Falls.d.capfac 0.530183 0.530183 0.530343 0.065789 0.065789 \
+0.065789 0.065194 0.021644 0.021644 0.021866
+systems.TZRIDM_Kihansi.e.capfac 0.628484 0.628484 0.628213 0.027158 0.027158 \
+0.027158 0.026922 0.017787 0.017787 0.01822
+systems.TZRIDM_Kidatu.f.capfac 0.487606 0.487606 0.487846 0.075732 0.075732 \
+0.075732 0.075081 0.017038 0.017038 0.017215
+systems.TZELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.TZELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.TZELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.TZELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.TZELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.TZELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.TZELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+D_TZHYDM_Mpanga D001 o 0
+*
+D_TZHYDM_Malagaresi D002 o 0
+*
+D_TZHYDM_Songwe_Bipungu_Manolo_Sofre D003 o 0
+*
+D_TZHYDM_Masigira D004 o 0
+*
+D_TZHYDM_Taveta D005 o 0
+*
+D_TZHYDM_Upper_Kihansi D006 o 0
+*
+D_TZHYDM_Ruhudji D007 o 0
+*
+D_TZHYDM_Steiglers_Gorge_I-II D008 o 0
+*
+D_TZHYDM_Rusumo D009 o 0
+*
+D_TZHYDM_Kikonge D010 o 0
+*
+D_TZHYDM_Nyumba_Ya_Mungu_Hale D011 o 0
+*
+D_TZHYDM_Mtera_Pangani_Falls D012 o 0
+*
+D_TZHYDM_Kihansi D013 o 0
+*
+D_TZHYDM_Kidatu D014 o 0
+*
+SS_TZELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+upper ts 100 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 300 350 400 450 500 500
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_TZELST04 PC01 o 
+*
+PS_TZELST04 PS01 o 0
+*
+DC_TZELST04_01 DC01 o 
+*
+DC_TZELST04_02 DC02 o 
+*
+DC_TZELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+TZEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+TZEL00i00 I
+# Description: Import of Electricity
+*
+TZEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+TZEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+TZEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+TZEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+TZEL00TUI a
+# Description: Industry Demand
+*
+TZEL00TUR a
+# Description: Rural Demand
+*
+TZEL00TUS a
+# Description: SentOut Demand
+*
+TZEL00TUU g
+# Description: Urban Demand
+*
+TZEL00TUC a
+# Description: Commerce Demand
+*
+TZDS00I00 b
+# Description: Import of Diesel
+*
+TZDSRC00 g
+# Description: Generic Diesel Centralized
+*
+TZDSRC01 A
+# Description: Diesel (Tanesco)
+*
+TZDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+TZDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+TZDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+TZDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+TZHF00I00 b
+# Description: Import of HFO
+*
+TZHFRC00 g
+# Description: Generic HFO
+*
+TZHFRC01 A
+# Description: Nyakato
+*
+TZCO00X00 h
+# Description: Extraction of Coal
+*
+TZCOSC00 g
+# Description: Generic Coal
+*
+TZNG00X00 a
+# Description: Extraction of Natural Gas
+*
+TZNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+TZNGSC21 U
+# Description: Mtwara OCGT (NG)
+*
+TZNGCC11 K
+# Description: Kinyerezi I Extension CCGT (NG)
+*
+TZNGSC05 E
+# Description: Mtwara
+*
+TZNGSC02 B
+# Description: Songas (G)
+*
+TZNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+TZNGCC11_Kinyerezi G
+# Description: Kinyerezi III
+*
+TZNGCC10 J
+# Description: Somanga Fungu CCGT (NG)
+*
+TZNGCC06 F
+# Description: Somanga
+*
+TZNGCC04 D
+# Description: Tegeta
+*
+TZNGCC03 C
+# Description: Ubungo II /Ubungo I
+*
+TZNGCC01 A
+# Description: Kinyerezi I CCGT (NG)/Kinyerezi II OCGT (NG)
+*
+TZNUPW00 g
+# Description: Generic Nuclear
+*
+TZWDLC00 g
+# Description: Generic Wind
+*
+TZWDOC00 K
+# Description: Generic OffShore Wind
+*
+TZWDLCZ010 J
+# Description: Wind Zone 010
+*
+TZWDLCZ009 I
+# Description: Wind Zone 009
+*
+TZWDLCZ008 H
+# Description: Wind Zone 008
+*
+TZWDLCZ007 G
+# Description: Wind Zone 007
+*
+TZWDLCZ006 F
+# Description: Wind Zone 006
+*
+TZWDLCZ005 E
+# Description: Wind Zone 005
+*
+TZWDLCZ004 D
+# Description: Wind Zone 004
+*
+TZWDLCZ003 C
+# Description: Wind Zone 003
+*
+TZWDLCZ002 B
+# Description: Wind Zone 002
+*
+TZWDLCZ001 A
+# Description: Wind Zone 001
+*
+TZSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+TZSOTNZ002 C
+# Description: Solar CSP 6hrStor Zone 002
+*
+TZSOTNZ001 B
+# Description: Solar CSP 6hrStor Zone 001
+*
+TZSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+TZSOTSZ002 E
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+TZSOTSZ001 D
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+TZSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+TZSOPC00 j
+# Description: Generic PV System (utility)
+*
+TZSOPC_Kishapu L
+# Description: Kishapu solar PV plant in Zone 001
+*
+TZSOPCZ010 K
+# Description: Solar PV Zone 010
+*
+TZSOPCZ009 J
+# Description: Solar PV Zone 009
+*
+TZSOPCZ008 I
+# Description: Solar PV Zone 008
+*
+TZSOPCZ007 H
+# Description: Solar PV Zone 007
+*
+TZSOPCZ006 G
+# Description: Solar PV Zone 006
+*
+TZSOPCZ005 F
+# Description: Solar PV Zone 005
+*
+TZSOPCZ004 E
+# Description: Solar PV Zone 004
+*
+TZSOPCZ003 D
+# Description: Solar PV Zone 003
+*
+TZSOPCZ002 C
+# Description: Solar PV Zone 002
+*
+TZSOPCZ001 B
+# Description: Solar PV Zone 001
+*
+TZGOCV00 k
+# Description: Generic Geothermal
+*
+TZGOCV01 F
+# Description: GEO_Candidates
+*
+TZBM00X00 a
+# Description: Extraction of Bagasse
+*
+TZBW00X00 a
+# Description: Extraction of Wood
+*
+TZHY00X00 a
+# Description: Supply of Hydro
+*
+TZSO00X00 g
+# Description: Supply of Solar
+*
+TZWD00X00 a
+# Description: Supply of Wind
+*
+TZBMST00 g
+# Description: Generic Bagasse
+*
+TZBWST00 a
+# Description: Generic Wood
+*
+TZBMST01 A
+# Description: TPC (Bio)/TANWAT (Bio)
+*
+TZHYDM00 g
+# Description: Generic Hydro with Dam
+*
+TZHYRO00 D
+# Description: Generic Hydro ROR
+*
+TZHYDM_Malagaresi a
+# Description: Malagarasi
+*
+TZHYDM_Ruhudji V
+# Description: Ruhudji (H)
+*
+TZHYRO_Rumakali U
+# Description: Rumakali (H)
+*
+TZHYDM_Steiglers_Gorge_I-II T
+# Description: Julius Nyerere HPS
+*
+TZHYDM_Rusumo N
+# Description: Rusumo (H)
+*
+TZHYRO_Kakono L
+# Description: Kakono
+*
+TZHYDM_Kikonge K
+# Description: Kikonge (H)
+*
+TZHYDM_Hale E
+# Description: Hale
+*
+TZHYDM_Mtera_Pangani_Falls C
+# Description: Mtera /Pangani Falls
+*
+TZHYDM_Kihansi B
+# Description: Kihansi
+*
+TZHYDM_Kidatu A
+# Description: Kidatu
+*
+TZHYMI00 g
+# Description: Generic Hydro Small
+*
+TZHYRO_EA_Power_Mapembasi_Mwenga D
+# Description: EA Power/Mapembasi/Mwenga
+*
+TZSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+TZSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+TZSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+TZSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+TZELBS00 z
+# Description: Backstop
+*
+TZRIDM_Mpanga O
+*
+TZRIDM_Malagaresi P
+*
+TZRIDM_Songwe_Bipungu_Manolo_Sofre Q
+*
+TZRIDM_Masigira R
+*
+TZRIDM_Taveta S
+*
+TZRIDM_Upper_Kihansi T
+*
+TZRIDM_Ruhudji U
+*
+TZRIDM_Steiglers_Gorge_I-II W
+*
+TZRIDM_Rusumo Y
+*
+TZRIDM_Kikonge a
+*
+TZRIDM_Nyumba_Ya_Mungu_Hale c
+*
+TZRIDM_Mtera_Pangani_Falls d
+*
+TZRIDM_Kihansi e
+*
+TZRIDM_Kidatu f
+*
+TZELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+TZELPT04 A
+*
+TZELDT04_01 B
+2. activity C
+*
+TZELDT04_02 D
+2. activity E
+*
+TZELDT04_03 F
+2. activity G
+*
+TZEXDT00 H
+*
+resources: 
+endata
+

@@ -1,0 +1,935 @@
+TDB: empty
+ADB: KEa
+problem: KEa
+description:
+# Kenya
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity u l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary K
+# Primary Energy
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_KEELST04 A l
+# DummyCom_KEELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 1326.56 1325.42 1426.13 1504.84 1584.87 1666.25 1749.01 1833.15 1918.68 2005.58 2093.84 2183.46 2305.31 2418.43 2526.43 2631.64 2735.57 2839.18 2943.07 3047.6 3153.01 3259.44 3259.44
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.07949 0.166089 0.064095 0.081248 0.176766 \
+0.030101 0.035485 0.081391 0.220802 0.064533
+systems.KEWDLC00.g.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ004_Marsabit_PhII.b.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ007_Meru_PhIII.a.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ007_Meru_PhII.Z.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ007_Meru_PhI.Y.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ008_Oldanyat.X.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ008_Prunus.W.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZH08_Ngong_PhII.V.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZH08_Ngong_PhI.U.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ001_Bahari2.T.capfac 0.342964 0.416957 0.460478 0.788273 0.61369 \
+0.774252 0.810384 0.603495 0.689985 0.733868
+systems.KEWDLCZH08_Kipeto.S.capfac 0.422037 0.528798 0.639148 0.337265 0.52036 \
+0.477933 0.506738 0.585369 0.794935 0.915465
+systems.KEWDLCZ001_Bahari_PhI.R.capfac 0.342964 0.416957 0.460478 0.788273 0.61369 \
+0.774252 0.810384 0.603495 0.689985 0.733868
+systems.KEWDLCZ004_Marsabit_PhI.Q.capfac 0.769503 0.679309 0.680869 0.893629 0.701634 \
+0.649907 0.790269 0.923815 0.874881 0.931961
+systems.KEWDLCZ008_Aperture.P.capfac 0.422037 0.528798 0.639148 0.337265 0.52036 \
+0.477933 0.506738 0.585369 0.794935 0.915465
+systems.KEWDLCZ008_Chania.O.capfac 0.422037 0.528798 0.639148 0.337265 0.52036 \
+0.477933 0.506738 0.585369 0.794935 0.915465
+systems.KEWDLCZ008_Ngong1_PhIII.N.capfac 0.422037 0.528798 0.639148 0.337265 0.52036 \
+0.477933 0.506738 0.585369 0.794935 0.915465
+systems.KEWDOC00.M.capfac 0.508158 0.767852 0.688159 0.75774 0.431783 \
+0.62392 0.769441 0.537184 0.629764 0.554306
+systems.KEWDLCZ010.L.capfac 0.556335 0.486316 0.485542 0.806461 0.599005 \
+0.591822 0.719106 0.771021 0.713562 0.803253
+systems.KEWDLCZ009.K.capfac 0.488203 0.55912 0.586922 0.570667 0.384158 \
+0.616821 0.666831 0.705904 0.793524 0.878718
+systems.KEWDLCZ008.J.capfac 0.422037 0.528798 0.639148 0.337265 0.52036 \
+0.477933 0.506738 0.585369 0.794935 0.915465
+systems.KEWDLCZ007.I.capfac 0.349142 0.323884 0.342684 0.846992 0.848913 \
+0.833307 0.862182 0.565925 0.563927 0.558063
+systems.KEWDLCZ006.H.capfac 0.589326 0.614588 0.664 0.797072 0.571013 \
+0.61471 0.743394 0.834851 0.847434 0.943526
+systems.KEWDLCZ005.G.capfac 0.238185 0.590489 0.380588 0.742376 0.576646 \
+0.776885 0.804073 0.480034 0.692832 0.641556
+systems.KEWDLCZ004.F.capfac 0.769503 0.679309 0.680869 0.893629 0.701634 \
+0.649907 0.790269 0.923815 0.874881 0.931961
+systems.KEWDLCZ003.E.capfac 0.503029 0.559022 0.585298 0.908956 0.805524 \
+0.879733 0.897429 0.747158 0.837681 0.860651
+systems.KEWDLCZ002.D.capfac 0.68762 0.676979 0.722365 0.566471 0.418684 \
+0.550468 0.558271 0.826911 0.779783 0.925337
+systems.KEWDLCZ001.C.capfac 0.342964 0.416957 0.460478 0.788273 0.61369 \
+0.774252 0.810384 0.603495 0.689985 0.733868
+systems.KEWDLCZDP09_Lake_Turkana.B.capfac 0.548517 0.739746 0.648249 0.717942 0.467548 \
+0.615674 0.73449 0.555008 0.623794 0.54986
+systems.KEWDLCZH08.A.capfac 0.277664 0.436531 0.42509 0.119586 0.250124 \
+0.456757 0.294314 0.298907 0.413342 0.526607
+systems.KESOTN00.h.capfac 0.083517 0.520679 0 0.068867 0.475264 \
+0 0 0.088182 0.534114 0
+systems.KESOTNZ002.F.capfac 0.000267 0.74626 0.388102 0 0.735667 \
+0.494633 0.041263 0.006742 0.805603 0.389113
+systems.KESOTNZ001.E.capfac 0.000272 0.716029 0.355719 0.000017 0.665596 \
+0.397008 0.051029 0.003384 0.782408 0.375802
+systems.KESOTS00.i.capfac 0.026271 0.576364 0.092554 0.026271 0.576364 \
+0.231384 0 0.026883 0.576192 0.092112
+systems.KESOTSZ002.H.capfac 0.275782 0.832051 0.793242 0.146279 0.842451 \
+0.93201 0.730073 0.305166 0.876078 0.916595
+systems.KESOTSZ001.G.capfac 0.252888 0.836275 0.75902 0.122776 0.812154 \
+0.883083 0.592312 0.299786 0.868883 0.911171
+systems.KESOPC00.j.capfac 0.07386 0.460469 0 0.060904 0.420306 \
+0 0 0.077985 0.472352 0
+systems.KESOPCZ001_Kenya_Solar.Z.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ003_Strathmore.Y.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ003_REA_Garissa.X.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ008_Kibwezi.W.capfac 0.001991 0.449653 0 0.0022 0.404877 \
+0 0 0.003831 0.466773 0
+systems.KESOPCZ008_Tarita_Green.V.capfac 0.001991 0.449653 0 0.0022 0.404877 \
+0 0 0.003831 0.466773 0
+systems.KESOPCZ008_Kopere.U.capfac 0.001991 0.449653 0 0.0022 0.404877 \
+0 0 0.003831 0.466773 0
+systems.KESOPCZ001_SevenForks.T.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ003_Eldosol.S.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ003_Selenkei.R.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ003_Alten.Q.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ009_Kenergy.P.capfac 0.00149 0.45674 0 0.001783 0.425235 \
+0 0 0.003589 0.470316 0
+systems.KESOPCZ009_MarcoBorero.O.capfac 0.00149 0.45674 0 0.001783 0.425235 \
+0 0 0.003589 0.470316 0
+systems.KESOPCZ001_Greenmillenia.N.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ001_Makindu.M.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ001_HannanArya.L.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ001_Malindi.K.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KESOPCZ010.J.capfac 0.003049 0.467428 0 0.003794 0.446647 \
+0 0 0.005265 0.473412 0
+systems.KESOPCZ009.I.capfac 0.00149 0.45674 0 0.001783 0.425235 \
+0 0 0.003589 0.470316 0
+systems.KESOPCZ008.H.capfac 0.001991 0.449653 0 0.0022 0.404877 \
+0 0 0.003831 0.466773 0
+systems.KESOPCZ007.G.capfac 0.001822 0.454887 0 0.002015 0.40735 \
+0 0 0.003972 0.477454 0
+systems.KESOPCZ006.F.capfac 0.00433 0.454697 0 0.004641 0.406874 \
+0 0 0.006276 0.479262 0
+systems.KESOPCZ005.E.capfac 0.001986 0.459328 0 0.002281 0.416022 \
+0 0 0.003549 0.481377 0
+systems.KESOPCZ004.D.capfac 0.003927 0.454481 0 0.004161 0.426892 \
+0 0 0.006456 0.494346 0
+systems.KESOPCZ003.C.capfac 0.00115 0.462058 0 0.001396 0.418143 \
+0 0 0.003031 0.475955 0
+systems.KESOPCZ002.B.capfac 0.002017 0.450556 0 0.00219 0.432013 \
+0 0 0.003301 0.472874 0
+systems.KESOPCZ001.A.capfac 0.002538 0.460535 0 0.003078 0.433527 \
+0 0 0.004901 0.469135 0
+systems.KEHYRO_Lower_Grand.T.capfac 0.235527 0.235527 0.236466 0.322375 0.322375 \
+0.322375 0.320244 0.29909 0.29909 0.299506
+systems.KEHYRO_Karura.U.capfac 0.353767 0.353767 0.354032 0.095416 0.095416 \
+0.095416 0.094656 0.226398 0.226398 0.226618
+systems.KEHYRO_Kindaruma_Opt.J.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
+0.710162 0.708571 0.728316 0.728316 0.728908
+systems.KEHYRO_Tana.H.capfac 0.344075 0.344075 0.345499 0.292068 0.292068 \
+0.292068 0.28949 0.352792 0.352792 0.352998
+systems.KEHYRO_Sangoro.G.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
+0.428488 0.427974 0.356276 0.356276 0.355532
+systems.KEHYRO_Kindaruma.F.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
+0.710162 0.708571 0.728316 0.728316 0.728908
+systems.KEHYRO_Sondu_Miriu.E.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
+0.428488 0.427974 0.356276 0.356276 0.355532
+systems.KEHYRO_Gitaru.D.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
+0.710162 0.708571 0.728316 0.728316 0.728908
+systems.KESOPU00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
+0 0 0.072461 0.438894 0
+systems.KESOPB00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
+0 0 0.072461 0.438894 0
+systems.KESOPR00.g.capfac 0.231277 0.408395 0.341111 0.222982 0.411799 \
+0.48179 0.253067 0.236394 0.406549 0.338375
+systems.KESOPS00.h.capfac 0.068628 0.427854 0 0.056589 0.390535 \
+0 0 0.072461 0.438894 0
+systems.KERIDM_Kamburu_Masinga.E.capfac 0.189971 0.189971 0.191394 0.310729 0.310729 \
+0.310729 0.308154 0.19546 0.19546 0.195666
+systems.KERIDM_Turkwell.F.capfac 0.19084 0.19084 0.192272 0.59225 0.59225 \
+0.59225 0.590715 0.394148 0.394148 0.393666
+systems.KERIDM_Kiambere.G.capfac 0.285003 0.285003 0.28614 0.390096 0.390096 \
+0.390096 0.387518 0.361919 0.361919 0.362423
+systems.KEELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.KEELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.KEELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.KEELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.KEELDT04_02.H.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.KEELDT04_03.I.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.KEELDT04_03.J.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+D_KEHYDM_Kamburu_Masinga D001 o 0
+*
+D_KEHYDM_Turkwell D002 o 0
+*
+D_KEHYDM_Kiambere D003 o 0
+*
+SS_KEELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+upper c 0
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_KEELST04 PC01 o 
+*
+PS_KEELST04 PS01 o 0
+*
+DC_KEELST04_01 DC01 o 
+*
+DC_KEELST04_02 DC02 o 
+*
+DC_KEELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+KEEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+KEEL00i00 I
+# Description: Import of Electricity
+*
+KEEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+KEEL00TDR g
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+KEEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+KEEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+KEEL00TUI g
+# Description: Industry Demand
+*
+KEEL00TUR g
+# Description: Rural Demand
+*
+KEEL00TUS a
+# Description: SentOut Demand
+*
+KEEL00TUU a
+# Description: Urban Demand
+*
+KEEL00TUC g
+# Description: Commerce Demand
+*
+KEDS00I00 b
+# Description: Import of Diesel
+*
+KEDSRC00 g
+# Description: Generic Diesel Centralized
+*
+KEDSRC01_Tsavo_Extended C
+# Description: Tsavo Extended diesel
+*
+KEDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+KEDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+KEDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+KEDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+KEDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+KEHF00I00 b
+# Description: Import of HFO
+*
+KEHFRC00 g
+# Description: Generic HFO
+*
+KEHFRC10_Thika F
+# Description: 0_Thika
+*
+KEHFRC10_Gulf E
+# Description: 0_Gulf
+*
+KEHFRC10_Triumph D
+# Description: 0_Triumph
+*
+KEHFRC03 C
+# Description: Kipevu_I_Diesel
+*
+KEHFRC10 J
+# Description: Triumph/GULF/THIKA
+*
+KEHFRC02 B
+# Description: Iberafrica_2
+*
+KEHFRC01 A
+# Description: Kipevu_III_Diesel/Rabai_diesel_IPP/Tsavo_IPP
+*
+KECO00X00 b
+# Description: Extraction of Coal
+*
+KECOSC00 g
+# Description: Generic Coal
+*
+KECOSC11 K
+# Description: Candidate KE-ST-SUBCRI_35
+*
+KENG00I00 g
+# Description: Import of Natural Gas
+*
+KENGSC00 g
+# Description: Generic Gas Open Cycle
+*
+KENGSC12_Dongo_Kundu I
+# Description: Dongo Kundu CCGT1
+*
+KENGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+KENGCC12_LNG_Backup2 F
+# Description: Backup LNG Unit2
+*
+KENGCC12_LNG_Backup26 D
+# Description: Backup LNG Unit2/6
+*
+KENGCC12_LNG_Backup35 C
+# Description: Backup LNG Unit3
+*
+KENGCC12_LNG_Backup4 B
+# Description: Backup LNG Unit4
+*
+KENGCC12_LNG2 A
+# Description: LNG GT Unit 2
+*
+KENUPW00 g
+# Description: Generic Nuclear
+*
+KENUPW20 T
+# Description: Candidate KY_Nuclear
+*
+KEWDLC00 g
+# Description: Generic Wind
+*
+KEWDLCZ004_Marsabit_PhII b
+# Description: Marsabit Phase 2
+*
+KEWDLCZ007_Meru_PhIII a
+# Description: Meru Ph III
+*
+KEWDLCZ007_Meru_PhII Z
+# Description: Meru Ph II
+*
+KEWDLCZ007_Meru_PhI Y
+# Description: Meru Ph I
+*
+KEWDLCZ008_Oldanyat X
+# Description: Oldanyat
+*
+KEWDLCZ008_Prunus W
+# Description: Prunus
+*
+KEWDLCZH08_Ngong_PhII V
+# Description: Ngong_PhII_Wind Zone H_Site ID 08
+*
+KEWDLCZH08_Ngong_PhI U
+# Description: Ngong_PhI_Wind Zone H_Site ID 08
+*
+KEWDLCZ001_Bahari2 T
+# Description: Electrawinds Bahari Phase 2
+*
+KEWDLCZH08_Kipeto S
+# Description: Kipeto Phase 1 / Phase 2
+*
+KEWDLCZ001_Bahari_PhI R
+# Description: Electrawinds Bahari
+*
+KEWDLCZ004_Marsabit_PhI Q
+# Description: Marsabit Phase 1
+*
+KEWDLCZ008_Aperture P
+# Description: Aperture Green
+*
+KEWDLCZ008_Chania O
+# Description: Chania Green
+*
+KEWDLCZ008_Ngong1_PhIII N
+# Description: Ngong 1 Phase III
+*
+KEWDOC00 M
+# Description: Generic OffShore Wind
+*
+KEWDLCZ010 L
+# Description: Wind Zone 010
+*
+KEWDLCZ009 K
+# Description: Wind Zone 009
+*
+KEWDLCZ008 J
+# Description: Wind Zone 008
+*
+KEWDLCZ007 I
+# Description: Wind Zone 007
+*
+KEWDLCZ006 H
+# Description: Wind Zone 006
+*
+KEWDLCZ005 G
+# Description: Wind Zone 005
+*
+KEWDLCZ004 F
+# Description: Wind Zone 004
+*
+KEWDLCZ003 E
+# Description: Wind Zone 003
+*
+KEWDLCZ002 D
+# Description: Wind Zone 002
+*
+KEWDLCZ001 C
+# Description: Wind Zone 001
+*
+KEWDLCZDP09_Lake_Turkana B
+# Description: LakeTurkana_Wind Zone DP_Site ID 09
+*
+KEWDLCZH08 A
+# Description: Ngong_PhI_II_Wind Zone H_Site ID 08
+*
+KESOTN00 h
+# Description: Generic Solar thermal no storage
+*
+KESOTNZ002 F
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 002
+*
+KESOTNZ001 E
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 001
+*
+KESOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+KESOTSZ002 H
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+KESOTSZ001 G
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+KESOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+KESOPC00 j
+# Description: Generic PV System (utility)
+*
+KESOPCZ001_Kenya_Solar Z
+# Description: 001_Kenya_Solar
+*
+KESOPCZ003_Strathmore Y
+# Description: 003_Strathmore
+*
+KESOPCZ003_REA_Garissa X
+# Description: 003_REA_Garissa
+*
+KESOPCZ008_Kibwezi W
+# Description: 008_Kibwezi
+*
+KESOPCZ008_Tarita_Green V
+# Description: 008_Tarita_Green
+*
+KESOPCZ008_Kopere U
+# Description: Kopere Solar
+*
+KESOPCZ001_SevenForks T
+# Description: Seven Forks Solar
+*
+KESOPCZ003_Eldosol S
+# Description: Eldosol Cedate
+*
+KESOPCZ003_Selenkei R
+# Description: Selenkei Radiant
+*
+KESOPCZ003_Alten Q
+# Description: Alten Kenya
+*
+KESOPCZ009_Kenergy P
+# Description: Kenergy Rumuruti
+*
+KESOPCZ009_MarcoBorero O
+# Description: Marco Borero
+*
+KESOPCZ001_Greenmillenia N
+# Description: Greenmillenia Energy
+*
+KESOPCZ001_Makindu M
+# Description: Makindu Solar
+*
+KESOPCZ001_HannanArya L
+# Description: Hannan Arya Energy
+*
+KESOPCZ001_Malindi K
+# Description: Malindi Solar
+*
+KESOPCZ010 J
+# Description: Solar PV Zone 010
+*
+KESOPCZ009 I
+# Description: Solar PV Zone 009
+*
+KESOPCZ008 H
+# Description: Solar PV Zone 008
+*
+KESOPCZ007 G
+# Description: Solar PV Zone 007
+*
+KESOPCZ006 F
+# Description: Solar PV Zone 006
+*
+KESOPCZ005 E
+# Description: Solar PV Zone 005
+*
+KESOPCZ004 D
+# Description: Solar PV Zone 004
+*
+KESOPCZ003 C
+# Description: Solar PV Zone 003
+*
+KESOPCZ002 B
+# Description: Solar PV Zone 002
+*
+KESOPCZ001 A
+# Description: Solar PV Zone 001
+*
+KEGOCV00 k
+# Description: Generic Geothermal
+*
+KEGOCV17_Baringo_Silali_I o
+# Description: Baringo Silali I
+*
+KEGOCV18_Menengai_IV_V n
+# Description: Menengai IV&V
+*
+KEGOCV18_Menengai_III m
+# Description: Menengai III
+*
+KEGOCV18_Menengai_1_Stage2 l
+# Description: Menengai 1 Phase 1 Stage 2
+*
+KEGOCV16_Olkaria_6_7 Q
+# Description: Olkaria 6 & 7
+*
+KEGOCV12_Suswa r
+# Description: Suswa I_II_III
+*
+KEGOCV12_Eburru R
+# Description: Eburru_2
+*
+KEGOCV16_Menengai_1_Orpower22 p
+# Description: Menengai 1 Phase 1 Stage 1 Orpower 22
+*
+KEGOCV12_Olsuswa q
+# Description: Olsuswa Unit I_II
+*
+KEGOCV18_Wellheadleasing e
+# Description: Wellhead Leasing
+*
+KEGOCV13_Marine_Power_Akiira d
+# Description: Marine Power Akiira Stage I_II
+*
+KEGOCV16_Olkaria8 c
+# Description: Olkaria 8
+*
+KEGOCV16_Olkaria9 b
+# Description: Olkaria 9
+*
+KEGOCV20_AGIL_Longonot a
+# Description: AGIL Longonot Stage I_II_III_IV
+*
+KEGOCV17_Baringo_Silali Z
+# Description: Baringo Silali Korosi 1/Paka 1
+*
+KEGOCV16_Olkaria_1V_Uprating Y
+# Description: Olkaria_1V_Uprating (Topping)
+*
+KEGOCV16_Olkaria_1_Uprating X
+# Description: Olkaria_1_Uprating (Topping)
+*
+KEGOCV16_Olkaria_1_Unit1_3 W
+# Description: Olkaria_1_Unit 1,2,3 Rehabilitation
+*
+KEGOCV18_Menengai_1_Quantum V
+# Description: Menengai 1 Phase 1 Stage 1 Quantum
+*
+KEGOCV16_Olkaria_1_Unit6 U
+# Description: Olkaria_1_Unit6
+*
+KEGOCV18_Menengai_1_Sosian S
+# Description: Menengai 1 Phase 1 Stage 1 Sosian
+*
+KEGOCV20 T
+# Description: Candidate KY_New_Geo
+*
+KEGOCV16 P
+# Description: Committed ORP4
+*
+KEGOCV15 O
+# Description: OLKWH2
+*
+KEGOCV14 N
+# Description: OLKWH1
+*
+KEGOCV13 M
+# Description: Committed Silali
+*
+KEGOCV12 L
+# Description: Committed Suswa/Suswa2/Eburru_New
+*
+KEGOCV11 K
+# Description: Baringo
+*
+KEGOCV10 J
+# Description: OLKIV/OLK_IAU/OLK_V
+*
+KEGOCV03 C
+# Description: Eburru
+*
+KEGOCV02 B
+# Description: Olkaria_1
+*
+KEGOCV01 A
+# Description: Olkaria_2/OrPower_4PI/OrPower_4P2/Orpower_4P3/Orpower_4P4
+*
+KEBM00X00 g
+# Description: Extraction of Bagasse
+*
+KEBW00X00 a
+# Description: Extraction of Wood
+*
+KEHY00X00 a
+# Description: Supply of Hydro
+*
+KESO00X00 a
+# Description: Supply of Solar
+*
+KEWD00X00 a
+# Description: Supply of Wind
+*
+KEBMST00 g
+# Description: Generic Bagasse
+*
+KEBMST10_BiogasH M
+# Description: Biogas Holdings
+*
+KEBMST10_WestKenya L
+# Description: West Kenya Sugar
+*
+KEBMST10_VRHoldings K
+# Description: VR Holdings AB-Local Trade
+*
+KEBMST10_Cummins_Cogen I
+# Description: Cummins Cogeneration Kenya
+*
+KEBMST10_Viability H
+# Description: Viability Africa-Northern energy
+*
+KEBMST10_Tana_Biogas G
+# Description: Tana Biomass-Biogas Solar Hybrid
+*
+KEBMST10_MunicipalWtE_Biogas F
+# Description: Municipal WtE Biogas
+*
+KEBMST10_Roadtech E
+# Description: Roadtech Solutions
+*
+KEBMST10_ThikaWayBiogas D
+# Description: Homa Bay Biogas One
+*
+KEBMST10_Kwale C
+# Description: Kwale Int Sugar
+*
+KEBMST10_REA_Vipingo B
+# Description: REA Vipingo Plantations_DWA Estates
+*
+KEBWST00 a
+# Description: Generic Wood
+*
+KEBMST10 J
+# Description: Committed Kwala
+*
+KEBMST01 A
+# Description: Existing Mumias
+*
+KEHYDM00 g
+# Description: Generic Hydro with DAM
+*
+KEHYRO_Lower_Grand T
+# Description: Candidate LowerGrand
+*
+KEHYDM_Kamburu_Masinga C
+# Description: Existing Kamburu/Masinga
+*
+KEHYDM_Turkwell B
+# Description: Existing Turkwell
+*
+KEHYDM_Kiambere A
+# Description: Existing Kiambere
+*
+KEHYRO00 h
+# Description: Generic Hydro ROR
+*
+KEHYRO_High_Grand2 K
+# Description: High Grand Falls Stage 2
+*
+KEHYRO_High_Grand I
+# Description: High Grand Falls Stage 1
+*
+KEHYRO_Small_Chevron X
+# Description: Chevron Africa/Dominion Farms/Khalala Navakholo
+*
+KEHYRO_Small_KDTA2 W
+# Description: Karuga/Kiptiget/Yurith/Rupingazi Rutune/Itare/Yala Taunet/Tridax/Truck city
+*
+KEHYRO_Small_Rareh V
+# Description: Rareh Nyamindi123/VSHydro
+*
+KEHYRO_Small_Kirogori S
+# Description: Kirogori/Kibisi_Virunga/Chemosit
+*
+KEHYRO_Small_GemGen R
+# Description: Gem Gen/Rianjue_Gichuki/Mwikhupo-Mwibale/Kaptama/Njega/Rukenya
+*
+KEHYRO_Small_Kaptis Q
+# Description: Kaptis/Buchangu/Mutunguru/Ventus
+*
+KEHYRO_Small_Nithi P
+# Description: Frontier Investment_Nithi
+*
+KEHYRO_Small_Tindinyo O
+# Description: Tindinyo Falls Resort
+*
+KEHYRO_Small_Gatiki N
+# Description: Power Technologies_Gatiki
+*
+KEHYRO_Small_KTDA_Gogo M
+# Description: KTDA Kipsonoi/Gogo upgrade
+*
+KEHYRO_Small_MtKenya_CBO L
+# Description: Mt Kenya Community Based Organisation
+*
+KEHYRO_Small_KTDA R
+# Description: KTDA Ltd_South Maara/Iraru
+*
+KEHYRO_Small_KTDA_Kleen m
+# Description: KTDA Ltd_Lower Nyamindi/Nyambunde Nyakwana/Kleen Energy Ltd
+*
+KEHYRO_Karura U
+# Description: Karura
+*
+KEHYRO_Kindaruma_Opt J
+# Description: Kindaruma_opt
+*
+KEHYRO_Tana H
+# Description: Existing Tana
+*
+KEHYRO_Sangoro G
+# Description: Existing Sangoro
+*
+KEHYRO_Kindaruma F
+# Description: Existing Kindaruma
+*
+KEHYRO_Sondu_Miriu E
+# Description: Existing Sondu_Miriu
+*
+KEHYRO_Gitaru D
+# Description: Existing Gitaru
+*
+KEHYMI00 g
+# Description: Generic Hydro Small
+*
+KEHYRO_Existing_Small S
+# Description: Existing KY_Small_hydro
+*
+KESOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+KESOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+KESOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+KESOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+KEELBS00 z
+# Description: Backstop
+*
+KERIDM_Kamburu_Masinga E
+*
+KERIDM_Turkwell F
+*
+KERIDM_Kiambere G
+*
+KEELST04 D
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+KEELPT04 A
+*
+KEELDT04_01 B
+2. activity C
+*
+KEELDT04_02 D
+2. activity H
+*
+KEELDT04_03 I
+2. activity J
+*
+KEEXDT00 K
+*
+resources: 
+endata
+

@@ -1,0 +1,888 @@
+tdb: empty
+adb: MAINa
+problem: MAINa
+description:
+# Default scenario
+# MAINa
+drate: 10.0
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype	ordered seasonal 1 0
+year	2019 1 10
+name	 aaa aab aac \
+	 baa bab bac bad \
+	 caa cab cac
+length	 0.096689 0.165753 0.069064 \
+	 0.101484 0.173974 0.028995 0.043493 \
+	 0.093493 0.160274 0.066781
+energyforms:
+final f
+# final demand
+    demand d  
+    # demand
+*
+Exports x
+# DRC, Jordan etc
+    EL_EU X  
+    # Export Europe
+    EL_JLS Y  
+    # Export Jordan and Syria
+*
+demand:
+d-f c 1
+loadcurve:
+relationsc:
+relationsp:
+relationss:
+relations1:
+ReserveMarginGlobal RMG o
+*
+DomesticCAPP DOMC o
+*
+DomesticEAPP DOME o
+*
+DomesticNAPP DOMN o
+*
+DomesticSAPP DOMS o
+*
+DomesticWAPP DOMW o
+*
+RECAPP REC o
+*
+REEAPP REE o
+*
+RENAPP REN o
+*
+RESAPP RES o
+*
+REWAPP REW o
+*
+RELO RELO o
+*
+REHI REHI o
+*
+TXAO TXAO o
+*
+TXBW TXBW o
+*
+TXBI TXBI o
+*
+TXCD TXCD o
+*
+TXEG TXEG o
+*
+TXET TXET o
+*
+TXKE TXKE o
+*
+TXLS TXLS o
+*
+TXMW TXMW o
+*
+TXMZ TXMZ o
+*
+TXNA TXNA o
+*
+TXRW TXRW o
+*
+TXZA TXZA o
+*
+TXSD TXSD o
+*
+TXSS TXSS o
+*
+TXSZ TXSZ o
+*
+TXTZ TXTZ o
+*
+TXUG TXUG o
+*
+TXZM TXZM o
+*
+TXZW TXZW o
+*
+TXDZ TXDZ o
+*
+TXLY TXLY o
+*
+TXMA TXMA o
+*
+TXMR TXMR o
+*
+TXTN TXTN o
+*
+TXBJ TXBJ o
+*
+TXBF TXBF o
+*
+TXCV TXCV o
+*
+TXCF TXCF o
+*
+TXCM TXCM o
+*
+TXTD TXTD o
+*
+TXCG TXCG o
+*
+TXCI TXCI o
+*
+TXDJ TXDJ o
+*
+TXGM TXGM o
+*
+TXGH TXGH o
+*
+TXGN TXGN o
+*
+TXGW TXGW o
+*
+TXGQ TXGQ o
+*
+TXER TXER o
+*
+TXGA TXGA o
+*
+TXLR TXLR o
+*
+TXML TXML o
+*
+TXNE TXNE o
+*
+TXNG TXNG o
+*
+TXSN TXSN o
+*
+TXSL TXSL o
+*
+TXSO TXSO o
+*
+TXTG TXTG o
+*
+relations2:
+variables:
+systems:
+DEM a
+*
+CDELNG1AO p
+2. activity q
+*
+CDELNP1AO k
+2. activity l
+*
+CDELNP1BI k
+2. activity l
+*
+RWELNP1BI k
+2. activity l
+*
+RWELNG1BI p
+2. activity q
+*
+ZAELEX1BW a
+2. activity b
+*
+ZAELEX2BW c
+2. activity d
+*
+ZWELEX1BW a
+2. activity b
+*
+ZWELNC1BW f
+2. activity g
+*
+ZAELNC1BW f
+2. activity g
+*
+ZAELNP1CD k
+2. activity l
+*
+ZAELNG1CD p
+2. activity q
+*
+ZMELEX1CD a
+2. activity b
+*
+ZMELNG1CD p
+2. activity q
+*
+ZMELNP1CD k
+2. activity l
+*
+ERELNG1DJ p
+2. activity q
+*
+SOELNG1DJ p
+2. activity q
+*
+ETELEX1DJ a
+2. activity b
+*
+DJELNG1ET p
+2. activity q
+*
+DJELNP1ET k
+2. activity l
+*
+ERELNG1ET p
+2. activity q
+*
+SOELNG1ET p
+2. activity q
+*
+SDELEX1ET a
+2. activity b
+*
+SDELNP1ET k
+2. activity l
+*
+SDELNG1ET p
+2. activity q
+*
+ETELNC1KE f
+2. activity g
+*
+ETELNG1KE p
+2. activity q
+*
+SOELNG1KE p
+2. activity q
+*
+TZELNG1KE p
+2. activity q
+*
+TZELNC1KE f
+2. activity g
+*
+UGELEX1KE a
+2. activity b
+*
+UGELNG1KE p
+2. activity q
+*
+ZAELEX1LS a
+2. activity b
+*
+ZAELNG1LS p
+2. activity q
+*
+MZELNP1TZ k
+2. activity l
+*
+MZELNG1MW p
+2. activity q
+*
+ZMELNG1MW p
+2. activity q
+*
+ZAELEX1MZ a
+2. activity b
+*
+ZAELEX2MZ c
+2. activity d
+*
+ZMELNP1MZ m
+2. activity n
+*
+ZMELNG1MZ p
+2. activity q
+*
+SZELEX1MZ a
+2. activity b
+*
+ZWELEX1MZ a
+2. activity b
+*
+ZWELNP1MZ k
+2. activity l
+*
+ZWELNC1MZ f
+2. activity g
+*
+ZAELNG1NA p
+2. activity q
+*
+ZAELEX1NA a
+2. activity b
+*
+ZAELNC1NA c
+2. activity d
+*
+BWELNP1NA k
+2. activity l
+*
+ZMELNC1NA f
+2. activity g
+*
+AOELNC1NA f
+2. activity g
+*
+CDELNG1RW p
+2. activity q
+*
+CDELNP1RW k
+2. activity l
+*
+CDELNP2RW m
+2. activity n
+*
+CDELNP1UG m
+2. activity n
+*
+UGELEX1RW a
+2. activity b
+*
+UGELNG1RW p
+2. activity q
+*
+ERELNG1SD p
+2. activity q
+*
+UGELNP1SS m
+2. activity n
+*
+SDELNP1SS o
+2. activity n
+*
+UGELNG1SS p
+2. activity q
+*
+BIELNG1TZ p
+2. activity q
+*
+BIELNP1TZ k
+2. activity l
+*
+MWELNG1TZ p
+2. activity q
+*
+ZMELNG1TZ p
+2. activity q
+*
+ZMELNC1TZ f
+2. activity g
+*
+RWELNP1TZ k
+2. activity l
+*
+RWELNG1TZ p
+2. activity q
+*
+UGELEX1TZ a
+2. activity b
+*
+CDELNG1UG p
+2. activity q
+*
+CDELNG1TZ p
+2. activity q
+*
+UGELNG1TZ p
+2. activity q
+*
+SZELEX1ZA a
+2. activity b
+*
+SZELNG1ZA p
+2. activity q
+*
+ZWELNP1ZA k
+2. activity l
+*
+ZWELNC1ZA f
+2. activity g
+*
+ZWELNG1ZA p
+2. activity q
+*
+ZWELEX1ZM a
+2. activity b
+*
+ZWELNC1ZM f
+2. activity g
+*
+ZWELNP1ZM k
+2. activity l
+*
+ZMELNG1ZW p
+2. activity q
+*
+TDELNP1CM A
+2. activity B
+*
+TDELNP2CM B
+2. activity C
+*
+CFELNP1CM A
+2. activity B
+*
+GAELNP1CM A
+2. activity B
+*
+CFELNG1CM B
+2. activity C
+*
+TDELNG1CM C
+2. activity D
+*
+CGELNG1CM A
+2. activity B
+*
+GAELNG1CM B
+2. activity C
+*
+CMELNP1GQ A
+2. activity B
+*
+CMELNG1GQ B
+2. activity C
+*
+CFELNP1CG A
+2. activity B
+*
+GAELNP1CG A
+2. activity B
+*
+CFELNG1CG B
+2. activity C
+*
+GAELNG1CG B
+2. activity C
+*
+GQELNP1GA A
+2. activity B
+*
+GQELNP2GA B
+2. activity C
+*
+GQELNG1GA C
+2. activity D
+*
+CGELNG1AO A
+2. activity B
+*
+CGELNP1AO B
+2. activity C
+*
+RWELEX1BI A
+2. activity B
+*
+RWELNP2BI B
+2. activity C
+*
+UGELNC1RW A
+2. activity B
+*
+BIELEX1CD A
+2. activity B
+*
+CGELEX1CD A
+2. activity B
+*
+RWELEX1CD A
+2. activity B
+*
+AOELNP1CD A
+2. activity B
+*
+BIELNG1CD B
+2. activity C
+*
+CFELNG1CD A
+2. activity B
+*
+CGELNG1CD B
+2. activity C
+*
+MAELEX1DZ r
+2. activity s
+*
+TNELEX1DZ t
+2. activity u
+*
+LYELEX1TN v
+2. activity w
+*
+EGELEX1LY y
+2. activity z
+*
+EGELEX1SD C
+2. activity D
+*
+LYELNG1DZ A
+2. activity B
+*
+MLELNG1DZ A
+2. activity B
+*
+MRELNG1DZ A
+2. activity B
+*
+MAELNG1DZ A
+2. activity B
+*
+NEELNG1DZ A
+2. activity B
+*
+TNELNG1DZ A
+2. activity B
+*
+NAELNG1AO A
+2. activity B
+*
+ZMELNG1AO A
+2. activity B
+*
+BFELNG1BJ A
+2. activity B
+*
+NEELNG1BJ A
+2. activity B
+*
+NGELNG1BJ A
+2. activity B
+*
+TGELNG1BJ A
+2. activity B
+*
+NAELNG1BW A
+2. activity B
+*
+ZAELNG1BW A
+2. activity B
+*
+ZMELNG1BW A
+2. activity B
+*
+ZWELNG1BW A
+2. activity B
+*
+CIELNG1BF A
+2. activity B
+*
+GHELNG1BF A
+2. activity B
+*
+MLELNG1BF A
+2. activity B
+*
+TGELNG1BF A
+2. activity B
+*
+TDELNG1CF A
+2. activity B
+*
+SSELNG1CF A
+2. activity B
+*
+SDELNG1CF A
+2. activity B
+*
+NGELNG1CM A
+2. activity B
+*
+LYELNG1TD A
+2. activity B
+*
+NEELNG1TD A
+2. activity B
+*
+NGELNG1TD A
+2. activity B
+*
+SDELNG1TD A
+2. activity B
+*
+GHELNG1CI A
+2. activity B
+*
+GNELNG1CI A
+2. activity B
+*
+LRELNG1CI A
+2. activity B
+*
+MLELNG1CI A
+2. activity B
+*
+SSELNG1CD A
+2. activity B
+*
+LYELNG1EG A
+2. activity B
+*
+SDELNG1EG B
+2. activity B
+*
+SNELNG1GM A
+2. activity B
+*
+TGELNG1GH A
+2. activity B
+*
+GWELNG1GN A
+2. activity B
+*
+LRELNG1GN A
+2. activity B
+*
+MLELNG1GN A
+2. activity B
+*
+SNELNG1GN A
+2. activity B
+*
+SLELNG1GN A
+2. activity B
+*
+SNELNG1GW A
+2. activity B
+*
+MZELNG1SZ A
+2. activity B
+*
+SSELNG1ET A
+2. activity B
+*
+UGELNG1ET A
+2. activity B
+*
+SSELNG1KE A
+2. activity B
+*
+SLELNG1LR A
+2. activity B
+*
+NEELNG1LY A
+2. activity B
+*
+SDELNG1LY A
+2. activity B
+*
+TNELNG1LY A
+2. activity B
+*
+MRELNG1ML A
+2. activity B
+*
+NEELNG1ML A
+2. activity B
+*
+SNELNG1ML A
+2. activity B
+*
+MAELNG1MR A
+2. activity B
+*
+SNELNG1MR A
+2. activity B
+*
+ZAELNG1MZ A
+2. activity B
+*
+TZELNG1MZ A
+2. activity B
+*
+ZWELNG1MZ A
+2. activity B
+*
+ZMELNG1NA A
+2. activity B
+*
+ZWELNG1NA A
+2. activity B
+*
+NGELNG1NE A
+2. activity B
+*
+SDELNG1SS A
+2. activity B
+*
+CIELEX1GH A
+2. activity B
+*
+TGELEX1GH B
+2. activity A
+*
+MLELEX1SN A
+2. activity B
+*
+BFELEX1CI A
+2. activity B
+*
+BJELEX1NG A
+2. activity B
+*
+BJELEX1TG A
+2. activity B
+*
+NEELEX1NG A
+2. activity B
+*
+BFELEX1GH A
+2. activity B
+*
+CIELEX1ML A
+2. activity B
+*
+TGELNC1GH C
+2. activity D
+*
+GHELNC1CI C
+2. activity D
+*
+LRELNC1CI B
+2. activity A
+*
+GNELNC1LR A
+2. activity B
+*
+SLELNC1LR B
+2. activity A
+*
+GNELNC1SL A
+2. activity B
+*
+GNELNC1SN A
+2. activity B
+*
+GMELNC1SN A
+2. activity B
+*
+GWELNC1GM A
+2. activity B
+*
+GNELNC1GW A
+2. activity B
+*
+NEELNC1NG C
+2. activity D
+*
+BJELNC1NE A
+2. activity B
+*
+BFELNC1NE A
+2. activity B
+*
+SNELNC1ML C
+2. activity D
+*
+BJELNC1NG C
+2. activity D
+*
+GHELNC1TG C
+2. activity D
+*
+MLELNC1BF B
+2. activity A
+*
+CIELNC1ML C
+2. activity D
+*
+MLELNC1GN B
+2. activity A
+*
+MRELEX1SN A
+2. activity B
+*
+CFELEX1CD E
+2. activity F
+*
+CDELEX1CF A
+2. activity B
+*
+ZAELEX2NA A
+2. activity B
+*
+ZMELEX3NA B
+2. activity A
+*
+ZAELEX3MZ B
+2. activity A
+*
+MZELNC1MW A
+2. activity B
+*
+BIELEX1TZ A
+2. activity B
+*
+RWELEX2CD B
+2. activity A
+*
+RWELEX2BI C
+2. activity A
+*
+UGELEX1CD A
+2. activity B
+*
+UGELEX2KE A
+2. activity B
+*
+TZELEX1RW A
+2. activity B
+*
+UGELEX2RW B
+2. activity A
+*
+SDELEX2ET A
+2. activity B
+*
+BJELNC1TG A
+2. activity B
+*
+NAELNC1AO B
+2. activity A
+*
+NAELEX1AO C
+2. activity D
+*
+CDELNC1AO A
+2. activity B
+*
+CIELNP1BF C
+2. activity D
+*
+BFELNP1GH C
+2. activity D
+*
+GNELNP1ML C
+2. activity D
+*
+TGELNP1BJ C
+2. activity D
+*
+NGELNP1CM B
+2. activity A
+*
+GNELNP1CI B
+2. activity A
+*
+MLELNP1CI C
+2. activity D
+*
+NGELNP1CD A
+2. activity B
+*
+EGELNP1CD A
+2. activity B
+*
+SZELEX2ZA A
+2. activity B
+*
+ETELEX2DJ A
+2. activity B
+*
+SOELNG2ET A
+2. activity B
+*
+ERELNG2ET A
+2. activity B
+*
+MAELNG2MR B
+2. activity A
+*
+EGELEX2SD A
+2. activity C
+*
+resources:
+endata

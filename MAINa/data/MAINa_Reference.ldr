@@ -1,0 +1,18 @@
+loadregions:
+ltype seasonal
+year 2019 sa sb sc
+range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+season sa anyday
+day anyday 121
+name  aaa aab aac
+length  0.291665 0.499999 0.208334
+season sb anyday
+day anyday 127
+name  baa bab bac bad
+length  0.291667 0.500004 0.083332 0.125
+season sc anyday
+day anyday 117
+name  caa cab cac
+length  0.291666 0.5 0.208334
+loadcurves:
+

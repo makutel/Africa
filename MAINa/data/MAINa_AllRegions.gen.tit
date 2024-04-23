@@ -1,0 +1,26 @@
+subregions: AOa BIa BWa CDa DJa EGa ERa ETa KEa LSa MWa MZa NAa RWa SDa SOa SZa TZa UGa ZAa ZMa ZWa SSa CFa CMa TDa CGa GQa GAa MAa TNa LYa DZa MRa STa
+ntu:	1         ; ntu    [number of first period to be in matrix]
+ntrun:	27	; ntrun  [number of last period to be in matrix]
+mixsw:	yes	; isw(2) [mixed integer programming initiated]
+actint:	b	; set activities integer up to and including period (or 'all')
+invint:	b	; set investment integer up to and including period (or 'all')
+mform:	5   e12.6)      ; isw(9) [matrix is written in format as given below]
+levnam: 5   r p s f u ;      ; isw(3) [no change in level identifiers]
+relcon: 3         ; isw(1) [relational constraints of type 1 relative to operation are
+ncap:	0         ; ncap
+chkacc:	2 	; check accounting rows
+unsw:	0 1 0 0 ; isw(5) - isw(8)
+imat:	3	; generation of accounting rows
+ibas:	0	; extr base load modeling
+invSwit:	0	
+country:	MAINa	
+enerunit:	MWyr	
+powerunit:	MW	
+timeunit:	yr	
+currunit:	kUS$'00	
+volumeunit:	Mm3	
+weightunit:	kton	
+otherunit:	MWyr	
+Weekend:	Sunday	
+language:	english	
+repyears:	2015 2020 2030 2041 	

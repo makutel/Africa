@@ -1,0 +1,28 @@
+
+	Statistics for model KEa
+
+	 24 energyforms on 6 levels
+	 10 loadregions
+	  5 demands
+	  0 cumulative relations
+	 13 relations
+	186 technologies
+	  0 resources with 0 grades
+	  5 secs used
+	 24 energyforms on 6 levels
+	 10 loadregions
+	  5 demands
+	  0 cumulative relations
+	 13 relations
+	186 technologies
+	  0 resources with 0 grades
+	  5 secs used
+
+	matrix statistics:
+	rows:   40577
+	cols:   29306
+	elms:   572176
+	rhs:    8815
+	rngs:   92
+	bnds:   4811
+	dens:   0

@@ -1,0 +1,864 @@
+TDB: empty
+ADB: ETa
+problem: ETa
+description:
+# Ethiopia
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity n l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary e
+# Primary Energy
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_ETELST04 A l
+# DummyCom_ETELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 1603.42 1763.7 2138.36 2465.23 2832.88 3235.48 3668.45 4132.32 4623.63 5139.74 5678.66 6238.9 6849.94 7503.98 8195.59 8920.91 9677.16 10508.71 11402.38 12349.25 13343.08 14379.47 14379.47
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.07949 0.166089 0.064095 0.081248 0.176766 \
+0.030101 0.035485 0.081391 0.220802 0.064533
+systems.ETWDLC00.g.capfac 0.144928 0.539589 0.427558 0.183229 0.16268 \
+0.128444 0.111305 0.073175 0.301878 0.191175
+systems.ETWDLC_Ashegoda_2.R.capfac 0.446381 0.515369 0.815436 0.227488 0.555203 \
+0.771029 0.446895 0.386539 0.468728 0.775504
+systems.ETWDOC00.L.capfac 0.144928 0.539589 0.427558 0.183229 0.16268 \
+0.128444 0.111305 0.073175 0.301878 0.191175
+systems.ETWDLCZ010.K.capfac 0.401327 0.570838 0.623473 0.47363 0.476351 \
+0.387078 0.392136 0.38324 0.601346 0.554136
+systems.ETWDLCZ009.J.capfac 0.494874 0.591849 0.661132 0.217033 0.559678 \
+0.390128 0.319429 0.466296 0.547356 0.48729
+systems.ETWDLCZ008.I.capfac 0.695809 0.446563 0.809762 0.227407 0.441065 \
+0.364501 0.279499 0.61068 0.469303 0.678889
+systems.ETWDLCZ007.H.capfac 0.395203 0.388499 0.417981 0.862667 0.655432 \
+0.819574 0.870819 0.418509 0.381956 0.430999
+systems.ETWDLCZ006.G.capfac 0.623157 0.504709 0.804579 0.50981 0.352668 \
+0.417739 0.545967 0.551998 0.506662 0.738938
+systems.ETWDLCZ005.F.capfac 0.446381 0.515369 0.815436 0.227488 0.555203 \
+0.771029 0.446895 0.386539 0.468728 0.775504
+systems.ETWDLCZ004.E.capfac 0.326417 0.332439 0.386535 0.724193 0.622208 \
+0.658642 0.711534 0.476053 0.546588 0.642521
+systems.ETWDLCZ003.C.capfac 0.39973 0.300455 0.323006 0.867151 0.885994 \
+0.84215 0.872395 0.400003 0.350951 0.323767
+systems.ETWDLCZ002.B.capfac 0.709556 0.623706 0.842465 0.479554 0.392574 \
+0.321599 0.393444 0.594909 0.58244 0.733227
+systems.ETWDLC_Ashegoda.A.capfac 0.446381 0.515369 0.815436 0.227488 0.555203 \
+0.771029 0.446895 0.386539 0.468728 0.775504
+systems.ETWDLCZBQ04.D.capfac 0.596745 0.596745 0.596745 0.596745 0.596745 \
+0.596745 0.596745 0.596745 0.596745 0.596745
+systems.ETSOTN00.h.capfac 0.122931 0.552544 0 0.110505 0.508943 \
+0 0 0.102657 0.506186 0
+systems.ETSOTNZ002.D.capfac 0.00992 0.820073 0.585442 0.022161 0.511494 \
+0.190855 0.037161 0.008379 0.76659 0.452677
+systems.ETSOTNZ001.C.capfac 0.029521 0.797308 0.569837 0.041558 0.565554 \
+0.185363 0.00613 0.070787 0.750931 0.414567
+systems.ETSOTS00.i.capfac 0.027583 0.605143 0.097175 0.027583 0.605143 \
+0.242937 0 0.028225 0.604962 0.096711
+systems.ETSOTSZ002.F.capfac 0.430064 0.879083 0.954188 0.103488 0.650279 \
+0.727372 0.266544 0.296708 0.849416 0.894331
+systems.ETSOTSZ001.E.capfac 0.41583 0.869626 0.885235 0.117132 0.749925 \
+0.692987 0.370172 0.369819 0.845589 0.868212
+systems.ETSOPC00.j.capfac 0.104617 0.462138 0 0.099993 0.433839 \
+0 0 0.09052 0.434122 0
+systems.ETSOPCZ008_Metahare2.Q.capfac 0.005125 0.469815 0 0.009326 0.440881 \
+0 0 0.007518 0.439916 0
+systems.ETSOPCZ008_Metahare1.O.capfac 0.005125 0.469815 0 0.009326 0.440881 \
+0 0 0.007518 0.439916 0
+systems.ETSOPCZ008_Gad1.N.capfac 0.005125 0.469815 0 0.009326 0.440881 \
+0 0 0.007518 0.439916 0
+systems.ETSOPCZ001_Weranso.M.capfac 0.002426 0.478239 0 0.005562 0.434954 \
+0 0 0.003273 0.443641 0
+systems.ETSOPCZ001_Mekele.L.capfac 0.002426 0.478239 0 0.005562 0.434954 \
+0 0 0.003273 0.443641 0
+systems.ETSOPCZ001_Dicheto.K.capfac 0.002426 0.478239 0 0.005562 0.434954 \
+0 0 0.003273 0.443641 0
+systems.ETSOPCZ010.J.capfac 0.002585 0.47714 0 0.004301 0.42597 \
+0 0 0.004478 0.461793 0
+systems.ETSOPCZ009.I.capfac 0.00302 0.464804 0 0.004537 0.41879 \
+0 0 0.004748 0.46539 0
+systems.ETSOPCZ008.H.capfac 0.005125 0.469815 0 0.009326 0.440881 \
+0 0 0.007518 0.439916 0
+systems.ETSOPCZ007.G.capfac 0.006966 0.48459 0 0.008739 0.441348 \
+0 0 0.009116 0.457375 0
+systems.ETSOPCZ006.F.capfac 0.003905 0.475058 0 0.00614 0.420593 \
+0 0 0.005719 0.466614 0
+systems.ETSOPCZ005.E.capfac 0.009461 0.498973 0 0.015068 0.448234 \
+0 0 0.012906 0.465076 0
+systems.ETSOPCZ004.D.capfac 0.003495 0.466845 0 0.006649 0.437323 \
+0 0 0.005015 0.465175 0
+systems.ETSOPCZ003.C.capfac 0.002789 0.484334 0 0.004733 0.413944 \
+0 0 0.003752 0.452874 0
+systems.ETSOPCZ002.B.capfac 0.002584 0.464974 0 0.004831 0.437268 \
+0 0 0.004523 0.454564 0
+systems.ETSOPCZ001.A.capfac 0.002426 0.478239 0 0.005562 0.434954 \
+0 0 0.003273 0.443641 0
+systems.ETHYRO_Wabaressa.b.capfac 0.023879 0.023879 0.023902 0.529797 0.529797 \
+0.529797 0.532311 0.400336 0.400336 0.398674
+systems.ETHYRO_Halele.S.capfac 0.023879 0.023879 0.023902 0.529797 0.529797 \
+0.529797 0.532311 0.400336 0.400336 0.398674
+systems.ETHYRO_Genji.R.capfac 0.053002 0.053002 0.053473 0.820209 0.820209 \
+0.820209 0.821939 0.481039 0.481039 0.479426
+systems.ETHYRO_Geba_1_II.P.capfac 0.053521 0.053521 0.054107 0.837237 0.837237 \
+0.837237 0.838822 0.52557 0.52557 0.523932
+systems.ETHYRO_Koysha_Step_1_2_3.M.capfac 0.428813 0.428813 0.428903 0.569902 0.569902 \
+0.569902 0.570214 0.499645 0.499645 0.499348
+systems.ETHYRO_BirbirR.Z.capfac 0.016729 0.016729 0.016802 0.686329 0.686329 \
+0.686329 0.688767 0.423024 0.423024 0.421361
+systems.ETHYRO_BaroI_II.X.capfac 0.364871 0.364871 0.36622 0.992832 0.992832 \
+0.992832 0.992832 0.757383 0.757383 0.755989
+systems.ETHYRO_Beko_Abo.W.capfac 0.611389 0.611389 0.611389 0.611389 0.611389 \
+0.611389 0.611389 0.611389 0.611389 0.611389
+systems.ETHYRO_Sor.H.capfac 0.035581 0.035581 0.03597 0.733434 0.733434 \
+0.733434 0.735368 0.421024 0.421024 0.419362
+systems.ETHYRO_Koka.G.capfac 0.599032 0.599032 0.600357 0.901111 0.901111 \
+0.901111 0.901111 0.553505 0.553505 0.552135
+systems.ETHYRO_Beles.A.capfac 0.599032 0.599032 0.600357 0.901111 0.901111 \
+0.901111 0.901111 0.553505 0.553505 0.552135
+systems.ETHYRO_Gojeb.m.capfac 0.07304 0.07304 0.0737 0.785092 0.785092 \
+0.785092 0.785989 0.389301 0.389301 0.388035
+systems.ETHYRO_AleltuEast.l.capfac 0.029809 0.029809 0.029821 0.473374 0.473374 \
+0.473374 0.475915 0.324672 0.324672 0.323005
+systems.ETHYRO_AleltuWest.k.capfac 0.029541 0.029541 0.029552 0.471662 0.471662 \
+0.471662 0.474204 0.323671 0.323671 0.322004
+systems.ETHYRO_TekezeII.f.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.ETHYRO_Awash_II-III.K.capfac 0.331369 0.331369 0.332032 0.597462 0.597462 \
+0.597462 0.597628 0.283577 0.283577 0.282783
+systems.ETHYRO_Tis_Abbay_I-II.J.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.ETHYRO_Gilgel_Gibe_II.I.capfac 0.436346 0.436346 0.43729 1 1 \
+1 1 0.858158 0.858158 0.857182
+systems.ETHYRO_Aba_Samuel.h.capfac 0.1919 0.1919 0.192335 0.686412 0.686412 \
+0.686412 0.688292 0.295156 0.295156 0.293482
+systems.ETSOPU00.g.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.ETSOPB00.g.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.ETSOPR00.g.capfac 0.238287 0.420774 0.351449 0.22974 0.42428 \
+0.496392 0.260737 0.243559 0.418871 0.348631
+systems.ETSOPS00.h.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.ETRIDM_GenaleVI.L.capfac 0.162904 0.162904 0.164371 0.618816 0.618816 \
+0.618816 0.618372 0.568539 0.568539 0.567311
+systems.ETRIDM_ChemogaYI_II.O.capfac 0.015472 0.015472 0.015446 0.366046 0.366046 \
+0.366046 0.368246 0.258651 0.258651 0.257245
+systems.ETRIDM_Karadobi.U.capfac 0.013415 0.013415 0.013439 0.390336 0.390336 \
+0.390336 0.391971 0.20112 0.20112 0.20003
+systems.ETRIDM_Gilgel_Gibe_III.X.capfac 0.046984 0.046984 0.047304 0.546984 0.546984 \
+0.546984 0.548092 0.298003 0.298003 0.29695
+systems.ETRIDM_Renaissance.Y.capfac 0.011511 0.011511 0.011578 0.50037 0.50037 \
+0.50037 0.502276 0.239878 0.239878 0.238568
+systems.ETRIDM_Amarti_Neshe.b.capfac 0.012991 0.012991 0.013015 0.392657 0.392657 \
+0.392657 0.394255 0.196401 0.196401 0.195335
+systems.ETRIDM_Finchaa.c.capfac 0.012991 0.012991 0.013015 0.392657 0.392657 \
+0.392657 0.394255 0.196401 0.196401 0.195335
+systems.ETRIDM_Maleka_Wakana.d.capfac 0.108833 0.108833 0.108946 0.412384 0.412384 \
+0.412384 0.413625 0.351897 0.351897 0.350973
+systems.ETRIDM_Gilgel_Gibe_I.e.capfac 0.037558 0.037558 0.037778 0.535857 0.535857 \
+0.535857 0.537087 0.26317 0.26317 0.262142
+systems.ETRIDM_Tekeze_I.f.capfac 0.015981 0.015981 0.016004 0.357565 0.357565 \
+0.357565 0.3594 0.211211 0.211211 0.209993
+systems.ETELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.ETELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.ETELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.ETELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.ETELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.ETELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.ETELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.ETRIDM_GenaleV.I.capfac 0.162904 0.162904 0.164371 0.618816 0.618816 \
+0.618816 0.618372 0.568539 0.568539 0.567311
+systems.ETRIDM_SorII.A.capfac 0.026761 0.026761 0.027053 0.63007 0.63007 \
+0.63007 0.632175 0.369623 0.369623 0.367949
+systems.ETRIDM_WabiShebele.B.capfac 0.196639 0.196639 0.197548 0.503192 0.503192 \
+0.503192 0.50416 0.474105 0.474105 0.472535
+systems.ETRIDM_Lower_Dedessa.C.capfac 0.011749 0.011749 0.011852 0.558194 0.558194 \
+0.558194 0.560165 0.295918 0.295918 0.294527
+systems.ETRIDM_Tams.D.capfac 0.022732 0.022732 0.022941 0.600076 0.600076 \
+0.600076 0.602182 0.365195 0.365195 0.363608
+systems.ETRIDM_Upper_Lower_Dabus.E.capfac 0.009312 0.009312 0.009385 0.506255 0.506255 \
+0.506255 0.508731 0.313079 0.313079 0.311391
+systems.ETRIDM_Upper_Mandaya.F.capfac 0.011812 0.011812 0.011873 0.469814 0.469814 \
+0.469814 0.471712 0.23774 0.23774 0.236441
+systems.ETRIDM_Genale_III.G.capfac 0.162904 0.162904 0.164371 0.618816 0.618816 \
+0.618816 0.618372 0.568539 0.568539 0.567311
+relationsc:
+relationsp:
+relationss:
+D_ETHYDM_GenaleVI D001 o 0
+*
+D_ETHYDM_ChemogaYI_II D002 o 0
+*
+D_ETHYDM_Karadobi D003 o 0
+*
+D_ETHYDM_Gilgel_Gibe_III D004 o 0
+*
+D_ETHYDM_Renaissance D005 o 0
+*
+D_ETHYDM_Amarti_Neshe D006 o 0
+*
+D_ETHYDM_Finchaa D007 o 0
+*
+D_ETHYDM_Maleka_Wakana D008 o 0
+*
+D_ETHYDM_Gilgel_Gibe_I D009 o 0
+*
+D_ETHYDM_Tekeze_I D010 o 0
+*
+SS_ETELST04 SS01 o 0
+*
+D_ETHYDM_GenaleV D011 o 0
+*
+D_ETHYDM_SorII D012 o 0
+*
+D_ETHYDM_WabiShebele D013 o 0
+*
+D_ETHYDM_Lower_Dedessa D014 o 0
+*
+D_ETHYDM_Tams D015 o 0
+*
+D_ETHYDM_Upper_Lower_Dabus D016 o 0
+*
+D_ETHYDM_Upper_Mandaya D017 o 0
+*
+D_ETHYDM_Genale_III D018 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+upper c 0
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_ETELST04 PC01 o 
+*
+PS_ETELST04 PS01 o 0
+*
+DC_ETELST04_01 DC01 o 
+*
+DC_ETELST04_02 DC02 o 
+*
+DC_ETELST04_03 DC03 o 
+*
+RC_ETHYDM_GenaleVI_01 RC01 o 
+*
+RC_ETHYDM_ChemogaYI_II_02 RC02 o 
+*
+RC_ETHYDM_Karadobi_03 RC03 o 
+*
+RC_ETHYDM_Gilgel_Gibe_III_04 RC04 o 
+*
+RC_ETHYDM_Renaissance_05 RC05 o 
+*
+RC_ETHYDM_Amarti_Neshe_06 RC06 o 
+*
+RC_ETHYDM_Finchaa_07 RC07 o 
+*
+RC_ETHYDM_Maleka_Wakana_08 RC08 o 
+*
+RC_ETHYDM_Gilgel_Gibe_I_09 RC09 o 
+*
+RC_ETHYDM_Tekeze_I_10 RC10 o 
+*
+relations2:
+variables:
+systems:
+ETEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+ETEL00i00 I
+# Description: Import of Electricity
+*
+ETEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+ETEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+ETEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+ETEL00TDC g
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+ETEL00TUI a
+# Description: Industry Demand
+*
+ETEL00TUR a
+# Description: Rural Demand
+*
+ETEL00TUS a
+# Description: SentOut Demand
+*
+ETEL00TUU g
+# Description: Urban Demand
+*
+ETEL00TUC a
+# Description: Commerce Demand
+*
+ETDS00I00 g
+# Description: Import of Diesel
+*
+ETDSRC00 g
+# Description: Generic Diesel Centralized
+*
+ETDSRC01 A
+# Description: Dir Dawa
+*
+ETDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+ETDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+ETDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+ETDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+ETDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+ETHF00I00 b
+# Description: Import of HFO
+*
+ETHFRC00 g
+# Description: Generic HFO
+*
+ETCO00I00 b
+# Description: Import of Coal
+*
+ETCOSC00 g
+# Description: Generic Coal
+*
+ETNG00X00 a
+# Description: Extraction of Natural Gas
+*
+ETNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+ETNGSC01_TPP_1_2 A
+# Description: GT_TPP_1_2
+*
+ETNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+ETNUPW00 g
+# Description: Generic Nuclear
+*
+ETWDLC00 g
+# Description: Generic Wind
+*
+ETWDLCZ003_Gode T
+# Description: Gode_Wind
+*
+ETWDLCZ001_Atigala S
+# Description: Atigala
+*
+ETWDLC_Ashegoda_2 R
+# Description: Ashegoda2_Z005
+*
+ETWDLCZ004_Mega Q
+# Description: Mega_Wind_1_2
+*
+ETWDLCZ001_Itaya P
+# Description: 001_Itaya
+*
+ETWDLCZ001_Asela_Wind_1A O
+# Description: Asela_Wind_1A
+*
+ETWDLCZ006_Aysha_1_2 N
+# Description: Aysha_1_2_3 Wind
+*
+ETWDLCZ006_AyishaII M
+# Description: Ayisha_Wind_II
+*
+ETWDOC00 L
+# Description: Generic OffShore Wind
+*
+ETWDLCZ010 K
+# Description: Wind Zone 010
+*
+ETWDLCZ009 J
+# Description: Wind Zone 009
+*
+ETWDLCZ008 I
+# Description: Wind Zone 008
+*
+ETWDLCZ007 H
+# Description: Wind Zone 007
+*
+ETWDLCZ006 G
+# Description: Wind Zone 006
+*
+ETWDLCZ005 F
+# Description: Wind Zone 005
+*
+ETWDLCZ004 E
+# Description: Wind Zone 004
+*
+ETWDLCZ003 C
+# Description: Wind Zone 003
+*
+ETWDLCZ002 B
+# Description: Wind Zone 002
+*
+ETWDLC_Ashegoda A
+# Description: Ashegoda_Z005
+*
+ETWDLCZBQ04 D
+# Description: Adama I and Adama II
+*
+ETSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+ETSOTNZ002 D
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 002
+*
+ETSOTNZ001 C
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 001
+*
+ETSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+ETSOTSZ002 F
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+ETSOTSZ001 E
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+ETSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+ETSOPC00 j
+# Description: Generic PV System (utility)
+*
+ETSOPCZ008_Metahare2 Q
+# Description: Metahare 2/Dire/Dawa/Welenchiti
+*
+ETSOPCZ008_Gad2 P
+# Description: Gad_2_Solar PV
+*
+ETSOPCZ008_Metahare1 O
+# Description: Metahare 1/Dicheto/Gad
+*
+ETSOPCZ008_Gad1 N
+# Description: Gad_1_Solar PV
+*
+ETSOPCZ001_Weranso M
+# Description: Weranso/Humera/Metema/Mekele SolarPV
+*
+ETSOPCZ001_Mekele L
+# Description: Mekele_SolarPV
+*
+ETSOPCZ001_Dicheto K
+# Description: Dicheto_SolarPV
+*
+ETSOPCZ010 J
+# Description: Solar PV Zone 010
+*
+ETSOPCZ009 I
+# Description: Solar PV Zone 009
+*
+ETSOPCZ008 H
+# Description: Solar PV Zone 008
+*
+ETSOPCZ007 G
+# Description: Solar PV Zone 007
+*
+ETSOPCZ006 F
+# Description: Solar PV Zone 006
+*
+ETSOPCZ005 E
+# Description: Solar PV Zone 005
+*
+ETSOPCZ004 D
+# Description: Solar PV Zone 004
+*
+ETSOPCZ003 C
+# Description: Solar PV Zone 003
+*
+ETSOPCZ002 B
+# Description: Solar PV Zone 002
+*
+ETSOPCZ001 A
+# Description: Solar PV Zone 001
+*
+ETGOCV00 k
+# Description: Generic Geothermal
+*
+ETGOCV11_Tulu_Moye_Site_II_III_IV M
+# Description: Tulu_Moye_Site_II_III_IV
+*
+ETGOCV02_Tulu_Moye_Site H
+# Description: Tulu_Moye_Site
+*
+ETGOCV01_Corbitti_Site_2 G
+# Description: Corbitti_Site_II_Geothermal
+*
+ETGOCV11 K
+# Description: ET_GEO
+*
+ETGOCV10_Aluto_Langano_2 J
+# Description: Aluto_Langano_2
+*
+ETGOCV01_Corbitti_Site A
+# Description: Corbitti_Site_Geothermal
+*
+ETBM00X00 a
+# Description: Extraction of Bagasse
+*
+ETBW00X00 a
+# Description: Extraction of Wood
+*
+ETHY00X00 a
+# Description: Supply of Hydro
+*
+ETSO00X00 a
+# Description: Supply of Solar
+*
+ETWD00X00 a
+# Description: Supply of Wind
+*
+ETBMST00 g
+# Description: Generic Bagasse
+*
+ETBMST15_Kessem E
+# Description: Kessem
+*
+ETBMST14_Welkayte D
+# Description: Welkayte
+*
+ETBMST13_Beles_1_2_3 C
+# Description: Beles_1_2_3
+*
+ETBMST14_Omo_Kuraz_1 B
+# Description: Omo_Kuraz_1_1star
+*
+ETBMST15_Omo_Kuraz_2-6 A
+# Description: Omo_Kuraz_2-6
+*
+ETBWST00 a
+# Description: Generic Wood
+*
+ETBMST16 P
+# Description: FinchaaBagasde
+*
+ETBMST13 M
+# Description: Reppi-EFW-50
+*
+ETBMST12 L
+# Description: TendaueEnde
+*
+ETBMST11 K
+# Description: Wolkayit
+*
+ETHYDM00 g
+# Description: Generic Hydro with DAM
+*
+ETHYDM_SorII i
+# Description: SorII
+*
+ETHYDM_GenaleV c
+# Description: GenaleV
+*
+ETHYRO_Wabaressa b
+# Description: Wabaressa
+*
+ETHYRO_Halele S
+# Description: Halele
+*
+ETHYRO_Genji R
+# Description: Genji
+*
+ETHYRO_Geba_1_II P
+# Description: Geba_1_2
+*
+ETHYRO_Koysha_Step_1_2_3 M
+# Description: Koysha_Step_1_2_3
+*
+ETHYDM_WabiShebele e
+# Description: WabiShebele
+*
+ETHYDM_GenaleVI d
+# Description: Genale_6
+*
+ETHYDM_ChemogaYI_II a
+# Description: Yeda1_2
+*
+ETHYRO_BirbirR Z
+# Description: Birbir
+*
+ETHYDM_Lower_Dedessa Y
+# Description: LowerDedessa
+*
+ETHYRO_BaroI_II X
+# Description: Baru1_2
+*
+ETHYRO_Beko_Abo W
+# Description: BekoAbo
+*
+ETHYDM_Tams V
+# Description: Tams
+*
+ETHYDM_Karadobi U
+# Description: Karadobi
+*
+ETHYDM_Upper_Mandaya T
+# Description: UpperMandaya
+*
+ETHYDM_Genale_III L
+# Description: Genale3
+*
+ETHYDM_Gilgel_Gibe_III O
+# Description: Gilgel_Gibe_III
+*
+ETHYDM_Renaissance Q
+# Description: Grand_Renaissance
+*
+ETHYRO_Sor H
+# Description: Sor
+*
+ETHYRO_Koka G
+# Description: Koka
+*
+ETHYDM_Amarti_Neshe F
+# Description: Amarti Neshe
+*
+ETHYDM_Finchaa E
+# Description: Finchaa
+*
+ETHYDM_Maleka_Wakana D
+# Description: Melka Wakena
+*
+ETHYDM_Gilgel_Gibe_I C
+# Description: Gilgel_Gibe_I
+*
+ETHYDM_Tekeze_I B
+# Description: Tekeze_I
+*
+ETHYRO_Beles A
+# Description: Beles
+*
+ETHYRO00 j
+# Description: Generic Hydro ROR
+*
+ETHYRO_Gojeb m
+# Description: Gojeb
+*
+ETHYRO_AleltuEast l
+# Description: AleltuEast
+*
+ETHYRO_AleltuWest k
+# Description: AleltuWest
+*
+ETHYRO_TekezeII f
+# Description: TekezeII
+*
+ETHYDM_Upper_Lower_Dabus N
+# Description: Dabus_Lower_Upper
+*
+ETHYRO_Awash_II-III K
+# Description: Awash_2/Awash_3
+*
+ETHYRO_Tis_Abbay_I-II J
+# Description: Tis_Abbay_2/Tis_Abbay_1
+*
+ETHYRO_Gilgel_Gibe_II I
+# Description: Gilgel_Gibe_II
+*
+ETHYMI00 h
+# Description: Generic Hydro Small
+*
+ETHYRO_Aba_Samuel h
+# Description: AbaSamuel
+*
+ETSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+ETSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+ETSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+ETSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+ETELBS00 z
+# Description: Backstop
+*
+ETRIDM_GenaleVI L
+*
+ETRIDM_ChemogaYI_II O
+*
+ETRIDM_Karadobi U
+*
+ETRIDM_Gilgel_Gibe_III X
+*
+ETRIDM_Renaissance Y
+*
+ETRIDM_Amarti_Neshe b
+*
+ETRIDM_Finchaa c
+*
+ETRIDM_Maleka_Wakana d
+*
+ETRIDM_Gilgel_Gibe_I e
+*
+ETRIDM_Tekeze_I f
+*
+ETELST04 B
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+ETELPT04 A
+*
+ETELDT04_01 B
+2. activity C
+*
+ETELDT04_02 D
+2. activity E
+*
+ETELDT04_03 F
+2. activity G
+*
+ETEXDT00 H
+*
+ETRIDM_GenaleV I
+*
+ETRIDM_SorII A
+*
+ETRIDM_WabiShebele B
+*
+ETRIDM_Lower_Dedessa C
+*
+ETRIDM_Tams D
+*
+ETRIDM_Upper_Lower_Dabus E
+*
+ETRIDM_Upper_Mandaya F
+*
+ETRIDM_Genale_III G
+*
+resources: 
+endata
+

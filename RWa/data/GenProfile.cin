@@ -1,0 +1,1532 @@
+title: RWaRWEL00T00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00T00aaa = tGge......aaa:out
+RWEL00T00aab = tGge......aab:out
+RWEL00T00aac = tGge......aac:out
+RWEL00T00baa = tGge......baa:out
+RWEL00T00bab = tGge......bab:out
+RWEL00T00bac = tGge......bac:out
+RWEL00T00bad = tGge......bad:out
+RWEL00T00caa = tGge......caa:out
+RWEL00T00cab = tGge......cab:out
+RWEL00T00cac = tGge......cac:out
+@
+title: RWaRWEL00i00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00i00aaa = s.IG......aaa:out
+RWEL00i00aab = s.IG......aab:out
+RWEL00i00aac = s.IG......aac:out
+RWEL00i00baa = s.IG......baa:out
+RWEL00i00bab = s.IG......bab:out
+RWEL00i00bac = s.IG......bac:out
+RWEL00i00bad = s.IG......bad:out
+RWEL00i00caa = s.IG......caa:out
+RWEL00i00cab = s.IG......cab:out
+RWEL00i00cac = s.IG......cac:out
+@
+title: RWaRWEL00TDI_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00TDIaaa = tegi......aaa:out
+RWEL00TDIaab = tegi......aab:out
+RWEL00TDIaac = tegi......aac:out
+RWEL00TDIbaa = tegi......baa:out
+RWEL00TDIbab = tegi......bab:out
+RWEL00TDIbac = tegi......bac:out
+RWEL00TDIbad = tegi......bad:out
+RWEL00TDIcaa = tegi......caa:out
+RWEL00TDIcab = tegi......cab:out
+RWEL00TDIcac = tegi......cac:out
+@
+title: RWaRWEL00TDR_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00TDRaaa = tegr......aaa:out
+RWEL00TDRaab = tegr......aab:out
+RWEL00TDRaac = tegr......aac:out
+RWEL00TDRbaa = tegr......baa:out
+RWEL00TDRbab = tegr......bab:out
+RWEL00TDRbac = tegr......bac:out
+RWEL00TDRbad = tegr......bad:out
+RWEL00TDRcaa = tegr......caa:out
+RWEL00TDRcab = tegr......cab:out
+RWEL00TDRcac = tegr......cac:out
+@
+title: RWaRWEL00TDU_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00TDUaaa = tegu......aaa:out
+RWEL00TDUaab = tegu......aab:out
+RWEL00TDUaac = tegu......aac:out
+RWEL00TDUbaa = tegu......baa:out
+RWEL00TDUbab = tegu......bab:out
+RWEL00TDUbac = tegu......bac:out
+RWEL00TDUbad = tegu......bad:out
+RWEL00TDUcaa = tegu......caa:out
+RWEL00TDUcab = tegu......cab:out
+RWEL00TDUcac = tegu......cac:out
+@
+title: RWaRWEL00TDC_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWEL00TDCaaa = tegc......aaa:out
+RWEL00TDCaab = tegc......aab:out
+RWEL00TDCaac = tegc......aac:out
+RWEL00TDCbaa = tegc......baa:out
+RWEL00TDCbab = tegc......bab:out
+RWEL00TDCbac = tegc......bac:out
+RWEL00TDCbad = tegc......bad:out
+RWEL00TDCcaa = tegc......caa:out
+RWEL00TDCcab = tegc......cab:out
+RWEL00TDCcac = tegc......cac:out
+@
+title: RWaRWDSRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRC00aaa = sdgG......aaa:out
+RWDSRC00aab = sdgG......aab:out
+RWDSRC00aac = sdgG......aac:out
+RWDSRC00baa = sdgG......baa:out
+RWDSRC00bab = sdgG......bab:out
+RWDSRC00bac = sdgG......bac:out
+RWDSRC00bad = sdgG......bad:out
+RWDSRC00caa = sdgG......caa:out
+RWDSRC00cab = sdgG......cab:out
+RWDSRC00cac = sdgG......cac:out
+@
+title: RWaRWDSRC_RW_Diesel_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRC_RW_Dieselaaa = sdDG......aaa:out
+RWDSRC_RW_Dieselaab = sdDG......aab:out
+RWDSRC_RW_Dieselaac = sdDG......aac:out
+RWDSRC_RW_Dieselbaa = sdDG......baa:out
+RWDSRC_RW_Dieselbab = sdDG......bab:out
+RWDSRC_RW_Dieselbac = sdDG......bac:out
+RWDSRC_RW_Dieselbad = sdDG......bad:out
+RWDSRC_RW_Dieselcaa = sdDG......caa:out
+RWDSRC_RW_Dieselcab = sdDG......cab:out
+RWDSRC_RW_Dieselcac = sdDG......cac:out
+@
+title: RWaRWDSRC_Mukungwa_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRC_Mukungwaaaa = sdCG......aaa:out
+RWDSRC_Mukungwaaab = sdCG......aab:out
+RWDSRC_Mukungwaaac = sdCG......aac:out
+RWDSRC_Mukungwabaa = sdCG......baa:out
+RWDSRC_Mukungwabab = sdCG......bab:out
+RWDSRC_Mukungwabac = sdCG......bac:out
+RWDSRC_Mukungwabad = sdCG......bad:out
+RWDSRC_Mukungwacaa = sdCG......caa:out
+RWDSRC_Mukungwacab = sdCG......cab:out
+RWDSRC_Mukungwacac = sdCG......cac:out
+@
+title: RWaRWDSRC_Jabana1_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRC_Jabana1aaa = sdBG......aaa:out
+RWDSRC_Jabana1aab = sdBG......aab:out
+RWDSRC_Jabana1aac = sdBG......aac:out
+RWDSRC_Jabana1baa = sdBG......baa:out
+RWDSRC_Jabana1bab = sdBG......bab:out
+RWDSRC_Jabana1bac = sdBG......bac:out
+RWDSRC_Jabana1bad = sdBG......bad:out
+RWDSRC_Jabana1caa = sdBG......caa:out
+RWDSRC_Jabana1cab = sdBG......cab:out
+RWDSRC_Jabana1cac = sdBG......cac:out
+@
+title: RWaRWDSRC_Gikondo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRC_Gikondoaaa = sdAG......aaa:out
+RWDSRC_Gikondoaab = sdAG......aab:out
+RWDSRC_Gikondoaac = sdAG......aac:out
+RWDSRC_Gikondobaa = sdAG......baa:out
+RWDSRC_Gikondobab = sdAG......bab:out
+RWDSRC_Gikondobac = sdAG......bac:out
+RWDSRC_Gikondobad = sdAG......bad:out
+RWDSRC_Gikondocaa = sdAG......caa:out
+RWDSRC_Gikondocab = sdAG......cab:out
+RWDSRC_Gikondocac = sdAG......cac:out
+@
+title: RWaRWDSSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSSC00aaa = sdhG......aaa:out
+RWDSSC00aab = sdhG......aab:out
+RWDSSC00aac = sdhG......aac:out
+RWDSSC00baa = sdhG......baa:out
+RWDSSC00bab = sdhG......bab:out
+RWDSSC00bac = sdhG......bac:out
+RWDSSC00bad = sdhG......bad:out
+RWDSSC00caa = sdhG......caa:out
+RWDSSC00cab = sdhG......cab:out
+RWDSSC00cac = sdhG......cac:out
+@
+title: RWaRWDSRI00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRI00aaa = tdgi......aaa:out
+RWDSRI00aab = tdgi......aab:out
+RWDSRI00aac = tdgi......aac:out
+RWDSRI00baa = tdgi......baa:out
+RWDSRI00bab = tdgi......bab:out
+RWDSRI00bac = tdgi......bac:out
+RWDSRI00bad = tdgi......bad:out
+RWDSRI00caa = tdgi......caa:out
+RWDSRI00cab = tdgi......cab:out
+RWDSRI00cac = tdgi......cac:out
+@
+title: RWaRWDSRU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRU00aaa = tdgu......aaa:out
+RWDSRU00aab = tdgu......aab:out
+RWDSRU00aac = tdgu......aac:out
+RWDSRU00baa = tdgu......baa:out
+RWDSRU00bab = tdgu......bab:out
+RWDSRU00bac = tdgu......bac:out
+RWDSRU00bad = tdgu......bad:out
+RWDSRU00caa = tdgu......caa:out
+RWDSRU00cab = tdgu......cab:out
+RWDSRU00cac = tdgu......cac:out
+@
+title: RWaRWDSRB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRB00aaa = tdgc......aaa:out
+RWDSRB00aab = tdgc......aab:out
+RWDSRB00aac = tdgc......aac:out
+RWDSRB00baa = tdgc......baa:out
+RWDSRB00bab = tdgc......bab:out
+RWDSRB00bac = tdgc......bac:out
+RWDSRB00bad = tdgc......bad:out
+RWDSRB00caa = tdgc......caa:out
+RWDSRB00cab = tdgc......cab:out
+RWDSRB00cac = tdgc......cac:out
+@
+title: RWaRWDSRR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWDSRR00aaa = tdgr......aaa:out
+RWDSRR00aab = tdgr......aab:out
+RWDSRR00aac = tdgr......aac:out
+RWDSRR00baa = tdgr......baa:out
+RWDSRR00bab = tdgr......bab:out
+RWDSRR00bac = tdgr......bac:out
+RWDSRR00bad = tdgr......bad:out
+RWDSRR00caa = tdgr......caa:out
+RWDSRR00cab = tdgr......cab:out
+RWDSRR00cac = tdgr......cac:out
+@
+title: RWaRWHFRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHFRC00aaa = shgG......aaa:out
+RWHFRC00aab = shgG......aab:out
+RWHFRC00aac = shgG......aac:out
+RWHFRC00baa = shgG......baa:out
+RWHFRC00bab = shgG......bab:out
+RWHFRC00bac = shgG......bac:out
+RWHFRC00bad = shgG......bad:out
+RWHFRC00caa = shgG......caa:out
+RWHFRC00cab = shgG......cab:out
+RWHFRC00cac = shgG......cac:out
+@
+title: RWaRWHFRC_KSEZ_HFO_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHFRC_KSEZ_HFOaaa = shBG......aaa:out
+RWHFRC_KSEZ_HFOaab = shBG......aab:out
+RWHFRC_KSEZ_HFOaac = shBG......aac:out
+RWHFRC_KSEZ_HFObaa = shBG......baa:out
+RWHFRC_KSEZ_HFObab = shBG......bab:out
+RWHFRC_KSEZ_HFObac = shBG......bac:out
+RWHFRC_KSEZ_HFObad = shBG......bad:out
+RWHFRC_KSEZ_HFOcaa = shBG......caa:out
+RWHFRC_KSEZ_HFOcab = shBG......cab:out
+RWHFRC_KSEZ_HFOcac = shBG......cac:out
+@
+title: RWaRWHFRC_Jabana2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHFRC_Jabana2aaa = shAG......aaa:out
+RWHFRC_Jabana2aab = shAG......aab:out
+RWHFRC_Jabana2aac = shAG......aac:out
+RWHFRC_Jabana2baa = shAG......baa:out
+RWHFRC_Jabana2bab = shAG......bab:out
+RWHFRC_Jabana2bac = shAG......bac:out
+RWHFRC_Jabana2bad = shAG......bad:out
+RWHFRC_Jabana2caa = shAG......caa:out
+RWHFRC_Jabana2cab = shAG......cab:out
+RWHFRC_Jabana2cac = shAG......cac:out
+@
+title: RWaRWNGSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWNGSC00aaa = sggG......aaa:out
+RWNGSC00aab = sggG......aab:out
+RWNGSC00aac = sggG......aac:out
+RWNGSC00baa = sggG......baa:out
+RWNGSC00bab = sggG......bab:out
+RWNGSC00bac = sggG......bac:out
+RWNGSC00bad = sggG......bad:out
+RWNGSC00caa = sggG......caa:out
+RWNGSC00cab = sggG......cab:out
+RWNGSC00cac = sggG......cac:out
+@
+title: RWaRWNGSC_Shema_I_II_II_GT_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWNGSC_Shema_I_II_II_GTaaa = sgDG......aaa:out
+RWNGSC_Shema_I_II_II_GTaab = sgDG......aab:out
+RWNGSC_Shema_I_II_II_GTaac = sgDG......aac:out
+RWNGSC_Shema_I_II_II_GTbaa = sgDG......baa:out
+RWNGSC_Shema_I_II_II_GTbab = sgDG......bab:out
+RWNGSC_Shema_I_II_II_GTbac = sgDG......bac:out
+RWNGSC_Shema_I_II_II_GTbad = sgDG......bad:out
+RWNGSC_Shema_I_II_II_GTcaa = sgDG......caa:out
+RWNGSC_Shema_I_II_II_GTcab = sgDG......cab:out
+RWNGSC_Shema_I_II_II_GTcac = sgDG......cac:out
+@
+title: RWaRWNGSC_KivuWattGT_Existing_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWNGSC_KivuWattGT_Existingaaa = sgCG......aaa:out
+RWNGSC_KivuWattGT_Existingaab = sgCG......aab:out
+RWNGSC_KivuWattGT_Existingaac = sgCG......aac:out
+RWNGSC_KivuWattGT_Existingbaa = sgCG......baa:out
+RWNGSC_KivuWattGT_Existingbab = sgCG......bab:out
+RWNGSC_KivuWattGT_Existingbac = sgCG......bac:out
+RWNGSC_KivuWattGT_Existingbad = sgCG......bad:out
+RWNGSC_KivuWattGT_Existingcaa = sgCG......caa:out
+RWNGSC_KivuWattGT_Existingcab = sgCG......cab:out
+RWNGSC_KivuWattGT_Existingcac = sgCG......cac:out
+@
+title: RWaRWNGSC_KP1_Gisenyi_Methan_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWNGSC_KP1_Gisenyi_Methanaaa = sgBG......aaa:out
+RWNGSC_KP1_Gisenyi_Methanaab = sgBG......aab:out
+RWNGSC_KP1_Gisenyi_Methanaac = sgBG......aac:out
+RWNGSC_KP1_Gisenyi_Methanbaa = sgBG......baa:out
+RWNGSC_KP1_Gisenyi_Methanbab = sgBG......bab:out
+RWNGSC_KP1_Gisenyi_Methanbac = sgBG......bac:out
+RWNGSC_KP1_Gisenyi_Methanbad = sgBG......bad:out
+RWNGSC_KP1_Gisenyi_Methancaa = sgBG......caa:out
+RWNGSC_KP1_Gisenyi_Methancab = sgBG......cab:out
+RWNGSC_KP1_Gisenyi_Methancac = sgBG......cac:out
+@
+title: RWaRWCOSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWCOSC00aaa = scgG......aaa:out
+RWCOSC00aab = scgG......aab:out
+RWCOSC00aac = scgG......aac:out
+RWCOSC00baa = scgG......baa:out
+RWCOSC00bab = scgG......bab:out
+RWCOSC00bac = scgG......bac:out
+RWCOSC00bad = scgG......bad:out
+RWCOSC00caa = scgG......caa:out
+RWCOSC00cab = scgG......cab:out
+RWCOSC00cac = scgG......cac:out
+@
+title: RWaRWCOSC_HakanPeat_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWCOSC_HakanPeataaa = scCG......aaa:out
+RWCOSC_HakanPeataab = scCG......aab:out
+RWCOSC_HakanPeataac = scCG......aac:out
+RWCOSC_HakanPeatbaa = scCG......baa:out
+RWCOSC_HakanPeatbab = scCG......bab:out
+RWCOSC_HakanPeatbac = scCG......bac:out
+RWCOSC_HakanPeatbad = scCG......bad:out
+RWCOSC_HakanPeatcaa = scCG......caa:out
+RWCOSC_HakanPeatcab = scCG......cab:out
+RWCOSC_HakanPeatcac = scCG......cac:out
+@
+title: RWaRWCOSC_Gishoma_Peat_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWCOSC_Gishoma_Peataaa = scBG......aaa:out
+RWCOSC_Gishoma_Peataab = scBG......aab:out
+RWCOSC_Gishoma_Peataac = scBG......aac:out
+RWCOSC_Gishoma_Peatbaa = scBG......baa:out
+RWCOSC_Gishoma_Peatbab = scBG......bab:out
+RWCOSC_Gishoma_Peatbac = scBG......bac:out
+RWCOSC_Gishoma_Peatbad = scBG......bad:out
+RWCOSC_Gishoma_Peatcaa = scBG......caa:out
+RWCOSC_Gishoma_Peatcab = scBG......cab:out
+RWCOSC_Gishoma_Peatcac = scBG......cac:out
+@
+title: RWaRWCOSC_Akanyaru_Peat_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWCOSC_Akanyaru_Peataaa = scAG......aaa:out
+RWCOSC_Akanyaru_Peataab = scAG......aab:out
+RWCOSC_Akanyaru_Peataac = scAG......aac:out
+RWCOSC_Akanyaru_Peatbaa = scAG......baa:out
+RWCOSC_Akanyaru_Peatbab = scAG......bab:out
+RWCOSC_Akanyaru_Peatbac = scAG......bac:out
+RWCOSC_Akanyaru_Peatbad = scAG......bad:out
+RWCOSC_Akanyaru_Peatcaa = scAG......caa:out
+RWCOSC_Akanyaru_Peatcab = scAG......cab:out
+RWCOSC_Akanyaru_Peatcac = scAG......cac:out
+@
+title: RWaRWNGCC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWNGCC00aaa = sghG......aaa:out
+RWNGCC00aab = sghG......aab:out
+RWNGCC00aac = sghG......aac:out
+RWNGCC00baa = sghG......baa:out
+RWNGCC00bab = sghG......bab:out
+RWNGCC00bac = sghG......bac:out
+RWNGCC00bad = sghG......bad:out
+RWNGCC00caa = sghG......caa:out
+RWNGCC00cab = sghG......cab:out
+RWNGCC00cac = sghG......cac:out
+@
+title: RWaRWSOPC_JaliSolar_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPC_JaliSolaraaa = ssCG......aaa:out
+RWSOPC_JaliSolaraab = ssCG......aab:out
+RWSOPC_JaliSolaraac = ssCG......aac:out
+RWSOPC_JaliSolarbaa = ssCG......baa:out
+RWSOPC_JaliSolarbab = ssCG......bab:out
+RWSOPC_JaliSolarbac = ssCG......bac:out
+RWSOPC_JaliSolarbad = ssCG......bad:out
+RWSOPC_JaliSolarcaa = ssCG......caa:out
+RWSOPC_JaliSolarcab = ssCG......cab:out
+RWSOPC_JaliSolarcac = ssCG......cac:out
+@
+title: RWaRWSOPCZ005_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPCZ005aaa = ssHG......aaa:out
+RWSOPCZ005aab = ssHG......aab:out
+RWSOPCZ005aac = ssHG......aac:out
+RWSOPCZ005baa = ssHG......baa:out
+RWSOPCZ005bab = ssHG......bab:out
+RWSOPCZ005bac = ssHG......bac:out
+RWSOPCZ005bad = ssHG......bad:out
+RWSOPCZ005caa = ssHG......caa:out
+RWSOPCZ005cab = ssHG......cab:out
+RWSOPCZ005cac = ssHG......cac:out
+@
+title: RWaRWSOPCZ004_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPCZ004aaa = ssGG......aaa:out
+RWSOPCZ004aab = ssGG......aab:out
+RWSOPCZ004aac = ssGG......aac:out
+RWSOPCZ004baa = ssGG......baa:out
+RWSOPCZ004bab = ssGG......bab:out
+RWSOPCZ004bac = ssGG......bac:out
+RWSOPCZ004bad = ssGG......bad:out
+RWSOPCZ004caa = ssGG......caa:out
+RWSOPCZ004cab = ssGG......cab:out
+RWSOPCZ004cac = ssGG......cac:out
+@
+title: RWaRWSOPCZ003_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPCZ003aaa = ssFG......aaa:out
+RWSOPCZ003aab = ssFG......aab:out
+RWSOPCZ003aac = ssFG......aac:out
+RWSOPCZ003baa = ssFG......baa:out
+RWSOPCZ003bab = ssFG......bab:out
+RWSOPCZ003bac = ssFG......bac:out
+RWSOPCZ003bad = ssFG......bad:out
+RWSOPCZ003caa = ssFG......caa:out
+RWSOPCZ003cab = ssFG......cab:out
+RWSOPCZ003cac = ssFG......cac:out
+@
+title: RWaRWSOPCZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPCZ002aaa = ssBG......aaa:out
+RWSOPCZ002aab = ssBG......aab:out
+RWSOPCZ002aac = ssBG......aac:out
+RWSOPCZ002baa = ssBG......baa:out
+RWSOPCZ002bab = ssBG......bab:out
+RWSOPCZ002bac = ssBG......bac:out
+RWSOPCZ002bad = ssBG......bad:out
+RWSOPCZ002caa = ssBG......caa:out
+RWSOPCZ002cab = ssBG......cab:out
+RWSOPCZ002cac = ssBG......cac:out
+@
+title: RWaRWSOPCZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPCZ001aaa = ssAG......aaa:out
+RWSOPCZ001aab = ssAG......aab:out
+RWSOPCZ001aac = ssAG......aac:out
+RWSOPCZ001baa = ssAG......baa:out
+RWSOPCZ001bab = ssAG......bab:out
+RWSOPCZ001bac = ssAG......bac:out
+RWSOPCZ001bad = ssAG......bad:out
+RWSOPCZ001caa = ssAG......caa:out
+RWSOPCZ001cab = ssAG......cab:out
+RWSOPCZ001cac = ssAG......cac:out
+@
+title: RWaRWGOCV00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWGOCV00aaa = s.jG......aaa:out
+RWGOCV00aab = s.jG......aab:out
+RWGOCV00aac = s.jG......aac:out
+RWGOCV00baa = s.jG......baa:out
+RWGOCV00bab = s.jG......bab:out
+RWGOCV00bac = s.jG......bac:out
+RWGOCV00bad = s.jG......bad:out
+RWGOCV00caa = s.jG......caa:out
+RWGOCV00cab = s.jG......cab:out
+RWGOCV00cac = s.jG......cac:out
+@
+title: RWaRWBMST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWBMST00aaa = sbgG......aaa:out
+RWBMST00aab = sbgG......aab:out
+RWBMST00aac = sbgG......aac:out
+RWBMST00baa = sbgG......baa:out
+RWBMST00bab = sbgG......bab:out
+RWBMST00bac = sbgG......bac:out
+RWBMST00bad = sbgG......bad:out
+RWBMST00caa = sbgG......caa:out
+RWBMST00cab = sbgG......cab:out
+RWBMST00cac = sbgG......cac:out
+@
+title: RWaRWBMST02_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWBMST02aaa = sbBG......aaa:out
+RWBMST02aab = sbBG......aab:out
+RWBMST02aac = sbBG......aac:out
+RWBMST02baa = sbBG......baa:out
+RWBMST02bab = sbBG......bab:out
+RWBMST02bac = sbBG......bac:out
+RWBMST02bad = sbBG......bad:out
+RWBMST02caa = sbBG......caa:out
+RWBMST02cab = sbBG......cab:out
+RWBMST02cac = sbBG......cac:out
+@
+title: RWaRWBMST01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWBMST01aaa = sbAG......aaa:out
+RWBMST01aab = sbAG......aab:out
+RWBMST01aac = sbAG......aac:out
+RWBMST01baa = sbAG......baa:out
+RWBMST01bab = sbAG......bab:out
+RWBMST01bac = sbAG......bac:out
+RWBMST01bad = sbAG......bad:out
+RWBMST01caa = sbAG......caa:out
+RWBMST01cab = sbAG......cab:out
+RWBMST01cac = sbAG......cac:out
+@
+title: RWaRWBWST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWBWST00aaa = sBaG......aaa:out
+RWBWST00aab = sBaG......aab:out
+RWBWST00aac = sBaG......aac:out
+RWBWST00baa = sBaG......baa:out
+RWBWST00bab = sBaG......bab:out
+RWBWST00bac = sBaG......bac:out
+RWBWST00bad = sBaG......bad:out
+RWBWST00caa = sBaG......caa:out
+RWBWST00cab = sBaG......cab:out
+RWBWST00cac = sBaG......cac:out
+@
+title: RWaRWHYRO_Uganda_imports_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Uganda_importsaaa = sHwG......aaa:out
+RWHYRO_Uganda_importsaab = sHwG......aab:out
+RWHYRO_Uganda_importsaac = sHwG......aac:out
+RWHYRO_Uganda_importsbaa = sHwG......baa:out
+RWHYRO_Uganda_importsbab = sHwG......bab:out
+RWHYRO_Uganda_importsbac = sHwG......bac:out
+RWHYRO_Uganda_importsbad = sHwG......bad:out
+RWHYRO_Uganda_importscaa = sHwG......caa:out
+RWHYRO_Uganda_importscab = sHwG......cab:out
+RWHYRO_Uganda_importscac = sHwG......cac:out
+@
+title: RWaRWHYRO_Rukarara_V_Mushishito_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rukarara_V_Mushishitoaaa = sHvG......aaa:out
+RWHYRO_Rukarara_V_Mushishitoaab = sHvG......aab:out
+RWHYRO_Rukarara_V_Mushishitoaac = sHvG......aac:out
+RWHYRO_Rukarara_V_Mushishitobaa = sHvG......baa:out
+RWHYRO_Rukarara_V_Mushishitobab = sHvG......bab:out
+RWHYRO_Rukarara_V_Mushishitobac = sHvG......bac:out
+RWHYRO_Rukarara_V_Mushishitobad = sHvG......bad:out
+RWHYRO_Rukarara_V_Mushishitocaa = sHvG......caa:out
+RWHYRO_Rukarara_V_Mushishitocab = sHvG......cab:out
+RWHYRO_Rukarara_V_Mushishitocac = sHvG......cac:out
+@
+title: RWaRWHYRO_Agatobwe_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Agatobwe_HY_genaaa = sHuG......aaa:out
+RWHYRO_Agatobwe_HY_genaab = sHuG......aab:out
+RWHYRO_Agatobwe_HY_genaac = sHuG......aac:out
+RWHYRO_Agatobwe_HY_genbaa = sHuG......baa:out
+RWHYRO_Agatobwe_HY_genbab = sHuG......bab:out
+RWHYRO_Agatobwe_HY_genbac = sHuG......bac:out
+RWHYRO_Agatobwe_HY_genbad = sHuG......bad:out
+RWHYRO_Agatobwe_HY_gencaa = sHuG......caa:out
+RWHYRO_Agatobwe_HY_gencab = sHuG......cab:out
+RWHYRO_Agatobwe_HY_gencac = sHuG......cac:out
+@
+title: RWaRWHYRO_Bihongore_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Bihongore_HY_genaaa = sHtG......aaa:out
+RWHYRO_Bihongore_HY_genaab = sHtG......aab:out
+RWHYRO_Bihongore_HY_genaac = sHtG......aac:out
+RWHYRO_Bihongore_HY_genbaa = sHtG......baa:out
+RWHYRO_Bihongore_HY_genbab = sHtG......bab:out
+RWHYRO_Bihongore_HY_genbac = sHtG......bac:out
+RWHYRO_Bihongore_HY_genbad = sHtG......bad:out
+RWHYRO_Bihongore_HY_gencaa = sHtG......caa:out
+RWHYRO_Bihongore_HY_gencab = sHtG......cab:out
+RWHYRO_Bihongore_HY_gencac = sHtG......cac:out
+@
+title: RWaRWHYRO_Cyimbili_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Cyimbili_HY_genaaa = sHsG......aaa:out
+RWHYRO_Cyimbili_HY_genaab = sHsG......aab:out
+RWHYRO_Cyimbili_HY_genaac = sHsG......aac:out
+RWHYRO_Cyimbili_HY_genbaa = sHsG......baa:out
+RWHYRO_Cyimbili_HY_genbab = sHsG......bab:out
+RWHYRO_Cyimbili_HY_genbac = sHsG......bac:out
+RWHYRO_Cyimbili_HY_genbad = sHsG......bad:out
+RWHYRO_Cyimbili_HY_gencaa = sHsG......caa:out
+RWHYRO_Cyimbili_HY_gencab = sHsG......cab:out
+RWHYRO_Cyimbili_HY_gencac = sHsG......cac:out
+@
+title: RWaRWHYRO_GakenkeBaseIIMHPP_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_GakenkeBaseIIMHPP_HY_genaaa = sHrG......aaa:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genaab = sHrG......aab:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genaac = sHrG......aac:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genbaa = sHrG......baa:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genbab = sHrG......bab:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genbac = sHrG......bac:out
+RWHYRO_GakenkeBaseIIMHPP_HY_genbad = sHrG......bad:out
+RWHYRO_GakenkeBaseIIMHPP_HY_gencaa = sHrG......caa:out
+RWHYRO_GakenkeBaseIIMHPP_HY_gencab = sHrG......cab:out
+RWHYRO_GakenkeBaseIIMHPP_HY_gencac = sHrG......cac:out
+@
+title: RWaRWHYRO_GakenkeBaseIMHPP_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_GakenkeBaseIMHPP_HY_genaaa = sHqG......aaa:out
+RWHYRO_GakenkeBaseIMHPP_HY_genaab = sHqG......aab:out
+RWHYRO_GakenkeBaseIMHPP_HY_genaac = sHqG......aac:out
+RWHYRO_GakenkeBaseIMHPP_HY_genbaa = sHqG......baa:out
+RWHYRO_GakenkeBaseIMHPP_HY_genbab = sHqG......bab:out
+RWHYRO_GakenkeBaseIMHPP_HY_genbac = sHqG......bac:out
+RWHYRO_GakenkeBaseIMHPP_HY_genbad = sHqG......bad:out
+RWHYRO_GakenkeBaseIMHPP_HY_gencaa = sHqG......caa:out
+RWHYRO_GakenkeBaseIMHPP_HY_gencab = sHqG......cab:out
+RWHYRO_GakenkeBaseIMHPP_HY_gencac = sHqG......cac:out
+@
+title: RWaRWHYRO_Gaseke_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Gaseke_HY_genaaa = sHpG......aaa:out
+RWHYRO_Gaseke_HY_genaab = sHpG......aab:out
+RWHYRO_Gaseke_HY_genaac = sHpG......aac:out
+RWHYRO_Gaseke_HY_genbaa = sHpG......baa:out
+RWHYRO_Gaseke_HY_genbab = sHpG......bab:out
+RWHYRO_Gaseke_HY_genbac = sHpG......bac:out
+RWHYRO_Gaseke_HY_genbad = sHpG......bad:out
+RWHYRO_Gaseke_HY_gencaa = sHpG......caa:out
+RWHYRO_Gaseke_HY_gencab = sHpG......cab:out
+RWHYRO_Gaseke_HY_gencac = sHpG......cac:out
+@
+title: RWaRWHYRO_Gashashi_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Gashashi_HY_genaaa = sHoG......aaa:out
+RWHYRO_Gashashi_HY_genaab = sHoG......aab:out
+RWHYRO_Gashashi_HY_genaac = sHoG......aac:out
+RWHYRO_Gashashi_HY_genbaa = sHoG......baa:out
+RWHYRO_Gashashi_HY_genbab = sHoG......bab:out
+RWHYRO_Gashashi_HY_genbac = sHoG......bac:out
+RWHYRO_Gashashi_HY_genbad = sHoG......bad:out
+RWHYRO_Gashashi_HY_gencaa = sHoG......caa:out
+RWHYRO_Gashashi_HY_gencab = sHoG......cab:out
+RWHYRO_Gashashi_HY_gencac = sHoG......cac:out
+@
+title: RWaRWHYRO_GiciyeI_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_GiciyeI_HY_genaaa = sHnG......aaa:out
+RWHYRO_GiciyeI_HY_genaab = sHnG......aab:out
+RWHYRO_GiciyeI_HY_genaac = sHnG......aac:out
+RWHYRO_GiciyeI_HY_genbaa = sHnG......baa:out
+RWHYRO_GiciyeI_HY_genbab = sHnG......bab:out
+RWHYRO_GiciyeI_HY_genbac = sHnG......bac:out
+RWHYRO_GiciyeI_HY_genbad = sHnG......bad:out
+RWHYRO_GiciyeI_HY_gencaa = sHnG......caa:out
+RWHYRO_GiciyeI_HY_gencab = sHnG......cab:out
+RWHYRO_GiciyeI_HY_gencac = sHnG......cac:out
+@
+title: RWaRWHYRO_GiciyeII_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_GiciyeII_HY_genaaa = sHmG......aaa:out
+RWHYRO_GiciyeII_HY_genaab = sHmG......aab:out
+RWHYRO_GiciyeII_HY_genaac = sHmG......aac:out
+RWHYRO_GiciyeII_HY_genbaa = sHmG......baa:out
+RWHYRO_GiciyeII_HY_genbab = sHmG......bab:out
+RWHYRO_GiciyeII_HY_genbac = sHmG......bac:out
+RWHYRO_GiciyeII_HY_genbad = sHmG......bad:out
+RWHYRO_GiciyeII_HY_gencaa = sHmG......caa:out
+RWHYRO_GiciyeII_HY_gencab = sHmG......cab:out
+RWHYRO_GiciyeII_HY_gencac = sHmG......cac:out
+@
+title: RWaRWHYRO_GiciyeIII_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_GiciyeIII_HY_genaaa = sHlG......aaa:out
+RWHYRO_GiciyeIII_HY_genaab = sHlG......aab:out
+RWHYRO_GiciyeIII_HY_genaac = sHlG......aac:out
+RWHYRO_GiciyeIII_HY_genbaa = sHlG......baa:out
+RWHYRO_GiciyeIII_HY_genbab = sHlG......bab:out
+RWHYRO_GiciyeIII_HY_genbac = sHlG......bac:out
+RWHYRO_GiciyeIII_HY_genbad = sHlG......bad:out
+RWHYRO_GiciyeIII_HY_gencaa = sHlG......caa:out
+RWHYRO_GiciyeIII_HY_gencab = sHlG......cab:out
+RWHYRO_GiciyeIII_HY_gencac = sHlG......cac:out
+@
+title: RWaRWHYRO_Gihira_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Gihira_HY_genaaa = sHkG......aaa:out
+RWHYRO_Gihira_HY_genaab = sHkG......aab:out
+RWHYRO_Gihira_HY_genaac = sHkG......aac:out
+RWHYRO_Gihira_HY_genbaa = sHkG......baa:out
+RWHYRO_Gihira_HY_genbab = sHkG......bab:out
+RWHYRO_Gihira_HY_genbac = sHkG......bac:out
+RWHYRO_Gihira_HY_genbad = sHkG......bad:out
+RWHYRO_Gihira_HY_gencaa = sHkG......caa:out
+RWHYRO_Gihira_HY_gencab = sHkG......cab:out
+RWHYRO_Gihira_HY_gencac = sHkG......cac:out
+@
+title: RWaRWHYRO_Gisenyi_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Gisenyi_HY_genaaa = sHjG......aaa:out
+RWHYRO_Gisenyi_HY_genaab = sHjG......aab:out
+RWHYRO_Gisenyi_HY_genaac = sHjG......aac:out
+RWHYRO_Gisenyi_HY_genbaa = sHjG......baa:out
+RWHYRO_Gisenyi_HY_genbab = sHjG......bab:out
+RWHYRO_Gisenyi_HY_genbac = sHjG......bac:out
+RWHYRO_Gisenyi_HY_genbad = sHjG......bad:out
+RWHYRO_Gisenyi_HY_gencaa = sHjG......caa:out
+RWHYRO_Gisenyi_HY_gencab = sHjG......cab:out
+RWHYRO_Gisenyi_HY_gencac = sHjG......cac:out
+@
+title: RWaRWHYRO_Janja_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Janja_HY_genaaa = sHiG......aaa:out
+RWHYRO_Janja_HY_genaab = sHiG......aab:out
+RWHYRO_Janja_HY_genaac = sHiG......aac:out
+RWHYRO_Janja_HY_genbaa = sHiG......baa:out
+RWHYRO_Janja_HY_genbab = sHiG......bab:out
+RWHYRO_Janja_HY_genbac = sHiG......bac:out
+RWHYRO_Janja_HY_genbad = sHiG......bad:out
+RWHYRO_Janja_HY_gencaa = sHiG......caa:out
+RWHYRO_Janja_HY_gencab = sHiG......cab:out
+RWHYRO_Janja_HY_gencac = sHiG......cac:out
+@
+title: RWaRWHYRO_Kabavu_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Kabavu_HY_genaaa = sHfG......aaa:out
+RWHYRO_Kabavu_HY_genaab = sHfG......aab:out
+RWHYRO_Kabavu_HY_genaac = sHfG......aac:out
+RWHYRO_Kabavu_HY_genbaa = sHfG......baa:out
+RWHYRO_Kabavu_HY_genbab = sHfG......bab:out
+RWHYRO_Kabavu_HY_genbac = sHfG......bac:out
+RWHYRO_Kabavu_HY_genbad = sHfG......bad:out
+RWHYRO_Kabavu_HY_gencaa = sHfG......caa:out
+RWHYRO_Kabavu_HY_gencab = sHfG......cab:out
+RWHYRO_Kabavu_HY_gencac = sHfG......cac:out
+@
+title: RWaRWHYRO_Keya_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Keya_HY_genaaa = sHeG......aaa:out
+RWHYRO_Keya_HY_genaab = sHeG......aab:out
+RWHYRO_Keya_HY_genaac = sHeG......aac:out
+RWHYRO_Keya_HY_genbaa = sHeG......baa:out
+RWHYRO_Keya_HY_genbab = sHeG......bab:out
+RWHYRO_Keya_HY_genbac = sHeG......bac:out
+RWHYRO_Keya_HY_genbad = sHeG......bad:out
+RWHYRO_Keya_HY_gencaa = sHeG......caa:out
+RWHYRO_Keya_HY_gencab = sHeG......cab:out
+RWHYRO_Keya_HY_gencac = sHeG......cac:out
+@
+title: RWaRWHYRO_Kigasa_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Kigasa_HY_genaaa = sHdG......aaa:out
+RWHYRO_Kigasa_HY_genaab = sHdG......aab:out
+RWHYRO_Kigasa_HY_genaac = sHdG......aac:out
+RWHYRO_Kigasa_HY_genbaa = sHdG......baa:out
+RWHYRO_Kigasa_HY_genbab = sHdG......bab:out
+RWHYRO_Kigasa_HY_genbac = sHdG......bac:out
+RWHYRO_Kigasa_HY_genbad = sHdG......bad:out
+RWHYRO_Kigasa_HY_gencaa = sHdG......caa:out
+RWHYRO_Kigasa_HY_gencab = sHdG......cab:out
+RWHYRO_Kigasa_HY_gencac = sHdG......cac:out
+@
+title: RWaRWHYRO_Kilimbi_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Kilimbi_HY_genaaa = sHcG......aaa:out
+RWHYRO_Kilimbi_HY_genaab = sHcG......aab:out
+RWHYRO_Kilimbi_HY_genaac = sHcG......aac:out
+RWHYRO_Kilimbi_HY_genbaa = sHcG......baa:out
+RWHYRO_Kilimbi_HY_genbab = sHcG......bab:out
+RWHYRO_Kilimbi_HY_genbac = sHcG......bac:out
+RWHYRO_Kilimbi_HY_genbad = sHcG......bad:out
+RWHYRO_Kilimbi_HY_gencaa = sHcG......caa:out
+RWHYRO_Kilimbi_HY_gencab = sHcG......cab:out
+RWHYRO_Kilimbi_HY_gencac = sHcG......cac:out
+@
+title: RWaRWHYRO_Kore_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Kore_HY_genaaa = sHbG......aaa:out
+RWHYRO_Kore_HY_genaab = sHbG......aab:out
+RWHYRO_Kore_HY_genaac = sHbG......aac:out
+RWHYRO_Kore_HY_genbaa = sHbG......baa:out
+RWHYRO_Kore_HY_genbab = sHbG......bab:out
+RWHYRO_Kore_HY_genbac = sHbG......bac:out
+RWHYRO_Kore_HY_genbad = sHbG......bad:out
+RWHYRO_Kore_HY_gencaa = sHbG......caa:out
+RWHYRO_Kore_HY_gencab = sHbG......cab:out
+RWHYRO_Kore_HY_gencac = sHbG......cac:out
+@
+title: RWaRWHYRO_Mazimeru_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Mazimeru_HY_genaaa = sHaG......aaa:out
+RWHYRO_Mazimeru_HY_genaab = sHaG......aab:out
+RWHYRO_Mazimeru_HY_genaac = sHaG......aac:out
+RWHYRO_Mazimeru_HY_genbaa = sHaG......baa:out
+RWHYRO_Mazimeru_HY_genbab = sHaG......bab:out
+RWHYRO_Mazimeru_HY_genbac = sHaG......bac:out
+RWHYRO_Mazimeru_HY_genbad = sHaG......bad:out
+RWHYRO_Mazimeru_HY_gencaa = sHaG......caa:out
+RWHYRO_Mazimeru_HY_gencab = sHaG......cab:out
+RWHYRO_Mazimeru_HY_gencac = sHaG......cac:out
+@
+title: RWaRWHYRO_Muhembe_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Muhembe_HY_genaaa = sHZG......aaa:out
+RWHYRO_Muhembe_HY_genaab = sHZG......aab:out
+RWHYRO_Muhembe_HY_genaac = sHZG......aac:out
+RWHYRO_Muhembe_HY_genbaa = sHZG......baa:out
+RWHYRO_Muhembe_HY_genbab = sHZG......bab:out
+RWHYRO_Muhembe_HY_genbac = sHZG......bac:out
+RWHYRO_Muhembe_HY_genbad = sHZG......bad:out
+RWHYRO_Muhembe_HY_gencaa = sHZG......caa:out
+RWHYRO_Muhembe_HY_gencab = sHZG......cab:out
+RWHYRO_Muhembe_HY_gencac = sHZG......cac:out
+@
+title: RWaRWHYRO_Mukungwa1_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Mukungwa1_HY_genaaa = sHYG......aaa:out
+RWHYRO_Mukungwa1_HY_genaab = sHYG......aab:out
+RWHYRO_Mukungwa1_HY_genaac = sHYG......aac:out
+RWHYRO_Mukungwa1_HY_genbaa = sHYG......baa:out
+RWHYRO_Mukungwa1_HY_genbab = sHYG......bab:out
+RWHYRO_Mukungwa1_HY_genbac = sHYG......bac:out
+RWHYRO_Mukungwa1_HY_genbad = sHYG......bad:out
+RWHYRO_Mukungwa1_HY_gencaa = sHYG......caa:out
+RWHYRO_Mukungwa1_HY_gencab = sHYG......cab:out
+RWHYRO_Mukungwa1_HY_gencac = sHYG......cac:out
+@
+title: RWaRWHYRO_Mukungwa2_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Mukungwa2_HY_genaaa = sHXG......aaa:out
+RWHYRO_Mukungwa2_HY_genaab = sHXG......aab:out
+RWHYRO_Mukungwa2_HY_genaac = sHXG......aac:out
+RWHYRO_Mukungwa2_HY_genbaa = sHXG......baa:out
+RWHYRO_Mukungwa2_HY_genbab = sHXG......bab:out
+RWHYRO_Mukungwa2_HY_genbac = sHXG......bac:out
+RWHYRO_Mukungwa2_HY_genbad = sHXG......bad:out
+RWHYRO_Mukungwa2_HY_gencaa = sHXG......caa:out
+RWHYRO_Mukungwa2_HY_gencab = sHXG......cab:out
+RWHYRO_Mukungwa2_HY_gencac = sHXG......cac:out
+@
+title: RWaRWHYRO_Murunda_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Murunda_HY_genaaa = sHWG......aaa:out
+RWHYRO_Murunda_HY_genaab = sHWG......aab:out
+RWHYRO_Murunda_HY_genaac = sHWG......aac:out
+RWHYRO_Murunda_HY_genbaa = sHWG......baa:out
+RWHYRO_Murunda_HY_genbab = sHWG......bab:out
+RWHYRO_Murunda_HY_genbac = sHWG......bac:out
+RWHYRO_Murunda_HY_genbad = sHWG......bad:out
+RWHYRO_Murunda_HY_gencaa = sHWG......caa:out
+RWHYRO_Murunda_HY_gencab = sHWG......cab:out
+RWHYRO_Murunda_HY_gencac = sHWG......cac:out
+@
+title: RWaRWHYRO_Musarara_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Musarara_HY_genaaa = sHVG......aaa:out
+RWHYRO_Musarara_HY_genaab = sHVG......aab:out
+RWHYRO_Musarara_HY_genaac = sHVG......aac:out
+RWHYRO_Musarara_HY_genbaa = sHVG......baa:out
+RWHYRO_Musarara_HY_genbab = sHVG......bab:out
+RWHYRO_Musarara_HY_genbac = sHVG......bac:out
+RWHYRO_Musarara_HY_genbad = sHVG......bad:out
+RWHYRO_Musarara_HY_gencaa = sHVG......caa:out
+RWHYRO_Musarara_HY_gencab = sHVG......cab:out
+RWHYRO_Musarara_HY_gencac = sHVG......cac:out
+@
+title: RWaRWHYRO_Rukarara_6_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rukarara_6aaa = sHUG......aaa:out
+RWHYRO_Rukarara_6aab = sHUG......aab:out
+RWHYRO_Rukarara_6aac = sHUG......aac:out
+RWHYRO_Rukarara_6baa = sHUG......baa:out
+RWHYRO_Rukarara_6bab = sHUG......bab:out
+RWHYRO_Rukarara_6bac = sHUG......bac:out
+RWHYRO_Rukarara_6bad = sHUG......bad:out
+RWHYRO_Rukarara_6caa = sHUG......caa:out
+RWHYRO_Rukarara_6cab = sHUG......cab:out
+RWHYRO_Rukarara_6cac = sHUG......cac:out
+@
+title: RWaRWHYRO_Mutobo_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Mutobo_HY_genaaa = sHTG......aaa:out
+RWHYRO_Mutobo_HY_genaab = sHTG......aab:out
+RWHYRO_Mutobo_HY_genaac = sHTG......aac:out
+RWHYRO_Mutobo_HY_genbaa = sHTG......baa:out
+RWHYRO_Mutobo_HY_genbab = sHTG......bab:out
+RWHYRO_Mutobo_HY_genbac = sHTG......bac:out
+RWHYRO_Mutobo_HY_genbad = sHTG......bad:out
+RWHYRO_Mutobo_HY_gencaa = sHTG......caa:out
+RWHYRO_Mutobo_HY_gencab = sHTG......cab:out
+RWHYRO_Mutobo_HY_gencac = sHTG......cac:out
+@
+title: RWaRWHYRO_Ngororero_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Ngororero_HY_genaaa = sHSG......aaa:out
+RWHYRO_Ngororero_HY_genaab = sHSG......aab:out
+RWHYRO_Ngororero_HY_genaac = sHSG......aac:out
+RWHYRO_Ngororero_HY_genbaa = sHSG......baa:out
+RWHYRO_Ngororero_HY_genbab = sHSG......bab:out
+RWHYRO_Ngororero_HY_genbac = sHSG......bac:out
+RWHYRO_Ngororero_HY_genbad = sHSG......bad:out
+RWHYRO_Ngororero_HY_gencaa = sHSG......caa:out
+RWHYRO_Ngororero_HY_gencab = sHSG......cab:out
+RWHYRO_Ngororero_HY_gencac = sHSG......cac:out
+@
+title: RWaRWHYRO_Nkora_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nkora_HY_genaaa = sHRG......aaa:out
+RWHYRO_Nkora_HY_genaab = sHRG......aab:out
+RWHYRO_Nkora_HY_genaac = sHRG......aac:out
+RWHYRO_Nkora_HY_genbaa = sHRG......baa:out
+RWHYRO_Nkora_HY_genbab = sHRG......bab:out
+RWHYRO_Nkora_HY_genbac = sHRG......bac:out
+RWHYRO_Nkora_HY_genbad = sHRG......bad:out
+RWHYRO_Nkora_HY_gencaa = sHRG......caa:out
+RWHYRO_Nkora_HY_gencab = sHRG......cab:out
+RWHYRO_Nkora_HY_gencac = sHRG......cac:out
+@
+title: RWaRWHYRO_Nshiri_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nshiri_HY_genaaa = sHQG......aaa:out
+RWHYRO_Nshiri_HY_genaab = sHQG......aab:out
+RWHYRO_Nshiri_HY_genaac = sHQG......aac:out
+RWHYRO_Nshiri_HY_genbaa = sHQG......baa:out
+RWHYRO_Nshiri_HY_genbab = sHQG......bab:out
+RWHYRO_Nshiri_HY_genbac = sHQG......bac:out
+RWHYRO_Nshiri_HY_genbad = sHQG......bad:out
+RWHYRO_Nshiri_HY_gencaa = sHQG......caa:out
+RWHYRO_Nshiri_HY_gencab = sHQG......cab:out
+RWHYRO_Nshiri_HY_gencac = sHQG......cac:out
+@
+title: RWaRWHYRO_NtarukaI_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_NtarukaI_HY_genaaa = sHPG......aaa:out
+RWHYRO_NtarukaI_HY_genaab = sHPG......aab:out
+RWHYRO_NtarukaI_HY_genaac = sHPG......aac:out
+RWHYRO_NtarukaI_HY_genbaa = sHPG......baa:out
+RWHYRO_NtarukaI_HY_genbab = sHPG......bab:out
+RWHYRO_NtarukaI_HY_genbac = sHPG......bac:out
+RWHYRO_NtarukaI_HY_genbad = sHPG......bad:out
+RWHYRO_NtarukaI_HY_gencaa = sHPG......caa:out
+RWHYRO_NtarukaI_HY_gencab = sHPG......cab:out
+RWHYRO_NtarukaI_HY_gencac = sHPG......cac:out
+@
+title: RWaRWHYRO_NtarukaII_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_NtarukaII_HY_genaaa = sHOG......aaa:out
+RWHYRO_NtarukaII_HY_genaab = sHOG......aab:out
+RWHYRO_NtarukaII_HY_genaac = sHOG......aac:out
+RWHYRO_NtarukaII_HY_genbaa = sHOG......baa:out
+RWHYRO_NtarukaII_HY_genbab = sHOG......bab:out
+RWHYRO_NtarukaII_HY_genbac = sHOG......bac:out
+RWHYRO_NtarukaII_HY_genbad = sHOG......bad:out
+RWHYRO_NtarukaII_HY_gencaa = sHOG......caa:out
+RWHYRO_NtarukaII_HY_gencab = sHOG......cab:out
+RWHYRO_NtarukaII_HY_gencac = sHOG......cac:out
+@
+title: RWaRWHYRO_Nyabahanga_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nyabahanga_HY_genaaa = sHNG......aaa:out
+RWHYRO_Nyabahanga_HY_genaab = sHNG......aab:out
+RWHYRO_Nyabahanga_HY_genaac = sHNG......aac:out
+RWHYRO_Nyabahanga_HY_genbaa = sHNG......baa:out
+RWHYRO_Nyabahanga_HY_genbab = sHNG......bab:out
+RWHYRO_Nyabahanga_HY_genbac = sHNG......bac:out
+RWHYRO_Nyabahanga_HY_genbad = sHNG......bad:out
+RWHYRO_Nyabahanga_HY_gencaa = sHNG......caa:out
+RWHYRO_Nyabahanga_HY_gencab = sHNG......cab:out
+RWHYRO_Nyabahanga_HY_gencac = sHNG......cac:out
+@
+title: RWaRWHYRO_NyirahindweI_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_NyirahindweI_HY_genaaa = sHMG......aaa:out
+RWHYRO_NyirahindweI_HY_genaab = sHMG......aab:out
+RWHYRO_NyirahindweI_HY_genaac = sHMG......aac:out
+RWHYRO_NyirahindweI_HY_genbaa = sHMG......baa:out
+RWHYRO_NyirahindweI_HY_genbab = sHMG......bab:out
+RWHYRO_NyirahindweI_HY_genbac = sHMG......bac:out
+RWHYRO_NyirahindweI_HY_genbad = sHMG......bad:out
+RWHYRO_NyirahindweI_HY_gencaa = sHMG......caa:out
+RWHYRO_NyirahindweI_HY_gencab = sHMG......cab:out
+RWHYRO_NyirahindweI_HY_gencac = sHMG......cac:out
+@
+title: RWaRWHYRO_NyirahindweII_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_NyirahindweII_HY_genaaa = sHLG......aaa:out
+RWHYRO_NyirahindweII_HY_genaab = sHLG......aab:out
+RWHYRO_NyirahindweII_HY_genaac = sHLG......aac:out
+RWHYRO_NyirahindweII_HY_genbaa = sHLG......baa:out
+RWHYRO_NyirahindweII_HY_genbab = sHLG......bab:out
+RWHYRO_NyirahindweII_HY_genbac = sHLG......bac:out
+RWHYRO_NyirahindweII_HY_genbad = sHLG......bad:out
+RWHYRO_NyirahindweII_HY_gencaa = sHLG......caa:out
+RWHYRO_NyirahindweII_HY_gencab = sHLG......cab:out
+RWHYRO_NyirahindweII_HY_gencac = sHLG......cac:out
+@
+title: RWaRWHYRO_Nyirantaruko_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nyirantaruko_HY_genaaa = sHKG......aaa:out
+RWHYRO_Nyirantaruko_HY_genaab = sHKG......aab:out
+RWHYRO_Nyirantaruko_HY_genaac = sHKG......aac:out
+RWHYRO_Nyirantaruko_HY_genbaa = sHKG......baa:out
+RWHYRO_Nyirantaruko_HY_genbab = sHKG......bab:out
+RWHYRO_Nyirantaruko_HY_genbac = sHKG......bac:out
+RWHYRO_Nyirantaruko_HY_genbad = sHKG......bad:out
+RWHYRO_Nyirantaruko_HY_gencaa = sHKG......caa:out
+RWHYRO_Nyirantaruko_HY_gencab = sHKG......cab:out
+RWHYRO_Nyirantaruko_HY_gencac = sHKG......cac:out
+@
+title: RWaRWHYRO_Nyundo_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nyundo_HY_genaaa = sHJG......aaa:out
+RWHYRO_Nyundo_HY_genaab = sHJG......aab:out
+RWHYRO_Nyundo_HY_genaac = sHJG......aac:out
+RWHYRO_Nyundo_HY_genbaa = sHJG......baa:out
+RWHYRO_Nyundo_HY_genbab = sHJG......bab:out
+RWHYRO_Nyundo_HY_genbac = sHJG......bac:out
+RWHYRO_Nyundo_HY_genbad = sHJG......bad:out
+RWHYRO_Nyundo_HY_gencaa = sHJG......caa:out
+RWHYRO_Nyundo_HY_gencab = sHJG......cab:out
+RWHYRO_Nyundo_HY_gencac = sHJG......cac:out
+@
+title: RWaRWHYRO_Rubagabaga_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rubagabaga_HY_genaaa = sHIG......aaa:out
+RWHYRO_Rubagabaga_HY_genaab = sHIG......aab:out
+RWHYRO_Rubagabaga_HY_genaac = sHIG......aac:out
+RWHYRO_Rubagabaga_HY_genbaa = sHIG......baa:out
+RWHYRO_Rubagabaga_HY_genbab = sHIG......bab:out
+RWHYRO_Rubagabaga_HY_genbac = sHIG......bac:out
+RWHYRO_Rubagabaga_HY_genbad = sHIG......bad:out
+RWHYRO_Rubagabaga_HY_gencaa = sHIG......caa:out
+RWHYRO_Rubagabaga_HY_gencab = sHIG......cab:out
+RWHYRO_Rubagabaga_HY_gencac = sHIG......cac:out
+@
+title: RWaRWHYRO_Rucanzogera_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rucanzogera_HY_genaaa = sHHG......aaa:out
+RWHYRO_Rucanzogera_HY_genaab = sHHG......aab:out
+RWHYRO_Rucanzogera_HY_genaac = sHHG......aac:out
+RWHYRO_Rucanzogera_HY_genbaa = sHHG......baa:out
+RWHYRO_Rucanzogera_HY_genbab = sHHG......bab:out
+RWHYRO_Rucanzogera_HY_genbac = sHHG......bac:out
+RWHYRO_Rucanzogera_HY_genbad = sHHG......bad:out
+RWHYRO_Rucanzogera_HY_gencaa = sHHG......caa:out
+RWHYRO_Rucanzogera_HY_gencab = sHHG......cab:out
+RWHYRO_Rucanzogera_HY_gencac = sHHG......cac:out
+@
+title: RWaRWHYRO_Rugezi_HY_gen_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rugezi_HY_genaaa = sHGG......aaa:out
+RWHYRO_Rugezi_HY_genaab = sHGG......aab:out
+RWHYRO_Rugezi_HY_genaac = sHGG......aac:out
+RWHYRO_Rugezi_HY_genbaa = sHGG......baa:out
+RWHYRO_Rugezi_HY_genbab = sHGG......bab:out
+RWHYRO_Rugezi_HY_genbac = sHGG......bac:out
+RWHYRO_Rugezi_HY_genbad = sHGG......bad:out
+RWHYRO_Rugezi_HY_gencaa = sHGG......caa:out
+RWHYRO_Rugezi_HY_gencab = sHGG......cab:out
+RWHYRO_Rugezi_HY_gencac = sHGG......cac:out
+@
+title: RWaRWHYRO_Nyabarongo_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Nyabarongo_Iaaa = sHFG......aaa:out
+RWHYRO_Nyabarongo_Iaab = sHFG......aab:out
+RWHYRO_Nyabarongo_Iaac = sHFG......aac:out
+RWHYRO_Nyabarongo_Ibaa = sHFG......baa:out
+RWHYRO_Nyabarongo_Ibab = sHFG......bab:out
+RWHYRO_Nyabarongo_Ibac = sHFG......bac:out
+RWHYRO_Nyabarongo_Ibad = sHFG......bad:out
+RWHYRO_Nyabarongo_Icaa = sHFG......caa:out
+RWHYRO_Nyabarongo_Icab = sHFG......cab:out
+RWHYRO_Nyabarongo_Icac = sHFG......cac:out
+@
+title: RWaRWHYRO_MiniHydro_1-IV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_MiniHydro_1-IVaaa = sHCG......aaa:out
+RWHYRO_MiniHydro_1-IVaab = sHCG......aab:out
+RWHYRO_MiniHydro_1-IVaac = sHCG......aac:out
+RWHYRO_MiniHydro_1-IVbaa = sHCG......baa:out
+RWHYRO_MiniHydro_1-IVbab = sHCG......bab:out
+RWHYRO_MiniHydro_1-IVbac = sHCG......bac:out
+RWHYRO_MiniHydro_1-IVbad = sHCG......bad:out
+RWHYRO_MiniHydro_1-IVcaa = sHCG......caa:out
+RWHYRO_MiniHydro_1-IVcab = sHCG......cab:out
+RWHYRO_MiniHydro_1-IVcac = sHCG......cac:out
+@
+title: RWaRWHYRO_Ruzizi_IV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Ruzizi_IVaaa = sHBG......aaa:out
+RWHYRO_Ruzizi_IVaab = sHBG......aab:out
+RWHYRO_Ruzizi_IVaac = sHBG......aac:out
+RWHYRO_Ruzizi_IVbaa = sHBG......baa:out
+RWHYRO_Ruzizi_IVbab = sHBG......bab:out
+RWHYRO_Ruzizi_IVbac = sHBG......bac:out
+RWHYRO_Ruzizi_IVbad = sHBG......bad:out
+RWHYRO_Ruzizi_IVcaa = sHBG......caa:out
+RWHYRO_Ruzizi_IVcab = sHBG......cab:out
+RWHYRO_Ruzizi_IVcac = sHBG......cac:out
+@
+title: RWaRWHYRO_Rusumo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYRO_Rusumoaaa = sHAG......aaa:out
+RWHYRO_Rusumoaab = sHAG......aab:out
+RWHYRO_Rusumoaac = sHAG......aac:out
+RWHYRO_Rusumobaa = sHAG......baa:out
+RWHYRO_Rusumobab = sHAG......bab:out
+RWHYRO_Rusumobac = sHAG......bac:out
+RWHYRO_Rusumobad = sHAG......bad:out
+RWHYRO_Rusumocaa = sHAG......caa:out
+RWHYRO_Rusumocab = sHAG......cab:out
+RWHYRO_Rusumocac = sHAG......cac:out
+@
+title: RWaRWHYDM_Nyabarongo_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYDM_Nyabarongo_IIaaa = sHEG......aaa:out
+RWHYDM_Nyabarongo_IIaab = sHEG......aab:out
+RWHYDM_Nyabarongo_IIaac = sHEG......aac:out
+RWHYDM_Nyabarongo_IIbaa = sHEG......baa:out
+RWHYDM_Nyabarongo_IIbab = sHEG......bab:out
+RWHYDM_Nyabarongo_IIbac = sHEG......bac:out
+RWHYDM_Nyabarongo_IIbad = sHEG......bad:out
+RWHYDM_Nyabarongo_IIcaa = sHEG......caa:out
+RWHYDM_Nyabarongo_IIcab = sHEG......cab:out
+RWHYDM_Nyabarongo_IIcac = sHEG......cac:out
+@
+title: RWaRWHYDM_Rwanda_Ruzizi_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWHYDM_Rwanda_Ruzizi_IIIaaa = sHDG......aaa:out
+RWHYDM_Rwanda_Ruzizi_IIIaab = sHDG......aab:out
+RWHYDM_Rwanda_Ruzizi_IIIaac = sHDG......aac:out
+RWHYDM_Rwanda_Ruzizi_IIIbaa = sHDG......baa:out
+RWHYDM_Rwanda_Ruzizi_IIIbab = sHDG......bab:out
+RWHYDM_Rwanda_Ruzizi_IIIbac = sHDG......bac:out
+RWHYDM_Rwanda_Ruzizi_IIIbad = sHDG......bad:out
+RWHYDM_Rwanda_Ruzizi_IIIcaa = sHDG......caa:out
+RWHYDM_Rwanda_Ruzizi_IIIcab = sHDG......cab:out
+RWHYDM_Rwanda_Ruzizi_IIIcac = sHDG......cac:out
+@
+title: RWaRWSOPU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPU00aaa = t.gu......aaa:out
+RWSOPU00aab = t.gu......aab:out
+RWSOPU00aac = t.gu......aac:out
+RWSOPU00baa = t.gu......baa:out
+RWSOPU00bab = t.gu......bab:out
+RWSOPU00bac = t.gu......bac:out
+RWSOPU00bad = t.gu......bad:out
+RWSOPU00caa = t.gu......caa:out
+RWSOPU00cab = t.gu......cab:out
+RWSOPU00cac = t.gu......cac:out
+@
+title: RWaRWSOPB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPB00aaa = t.gc......aaa:out
+RWSOPB00aab = t.gc......aab:out
+RWSOPB00aac = t.gc......aac:out
+RWSOPB00baa = t.gc......baa:out
+RWSOPB00bab = t.gc......bab:out
+RWSOPB00bac = t.gc......bac:out
+RWSOPB00bad = t.gc......bad:out
+RWSOPB00caa = t.gc......caa:out
+RWSOPB00cab = t.gc......cab:out
+RWSOPB00cac = t.gc......cac:out
+@
+title: RWaRWSOPR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPR00aaa = t.gr......aaa:out
+RWSOPR00aab = t.gr......aab:out
+RWSOPR00aac = t.gr......aac:out
+RWSOPR00baa = t.gr......baa:out
+RWSOPR00bab = t.gr......bab:out
+RWSOPR00bac = t.gr......bac:out
+RWSOPR00bad = t.gr......bad:out
+RWSOPR00caa = t.gr......caa:out
+RWSOPR00cab = t.gr......cab:out
+RWSOPR00cac = t.gr......cac:out
+@
+title: RWaRWSOPS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWSOPS00aaa = t.hr......aaa:out
+RWSOPS00aab = t.hr......aab:out
+RWSOPS00aac = t.hr......aac:out
+RWSOPS00baa = t.hr......baa:out
+RWSOPS00bab = t.hr......bab:out
+RWSOPS00bac = t.hr......bac:out
+RWSOPS00bad = t.hr......bad:out
+RWSOPS00caa = t.hr......caa:out
+RWSOPS00cab = t.hr......cab:out
+RWSOPS00cac = t.hr......cac:out
+@
+title: RWaRWELBS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELBS00aaa = s.zG......aaa:out
+RWELBS00aab = s.zG......aab:out
+RWELBS00aac = s.zG......aac:out
+RWELBS00baa = s.zG......baa:out
+RWELBS00bab = s.zG......bab:out
+RWELBS00bac = s.zG......bac:out
+RWELBS00bad = s.zG......bad:out
+RWELBS00caa = s.zG......caa:out
+RWELBS00cab = s.zG......cab:out
+RWELBS00cac = s.zG......cac:out
+@
+title: RWaRWRIDM_Nyabarongo_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWRIDM_Nyabarongo_IIaaa = s.Cd......aaa:out
+RWRIDM_Nyabarongo_IIaab = s.Cd......aab:out
+RWRIDM_Nyabarongo_IIaac = s.Cd......aac:out
+RWRIDM_Nyabarongo_IIbaa = s.Cd......baa:out
+RWRIDM_Nyabarongo_IIbab = s.Cd......bab:out
+RWRIDM_Nyabarongo_IIbac = s.Cd......bac:out
+RWRIDM_Nyabarongo_IIbad = s.Cd......bad:out
+RWRIDM_Nyabarongo_IIcaa = s.Cd......caa:out
+RWRIDM_Nyabarongo_IIcab = s.Cd......cab:out
+RWRIDM_Nyabarongo_IIcac = s.Cd......cac:out
+@
+title: RWaRWRIDM_Rwanda_Ruzizi_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWRIDM_Rwanda_Ruzizi_IIIaaa = s.Dd......aaa:out
+RWRIDM_Rwanda_Ruzizi_IIIaab = s.Dd......aab:out
+RWRIDM_Rwanda_Ruzizi_IIIaac = s.Dd......aac:out
+RWRIDM_Rwanda_Ruzizi_IIIbaa = s.Dd......baa:out
+RWRIDM_Rwanda_Ruzizi_IIIbab = s.Dd......bab:out
+RWRIDM_Rwanda_Ruzizi_IIIbac = s.Dd......bac:out
+RWRIDM_Rwanda_Ruzizi_IIIbad = s.Dd......bad:out
+RWRIDM_Rwanda_Ruzizi_IIIcaa = s.Dd......caa:out
+RWRIDM_Rwanda_Ruzizi_IIIcab = s.Dd......cab:out
+RWRIDM_Rwanda_Ruzizi_IIIcac = s.Dd......cac:out
+@
+title: RWaRWELST04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELST04aaa = s.AG......aaa:out
+RWELST04aab = s.AG......aab:out
+RWELST04aac = s.AG......aac:out
+RWELST04baa = s.AG......baa:out
+RWELST04bab = s.AG......bab:out
+RWELST04bac = s.AG......bac:out
+RWELST04bad = s.AG......bad:out
+RWELST04caa = s.AG......caa:out
+RWELST04cab = s.AG......cab:out
+RWELST04cac = s.AG......cac:out
+@
+title: RWaRWELST04_02
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELST04aaa = sGBd......aaa:out
+RWELST04aab = sGBd......aab:out
+RWELST04aac = sGBd......aac:out
+RWELST04baa = sGBd......baa:out
+RWELST04bab = sGBd......bab:out
+RWELST04bac = sGBd......bac:out
+RWELST04bad = sGBd......bad:out
+RWELST04caa = sGBd......caa:out
+RWELST04cab = sGBd......cab:out
+RWELST04cac = sGBd......cac:out
+@
+title: RWaRWELPT04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELPT04aaa = s.Ad......aaa:out
+RWELPT04aab = s.Ad......aab:out
+RWELPT04aac = s.Ad......aac:out
+RWELPT04baa = s.Ad......baa:out
+RWELPT04bab = s.Ad......bab:out
+RWELPT04bac = s.Ad......bac:out
+RWELPT04bad = s.Ad......bad:out
+RWELPT04caa = s.Ad......caa:out
+RWELPT04cab = s.Ad......cab:out
+RWELPT04cac = s.Ad......cac:out
+@
+title: RWaRWELDT04_01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_01aaa = s.Bd......aaa:out
+RWELDT04_01aab = s.Bd......aab:out
+RWELDT04_01aac = s.Bd......aac:out
+RWELDT04_01baa = s.Bd......baa:out
+RWELDT04_01bab = s.Bd......bab:out
+RWELDT04_01bac = s.Bd......bac:out
+RWELDT04_01bad = s.Bd......bad:out
+RWELDT04_01caa = s.Bd......caa:out
+RWELDT04_01cab = s.Bd......cab:out
+RWELDT04_01cac = s.Bd......cac:out
+@
+title: RWaRWELDT04_01_02
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_01aaa = s.Ed......aaa:out
+RWELDT04_01aab = s.Ed......aab:out
+RWELDT04_01aac = s.Ed......aac:out
+RWELDT04_01baa = s.Ed......baa:out
+RWELDT04_01bab = s.Ed......bab:out
+RWELDT04_01bac = s.Ed......bac:out
+RWELDT04_01bad = s.Ed......bad:out
+RWELDT04_01caa = s.Ed......caa:out
+RWELDT04_01cab = s.Ed......cab:out
+RWELDT04_01cac = s.Ed......cac:out
+@
+title: RWaRWELDT04_02_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_02aaa = s.Fd......aaa:out
+RWELDT04_02aab = s.Fd......aab:out
+RWELDT04_02aac = s.Fd......aac:out
+RWELDT04_02baa = s.Fd......baa:out
+RWELDT04_02bab = s.Fd......bab:out
+RWELDT04_02bac = s.Fd......bac:out
+RWELDT04_02bad = s.Fd......bad:out
+RWELDT04_02caa = s.Fd......caa:out
+RWELDT04_02cab = s.Fd......cab:out
+RWELDT04_02cac = s.Fd......cac:out
+@
+title: RWaRWELDT04_02_02
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_02aaa = s.Gd......aaa:out
+RWELDT04_02aab = s.Gd......aab:out
+RWELDT04_02aac = s.Gd......aac:out
+RWELDT04_02baa = s.Gd......baa:out
+RWELDT04_02bab = s.Gd......bab:out
+RWELDT04_02bac = s.Gd......bac:out
+RWELDT04_02bad = s.Gd......bad:out
+RWELDT04_02caa = s.Gd......caa:out
+RWELDT04_02cab = s.Gd......cab:out
+RWELDT04_02cac = s.Gd......cac:out
+@
+title: RWaRWELDT04_03_01
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_03aaa = s.Hd......aaa:out
+RWELDT04_03aab = s.Hd......aab:out
+RWELDT04_03aac = s.Hd......aac:out
+RWELDT04_03baa = s.Hd......baa:out
+RWELDT04_03bab = s.Hd......bab:out
+RWELDT04_03bac = s.Hd......bac:out
+RWELDT04_03bad = s.Hd......bad:out
+RWELDT04_03caa = s.Hd......caa:out
+RWELDT04_03cab = s.Hd......cab:out
+RWELDT04_03cac = s.Hd......cac:out
+@
+title: RWaRWELDT04_03_02
+unit: , 1.
+maxtabwidth: 2000
+@
+RWELDT04_03aaa = s.Id......aaa:out
+RWELDT04_03aab = s.Id......aab:out
+RWELDT04_03aac = s.Id......aac:out
+RWELDT04_03baa = s.Id......baa:out
+RWELDT04_03bab = s.Id......bab:out
+RWELDT04_03bac = s.Id......bac:out
+RWELDT04_03bad = s.Id......bad:out
+RWELDT04_03caa = s.Id......caa:out
+RWELDT04_03cab = s.Id......cab:out
+RWELDT04_03cac = s.Id......cac:out
+@
+@
+@

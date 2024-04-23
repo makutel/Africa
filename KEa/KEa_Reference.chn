@@ -1,0 +1,437 @@
+# Energy forms:
+Final      f:
+  Industry   e
+    Producers:
+      KEEL00TUI f fige e-f c 1
+    *
+    *
+  Commerce   c
+    Producers:
+      KEEL00TUC f fcgc c-f c 1
+    *
+    *
+  Urban      u
+    Producers:
+      KEEL00TUU f fuau u-f c 1
+    *
+    *
+  Rural      r
+    Producers:
+      KEEL00TUR f frgr r-f c 1
+    *
+    *
+  SentOut    s
+    Producers:
+      KEEL00TUS f feas s-f c 1
+    *
+    *
+  Export     E
+    *
+    *
+*
+Tertiary   t:
+  Industry   i
+    Producers:
+      KEEL00TDI f teai i-t c 1
+      KEDSRI00 f tdgi i-t c 0.35
+    *
+    Consumers:
+      KEEL00TUI f fige i-t 0 1
+    *
+  Commerce   c
+    Producers:
+      KEEL00TDC f teac c-t c 1
+      KEDSRB00 f tdgc c-t c 0.16
+      KESOPB00 f t.gc c-t c 1
+    *
+    Consumers:
+      KEEL00TUC f fcgc c-t 0 1
+    *
+  Urban      u
+    Producers:
+      KEEL00TDU f teau u-t c 1
+      KEDSRU00 f tdgu u-t c 0.16
+      KESOPU00 f t.gu u-t c 1
+    *
+    Consumers:
+      KEEL00TUU f fuau u-t 0 1
+    *
+  Rural      r
+    Producers:
+      KEEL00TDR f tegr r-t c 1
+      KEDSRR00 f tdgr r-t c 0.16
+      KEHYRO_Small_Kirogori f tHSr r-t c 1
+      KEHYRO_Small_GemGen f tHRr r-t c 1
+      KEHYMI00 f tHgr r-t c 1
+      KESOPR00 f t.gr r-t c 1
+      KESOPS00 f t.hr r-t c 1
+    *
+    Consumers:
+      KEEL00TUR f frgr r-t 0 1
+    *
+  Electricity e
+    Producers:
+      KEEL00T00 f tuae e-t c 1
+    *
+    Consumers:
+      KEEL00TDI f teai e-t 0 1
+      KEEL00TDR f tegr e-t 0 1
+      KEEL00TDU f teau e-t 0 1
+      KEEL00TDC f teac e-t 0 1
+      KEEL00TUS f feas e-t 0 1
+    *
+*
+Secondary  s:
+  Electricity u
+    Producers:
+      KEEL00i00 f s.Iu u-s c 1
+      KEDSRC00 f sdgu u-s c 0.35
+      KEDSRC01_Tsavo_Extended f sdCu u-s c 0.4
+      KEDSSC00 f sdhu u-s c 0.35
+      KEHFRC00 f shgu u-s c 0.35
+      KEHFRC03 f shCu u-s c 0.402
+      KEHFRC10 f shJu u-s c 0.433
+      KEHFRC02 f shBu u-s c 0.39
+      KEHFRC01 f shAu u-s c 0.402
+      KECOSC00 f scgu u-s c 0.39
+      KECOSC11 f scKu u-s c 0.4
+      KENGSC00 f sggu u-s c 0.35
+      KENGSC12_Dongo_Kundu f sgIu u-s c 0.26
+      KENGCC00 f sghu u-s c 0.58
+      KENGCC12_LNG_Backup2 f sgFu u-s c 0.57
+      KENGCC12_LNG_Backup26 f sgDu u-s c 0.57
+      KENGCC12_LNG_Backup35 f sgCu u-s c 0.57
+      KENGCC12_LNG_Backup4 f sgBu u-s c 0.57
+      KENGCC12_LNG2 f sgAu u-s c 0.57
+      KENUPW00 f sngu u-s c 0.33
+      KENUPW20 f snTu u-s c 0.33
+      KEWDLC00 f swgu u-s c 1
+      KEWDLCZ001_Bahari2 f swTu u-s c 1
+      KEWDLCZH08_Kipeto f swSu u-s c 1
+      KEWDLCZ001_Bahari f swRu u-s c 1
+      KEWDLCZ004_Marsabit f swQu u-s c 1
+      KEWDLCZ008_Aperture f swPu u-s c 1
+      KEWDLCZ008_Chania f swOu u-s c 1
+      KEWDLCZ008_Ngong1 f swNu u-s c 1
+      KEWDOC00 f swMu u-s c 1
+      KEWDLCZ010 f swLu u-s c 1
+      KEWDLCZ009 f swKu u-s c 1
+      KEWDLCZ008 f swJu u-s c 1
+      KEWDLCZ007 f swIu u-s c 1
+      KEWDLCZ006 f swHu u-s c 1
+      KEWDLCZ005 f swGu u-s c 1
+      KEWDLCZ004 f swFu u-s c 1
+      KEWDLCZ003 f swEu u-s c 1
+      KEWDLCZ002 f swDu u-s c 1
+      KEWDLCZ001 f swCu u-s c 1
+      KEWDLCZDP09 f swBu u-s c 1
+      KEWDLCZH08 f swAu u-s c 1
+      KESOTN00 f s.hu u-s c 1
+      KESOTNZ002 f s.Fu u-s c 1
+      KESOTNZ001 f s.Eu u-s c 1
+      KESOTS00 f s.iu u-s c 1
+      KESOTSZ002 f s.Hu u-s c 1
+      KESOTSZ001 f s.Gu u-s c 1
+      KESOTG00 f sgiu u-s c 0.53
+      KESOPC00 f ssju u-s c 1
+      KESOPCZ008_Kopere f ssUu u-s c 1
+      KESOPCZ001_SevenForks f ssTu u-s c 1
+      KESOPCZ003_Eldosol f ssSu u-s c 1
+      KESOPCZ003_Selenkei f ssRu u-s c 1
+      KESOPCZ003_Alten f ssQu u-s c 1
+      KESOPCZ009_Kenergy f ssPu u-s c 1
+      KESOPCZ009_MarcoBorero f ssOu u-s c 1
+      KESOPCZ001_Greenmillenia f ssNu u-s c 1
+      KESOPCZ001_Makindu f ssMu u-s c 1
+      KESOPCZ001_HannanArya f ssLu u-s c 1
+      KESOPCZ001_Malindi f ssKu u-s c 1
+      KESOPCZ010 f ssJu u-s c 1
+      KESOPCZ009 f ssIu u-s c 1
+      KESOPCZ008 f ssHu u-s c 1
+      KESOPCZ007 f ssGu u-s c 1
+      KESOPCZ006 f ssFu u-s c 1
+      KESOPCZ005 f ssEu u-s c 1
+      KESOPCZ004 f ssDu u-s c 1
+      KESOPCZ003 f ssCu u-s c 1
+      KESOPCZ002 f ssBu u-s c 1
+      KESOPCZ001 f ssAu u-s c 1
+      KEGOCV00 f s.ku u-s c 1
+      KEGOCV17_Baringo_Silali_I f s.ou u-s c 1
+      KEGOCV18_Menengai_IV_V f s.nu u-s c 1
+      KEGOCV18_Menengai_III f s.mu u-s c 1
+      KEGOCV18_Menengai_1_Stage2 f s.lu u-s c 1
+      KEGOCV16_Olkaria_6_7 f s.Qu u-s c 1
+      KEGOCV12_Suswa f s.ru u-s c 1
+      KEGOCV12_Eburru f s.Ru u-s c 1
+      KEGOCV16_Menengai_1_Orpower22 f s.pu u-s c 1
+      KEGOCV12_Olsuswa f s.qu u-s c 1
+      KEGOCV18_Wellheadleasing f s.eu u-s c 1
+      KEGOCV13_Marine_Power_Akiira f s.du u-s c 1
+      KEGOCV16_Olkaria8 f s.cu u-s c 1
+      KEGOCV16_Olkaria9 f s.bu u-s c 1
+      KEGOCV20_AGIL_Longonot f s.au u-s c 1
+      KEGOCV17_Baringo_Silali f s.Zu u-s c 1
+      KEGOCV16_Olkaria_1V_Uprating f s.Yu u-s c 1
+      KEGOCV16_Olkaria_1_Uprating f s.Xu u-s c 1
+      KEGOCV16_Olkaria_1_Unit1_3 f s.Wu u-s c 1
+      KEGOCV18_Menengai_1_Quantum f s.Vu u-s c 1
+      KEGOCV16_Olkaria_1_Unit6 f s.Uu u-s c 1
+      KEGOCV18_Menengai_1_Sosian f s.Su u-s c 1
+      KEGOCV20 f s.Tu u-s c 1
+      KEGOCV16 f s.Pu u-s c 1
+      KEGOCV15 f s.Ou u-s c 1
+      KEGOCV14 f s.Nu u-s c 1
+      KEGOCV13 f s.Mu u-s c 1
+      KEGOCV12 f s.Lu u-s c 1
+      KEGOCV11 f s.Ku u-s c 1
+      KEGOCV10 f s.Ju u-s c 1
+      KEGOCV03 f s.Cu u-s c 1
+      KEGOCV02 f s.Bu u-s c 0.36
+      KEGOCV01 f s.Au u-s c 0.345
+      KEBMST00 f sbgu u-s c 0.26
+      KEBMST10_BiogasH f sbMu u-s c 0.26
+      KEBMST10_WestKenya f sbLu u-s c 0.26
+      KEBMST10_VRHoldings f sbKu u-s c 0.26
+      KEBMST10_Cummins_Cogen f sbIu u-s c 0.26
+      KEBMST10_Viability f sbHu u-s c 0.26
+      KEBMST10_Tana_Biogas f sbGu u-s c 0.26
+      KEBMST10_MunicipalWtE_Biogas f sbFu u-s c 0.26
+      KEBMST10_Roadtech f sbEu u-s c 0.26
+      KEBMST10_ThikaWayBiogas f sbDu u-s c 0.26
+      KEBMST10_Kwale f sbCu u-s c 0.26
+      KEBMST10_REA_Vipingo f sbBu u-s c 0.26
+      KEBWST00 f sBau u-s c 0.26
+      KEBMST10 f sbJu u-s c 0.26
+      KEBMST01 f sbAu u-s c 0.26
+      KEHYDM00 f sHgu u-s c 1
+      KEHYRO_Lower_Grand f sHTu u-s c 1
+      KEHYDM_Kamburu_Masinga f sHCu u-s c 1
+      KEHYDM_Turkwell f sHBu u-s c 1
+      KEHYDM_Kiambere f sHAu u-s c 1
+      KEHYRO00 f sHhu u-s c 1
+      KEHYRO_High_Grand2 f sHKu u-s c 1
+      KEHYRO_High_Grand f sHIu u-s c 1
+      KEHYRO_Small_Chevron f sHXu u-s c 1
+      KEHYRO_Small_KDTA2 f sHWu u-s c 1
+      KEHYRO_Small_Rareh f sHVu u-s c 1
+      KEHYRO_Small_Kaptis f sHQu u-s c 1
+      KEHYRO_Small_Nithi f sHPu u-s c 1
+      KEHYRO_Small_Tindinyo f sHOu u-s c 1
+      KEHYRO_Small_Gatiki f sHNu u-s c 1
+      KEHYRO_Small_KTDA_Gogo f sHMu u-s c 1
+      KEHYRO_Small_MtKenya_CBO f sHLu u-s c 1
+      KEHYRO_Small_KTDA f sHRu u-s c 1
+      KEHYRO_Small_KTDA_Kleen f sHmu u-s c 1
+      KEHYRO_Karura f sHUu u-s c 1
+      KEHYRO_Kindaruma_Opt f sHJu u-s c 1
+      KEHYRO_Tana f sHHu u-s c 1
+      KEHYRO_Sangoro f sHGu u-s c 1
+      KEHYRO_Kindaruma f sHFu u-s c 1
+      KEHYRO_Sondu_Miriu f sHEu u-s c 1
+      KEHYRO_Gitaru f sHDu u-s c 1
+      KEHYRO_Existing_Small f sHSu u-s c 1
+      KEELBS00 f s.zu u-s c 1
+      KEELST04 f s.Du u-s c 1
+    *
+    Consumers:
+      KEEL00T00 f tuae u-s 0 1
+      KEELST04[2.] f duBA u-s 0 1
+    *
+  ElcDummy   d
+    Producers:
+      KERIDM_Kamburu_Masinga f s.Ed d-s c 1
+      KERIDM_Turkwell f s.Fd d-s c 1
+      KERIDM_Kiambere f s.Gd d-s c 1
+      KEEXDT00 f s.Kd d-s c 1
+    *
+    *
+*
+Primary    K:
+  Coal       c
+    Producers:
+      KECO00X00 f K.bc c-K c 1
+    *
+    Consumers:
+      KECOSC00 f scgu c-K 0 1
+      KECOSC11 f scKu c-K 0 1
+    *
+  Gas        g
+    Producers:
+      KENG00I00 f K.gg g-K c 1
+    *
+    Consumers:
+      KENGSC00 f sggu g-K 0 1
+      KENGSC12_Dongo_Kundu f sgIu g-K 0 1
+      KENGCC00 f sghu g-K 0 1
+      KENGCC12_LNG_Backup2 f sgFu g-K 0 1
+      KENGCC12_LNG_Backup26 f sgDu g-K 0 1
+      KENGCC12_LNG_Backup35 f sgCu g-K 0 1
+      KENGCC12_LNG_Backup4 f sgBu g-K 0 1
+      KENGCC12_LNG2 f sgAu g-K 0 1
+      KESOTG00 f sgiu g-K 0 1
+    *
+  Diesel     d
+    Producers:
+      KEDS00I00 f K.bd d-K c 1
+    *
+    Consumers:
+      KEDSRC00 f sdgu d-K 0 1
+      KEDSRC01_Tsavo_Extended f sdCu d-K 0 1
+      KEDSSC00 f sdhu d-K 0 1
+      KEDSRI00 f tdgi d-K 0 1
+      KEDSRU00 f tdgu d-K 0 1
+      KEDSRB00 f tdgc d-K 0 1
+      KEDSRR00 f tdgr d-K 0 1
+    *
+  HFO        h
+    Producers:
+      KEHF00I00 f K.bh h-K c 1
+    *
+    Consumers:
+      KEHFRC00 f shgu h-K 0 1
+      KEHFRC03 f shCu h-K 0 1
+      KEHFRC10 f shJu h-K 0 1
+      KEHFRC02 f shBu h-K 0 1
+      KEHFRC01 f shAu h-K 0 1
+    *
+  Bagasse    b
+    Producers:
+      KEBM00X00 f K.gb b-K c 1
+    *
+    Consumers:
+      KEBMST00 f sbgu b-K 0 1
+      KEBMST10_BiogasH f sbMu b-K 0 1
+      KEBMST10_WestKenya f sbLu b-K 0 1
+      KEBMST10_VRHoldings f sbKu b-K 0 1
+      KEBMST10_Cummins_Cogen f sbIu b-K 0 1
+      KEBMST10_Viability f sbHu b-K 0 1
+      KEBMST10_Tana_Biogas f sbGu b-K 0 1
+      KEBMST10_MunicipalWtE_Biogas f sbFu b-K 0 1
+      KEBMST10_Roadtech f sbEu b-K 0 1
+      KEBMST10_ThikaWayBiogas f sbDu b-K 0 1
+      KEBMST10_Kwale f sbCu b-K 0 1
+      KEBMST10_REA_Vipingo f sbBu b-K 0 1
+      KEBMST10 f sbJu b-K 0 1
+      KEBMST01 f sbAu b-K 0 1
+    *
+  Wood       B
+    Producers:
+      KEBW00X00 f K.aB B-K c 1
+    *
+    Consumers:
+      KEBWST00 f sBau B-K 0 1
+    *
+  Hydro      H
+    Producers:
+      KEHY00X00 f K.aH H-K c 1
+    *
+    Consumers:
+      KEHYDM00 f sHgu H-K 0 1
+      KEHYRO_Lower_Grand f sHTu H-K 0 1
+      KEHYDM_Kamburu_Masinga f sHCu H-K 0 1
+      KEHYDM_Turkwell f sHBu H-K 0 1
+      KEHYDM_Kiambere f sHAu H-K 0 1
+      KEHYRO00 f sHhu H-K 0 1
+      KEHYRO_High_Grand2 f sHKu H-K 0 1
+      KEHYRO_High_Grand f sHIu H-K 0 1
+      KEHYRO_Small_Chevron f sHXu H-K 0 1
+      KEHYRO_Small_KDTA2 f sHWu H-K 0 1
+      KEHYRO_Small_Rareh f sHVu H-K 0 1
+      KEHYRO_Small_Kirogori f tHSr H-K 0 1
+      KEHYRO_Small_GemGen f tHRr H-K 0 1
+      KEHYRO_Small_Kaptis f sHQu H-K 0 1
+      KEHYRO_Small_Nithi f sHPu H-K 0 1
+      KEHYRO_Small_Tindinyo f sHOu H-K 0 1
+      KEHYRO_Small_Gatiki f sHNu H-K 0 1
+      KEHYRO_Small_KTDA_Gogo f sHMu H-K 0 1
+      KEHYRO_Small_MtKenya_CBO f sHLu H-K 0 1
+      KEHYRO_Small_KTDA f sHRu H-K 0 1
+      KEHYRO_Small_KTDA_Kleen f sHmu H-K 0 1
+      KEHYRO_Karura f sHUu H-K 0 1
+      KEHYRO_Kindaruma_Opt f sHJu H-K 0 1
+      KEHYRO_Tana f sHHu H-K 0 1
+      KEHYRO_Sangoro f sHGu H-K 0 1
+      KEHYRO_Kindaruma f sHFu H-K 0 1
+      KEHYRO_Sondu_Miriu f sHEu H-K 0 1
+      KEHYRO_Gitaru f sHDu H-K 0 1
+      KEHYMI00 f tHgr H-K 0 1
+      KEHYRO_Existing_Small f sHSu H-K 0 1
+    *
+  Solar      s
+    Producers:
+      KESO00X00 f K.as s-K c 1
+    *
+    Consumers:
+      KESOPC00 f ssju s-K 0 1
+      KESOPCZ008_Kopere f ssUu s-K 0 1
+      KESOPCZ001_SevenForks f ssTu s-K 0 1
+      KESOPCZ003_Eldosol f ssSu s-K 0 1
+      KESOPCZ003_Selenkei f ssRu s-K 0 1
+      KESOPCZ003_Alten f ssQu s-K 0 1
+      KESOPCZ009_Kenergy f ssPu s-K 0 1
+      KESOPCZ009_MarcoBorero f ssOu s-K 0 1
+      KESOPCZ001_Greenmillenia f ssNu s-K 0 1
+      KESOPCZ001_Makindu f ssMu s-K 0 1
+      KESOPCZ001_HannanArya f ssLu s-K 0 1
+      KESOPCZ001_Malindi f ssKu s-K 0 1
+      KESOPCZ010 f ssJu s-K 0 1
+      KESOPCZ009 f ssIu s-K 0 1
+      KESOPCZ008 f ssHu s-K 0 1
+      KESOPCZ007 f ssGu s-K 0 1
+      KESOPCZ006 f ssFu s-K 0 1
+      KESOPCZ005 f ssEu s-K 0 1
+      KESOPCZ004 f ssDu s-K 0 1
+      KESOPCZ003 f ssCu s-K 0 1
+      KESOPCZ002 f ssBu s-K 0 1
+      KESOPCZ001 f ssAu s-K 0 1
+    *
+  Wind       w
+    Producers:
+      KEWD00X00 f K.aw w-K c 1
+    *
+    Consumers:
+      KEWDLC00 f swgu w-K 0 1
+      KEWDLCZ001_Bahari2 f swTu w-K 0 1
+      KEWDLCZH08_Kipeto f swSu w-K 0 1
+      KEWDLCZ001_Bahari f swRu w-K 0 1
+      KEWDLCZ004_Marsabit f swQu w-K 0 1
+      KEWDLCZ008_Aperture f swPu w-K 0 1
+      KEWDLCZ008_Chania f swOu w-K 0 1
+      KEWDLCZ008_Ngong1 f swNu w-K 0 1
+      KEWDOC00 f swMu w-K 0 1
+      KEWDLCZ010 f swLu w-K 0 1
+      KEWDLCZ009 f swKu w-K 0 1
+      KEWDLCZ008 f swJu w-K 0 1
+      KEWDLCZ007 f swIu w-K 0 1
+      KEWDLCZ006 f swHu w-K 0 1
+      KEWDLCZ005 f swGu w-K 0 1
+      KEWDLCZ004 f swFu w-K 0 1
+      KEWDLCZ003 f swEu w-K 0 1
+      KEWDLCZ002 f swDu w-K 0 1
+      KEWDLCZ001 f swCu w-K 0 1
+      KEWDLCZDP09 f swBu w-K 0 1
+      KEWDLCZH08 f swAu w-K 0 1
+    *
+  Nuclear    n
+    *
+    Consumers:
+      KENUPW00 f sngu n-K 0 1
+      KENUPW20 f snTu n-K 0 1
+    *
+*
+Resources  r:
+*
+DummyLevelStorage d:
+  DummyCom_KEELST04 A
+    Producers:
+      KEELST04[2.] f duBA A-d c 1
+      KEELPT04 f d.AA A-d c 1
+      KEELDT04_01 f d.BA A-d c 1
+      KEELDT04_01[2.] f d.CA A-d c 1
+      KEELDT04_02 f d.DA A-d c 1
+      KEELDT04_02[2.] f d.HA A-d c 1
+      KEELDT04_03 f d.IA A-d c 1
+      KEELDT04_03[2.] f d.JA A-d c 1
+    *
+    *
+*

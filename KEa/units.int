@@ -1,0 +1,425 @@
+LEVELS
+Final f Industry e l Commerce c l Urban u l Rural r l SentOut s = Export E =
+Tertiary t Industry i l Commerce c l Urban u l Rural r l Electricity e =
+Secondary s Electricity u = ElcDummy d l
+Primary K Coal c = Gas g = Diesel d = HFO h = Bagasse b = Wood B = Hydro H = Solar s = Wind w = Nuclear n =
+Resources r
+DummyLevelStorage d DummyCom_KEELST04 A l
+END LEVELS
+FILE genunits 25 12
+weight kton
+energy MWyr
+currency US$'00
+fixom US$'00/kW/yr
+othercost US$'00/kWyr
+weightcost US$'00/ton
+other/yr MWyr/yr
+other/yrcost US$'00/kWyr/yr
+multipl n 1e-009
+multipl v 1e-006
+multipl m 0.001
+multipl - 1
+multipl k 1000.0
+multipl M 1000000.0
+multipl G 1000000000.0
+multipl T 1e+012
+multipl P 1e+015
+multipl E 1e+018
+multipl Z 1e+021
+multipl Y 1e+024
+varom US$'00/kWyr
+other MWyr
+volumecost US$'00/km3
+currmul 1000.0
+volume/yr Mm3/yr
+volume/yrcost US$'00/km3/yr
+power MW
+time yr
+volume Mm3
+costscost US$'00/US$'00
+currencycost US$'00/US$'00
+weight/yr kton/yr
+invest US$'00/kW
+costs kUS$'00
+energycost US$'00/kWyr
+weight/yrcost US$'00/ton/yr
+FILE allunits 25
+TYPE weight 3
+kton 1.0
+Mton 1000.0
+mppm 2123.0
+TYPE energy 11
+MWyr 1.0
+PJ 31.709792
+ktoe 1.327626
+kboe 0.181122
+kboe 0.181122
+ktce 0.929338
+GWh 0.114155
+Tbtu 33.4538
+Tcal 0.132763
+Mcmg 1.18141
+Gcfg 3.34538
+TYPE currency 2
+EUR'00 1.0
+US$'00 0.869565
+TYPE fixom 22
+EUR'00/kW/yr 1.0
+EUR'00/TJ/yr/yr 0.0315359999839
+EUR'00/toe/yr/yr 0.753224176086
+EUR'00/boe/yr/yr 5.52114044677
+EUR'00/boe/yr/yr 5.52114044677
+EUR'00/tce/yr/yr 1.07603476884
+EUR'00/MWh/yr/yr 8.76001927204
+EUR'00/Gbtu/yr/yr 0.0298919704189
+EUR'00/Gcal/yr/yr 7.53221906706
+EUR'00/kcmg/yr/yr 0.846446195648
+EUR'00/Mcfg/yr/yr 0.298919704189
+US$'00/kW/yr 0.869565
+US$'00/TJ/yr/yr 0.027422601826
+US$'00/toe/yr/yr 0.654977380678
+US$'00/boe/yr/yr 4.8009904926
+US$'00/boe/yr/yr 4.8009904926
+US$'00/tce/yr/yr 0.935682173762
+US$'00/MWh/yr/yr 7.61740615829
+US$'00/Gbtu/yr/yr 0.0259930112573
+US$'00/Gcal/yr/yr 6.54975407305
+US$'00/kcmg/yr/yr 0.736039986118
+US$'00/Mcfg/yr/yr 0.259930112573
+TYPE othercost 4
+EUR'00/kWyr 1.0
+EUR'00/mu 1.0
+US$'00/kWyr 0.869565
+US$'00/mu 0.869565
+TYPE weightcost 6
+EUR'00/ton 1.0
+EUR'00/kton 0.001
+EUR'00/vppm 0.000471031559114
+US$'00/ton 0.869565
+US$'00/kton 0.000869565
+US$'00/vppm 0.000409592557701
+TYPE other/yr 2
+MWyr/yr 1.0
+kmu/yr 1.0
+TYPE other/yrcost 4
+EUR'00/kWyr/yr 1.0
+EUR'00/mu/yr 1.0
+US$'00/kWyr/yr 0.869565
+US$'00/mu/yr 0.869565
+TYPE rels 2
+share 1.0
+% 0.01
+TYPE varom 22
+EUR'00/kWyr 1.0
+EUR'00/TJ 0.0315359999839
+EUR'00/toe 0.753224176086
+EUR'00/boe 5.52114044677
+EUR'00/boe 5.52114044677
+EUR'00/tce 1.07603476884
+EUR'00/MWh 8.76001927204
+EUR'00/Gbtu 0.0298919704189
+EUR'00/Gcal 7.53221906706
+EUR'00/kcmg 0.846446195648
+EUR'00/Mcfg 0.298919704189
+US$'00/kWyr 0.869565
+US$'00/TJ 0.027422601826
+US$'00/toe 0.654977380678
+US$'00/boe 4.8009904926
+US$'00/boe 4.8009904926
+US$'00/tce 0.935682173762
+US$'00/MWh 7.61740615829
+US$'00/Gbtu 0.0259930112573
+US$'00/Gcal 6.54975407305
+US$'00/kcmg 0.736039986118
+US$'00/Mcfg 0.259930112573
+TYPE other 2
+MWyr 1.0
+kmu 1.0
+TYPE volumecost 2
+EUR'00/km3 1.0
+US$'00/km3 0.869565
+TYPE powercost 22
+EUR'00/kW 1.0
+EUR'00/TJ/yr 0.0315359999839
+EUR'00/toe/yr 0.753224176086
+EUR'00/boe/yr 5.52114044677
+EUR'00/boe/yr 5.52114044677
+EUR'00/tce/yr 1.07603476884
+EUR'00/MWh/yr 8.76001927204
+EUR'00/Gbtu/yr 0.0298919704189
+EUR'00/Gcal/yr 7.53221906706
+EUR'00/kcmg/yr 0.846446195648
+EUR'00/Mcfg/yr 0.298919704189
+US$'00/kW 0.869565
+US$'00/TJ/yr 0.027422601826
+US$'00/toe/yr 0.654977380678
+US$'00/boe/yr 4.8009904926
+US$'00/boe/yr 4.8009904926
+US$'00/tce/yr 0.935682173762
+US$'00/MWh/yr 7.61740615829
+US$'00/Gbtu/yr 0.0259930112573
+US$'00/Gcal/yr 6.54975407305
+US$'00/kcmg/yr 0.736039986118
+US$'00/Mcfg/yr 0.259930112573
+TYPE volume/yr 2
+Mm3/yr 1.0
+MWyr/yr 1.0
+TYPE volume/yrcost 2
+EUR'00/km3/yr 1.0
+US$'00/km3/yr 0.869565
+TYPE power 11
+MW 1.0
+PJ/yr 31.709792
+ktoe/yr 1.327626
+kboe/yr 0.181122
+kboe/yr 0.181122
+ktce/yr 0.929338
+GWh/yr 0.114155
+Tbtu/yr 33.4538
+Tcal/yr 0.132763
+Mcmg/yr 1.18141
+Gcfg/yr 3.34538
+TYPE volume 1
+Mm3 1.0
+TYPE invest 22
+EUR'00/kW 1.0
+EUR'00/TJ/yr 0.0315359999839
+EUR'00/toe/yr 0.753224176086
+EUR'00/boe/yr 5.52114044677
+EUR'00/boe/yr 5.52114044677
+EUR'00/tce/yr 1.07603476884
+EUR'00/MWh/yr 8.76001927204
+EUR'00/Gbtu/yr 0.0298919704189
+EUR'00/Gcal/yr 7.53221906706
+EUR'00/kcmg/yr 0.846446195648
+EUR'00/Mcfg/yr 0.298919704189
+US$'00/kW 0.869565
+US$'00/TJ/yr 0.027422601826
+US$'00/toe/yr 0.654977380678
+US$'00/boe/yr 4.8009904926
+US$'00/boe/yr 4.8009904926
+US$'00/tce/yr 0.935682173762
+US$'00/MWh/yr 7.61740615829
+US$'00/Gbtu/yr 0.0259930112573
+US$'00/Gcal/yr 6.54975407305
+US$'00/kcmg/yr 0.736039986118
+US$'00/Mcfg/yr 0.259930112573
+TYPE costscost 4
+EUR'00/EUR'00 1.0
+EUR'00/US$'00 1.1500002875
+US$'00/EUR'00 0.869565
+US$'00/US$'00 1.0
+TYPE currencycost 4
+EUR'00/EUR'00 1.0
+EUR'00/US$'00 1.1500002875
+US$'00/EUR'00 0.869565
+US$'00/US$'00 1.0
+TYPE weight/yr 3
+kton/yr 1.0
+Mton/yr 1.0
+ppm/yr 1.0
+TYPE energycost 22
+EUR'00/kWyr 1.0
+EUR'00/TJ 0.0315359999839
+EUR'00/toe 0.753224176086
+EUR'00/boe 5.52114044677
+EUR'00/boe 5.52114044677
+EUR'00/tce 1.07603476884
+EUR'00/MWh 8.76001927204
+EUR'00/Gbtu 0.0298919704189
+EUR'00/Gcal 7.53221906706
+EUR'00/kcmg 0.846446195648
+EUR'00/Mcfg 0.298919704189
+US$'00/kWyr 0.869565
+US$'00/TJ 0.027422601826
+US$'00/toe 0.654977380678
+US$'00/boe 4.8009904926
+US$'00/boe 4.8009904926
+US$'00/tce 0.935682173762
+US$'00/MWh 7.61740615829
+US$'00/Gbtu 0.0259930112573
+US$'00/Gcal 6.54975407305
+US$'00/kcmg 0.736039986118
+US$'00/Mcfg 0.259930112573
+TYPE costs 2
+kEUR'00 1.0
+kUS$'00 0.869565
+TYPE time 1
+yr 1.0
+TYPE weight/yrcost 6
+EUR'00/ton/yr 1.0
+EUR'00/kton/yr 0.001
+EUR'00/vppm/yr 0.000471031559114
+US$'00/ton/yr 0.869565
+US$'00/kton/yr 0.000869565
+US$'00/vppm/yr 0.000409592557701
+FILE defunits 10
+TYPE multscrnb 1
+limit MWyr
+TYPE variables 7
+upper MWyr
+lower MWyr
+penaltylim MWyr
+cost US$'00/kWyr
+penaltycost US$'00/kWyr
+softlimslim MWyr
+softlimscost US$'00/kWyr
+TYPE demands 1
+entry MWyr
+TYPE storage 15
+upper MWyr
+lower MWyr
+cost US$'00/kWyr
+ctime yr
+outflow MWyr
+inv US$'00/kW
+reten yr
+cmix MW
+transfac %
+retenhist MWyr
+fom US$'00/kW/yr
+overflow MWyr
+pll yr
+hisccap MW
+inflow MWyr
+TYPE relations 7
+upper MWyr
+lower MWyr
+penaltylim MWyr
+cost US$'00/kWyr
+penaltycost US$'00/kWyr
+softlimslim MWyr
+softlimscost US$'00/kWyr
+TYPE grades 13
+conca MWyr/MWyr
+bda MWyr
+byrex MWyr
+mpa MWyr
+resrem share
+con1a MWyr/MWyr
+conpa MWyr/MWyr
+con2a MWyr/MWyr
+volume MWyr
+consa MWyr/MWyr
+cost US$'00/kWyr
+uplim MWyr
+initval MWyr
+TYPE multscrn1 10
+outp MWyr
+bda MWyr
+mpc MW
+mpa MWyr
+inp MWyr
+mpast MWyr
+mpgr factor
+mpcst MW
+cost US$'00/kWyr
+limit MWyr
+TYPE alttecs 15
+outp MWyr
+conca MWyr/MWyr
+hiscact MWyr
+bda MWyr
+con2a MWyr/MWyr
+conpa MWyr/MWyr
+vom US$'00/kWyr
+inp MWyr
+con1a MWyr/MWyr
+moutp MWyr
+abda MWyr
+consa MWyr/MWyr
+softlimslim MWyr
+minp MWyr
+softlimscost US$'00/kWyr
+TYPE resources 2
+fcost share
+uplim MWyr
+TYPE systems 21
+optm share
+corin MWyr/MW
+concc MWyr/MW
+ctime yr
+gbda MWyr
+con1c MWyr/MW
+hisccap MW
+bdi MW
+consc MWyr/MW
+pmin MW
+plf share
+cmix MW
+con2c MWyr/MW
+minutil share
+fom US$'00/kW/yr
+corout MWyr/MW
+pll yr
+conpc MWyr/MW
+inv US$'00/kW
+pmax MW
+bdc MW
+FILE gsvunits 5
+TYPE alttecs 2
+ELEM KEWDLCZ001_Bahari2 1
+ITEM T 4
+minp MWyr
+vom US$'00/kWyr
+unittype energy
+moutp MWyr
+ELEM KEEL00TDR 1
+ITEM g 4
+minp MWyr
+hiscact MWyr
+moutp MWyr
+unittype energy
+TYPE relationss 2
+ELEM D_KEHYDM_Turkwell 5
+upper MWyr
+lower MWyr
+limgroup activity
+cost US$'00/kWyr
+unittype energy
+ELEM D_KEHYDM_Kamburu_Masinga 5
+upper MWyr
+lower MWyr
+limgroup activity
+cost US$'00/kWyr
+unittype energy
+TYPE enforms 2
+ELEM Tertiary 1
+ITEM Rural 2
+unittype energy
+unit MW
+ELEM Secondary 2
+ITEM Electricity 2
+unittype energy
+unit MWyr
+ITEM ElcDummy 2
+unittype energy
+unit MWyr
+TYPE relations1 1
+ELEM CO2emissionskt 9
+upper MWyr
+lower MWyr
+cost US$'00/kWyr
+penaltylim MWyr
+unittype energy
+limgroup activity
+penaltycost US$'00/kWyr
+softlimslim MWyr
+softlimscost US$'00/kWyr
+TYPE systems 2
+ELEM KEWDLCZ001_Bahari2 7
+optm share
+ctime yr
+inv US$'00/kW
+plf share
+fom US$'00/kW/yr
+pll yr
+capunit MW
+ELEM KEEL00TDR 7
+optm share
+capunit MW
+inv US$'00/kW
+plf share
+fom US$'00/kW/yr
+pll yr
+hisccap MW

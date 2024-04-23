@@ -1,0 +1,1427 @@
+title: CDaCDEL00TDI_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00TDIaaa = teai......aaa:out
+CDEL00TDIaab = teai......aab:out
+CDEL00TDIaac = teai......aac:out
+CDEL00TDIbaa = teai......baa:out
+CDEL00TDIbab = teai......bab:out
+CDEL00TDIbac = teai......bac:out
+CDEL00TDIbad = teai......bad:out
+CDEL00TDIcaa = teai......caa:out
+CDEL00TDIcab = teai......cab:out
+CDEL00TDIcac = teai......cac:out
+@
+title: CDaCDEL00TDU_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00TDUaaa = tegu......aaa:out
+CDEL00TDUaab = tegu......aab:out
+CDEL00TDUaac = tegu......aac:out
+CDEL00TDUbaa = tegu......baa:out
+CDEL00TDUbab = tegu......bab:out
+CDEL00TDUbac = tegu......bac:out
+CDEL00TDUbad = tegu......bad:out
+CDEL00TDUcaa = tegu......caa:out
+CDEL00TDUcab = tegu......cab:out
+CDEL00TDUcac = tegu......cac:out
+@
+title: CDaCDEL00TDC_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00TDCaaa = teac......aaa:out
+CDEL00TDCaab = teac......aab:out
+CDEL00TDCaac = teac......aac:out
+CDEL00TDCbaa = teac......baa:out
+CDEL00TDCbab = teac......bab:out
+CDEL00TDCbac = teac......bac:out
+CDEL00TDCbad = teac......bad:out
+CDEL00TDCcaa = teac......caa:out
+CDEL00TDCcab = teac......cab:out
+CDEL00TDCcac = teac......cac:out
+@
+title: CDaCDEL00TDR_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00TDRaaa = tear......aaa:out
+CDEL00TDRaab = tear......aab:out
+CDEL00TDRaac = tear......aac:out
+CDEL00TDRbaa = tear......baa:out
+CDEL00TDRbab = tear......bab:out
+CDEL00TDRbac = tear......bac:out
+CDEL00TDRbad = tear......bad:out
+CDEL00TDRcaa = tear......caa:out
+CDEL00TDRcab = tear......cab:out
+CDEL00TDRcac = tear......cac:out
+@
+title: CDaCDEL00T00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00T00aaa = teae......aaa:out
+CDEL00T00aab = teae......aab:out
+CDEL00T00aac = teae......aac:out
+CDEL00T00baa = teae......baa:out
+CDEL00T00bab = teae......bab:out
+CDEL00T00bac = teae......bac:out
+CDEL00T00bad = teae......bad:out
+CDEL00T00caa = teae......caa:out
+CDEL00T00cab = teae......cab:out
+CDEL00T00cac = teae......cac:out
+@
+title: CDaCDEL00i00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDEL00i00aaa = s.ge......aaa:out
+CDEL00i00aab = s.ge......aab:out
+CDEL00i00aac = s.ge......aac:out
+CDEL00i00baa = s.ge......baa:out
+CDEL00i00bab = s.ge......bab:out
+CDEL00i00bac = s.ge......bac:out
+CDEL00i00bad = s.ge......bad:out
+CDEL00i00caa = s.ge......caa:out
+CDEL00i00cab = s.ge......cab:out
+CDEL00i00cac = s.ge......cac:out
+@
+title: CDaCDELBS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELBS00aaa = s.ze......aaa:out
+CDELBS00aab = s.ze......aab:out
+CDELBS00aac = s.ze......aac:out
+CDELBS00baa = s.ze......baa:out
+CDELBS00bab = s.ze......bab:out
+CDELBS00bac = s.ze......bac:out
+CDELBS00bad = s.ze......bad:out
+CDELBS00caa = s.ze......caa:out
+CDELBS00cab = s.ze......cab:out
+CDELBS00cac = s.ze......cac:out
+@
+title: CDaCDDSRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC00aaa = soge......aaa:out
+CDDSRC00aab = soge......aab:out
+CDDSRC00aac = soge......aac:out
+CDDSRC00baa = soge......baa:out
+CDDSRC00bab = soge......bab:out
+CDDSRC00bac = soge......bac:out
+CDDSRC00bad = soge......bad:out
+CDDSRC00caa = soge......caa:out
+CDDSRC00cab = soge......cab:out
+CDDSRC00cac = soge......cac:out
+@
+title: CDaCDDSRC06_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC06aaa = soFe......aaa:out
+CDDSRC06aab = soFe......aab:out
+CDDSRC06aac = soFe......aac:out
+CDDSRC06baa = soFe......baa:out
+CDDSRC06bab = soFe......bab:out
+CDDSRC06bac = soFe......bac:out
+CDDSRC06bad = soFe......bad:out
+CDDSRC06caa = soFe......caa:out
+CDDSRC06cab = soFe......cab:out
+CDDSRC06cac = soFe......cac:out
+@
+title: CDaCDDSRC05_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC05aaa = soEe......aaa:out
+CDDSRC05aab = soEe......aab:out
+CDDSRC05aac = soEe......aac:out
+CDDSRC05baa = soEe......baa:out
+CDDSRC05bab = soEe......bab:out
+CDDSRC05bac = soEe......bac:out
+CDDSRC05bad = soEe......bad:out
+CDDSRC05caa = soEe......caa:out
+CDDSRC05cab = soEe......cab:out
+CDDSRC05cac = soEe......cac:out
+@
+title: CDaCDDSRC04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC04aaa = soDe......aaa:out
+CDDSRC04aab = soDe......aab:out
+CDDSRC04aac = soDe......aac:out
+CDDSRC04baa = soDe......baa:out
+CDDSRC04bab = soDe......bab:out
+CDDSRC04bac = soDe......bac:out
+CDDSRC04bad = soDe......bad:out
+CDDSRC04caa = soDe......caa:out
+CDDSRC04cab = soDe......cab:out
+CDDSRC04cac = soDe......cac:out
+@
+title: CDaCDDSRC03_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC03aaa = soCe......aaa:out
+CDDSRC03aab = soCe......aab:out
+CDDSRC03aac = soCe......aac:out
+CDDSRC03baa = soCe......baa:out
+CDDSRC03bab = soCe......bab:out
+CDDSRC03bac = soCe......bac:out
+CDDSRC03bad = soCe......bad:out
+CDDSRC03caa = soCe......caa:out
+CDDSRC03cab = soCe......cab:out
+CDDSRC03cac = soCe......cac:out
+@
+title: CDaCDDSRC02_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC02aaa = soBe......aaa:out
+CDDSRC02aab = soBe......aab:out
+CDDSRC02aac = soBe......aac:out
+CDDSRC02baa = soBe......baa:out
+CDDSRC02bab = soBe......bab:out
+CDDSRC02bac = soBe......bac:out
+CDDSRC02bad = soBe......bad:out
+CDDSRC02caa = soBe......caa:out
+CDDSRC02cab = soBe......cab:out
+CDDSRC02cac = soBe......cac:out
+@
+title: CDaCDDSRC01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRC01aaa = soAe......aaa:out
+CDDSRC01aab = soAe......aab:out
+CDDSRC01aac = soAe......aac:out
+CDDSRC01baa = soAe......baa:out
+CDDSRC01bab = soAe......bab:out
+CDDSRC01bac = soAe......bac:out
+CDDSRC01bad = soAe......bad:out
+CDDSRC01caa = soAe......caa:out
+CDDSRC01cab = soAe......cab:out
+CDDSRC01cac = soAe......cac:out
+@
+title: CDaCDDSRI00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRI00aaa = togi......aaa:out
+CDDSRI00aab = togi......aab:out
+CDDSRI00aac = togi......aac:out
+CDDSRI00baa = togi......baa:out
+CDDSRI00bab = togi......bab:out
+CDDSRI00bac = togi......bac:out
+CDDSRI00bad = togi......bad:out
+CDDSRI00caa = togi......caa:out
+CDDSRI00cab = togi......cab:out
+CDDSRI00cac = togi......cac:out
+@
+title: CDaCDDSRU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRU00aaa = togu......aaa:out
+CDDSRU00aab = togu......aab:out
+CDDSRU00aac = togu......aac:out
+CDDSRU00baa = togu......baa:out
+CDDSRU00bab = togu......bab:out
+CDDSRU00bac = togu......bac:out
+CDDSRU00bad = togu......bad:out
+CDDSRU00caa = togu......caa:out
+CDDSRU00cab = togu......cab:out
+CDDSRU00cac = togu......cac:out
+@
+title: CDaCDDSRB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRB00aaa = togc......aaa:out
+CDDSRB00aab = togc......aab:out
+CDDSRB00aac = togc......aac:out
+CDDSRB00baa = togc......baa:out
+CDDSRB00bab = togc......bab:out
+CDDSRB00bac = togc......bac:out
+CDDSRB00bad = togc......bad:out
+CDDSRB00caa = togc......caa:out
+CDDSRB00cab = togc......cab:out
+CDDSRB00cac = togc......cac:out
+@
+title: CDaCDDSRR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDDSRR00aaa = togr......aaa:out
+CDDSRR00aab = togr......aab:out
+CDDSRR00aac = togr......aac:out
+CDDSRR00baa = togr......baa:out
+CDDSRR00bab = togr......bab:out
+CDDSRR00bac = togr......bac:out
+CDDSRR00bad = togr......bad:out
+CDDSRR00caa = togr......caa:out
+CDDSRR00cab = togr......cab:out
+CDDSRR00cac = togr......cac:out
+@
+title: CDaCDHFRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHFRC00aaa = shge......aaa:out
+CDHFRC00aab = shge......aab:out
+CDHFRC00aac = shge......aac:out
+CDHFRC00baa = shge......baa:out
+CDHFRC00bab = shge......bab:out
+CDHFRC00bac = shge......bac:out
+CDHFRC00bad = shge......bad:out
+CDHFRC00caa = shge......caa:out
+CDHFRC00cab = shge......cab:out
+CDHFRC00cac = shge......cac:out
+@
+title: CDaCDNGSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDNGSC00aaa = sgge......aaa:out
+CDNGSC00aab = sgge......aab:out
+CDNGSC00aac = sgge......aac:out
+CDNGSC00baa = sgge......baa:out
+CDNGSC00bab = sgge......bab:out
+CDNGSC00bac = sgge......bac:out
+CDNGSC00bad = sgge......bad:out
+CDNGSC00caa = sgge......caa:out
+CDNGSC00cab = sgge......cab:out
+CDNGSC00cac = sgge......cac:out
+@
+title: CDaCDNGCC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDNGCC00aaa = sghe......aaa:out
+CDNGCC00aab = sghe......aab:out
+CDNGCC00aac = sghe......aac:out
+CDNGCC00baa = sghe......baa:out
+CDNGCC00bab = sghe......bab:out
+CDNGCC00bac = sghe......bac:out
+CDNGCC00bad = sghe......bad:out
+CDNGCC00caa = sghe......caa:out
+CDNGCC00cab = sghe......cab:out
+CDNGCC00cac = sghe......cac:out
+@
+title: CDaCDNGRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDNGRC00aaa = sgie......aaa:out
+CDNGRC00aab = sgie......aab:out
+CDNGRC00aac = sgie......aac:out
+CDNGRC00baa = sgie......baa:out
+CDNGRC00bab = sgie......bab:out
+CDNGRC00bac = sgie......bac:out
+CDNGRC00bad = sgie......bad:out
+CDNGRC00caa = sgie......caa:out
+CDNGRC00cab = sgie......cab:out
+CDNGRC00cac = sgie......cac:out
+@
+title: CDaCDNGRC01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDNGRC01aaa = sgAe......aaa:out
+CDNGRC01aab = sgAe......aab:out
+CDNGRC01aac = sgAe......aac:out
+CDNGRC01baa = sgAe......baa:out
+CDNGRC01bab = sgAe......bab:out
+CDNGRC01bac = sgAe......bac:out
+CDNGRC01bad = sgAe......bad:out
+CDNGRC01caa = sgAe......caa:out
+CDNGRC01cab = sgAe......cab:out
+CDNGRC01cac = sgAe......cac:out
+@
+title: CDaCDCOSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDCOSC00aaa = scge......aaa:out
+CDCOSC00aab = scge......aab:out
+CDCOSC00aac = scge......aac:out
+CDCOSC00baa = scge......baa:out
+CDCOSC00bab = scge......bab:out
+CDCOSC00bac = scge......bac:out
+CDCOSC00bad = scge......bad:out
+CDCOSC00caa = scge......caa:out
+CDCOSC00cab = scge......cab:out
+CDCOSC00cac = scge......cac:out
+@
+title: CDaCDCOSC20_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDCOSC20aaa = scTe......aaa:out
+CDCOSC20aab = scTe......aab:out
+CDCOSC20aac = scTe......aac:out
+CDCOSC20baa = scTe......baa:out
+CDCOSC20bab = scTe......bab:out
+CDCOSC20bac = scTe......bac:out
+CDCOSC20bad = scTe......bad:out
+CDCOSC20caa = scTe......caa:out
+CDCOSC20cab = scTe......cab:out
+CDCOSC20cac = scTe......cac:out
+@
+title: CDaCDHYRO_Inga_IV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Inga_IVaaa = sHVe......aaa:out
+CDHYRO_Inga_IVaab = sHVe......aab:out
+CDHYRO_Inga_IVaac = sHVe......aac:out
+CDHYRO_Inga_IVbaa = sHVe......baa:out
+CDHYRO_Inga_IVbab = sHVe......bab:out
+CDHYRO_Inga_IVbac = sHVe......bac:out
+CDHYRO_Inga_IVbad = sHVe......bad:out
+CDHYRO_Inga_IVcaa = sHVe......caa:out
+CDHYRO_Inga_IVcab = sHVe......cab:out
+CDHYRO_Inga_IVcac = sHVe......cac:out
+@
+title: CDaCDHYRO_Inga_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Inga_IIIaaa = sHUe......aaa:out
+CDHYRO_Inga_IIIaab = sHUe......aab:out
+CDHYRO_Inga_IIIaac = sHUe......aac:out
+CDHYRO_Inga_IIIbaa = sHUe......baa:out
+CDHYRO_Inga_IIIbab = sHUe......bab:out
+CDHYRO_Inga_IIIbac = sHUe......bac:out
+CDHYRO_Inga_IIIbad = sHUe......bad:out
+CDHYRO_Inga_IIIcaa = sHUe......caa:out
+CDHYRO_Inga_IIIcab = sHUe......cab:out
+CDHYRO_Inga_IIIcac = sHUe......cac:out
+@
+title: CDaCDHYRO_Ruzizi_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Ruzizi_IIIaaa = sHTe......aaa:out
+CDHYRO_Ruzizi_IIIaab = sHTe......aab:out
+CDHYRO_Ruzizi_IIIaac = sHTe......aac:out
+CDHYRO_Ruzizi_IIIbaa = sHTe......baa:out
+CDHYRO_Ruzizi_IIIbab = sHTe......bab:out
+CDHYRO_Ruzizi_IIIbac = sHTe......bac:out
+CDHYRO_Ruzizi_IIIbad = sHTe......bad:out
+CDHYRO_Ruzizi_IIIcaa = sHTe......caa:out
+CDHYRO_Ruzizi_IIIcab = sHTe......cab:out
+CDHYRO_Ruzizi_IIIcac = sHTe......cac:out
+@
+title: CDaCDHYRO_Wanie_Rukula_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Wanie_Rukulaaaa = sHSe......aaa:out
+CDHYRO_Wanie_Rukulaaab = sHSe......aab:out
+CDHYRO_Wanie_Rukulaaac = sHSe......aac:out
+CDHYRO_Wanie_Rukulabaa = sHSe......baa:out
+CDHYRO_Wanie_Rukulabab = sHSe......bab:out
+CDHYRO_Wanie_Rukulabac = sHSe......bac:out
+CDHYRO_Wanie_Rukulabad = sHSe......bad:out
+CDHYRO_Wanie_Rukulacaa = sHSe......caa:out
+CDHYRO_Wanie_Rukulacab = sHSe......cab:out
+CDHYRO_Wanie_Rukulacac = sHSe......cac:out
+@
+title: CDaCDHYRO_Zongo_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Zongo_IIaaa = sHRe......aaa:out
+CDHYRO_Zongo_IIaab = sHRe......aab:out
+CDHYRO_Zongo_IIaac = sHRe......aac:out
+CDHYRO_Zongo_IIbaa = sHRe......baa:out
+CDHYRO_Zongo_IIbab = sHRe......bab:out
+CDHYRO_Zongo_IIbac = sHRe......bac:out
+CDHYRO_Zongo_IIbad = sHRe......bad:out
+CDHYRO_Zongo_IIcaa = sHRe......caa:out
+CDHYRO_Zongo_IIcab = sHRe......cab:out
+CDHYRO_Zongo_IIcac = sHRe......cac:out
+@
+title: CDaCDHYDM_Ruzizi_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Ruzizi_IIaaa = sHQe......aaa:out
+CDHYDM_Ruzizi_IIaab = sHQe......aab:out
+CDHYDM_Ruzizi_IIaac = sHQe......aac:out
+CDHYDM_Ruzizi_IIbaa = sHQe......baa:out
+CDHYDM_Ruzizi_IIbab = sHQe......bab:out
+CDHYDM_Ruzizi_IIbac = sHQe......bac:out
+CDHYDM_Ruzizi_IIbad = sHQe......bad:out
+CDHYDM_Ruzizi_IIcaa = sHQe......caa:out
+CDHYDM_Ruzizi_IIcab = sHQe......cab:out
+CDHYDM_Ruzizi_IIcac = sHQe......cac:out
+@
+title: CDaCDHYDM_Ruzizi_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Ruzizi_Iaaa = sHPe......aaa:out
+CDHYDM_Ruzizi_Iaab = sHPe......aab:out
+CDHYDM_Ruzizi_Iaac = sHPe......aac:out
+CDHYDM_Ruzizi_Ibaa = sHPe......baa:out
+CDHYDM_Ruzizi_Ibab = sHPe......bab:out
+CDHYDM_Ruzizi_Ibac = sHPe......bac:out
+CDHYDM_Ruzizi_Ibad = sHPe......bad:out
+CDHYDM_Ruzizi_Icaa = sHPe......caa:out
+CDHYDM_Ruzizi_Icab = sHPe......cab:out
+CDHYDM_Ruzizi_Icac = sHPe......cac:out
+@
+title: CDaCDHYRO_Inga_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Inga_IIaaa = sHOe......aaa:out
+CDHYRO_Inga_IIaab = sHOe......aab:out
+CDHYRO_Inga_IIaac = sHOe......aac:out
+CDHYRO_Inga_IIbaa = sHOe......baa:out
+CDHYRO_Inga_IIbab = sHOe......bab:out
+CDHYRO_Inga_IIbac = sHOe......bac:out
+CDHYRO_Inga_IIbad = sHOe......bad:out
+CDHYRO_Inga_IIcaa = sHOe......caa:out
+CDHYRO_Inga_IIcab = sHOe......cab:out
+CDHYRO_Inga_IIcac = sHOe......cac:out
+@
+title: CDaCDHYDM_Inga_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Inga_Iaaa = sHNe......aaa:out
+CDHYDM_Inga_Iaab = sHNe......aab:out
+CDHYDM_Inga_Iaac = sHNe......aac:out
+CDHYDM_Inga_Ibaa = sHNe......baa:out
+CDHYDM_Inga_Ibab = sHNe......bab:out
+CDHYDM_Inga_Ibac = sHNe......bac:out
+CDHYDM_Inga_Ibad = sHNe......bad:out
+CDHYDM_Inga_Icaa = sHNe......caa:out
+CDHYDM_Inga_Icab = sHNe......cab:out
+CDHYDM_Inga_Icac = sHNe......cac:out
+@
+title: CDaCDHYRO_Nzoro_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Nzoroaaa = sHMe......aaa:out
+CDHYRO_Nzoroaab = sHMe......aab:out
+CDHYRO_Nzoroaac = sHMe......aac:out
+CDHYRO_Nzorobaa = sHMe......baa:out
+CDHYRO_Nzorobab = sHMe......bab:out
+CDHYRO_Nzorobac = sHMe......bac:out
+CDHYRO_Nzorobad = sHMe......bad:out
+CDHYRO_Nzorocaa = sHMe......caa:out
+CDHYRO_Nzorocab = sHMe......cab:out
+CDHYRO_Nzorocac = sHMe......cac:out
+@
+title: CDaCDHYRO_Busanga_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Busangaaaa = sHLe......aaa:out
+CDHYRO_Busangaaab = sHLe......aab:out
+CDHYRO_Busangaaac = sHLe......aac:out
+CDHYRO_Busangabaa = sHLe......baa:out
+CDHYRO_Busangabab = sHLe......bab:out
+CDHYRO_Busangabac = sHLe......bac:out
+CDHYRO_Busangabad = sHLe......bad:out
+CDHYRO_Busangacaa = sHLe......caa:out
+CDHYRO_Busangacab = sHLe......cab:out
+CDHYRO_Busangacac = sHLe......cac:out
+@
+title: CDaCDHYRO_Piana_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Pianaaaa = sHKe......aaa:out
+CDHYRO_Pianaaab = sHKe......aab:out
+CDHYRO_Pianaaac = sHKe......aac:out
+CDHYRO_Pianabaa = sHKe......baa:out
+CDHYRO_Pianabab = sHKe......bab:out
+CDHYRO_Pianabac = sHKe......bac:out
+CDHYRO_Pianabad = sHKe......bad:out
+CDHYRO_Pianacaa = sHKe......caa:out
+CDHYRO_Pianacab = sHKe......cab:out
+CDHYRO_Pianacac = sHKe......cac:out
+@
+title: CDaCDHYDM_Zongo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Zongoaaa = sHIe......aaa:out
+CDHYDM_Zongoaab = sHIe......aab:out
+CDHYDM_Zongoaac = sHIe......aac:out
+CDHYDM_Zongobaa = sHIe......baa:out
+CDHYDM_Zongobab = sHIe......bab:out
+CDHYDM_Zongobac = sHIe......bac:out
+CDHYDM_Zongobad = sHIe......bad:out
+CDHYDM_Zongocaa = sHIe......caa:out
+CDHYDM_Zongocab = sHIe......cab:out
+CDHYDM_Zongocac = sHIe......cac:out
+@
+title: CDaCDHYDM_Nseke_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Nsekeaaa = sHHe......aaa:out
+CDHYDM_Nsekeaab = sHHe......aab:out
+CDHYDM_Nsekeaac = sHHe......aac:out
+CDHYDM_Nsekebaa = sHHe......baa:out
+CDHYDM_Nsekebab = sHHe......bab:out
+CDHYDM_Nsekebac = sHHe......bac:out
+CDHYDM_Nsekebad = sHHe......bad:out
+CDHYDM_Nsekecaa = sHHe......caa:out
+CDHYDM_Nsekecab = sHHe......cab:out
+CDHYDM_Nsekecac = sHHe......cac:out
+@
+title: CDaCDHYDM_Nzilo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Nziloaaa = sHFe......aaa:out
+CDHYDM_Nziloaab = sHFe......aab:out
+CDHYDM_Nziloaac = sHFe......aac:out
+CDHYDM_Nzilobaa = sHFe......baa:out
+CDHYDM_Nzilobab = sHFe......bab:out
+CDHYDM_Nzilobac = sHFe......bac:out
+CDHYDM_Nzilobad = sHFe......bad:out
+CDHYDM_Nzilocaa = sHFe......caa:out
+CDHYDM_Nzilocab = sHFe......cab:out
+CDHYDM_Nzilocac = sHFe......cac:out
+@
+title: CDaCDHYDM_Mwadingusha_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Mwadingushaaaa = sHEe......aaa:out
+CDHYDM_Mwadingushaaab = sHEe......aab:out
+CDHYDM_Mwadingushaaac = sHEe......aac:out
+CDHYDM_Mwadingushabaa = sHEe......baa:out
+CDHYDM_Mwadingushabab = sHEe......bab:out
+CDHYDM_Mwadingushabac = sHEe......bac:out
+CDHYDM_Mwadingushabad = sHEe......bad:out
+CDHYDM_Mwadingushacaa = sHEe......caa:out
+CDHYDM_Mwadingushacab = sHEe......cab:out
+CDHYDM_Mwadingushacac = sHEe......cac:out
+@
+title: CDaCDHYDM_Koni_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Koniaaa = sHDe......aaa:out
+CDHYDM_Koniaab = sHDe......aab:out
+CDHYDM_Koniaac = sHDe......aac:out
+CDHYDM_Konibaa = sHDe......baa:out
+CDHYDM_Konibab = sHDe......bab:out
+CDHYDM_Konibac = sHDe......bac:out
+CDHYDM_Konibad = sHDe......bad:out
+CDHYDM_Konicaa = sHDe......caa:out
+CDHYDM_Konicab = sHDe......cab:out
+CDHYDM_Konicac = sHDe......cac:out
+@
+title: CDaCDHYRO_Soleniama_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Soleniamaaaa = sHBe......aaa:out
+CDHYRO_Soleniamaaab = sHBe......aab:out
+CDHYRO_Soleniamaaac = sHBe......aac:out
+CDHYRO_Soleniamabaa = sHBe......baa:out
+CDHYRO_Soleniamabab = sHBe......bab:out
+CDHYRO_Soleniamabac = sHBe......bac:out
+CDHYRO_Soleniamabad = sHBe......bad:out
+CDHYRO_Soleniamacaa = sHBe......caa:out
+CDHYRO_Soleniamacab = sHBe......cab:out
+CDHYRO_Soleniamacac = sHBe......cac:out
+@
+title: CDaCDHYDM_Sombwe_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYDM_Sombweaaa = sHAe......aaa:out
+CDHYDM_Sombweaab = sHAe......aab:out
+CDHYDM_Sombweaac = sHAe......aac:out
+CDHYDM_Sombwebaa = sHAe......baa:out
+CDHYDM_Sombwebab = sHAe......bab:out
+CDHYDM_Sombwebac = sHAe......bac:out
+CDHYDM_Sombwebad = sHAe......bad:out
+CDHYDM_Sombwecaa = sHAe......caa:out
+CDHYDM_Sombwecab = sHAe......cab:out
+CDHYDM_Sombwecac = sHAe......cac:out
+@
+title: CDaCDHYRO_Mobayi_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Mobayiaaa = sHJe......aaa:out
+CDHYRO_Mobayiaab = sHJe......aab:out
+CDHYRO_Mobayiaac = sHJe......aac:out
+CDHYRO_Mobayibaa = sHJe......baa:out
+CDHYRO_Mobayibab = sHJe......bab:out
+CDHYRO_Mobayibac = sHJe......bac:out
+CDHYRO_Mobayibad = sHJe......bad:out
+CDHYRO_Mobayicaa = sHJe......caa:out
+CDHYRO_Mobayicab = sHJe......cab:out
+CDHYRO_Mobayicac = sHJe......cac:out
+@
+title: CDaCDHYRO_Tshopo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Tshopoaaa = sHGe......aaa:out
+CDHYRO_Tshopoaab = sHGe......aab:out
+CDHYRO_Tshopoaac = sHGe......aac:out
+CDHYRO_Tshopobaa = sHGe......baa:out
+CDHYRO_Tshopobab = sHGe......bab:out
+CDHYRO_Tshopobac = sHGe......bac:out
+CDHYRO_Tshopobad = sHGe......bad:out
+CDHYRO_Tshopocaa = sHGe......caa:out
+CDHYRO_Tshopocab = sHGe......cab:out
+CDHYRO_Tshopocac = sHGe......cac:out
+@
+title: CDaCDHYRO_Sanga_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDHYRO_Sangaaaa = sHCe......aaa:out
+CDHYRO_Sangaaab = sHCe......aab:out
+CDHYRO_Sangaaac = sHCe......aac:out
+CDHYRO_Sangabaa = sHCe......baa:out
+CDHYRO_Sangabab = sHCe......bab:out
+CDHYRO_Sangabac = sHCe......bac:out
+CDHYRO_Sangabad = sHCe......bad:out
+CDHYRO_Sangacaa = sHCe......caa:out
+CDHYRO_Sangacab = sHCe......cab:out
+CDHYRO_Sangacac = sHCe......cac:out
+@
+title: CDaCDBMST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDBMST00aaa = sbge......aaa:out
+CDBMST00aab = sbge......aab:out
+CDBMST00aac = sbge......aac:out
+CDBMST00baa = sbge......baa:out
+CDBMST00bab = sbge......bab:out
+CDBMST00bac = sbge......bac:out
+CDBMST00bad = sbge......bad:out
+CDBMST00caa = sbge......caa:out
+CDBMST00cab = sbge......cab:out
+CDBMST00cac = sbge......cac:out
+@
+title: CDaCDBWST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDBWST00aaa = sBae......aaa:out
+CDBWST00aab = sBae......aab:out
+CDBWST00aac = sBae......aac:out
+CDBWST00baa = sBae......baa:out
+CDBWST00bab = sBae......bab:out
+CDBWST00bac = sBae......bac:out
+CDBWST00bad = sBae......bad:out
+CDBWST00caa = sBae......caa:out
+CDBWST00cab = sBae......cab:out
+CDBWST00cac = sBae......cac:out
+@
+title: CDaCDGOCV00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDGOCV00aaa = s.he......aaa:out
+CDGOCV00aab = s.he......aab:out
+CDGOCV00aac = s.he......aac:out
+CDGOCV00baa = s.he......baa:out
+CDGOCV00bab = s.he......bab:out
+CDGOCV00bac = s.he......bac:out
+CDGOCV00bad = s.he......bad:out
+CDGOCV00caa = s.he......caa:out
+CDGOCV00cab = s.he......cab:out
+CDGOCV00cac = s.he......cac:out
+@
+title: CDaCDWDLCZ010_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ010aaa = swJe......aaa:out
+CDWDLCZ010aab = swJe......aab:out
+CDWDLCZ010aac = swJe......aac:out
+CDWDLCZ010baa = swJe......baa:out
+CDWDLCZ010bab = swJe......bab:out
+CDWDLCZ010bac = swJe......bac:out
+CDWDLCZ010bad = swJe......bad:out
+CDWDLCZ010caa = swJe......caa:out
+CDWDLCZ010cab = swJe......cab:out
+CDWDLCZ010cac = swJe......cac:out
+@
+title: CDaCDWDLCZ009_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ009aaa = swIe......aaa:out
+CDWDLCZ009aab = swIe......aab:out
+CDWDLCZ009aac = swIe......aac:out
+CDWDLCZ009baa = swIe......baa:out
+CDWDLCZ009bab = swIe......bab:out
+CDWDLCZ009bac = swIe......bac:out
+CDWDLCZ009bad = swIe......bad:out
+CDWDLCZ009caa = swIe......caa:out
+CDWDLCZ009cab = swIe......cab:out
+CDWDLCZ009cac = swIe......cac:out
+@
+title: CDaCDWDLCZ008_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ008aaa = swHe......aaa:out
+CDWDLCZ008aab = swHe......aab:out
+CDWDLCZ008aac = swHe......aac:out
+CDWDLCZ008baa = swHe......baa:out
+CDWDLCZ008bab = swHe......bab:out
+CDWDLCZ008bac = swHe......bac:out
+CDWDLCZ008bad = swHe......bad:out
+CDWDLCZ008caa = swHe......caa:out
+CDWDLCZ008cab = swHe......cab:out
+CDWDLCZ008cac = swHe......cac:out
+@
+title: CDaCDWDLCZ007_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ007aaa = swGe......aaa:out
+CDWDLCZ007aab = swGe......aab:out
+CDWDLCZ007aac = swGe......aac:out
+CDWDLCZ007baa = swGe......baa:out
+CDWDLCZ007bab = swGe......bab:out
+CDWDLCZ007bac = swGe......bac:out
+CDWDLCZ007bad = swGe......bad:out
+CDWDLCZ007caa = swGe......caa:out
+CDWDLCZ007cab = swGe......cab:out
+CDWDLCZ007cac = swGe......cac:out
+@
+title: CDaCDWDLCZ006_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ006aaa = swFe......aaa:out
+CDWDLCZ006aab = swFe......aab:out
+CDWDLCZ006aac = swFe......aac:out
+CDWDLCZ006baa = swFe......baa:out
+CDWDLCZ006bab = swFe......bab:out
+CDWDLCZ006bac = swFe......bac:out
+CDWDLCZ006bad = swFe......bad:out
+CDWDLCZ006caa = swFe......caa:out
+CDWDLCZ006cab = swFe......cab:out
+CDWDLCZ006cac = swFe......cac:out
+@
+title: CDaCDWDLCZ005_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ005aaa = swEe......aaa:out
+CDWDLCZ005aab = swEe......aab:out
+CDWDLCZ005aac = swEe......aac:out
+CDWDLCZ005baa = swEe......baa:out
+CDWDLCZ005bab = swEe......bab:out
+CDWDLCZ005bac = swEe......bac:out
+CDWDLCZ005bad = swEe......bad:out
+CDWDLCZ005caa = swEe......caa:out
+CDWDLCZ005cab = swEe......cab:out
+CDWDLCZ005cac = swEe......cac:out
+@
+title: CDaCDWDLCZ004_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ004aaa = swDe......aaa:out
+CDWDLCZ004aab = swDe......aab:out
+CDWDLCZ004aac = swDe......aac:out
+CDWDLCZ004baa = swDe......baa:out
+CDWDLCZ004bab = swDe......bab:out
+CDWDLCZ004bac = swDe......bac:out
+CDWDLCZ004bad = swDe......bad:out
+CDWDLCZ004caa = swDe......caa:out
+CDWDLCZ004cab = swDe......cab:out
+CDWDLCZ004cac = swDe......cac:out
+@
+title: CDaCDWDLCZ003_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ003aaa = swCe......aaa:out
+CDWDLCZ003aab = swCe......aab:out
+CDWDLCZ003aac = swCe......aac:out
+CDWDLCZ003baa = swCe......baa:out
+CDWDLCZ003bab = swCe......bab:out
+CDWDLCZ003bac = swCe......bac:out
+CDWDLCZ003bad = swCe......bad:out
+CDWDLCZ003caa = swCe......caa:out
+CDWDLCZ003cab = swCe......cab:out
+CDWDLCZ003cac = swCe......cac:out
+@
+title: CDaCDWDLCZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ002aaa = swBe......aaa:out
+CDWDLCZ002aab = swBe......aab:out
+CDWDLCZ002aac = swBe......aac:out
+CDWDLCZ002baa = swBe......baa:out
+CDWDLCZ002bab = swBe......bab:out
+CDWDLCZ002bac = swBe......bac:out
+CDWDLCZ002bad = swBe......bad:out
+CDWDLCZ002caa = swBe......caa:out
+CDWDLCZ002cab = swBe......cab:out
+CDWDLCZ002cac = swBe......cac:out
+@
+title: CDaCDWDLCZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDWDLCZ001aaa = swAe......aaa:out
+CDWDLCZ001aab = swAe......aab:out
+CDWDLCZ001aac = swAe......aac:out
+CDWDLCZ001baa = swAe......baa:out
+CDWDLCZ001bab = swAe......bab:out
+CDWDLCZ001bac = swAe......bac:out
+CDWDLCZ001bad = swAe......bad:out
+CDWDLCZ001caa = swAe......caa:out
+CDWDLCZ001cab = swAe......cab:out
+CDWDLCZ001cac = swAe......cac:out
+@
+title: CDaCDSOPC_MONANO_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPC_MONANOaaa = ssKe......aaa:out
+CDSOPC_MONANOaab = ssKe......aab:out
+CDSOPC_MONANOaac = ssKe......aac:out
+CDSOPC_MONANObaa = ssKe......baa:out
+CDSOPC_MONANObab = ssKe......bab:out
+CDSOPC_MONANObac = ssKe......bac:out
+CDSOPC_MONANObad = ssKe......bad:out
+CDSOPC_MONANOcaa = ssKe......caa:out
+CDSOPC_MONANOcab = ssKe......cab:out
+CDSOPC_MONANOcac = ssKe......cac:out
+@
+title: CDaCDSOPCZ010_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ010aaa = ssJe......aaa:out
+CDSOPCZ010aab = ssJe......aab:out
+CDSOPCZ010aac = ssJe......aac:out
+CDSOPCZ010baa = ssJe......baa:out
+CDSOPCZ010bab = ssJe......bab:out
+CDSOPCZ010bac = ssJe......bac:out
+CDSOPCZ010bad = ssJe......bad:out
+CDSOPCZ010caa = ssJe......caa:out
+CDSOPCZ010cab = ssJe......cab:out
+CDSOPCZ010cac = ssJe......cac:out
+@
+title: CDaCDSOPCZ009_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ009aaa = ssIe......aaa:out
+CDSOPCZ009aab = ssIe......aab:out
+CDSOPCZ009aac = ssIe......aac:out
+CDSOPCZ009baa = ssIe......baa:out
+CDSOPCZ009bab = ssIe......bab:out
+CDSOPCZ009bac = ssIe......bac:out
+CDSOPCZ009bad = ssIe......bad:out
+CDSOPCZ009caa = ssIe......caa:out
+CDSOPCZ009cab = ssIe......cab:out
+CDSOPCZ009cac = ssIe......cac:out
+@
+title: CDaCDSOPCZ008_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ008aaa = ssHe......aaa:out
+CDSOPCZ008aab = ssHe......aab:out
+CDSOPCZ008aac = ssHe......aac:out
+CDSOPCZ008baa = ssHe......baa:out
+CDSOPCZ008bab = ssHe......bab:out
+CDSOPCZ008bac = ssHe......bac:out
+CDSOPCZ008bad = ssHe......bad:out
+CDSOPCZ008caa = ssHe......caa:out
+CDSOPCZ008cab = ssHe......cab:out
+CDSOPCZ008cac = ssHe......cac:out
+@
+title: CDaCDSOPCZ007_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ007aaa = ssGe......aaa:out
+CDSOPCZ007aab = ssGe......aab:out
+CDSOPCZ007aac = ssGe......aac:out
+CDSOPCZ007baa = ssGe......baa:out
+CDSOPCZ007bab = ssGe......bab:out
+CDSOPCZ007bac = ssGe......bac:out
+CDSOPCZ007bad = ssGe......bad:out
+CDSOPCZ007caa = ssGe......caa:out
+CDSOPCZ007cab = ssGe......cab:out
+CDSOPCZ007cac = ssGe......cac:out
+@
+title: CDaCDSOPCZ006_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ006aaa = ssFe......aaa:out
+CDSOPCZ006aab = ssFe......aab:out
+CDSOPCZ006aac = ssFe......aac:out
+CDSOPCZ006baa = ssFe......baa:out
+CDSOPCZ006bab = ssFe......bab:out
+CDSOPCZ006bac = ssFe......bac:out
+CDSOPCZ006bad = ssFe......bad:out
+CDSOPCZ006caa = ssFe......caa:out
+CDSOPCZ006cab = ssFe......cab:out
+CDSOPCZ006cac = ssFe......cac:out
+@
+title: CDaCDSOPCZ005_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ005aaa = ssEe......aaa:out
+CDSOPCZ005aab = ssEe......aab:out
+CDSOPCZ005aac = ssEe......aac:out
+CDSOPCZ005baa = ssEe......baa:out
+CDSOPCZ005bab = ssEe......bab:out
+CDSOPCZ005bac = ssEe......bac:out
+CDSOPCZ005bad = ssEe......bad:out
+CDSOPCZ005caa = ssEe......caa:out
+CDSOPCZ005cab = ssEe......cab:out
+CDSOPCZ005cac = ssEe......cac:out
+@
+title: CDaCDSOPCZ004_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ004aaa = ssDe......aaa:out
+CDSOPCZ004aab = ssDe......aab:out
+CDSOPCZ004aac = ssDe......aac:out
+CDSOPCZ004baa = ssDe......baa:out
+CDSOPCZ004bab = ssDe......bab:out
+CDSOPCZ004bac = ssDe......bac:out
+CDSOPCZ004bad = ssDe......bad:out
+CDSOPCZ004caa = ssDe......caa:out
+CDSOPCZ004cab = ssDe......cab:out
+CDSOPCZ004cac = ssDe......cac:out
+@
+title: CDaCDSOPCZ003_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ003aaa = ssCe......aaa:out
+CDSOPCZ003aab = ssCe......aab:out
+CDSOPCZ003aac = ssCe......aac:out
+CDSOPCZ003baa = ssCe......baa:out
+CDSOPCZ003bab = ssCe......bab:out
+CDSOPCZ003bac = ssCe......bac:out
+CDSOPCZ003bad = ssCe......bad:out
+CDSOPCZ003caa = ssCe......caa:out
+CDSOPCZ003cab = ssCe......cab:out
+CDSOPCZ003cac = ssCe......cac:out
+@
+title: CDaCDSOPCZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ002aaa = ssBe......aaa:out
+CDSOPCZ002aab = ssBe......aab:out
+CDSOPCZ002aac = ssBe......aac:out
+CDSOPCZ002baa = ssBe......baa:out
+CDSOPCZ002bab = ssBe......bab:out
+CDSOPCZ002bac = ssBe......bac:out
+CDSOPCZ002bad = ssBe......bad:out
+CDSOPCZ002caa = ssBe......caa:out
+CDSOPCZ002cab = ssBe......cab:out
+CDSOPCZ002cac = ssBe......cac:out
+@
+title: CDaCDSOPCZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPCZ001aaa = ssAe......aaa:out
+CDSOPCZ001aab = ssAe......aab:out
+CDSOPCZ001aac = ssAe......aac:out
+CDSOPCZ001baa = ssAe......baa:out
+CDSOPCZ001bab = ssAe......bab:out
+CDSOPCZ001bac = ssAe......bac:out
+CDSOPCZ001bad = ssAe......bad:out
+CDSOPCZ001caa = ssAe......caa:out
+CDSOPCZ001cab = ssAe......cab:out
+CDSOPCZ001cac = ssAe......cac:out
+@
+title: CDaCDSOPU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPU00aaa = t.gu......aaa:out
+CDSOPU00aab = t.gu......aab:out
+CDSOPU00aac = t.gu......aac:out
+CDSOPU00baa = t.gu......baa:out
+CDSOPU00bab = t.gu......bab:out
+CDSOPU00bac = t.gu......bac:out
+CDSOPU00bad = t.gu......bad:out
+CDSOPU00caa = t.gu......caa:out
+CDSOPU00cab = t.gu......cab:out
+CDSOPU00cac = t.gu......cac:out
+@
+title: CDaCDSOPB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPB00aaa = t.gc......aaa:out
+CDSOPB00aab = t.gc......aab:out
+CDSOPB00aac = t.gc......aac:out
+CDSOPB00baa = t.gc......baa:out
+CDSOPB00bab = t.gc......bab:out
+CDSOPB00bac = t.gc......bac:out
+CDSOPB00bad = t.gc......bad:out
+CDSOPB00caa = t.gc......caa:out
+CDSOPB00cab = t.gc......cab:out
+CDSOPB00cac = t.gc......cac:out
+@
+title: CDaCDSOPR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPR00aaa = t.gr......aaa:out
+CDSOPR00aab = t.gr......aab:out
+CDSOPR00aac = t.gr......aac:out
+CDSOPR00baa = t.gr......baa:out
+CDSOPR00bab = t.gr......bab:out
+CDSOPR00bac = t.gr......bac:out
+CDSOPR00bad = t.gr......bad:out
+CDSOPR00caa = t.gr......caa:out
+CDSOPR00cab = t.gr......cab:out
+CDSOPR00cac = t.gr......cac:out
+@
+title: CDaCDSOPS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOPS00aaa = t.hr......aaa:out
+CDSOPS00aab = t.hr......aab:out
+CDSOPS00aac = t.hr......aac:out
+CDSOPS00baa = t.hr......baa:out
+CDSOPS00bab = t.hr......bab:out
+CDSOPS00bac = t.hr......bac:out
+CDSOPS00bad = t.hr......bad:out
+CDSOPS00caa = t.hr......caa:out
+CDSOPS00cab = t.hr......cab:out
+CDSOPS00cac = t.hr......cac:out
+@
+title: CDaCDSOTNZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOTNZ002aaa = s.Ce......aaa:out
+CDSOTNZ002aab = s.Ce......aab:out
+CDSOTNZ002aac = s.Ce......aac:out
+CDSOTNZ002baa = s.Ce......baa:out
+CDSOTNZ002bab = s.Ce......bab:out
+CDSOTNZ002bac = s.Ce......bac:out
+CDSOTNZ002bad = s.Ce......bad:out
+CDSOTNZ002caa = s.Ce......caa:out
+CDSOTNZ002cab = s.Ce......cab:out
+CDSOTNZ002cac = s.Ce......cac:out
+@
+title: CDaCDSOTNZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDSOTNZ001aaa = s.Be......aaa:out
+CDSOTNZ001aab = s.Be......aab:out
+CDSOTNZ001aac = s.Be......aac:out
+CDSOTNZ001baa = s.Be......baa:out
+CDSOTNZ001bab = s.Be......bab:out
+CDSOTNZ001bac = s.Be......bac:out
+CDSOTNZ001bad = s.Be......bad:out
+CDSOTNZ001caa = s.Be......caa:out
+CDSOTNZ001cab = s.Be......cab:out
+CDSOTNZ001cac = s.Be......cac:out
+@
+title: CDaCDRIDM_Ruzizi_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Ruzizi_IIaaa = s.Od......aaa:out
+CDRIDM_Ruzizi_IIaab = s.Od......aab:out
+CDRIDM_Ruzizi_IIaac = s.Od......aac:out
+CDRIDM_Ruzizi_IIbaa = s.Od......baa:out
+CDRIDM_Ruzizi_IIbab = s.Od......bab:out
+CDRIDM_Ruzizi_IIbac = s.Od......bac:out
+CDRIDM_Ruzizi_IIbad = s.Od......bad:out
+CDRIDM_Ruzizi_IIcaa = s.Od......caa:out
+CDRIDM_Ruzizi_IIcab = s.Od......cab:out
+CDRIDM_Ruzizi_IIcac = s.Od......cac:out
+@
+title: CDaCDRIDM_Ruzizi_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Ruzizi_Iaaa = s.Pd......aaa:out
+CDRIDM_Ruzizi_Iaab = s.Pd......aab:out
+CDRIDM_Ruzizi_Iaac = s.Pd......aac:out
+CDRIDM_Ruzizi_Ibaa = s.Pd......baa:out
+CDRIDM_Ruzizi_Ibab = s.Pd......bab:out
+CDRIDM_Ruzizi_Ibac = s.Pd......bac:out
+CDRIDM_Ruzizi_Ibad = s.Pd......bad:out
+CDRIDM_Ruzizi_Icaa = s.Pd......caa:out
+CDRIDM_Ruzizi_Icab = s.Pd......cab:out
+CDRIDM_Ruzizi_Icac = s.Pd......cac:out
+@
+title: CDaCDRIDM_Inga_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Inga_Iaaa = s.Rd......aaa:out
+CDRIDM_Inga_Iaab = s.Rd......aab:out
+CDRIDM_Inga_Iaac = s.Rd......aac:out
+CDRIDM_Inga_Ibaa = s.Rd......baa:out
+CDRIDM_Inga_Ibab = s.Rd......bab:out
+CDRIDM_Inga_Ibac = s.Rd......bac:out
+CDRIDM_Inga_Ibad = s.Rd......bad:out
+CDRIDM_Inga_Icaa = s.Rd......caa:out
+CDRIDM_Inga_Icab = s.Rd......cab:out
+CDRIDM_Inga_Icac = s.Rd......cac:out
+@
+title: CDaCDRIDM_Zongo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Zongoaaa = s.Ad......aaa:out
+CDRIDM_Zongoaab = s.Ad......aab:out
+CDRIDM_Zongoaac = s.Ad......aac:out
+CDRIDM_Zongobaa = s.Ad......baa:out
+CDRIDM_Zongobab = s.Ad......bab:out
+CDRIDM_Zongobac = s.Ad......bac:out
+CDRIDM_Zongobad = s.Ad......bad:out
+CDRIDM_Zongocaa = s.Ad......caa:out
+CDRIDM_Zongocab = s.Ad......cab:out
+CDRIDM_Zongocac = s.Ad......cac:out
+@
+title: CDaCDRIDM_Nseke_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Nsekeaaa = s.Bd......aaa:out
+CDRIDM_Nsekeaab = s.Bd......aab:out
+CDRIDM_Nsekeaac = s.Bd......aac:out
+CDRIDM_Nsekebaa = s.Bd......baa:out
+CDRIDM_Nsekebab = s.Bd......bab:out
+CDRIDM_Nsekebac = s.Bd......bac:out
+CDRIDM_Nsekebad = s.Bd......bad:out
+CDRIDM_Nsekecaa = s.Bd......caa:out
+CDRIDM_Nsekecab = s.Bd......cab:out
+CDRIDM_Nsekecac = s.Bd......cac:out
+@
+title: CDaCDRIDM_Nzilo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Nziloaaa = s.Cd......aaa:out
+CDRIDM_Nziloaab = s.Cd......aab:out
+CDRIDM_Nziloaac = s.Cd......aac:out
+CDRIDM_Nzilobaa = s.Cd......baa:out
+CDRIDM_Nzilobab = s.Cd......bab:out
+CDRIDM_Nzilobac = s.Cd......bac:out
+CDRIDM_Nzilobad = s.Cd......bad:out
+CDRIDM_Nzilocaa = s.Cd......caa:out
+CDRIDM_Nzilocab = s.Cd......cab:out
+CDRIDM_Nzilocac = s.Cd......cac:out
+@
+title: CDaCDRIDM_Mwadingusha_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Mwadingushaaaa = s.Dd......aaa:out
+CDRIDM_Mwadingushaaab = s.Dd......aab:out
+CDRIDM_Mwadingushaaac = s.Dd......aac:out
+CDRIDM_Mwadingushabaa = s.Dd......baa:out
+CDRIDM_Mwadingushabab = s.Dd......bab:out
+CDRIDM_Mwadingushabac = s.Dd......bac:out
+CDRIDM_Mwadingushabad = s.Dd......bad:out
+CDRIDM_Mwadingushacaa = s.Dd......caa:out
+CDRIDM_Mwadingushacab = s.Dd......cab:out
+CDRIDM_Mwadingushacac = s.Dd......cac:out
+@
+title: CDaCDRIDM_Koni_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Koniaaa = s.Ed......aaa:out
+CDRIDM_Koniaab = s.Ed......aab:out
+CDRIDM_Koniaac = s.Ed......aac:out
+CDRIDM_Konibaa = s.Ed......baa:out
+CDRIDM_Konibab = s.Ed......bab:out
+CDRIDM_Konibac = s.Ed......bac:out
+CDRIDM_Konibad = s.Ed......bad:out
+CDRIDM_Konicaa = s.Ed......caa:out
+CDRIDM_Konicab = s.Ed......cab:out
+CDRIDM_Konicac = s.Ed......cac:out
+@
+title: CDaCDRIDM_Sombwe_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDRIDM_Sombweaaa = s.Fd......aaa:out
+CDRIDM_Sombweaab = s.Fd......aab:out
+CDRIDM_Sombweaac = s.Fd......aac:out
+CDRIDM_Sombwebaa = s.Fd......baa:out
+CDRIDM_Sombwebab = s.Fd......bab:out
+CDRIDM_Sombwebac = s.Fd......bac:out
+CDRIDM_Sombwebad = s.Fd......bad:out
+CDRIDM_Sombwecaa = s.Fd......caa:out
+CDRIDM_Sombwecab = s.Fd......cab:out
+CDRIDM_Sombwecac = s.Fd......cac:out
+@
+title: CDaCDELST04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELST04aaa = s.Ae......aaa:out
+CDELST04aab = s.Ae......aab:out
+CDELST04aac = s.Ae......aac:out
+CDELST04baa = s.Ae......baa:out
+CDELST04bab = s.Ae......bab:out
+CDELST04bac = s.Ae......bac:out
+CDELST04bad = s.Ae......bad:out
+CDELST04caa = s.Ae......caa:out
+CDELST04cab = s.Ae......cab:out
+CDELST04cac = s.Ae......cac:out
+@
+title: CDaCDELST04_02
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELST04aaa = seBd......aaa:out
+CDELST04aab = seBd......aab:out
+CDELST04aac = seBd......aac:out
+CDELST04baa = seBd......baa:out
+CDELST04bab = seBd......bab:out
+CDELST04bac = seBd......bac:out
+CDELST04bad = seBd......bad:out
+CDELST04caa = seBd......caa:out
+CDELST04cab = seBd......cab:out
+CDELST04cac = seBd......cac:out
+@
+title: CDaCDELPT04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELPT04aaa = s.Gd......aaa:out
+CDELPT04aab = s.Gd......aab:out
+CDELPT04aac = s.Gd......aac:out
+CDELPT04baa = s.Gd......baa:out
+CDELPT04bab = s.Gd......bab:out
+CDELPT04bac = s.Gd......bac:out
+CDELPT04bad = s.Gd......bad:out
+CDELPT04caa = s.Gd......caa:out
+CDELPT04cab = s.Gd......cab:out
+CDELPT04cac = s.Gd......cac:out
+@
+title: CDaCDELDT04_01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_01aaa = s.Hd......aaa:out
+CDELDT04_01aab = s.Hd......aab:out
+CDELDT04_01aac = s.Hd......aac:out
+CDELDT04_01baa = s.Hd......baa:out
+CDELDT04_01bab = s.Hd......bab:out
+CDELDT04_01bac = s.Hd......bac:out
+CDELDT04_01bad = s.Hd......bad:out
+CDELDT04_01caa = s.Hd......caa:out
+CDELDT04_01cab = s.Hd......cab:out
+CDELDT04_01cac = s.Hd......cac:out
+@
+title: CDaCDELDT04_01_02
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_01aaa = s.Id......aaa:out
+CDELDT04_01aab = s.Id......aab:out
+CDELDT04_01aac = s.Id......aac:out
+CDELDT04_01baa = s.Id......baa:out
+CDELDT04_01bab = s.Id......bab:out
+CDELDT04_01bac = s.Id......bac:out
+CDELDT04_01bad = s.Id......bad:out
+CDELDT04_01caa = s.Id......caa:out
+CDELDT04_01cab = s.Id......cab:out
+CDELDT04_01cac = s.Id......cac:out
+@
+title: CDaCDELDT04_02_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_02aaa = s.Jd......aaa:out
+CDELDT04_02aab = s.Jd......aab:out
+CDELDT04_02aac = s.Jd......aac:out
+CDELDT04_02baa = s.Jd......baa:out
+CDELDT04_02bab = s.Jd......bab:out
+CDELDT04_02bac = s.Jd......bac:out
+CDELDT04_02bad = s.Jd......bad:out
+CDELDT04_02caa = s.Jd......caa:out
+CDELDT04_02cab = s.Jd......cab:out
+CDELDT04_02cac = s.Jd......cac:out
+@
+title: CDaCDELDT04_02_02
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_02aaa = s.Kd......aaa:out
+CDELDT04_02aab = s.Kd......aab:out
+CDELDT04_02aac = s.Kd......aac:out
+CDELDT04_02baa = s.Kd......baa:out
+CDELDT04_02bab = s.Kd......bab:out
+CDELDT04_02bac = s.Kd......bac:out
+CDELDT04_02bad = s.Kd......bad:out
+CDELDT04_02caa = s.Kd......caa:out
+CDELDT04_02cab = s.Kd......cab:out
+CDELDT04_02cac = s.Kd......cac:out
+@
+title: CDaCDELDT04_03_01
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_03aaa = s.Ld......aaa:out
+CDELDT04_03aab = s.Ld......aab:out
+CDELDT04_03aac = s.Ld......aac:out
+CDELDT04_03baa = s.Ld......baa:out
+CDELDT04_03bab = s.Ld......bab:out
+CDELDT04_03bac = s.Ld......bac:out
+CDELDT04_03bad = s.Ld......bad:out
+CDELDT04_03caa = s.Ld......caa:out
+CDELDT04_03cab = s.Ld......cab:out
+CDELDT04_03cac = s.Ld......cac:out
+@
+title: CDaCDELDT04_03_02
+unit: , 1.
+maxtabwidth: 2000
+@
+CDELDT04_03aaa = s.Md......aaa:out
+CDELDT04_03aab = s.Md......aab:out
+CDELDT04_03aac = s.Md......aac:out
+CDELDT04_03baa = s.Md......baa:out
+CDELDT04_03bab = s.Md......bab:out
+CDELDT04_03bac = s.Md......bac:out
+CDELDT04_03bad = s.Md......bad:out
+CDELDT04_03caa = s.Md......caa:out
+CDELDT04_03cab = s.Md......cab:out
+CDELDT04_03cac = s.Md......cac:out
+@
+@
+@

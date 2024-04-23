@@ -1,0 +1,425 @@
+TDB: empty
+ADB: SOa
+problem: SOa
+description:
+# Somalia
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity K l f
+# 
+DummyElc d l
+# DummyElc
+*
+Primary y
+# Primary level energies for Burundi
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_SOELST04 A l
+# DummyCom_SOELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 29 31.12 33.35 35.9 38.61 41.43 44.31 47.53 50.96 54.55 58.23 61.99 66.04 70.28 74.67 79.16 83.75 88.77 94.09 99.64 105.35 111.2 111.2
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.07949 0.166089 0.064095 0.081248 0.176766 \
+0.030101 0.035485 0.081391 0.220802 0.064533
+systems.SOWDLC00.g.capfac 0.317773 0.34572 0.293846 0.171984 0.180529 \
+0.120749 0.113092 0.208771 0.233964 0.19789
+systems.SOWDOC00.F.capfac 0.317773 0.34572 0.293846 0.171984 0.180529 \
+0.120749 0.113092 0.208771 0.233964 0.19789
+systems.SOWDLCZ005.E.capfac 0.273373 0.583595 0.433188 0.724408 0.698558 \
+0.589438 0.6636 0.266 0.574019 0.392271
+systems.SOWDLCZ004.D.capfac 0.367474 0.320455 0.510588 0.860726 0.870502 \
+0.856512 0.868064 0.438082 0.398687 0.536994
+systems.SOWDLCZ003.C.capfac 0.564544 0.306967 0.385895 0.833167 0.866018 \
+0.808099 0.834059 0.487016 0.266596 0.339373
+systems.SOWDLCZ002.B.capfac 0.305026 0.343451 0.466257 0.882333 0.852577 \
+0.858873 0.877683 0.336909 0.381799 0.403827
+systems.SOWDLCZ001.A.capfac 0.220017 0.502786 0.217259 0.889909 0.838132 \
+0.763534 0.84723 0.251897 0.508415 0.211689
+systems.SOSOTNZ002.C.capfac 0.100775 0.828862 0.714455 0.041999 0.581436 \
+0.141239 0.008842 0.099682 0.745907 0.544907
+systems.SOSOTNZ001.B.capfac 0.037679 0.819508 0.619798 0.045073 0.639211 \
+0.261346 0.006768 0.078893 0.75138 0.476951
+systems.SOSOTS00.i.capfac 0.027583 0.605143 0.097175 0.027583 0.605143 \
+0.242937 0 0.028225 0.604962 0.096711
+systems.SOSOTSZ002.E.capfac 0.45917 0.880284 0.914566 0.121637 0.797178 \
+0.859143 0.507163 0.397094 0.8283 0.884283
+systems.SOSOTSZ001.D.capfac 0.584285 0.877397 0.933675 0.087063 0.756932 \
+0.776251 0.322709 0.458363 0.804547 0.878447
+systems.SOSOPC00.j.capfac 0.04521 0.398876 0 0.086123 0.491038 \
+0 0 0.035731 0.3714 0
+systems.SOSOPCZ005.E.capfac 0.010283 0.510771 0 0.016752 0.453442 \
+0 0 0.015244 0.466406 0
+systems.SOSOPCZ004.D.capfac 0.004867 0.460245 0 0.009514 0.429597 \
+0 0 0.007586 0.428142 0
+systems.SOSOPCZ003.C.capfac 0.003403 0.438747 0 0.007302 0.420426 \
+0 0 0.00561 0.40611 0
+systems.SOSOPCZ002.B.capfac 0.009819 0.500622 0 0.015819 0.439311 \
+0 0 0.015044 0.45943 0
+systems.SOSOPCZ001.A.capfac 0.007767 0.49013 0 0.013165 0.451738 \
+0 0 0.01138 0.454495 0
+systems.SOHYRO00.A.capfac 0.2 0.2 0.2 0.2 0.2 \
+0.2 0.2 0.2 0.2 0.2
+systems.SOSOPU00.g.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.SOSOPB00.g.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.SOSOPR00.g.capfac 0.238287 0.420774 0.351449 0.22974 0.42428 \
+0.496392 0.260737 0.243559 0.418871 0.348631
+systems.SOSOPS00.h.capfac 0.098412 0.442336 0 0.088465 0.407432 \
+0 0 0.082181 0.405224 0
+systems.SOELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.SOELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.SOELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.SOELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.SOELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.SOELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.SOELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+SS_SOELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+upper c 0
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_SOELST04 PC01 o 
+*
+PS_SOELST04 PS01 o 0
+*
+DC_SOELST04_01 DC01 o 
+*
+DC_SOELST04_02 DC02 o 
+*
+DC_SOELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+SOEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+SOEL00i00 I
+# Description: Import of Electricity
+*
+SOEL00TDI g
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+SOEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+SOEL00TDU g
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+SOEL00TDC g
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+SOEL00TUI g
+# Description: Industry Demand
+*
+SOEL00TUR g
+# Description: Rural Demand
+*
+SOEL00TUS a
+# Description: SentOut Demand
+*
+SOEL00TUU g
+# Description: Urban Demand
+*
+SOEL00TUC g
+# Description: Commerce Demand
+*
+SODS00I00 b
+# Description: Import of Diesel
+*
+SODSRC00 h
+# Description: Generic Diesel Centralized
+*
+SODSSC00 i
+# Description: Generic Diesel Open Cycle
+*
+SODSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+SODSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+SODSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+SODSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+SOHF00I00 g
+# Description: Import of HFO
+*
+SOHFRC00 g
+# Description: Generic HFO
+*
+SOHFSCph3 h
+# Description: HFO
+*
+SOCO00I00 b
+# Description: Import of Coal
+*
+SOCOSC00 g
+# Description: Generic Coal
+*
+SONG00X00 a
+# Description: Extraction of Natural Gas
+*
+SONG00I00 g
+# Description: Import of Natural Gas
+*
+SONGSC00 g
+# Description: Generic Gas Open Cycle
+*
+SONGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+SONUPW00 g
+# Description: Generic Nuclear
+*
+SOWDLC00 g
+# Description: Generic Wind
+*
+SOWDOC00 F
+# Description: Generic OffShore Wind
+*
+SOWDLCZ005 E
+# Description: Wind Zone 005
+*
+SOWDLCZ004 D
+# Description: Wind Zone 004
+*
+SOWDLCZ003 C
+# Description: Wind Zone 003
+*
+SOWDLCZ002 B
+# Description: Wind Zone 002
+*
+SOWDLCZ001 A
+# Description: Wind Zone 001
+*
+SOSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+SOSOTNZ002 C
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 002
+*
+SOSOTNZ001 B
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 001
+*
+SOSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+SOSOTSZ002 E
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+SOSOTSZ001 D
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+SOSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+SOSOPC00 j
+# Description: Generic PV System (utility)
+*
+SOSOPCZ005 E
+# Description: Solar PV Zone 005
+*
+SOSOPCZ004 D
+# Description: Solar PV Zone 004
+*
+SOSOPCZ003 C
+# Description: Solar PV Zone 003
+*
+SOSOPCZ002 B
+# Description: Solar PV Zone 002
+*
+SOSOPCZ001 A
+# Description: Solar PV Zone 001
+*
+SOGOCV00 k
+# Description: Generic Geothermal
+*
+SOBM00X00 g
+# Description: Extraction of Bagasse
+*
+SOBW00X00 a
+# Description: Extraction of Wood
+*
+SOHY00X00 a
+# Description: Supply of Hydro
+*
+SOSO00X00 a
+# Description: Supply of Solar
+*
+SOWD00X00 a
+# Description: Supply of Wind
+*
+SOBMST00 g
+# Description: Generic Bagasse
+*
+SOBWST00 a
+# Description: Generic Wood
+*
+SOHYMI00 g
+# Description: Generic Hydro Small
+*
+SOHYRO00 A
+# Description: Generic Hydro ROR
+*
+SOSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+SOSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+SOSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+SOSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+SOELBS00 z
+# Description: Backstop
+*
+SOELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+SOELPT04 A
+*
+SOELDT04_01 B
+2. activity C
+*
+SOELDT04_02 D
+2. activity E
+*
+SOELDT04_03 F
+2. activity G
+*
+SOEXDT00 H
+*
+resources: 
+endata
+

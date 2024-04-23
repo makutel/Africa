@@ -1,0 +1,571 @@
+TDB: empty
+ADB: UGa
+problem: UGa
+description:
+# Uganda
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity Q l f
+# 
+DummyElc d l
+# DummyElc
+*
+Primary w
+# Primary level energies for Burundi
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_UGELST04 A l
+# DummyCom_UGELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 543.91 552.93 597.49 627.06 655.78 683.38 709.38 740.25 771.35 801.4 830.21 857.9 893.4 930.39 966.99 1002.68 1037.35 1081.58 1127.87 1173.99 1219.29 1263.59 1263.59
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.07949 0.166089 0.064095 0.081248 0.176766 \
+0.030101 0.035485 0.081391 0.220802 0.064533
+systems.UGWDLC00.i.capfac 0.576634 0.491541 0.670773 0.350311 0.137937 \
+0.311643 0.381346 0.574177 0.643995 0.63569
+systems.UGWDOC00.F.capfac 0.576634 0.491541 0.670773 0.350311 0.137937 \
+0.311643 0.381346 0.574177 0.643995 0.63569
+systems.UGWDLCZ005.E.capfac 0.452697 0.612024 0.56036 0.250486 0.253227 \
+0.23915 0.220835 0.707867 0.849384 0.756516
+systems.UGWDLCZ004.D.capfac 0.359525 0.455274 0.474385 0.158058 0.138077 \
+0.155098 0.143121 0.627518 0.69909 0.637414
+systems.UGWDLCZ003.C.capfac 0.392752 0.526324 0.461288 0.226712 0.183472 \
+0.120754 0.154282 0.62359 0.740975 0.610795
+systems.UGWDLCZ002.B.capfac 0.35026 0.524302 0.459281 0.179009 0.173252 \
+0.173702 0.15737 0.581891 0.757953 0.64296
+systems.UGWDLCZ001.A.capfac 0.462815 0.465731 0.475963 0.222672 0.13346 \
+0.108529 0.151406 0.675305 0.675795 0.612454
+systems.UGHYRO_Mitano.Q.capfac 0.829587 0.829587 0.830149 0.485276 0.485276 \
+0.485276 0.485276 0.976154 0.976154 0.975573
+systems.UGHYRO_Kikagati.P.capfac 0.659504 0.659504 0.660579 0.457087 0.457087 \
+0.457087 0.456247 0.474872 0.474872 0.474308
+systems.UGHYRO_Nyamagasani.O.capfac 0.671736 0.671736 0.672793 0.44685 0.44685 \
+0.44685 0.44685 0.851624 0.851624 0.85053
+systems.UGHYRO_Awere.N.capfac 0.127521 0.127521 0.129107 0.292047 0.292047 \
+0.292047 0.289948 0.385812 0.385812 0.385538
+systems.UGHYRO_Nshongezi_HPP.M.capfac 0.88 0.88 0.880595 0.353228 0.353228 \
+0.353228 0.351076 0.310256 0.310256 0.311043
+systems.UGHYRO_Mpanga.H.capfac 2675140.743802 2676090.743802 2683088.842975 6769485.11811 6770435.11811 \
+6771135.11811 6781188.792651 10736071.025641 10737021.025641 10723630.34188
+systems.UGHYRO_Siti2.G.capfac 2675140.743802 2676090.743802 2683088.842975 6769485.11811 6770435.11811 \
+6771135.11811 6781188.792651 10736071.025641 10737021.025641 10723630.34188
+systems.UGHYRO_Bugoye.F.capfac 2675140.743802 2676090.743802 2683088.842975 6769485.11811 6770435.11811 \
+6771135.11811 6781188.792651 10736071.025641 10737021.025641 10723630.34188
+systems.UGHYRO_AgagoAchwa.E.capfac 2675140.743802 2676090.743802 2683088.842975 6769485.11811 6770435.11811 \
+6771135.11811 6781188.792651 10736071.025641 10737021.025641 10723630.34188
+systems.UGHYRO_Oriang_Kiba.U.capfac 0.6203 0.6203 0.621349 0.488027 0.488027 \
+0.488027 0.48617 0.480436 0.480436 0.480561
+systems.UGHYRO_Murchisson_Falls_High.T.capfac 0.483948 0.483948 0.485141 0.382346 0.382346 \
+0.382346 0.380332 0.301057 0.301057 0.301135
+systems.UGHYRO_Isimba.L.capfac 0.895389 0.895389 0.895678 0.706936 0.706936 \
+0.706936 0.705767 0.872442 0.872442 0.872905
+systems.UGHYRO_Karuma_High.K.capfac 0.327424 0.327424 0.32861 0.51621 0.51621 \
+0.51621 0.51545 0.352076 0.352076 0.351345
+systems.UGHYRO_Ayago.J.capfac 0.747502 0.747502 0.74827 0.604927 0.604927 \
+0.604927 0.603427 0.703477 0.703477 0.70366
+systems.UGHYRO_Nalubaale.C.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.UGHYRO_Kira.B.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.UGHYRO_Bujagali.A.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.UGHYDM_Muzizi_HPP.I.capfac 0.347673 0.347673 0.348733 0.364038 0.364038 \
+0.364038 0.363843 0.419253 0.419253 0.418283
+systems.UGSOTN00.g.capfac 0.06254 0.516599 0 0.050581 0.440597 \
+0 0 0.055731 0.492749 0
+systems.UGSOTNZ002.C.capfac 0.000603 0.713035 0.338846 0 0.635647 \
+0.244661 0.003898 0.000055 0.795811 0.364736
+systems.UGSOTNZ001.B.capfac 0.000224 0.69872 0.278567 0 0.679141 \
+0.342935 0.009357 0.000041 0.745372 0.280624
+systems.UGSOTS00.h.capfac 0.024747 0.542934 0.087185 0.024747 0.542934 \
+0.217963 0 0.025323 0.542772 0.086769
+systems.UGSOTSZ002.E.capfac 0.223751 0.832033 0.75258 0.043034 0.808266 \
+0.871823 0.507476 0.266934 0.86966 0.916615
+systems.UGSOTSZ001.D.capfac 0.218774 0.834203 0.727032 0.116922 0.858314 \
+0.910917 0.683008 0.22466 0.842947 0.846731
+systems.UGSOPC00.i.capfac 0.068805 0.503107 0 0.059039 0.437866 \
+0 0 0.064034 0.486762 0
+systems.UGSOPC_Lira_Xsabo.K.capfac 0.000261 0.429368 0.00006 0.000631 0.404336 \
+0.000027 0 0.000943 0.444778 0
+systems.UGSOPC_Busitima.J.capfac 0.001951 0.42115 0.000007 0.002657 0.413072 \
+0 0 0.003372 0.441778 0
+systems.UGSOPC_Nkonge_Xsabo.I.capfac 0.001952 0.435726 0.000207 0.003456 0.414097 \
+0 0 0.004024 0.449506 0
+systems.UGSOPCZ007.H.capfac 0.004706 0.438262 0 0.005041 0.411134 \
+0 0 0.00604 0.456839 0
+systems.UGSOPCZ006.G.capfac 0.001804 0.438675 0 0.002671 0.416647 \
+0 0 0.003385 0.458162 0
+systems.UGSOPCZ005.F.capfac 0.004706 0.438262 0 0.005041 0.411134 \
+0 0 0.00604 0.456839 0
+systems.UGSOPCZ004.E.capfac 0.001804 0.438675 0 0.002671 0.416647 \
+0 0 0.003385 0.458162 0
+systems.UGSOPCZ003.D.capfac 0.000261 0.429368 0.00006 0.000631 0.404336 \
+0.000027 0 0.000943 0.444778 0
+systems.UGSOPCZ002.C.capfac 0.001951 0.42115 0.000007 0.002657 0.413072 \
+0 0 0.003372 0.441778 0
+systems.UGSOPCZ001.A.capfac 0.001952 0.435726 0.000207 0.003456 0.414097 \
+0 0 0.004024 0.449506 0
+systems.UGSOPCZK23.B.capfac 0.059702 0.496014 0 0.047356 0.423337 \
+0 0 0.052789 0.472282 0
+systems.UGSOPU00.g.capfac 0.0539 0.447129 0 0.043594 0.380093 \
+0 0 0.048032 0.425912 0
+systems.UGSOPB00.g.capfac 0.0539 0.447129 0 0.043594 0.380093 \
+0 0 0.048032 0.425912 0
+systems.UGSOPR00.g.capfac 0.225423 0.398058 0.332476 0.217337 0.401375 \
+0.469594 0.246661 0.23041 0.396258 0.32981
+systems.UGSOPS00.h.capfac 0.0539 0.447129 0 0.043594 0.380093 \
+0 0 0.048032 0.425912 0
+systems.UGELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.UGELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.UGELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.UGELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.UGELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.UGELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.UGELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+SS_UGELST04 SS01 o 0
+*
+D_UGHYDM_Muzizi_HPP D001 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_UGELST04 PC01 o 
+*
+PS_UGELST04 PS01 o 0
+*
+DC_UGELST04_01 DC01 o 
+*
+DC_UGELST04_02 DC02 o 
+*
+DC_UGELST04_03 DC03 o 
+*
+RC_UGHYDM_Muzizi_HPP_01 RC01 o 
+*
+relations2:
+variables:
+systems:
+UGEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+UGEL00i00 I
+# Description: Import of Electricity
+*
+UGEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+UGEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+UGEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+UGEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+UGEL00TUI a
+# Description: Industry Demand
+*
+UGEL00TUR a
+# Description: Rural Demand
+*
+UGEL00TUS a
+# Description: SentOut Demand
+*
+UGEL00TUU g
+# Description: Urban Demand
+*
+UGEL00TUC a
+# Description: Commerce Demand
+*
+UGDS00I00 g
+# Description: Import of Diesel
+*
+UGDSRC00 g
+# Description: Generic Diesel Centralized
+*
+UGDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+UGDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+UGDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+UGDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+UGHF00I00 h
+# Description: Import of HFO
+*
+UGHFRC00 g
+# Description: Generic HFO
+*
+UGHFRC10 J
+# Description: Committed Albatros
+*
+UGHFRC02 B
+# Description: Namanve
+*
+UGHFRC01 A
+# Description: Electromaxx
+*
+UGCO00I00 h
+# Description: Import of Coal
+*
+UGNG00X00 g
+# Description: Extraction of Natural Gas
+*
+UGNG00I00 h
+# Description: Import of Natural Gas
+*
+UGNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+UGNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+UGCOSC00 g
+# Description: Generic Coal
+*
+UGCOSC10 J
+# Description: Kabale_Peat
+*
+UGWDLC00 i
+# Description: Generic Wind
+*
+UGWDOC00 F
+# Description: Generic OffShore Wind
+*
+UGWDLCZ005 E
+# Description: Wind Zone 005
+*
+UGWDLCZ004 D
+# Description: Wind Zone 004
+*
+UGWDLCZ003 C
+# Description: Wind Zone 003
+*
+UGWDLCZ002 B
+# Description: Wind Zone 002
+*
+UGWDLCZ001 A
+# Description: Wind Zone 001
+*
+UGHYRO00 g
+# Description: Generic Hydro ROR
+*
+UGHYRO_Mitano Q
+# Description: Mitano
+*
+UGHYRO_Kikagati P
+# Description: Kikagati
+*
+UGHYRO_Nyamagasani O
+# Description: Nyamagasani
+*
+UGHYRO_Awere N
+# Description: Awere
+*
+UGHYRO_Nshongezi_HPP M
+# Description: Nshongezi HPP
+*
+UGHYRO_Mpanga H
+# Description: Mpanga
+*
+UGHYRO_Siti2 G
+# Description: Siti2
+*
+UGHYRO_Bugoye F
+# Description: Bugoye
+*
+UGHYRO_AgagoAchwa E
+# Description: AgagoAchwa
+*
+UGHYRO_Oriang_Kiba U
+# Description: Candidate Oriang/Kiba
+*
+UGHYRO_Murchisson_Falls_High T
+# Description: Candidate Murchisson_F_High
+*
+UGHYRO_Isimba L
+# Description: Committed Isimba
+*
+UGHYRO_Karuma_High K
+# Description: Committed Karuma_High
+*
+UGHYRO_Ayago J
+# Description: Committed Ayago
+*
+UGHYRO_Existing_Small D
+# Description: UG_Small_hydro
+*
+UGHYRO_Nalubaale C
+# Description: Existing Nalubaale
+*
+UGHYRO_Kira B
+# Description: Kira_EskomJinja
+*
+UGHYRO_Bujagali A
+# Description: Bujagali
+*
+UGHYDM00 h
+# Description: Generic Hydro with DAM
+*
+UGHYDM_Muzizi_HPP I
+# Description: Candidate Muzizi_HPP
+*
+UGSOTN00 g
+# Description: Generic Solar thermal no storage
+*
+UGSOTNZ002 C
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 002
+*
+UGSOTNZ001 B
+fyear 2026
+# Description: Solar CSP 6hrStor Zone 001
+*
+UGSOTS00 h
+# Description: Generic Solar thermal with Storage
+*
+UGSOTSZ002 E
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+UGSOTSZ001 D
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+UGSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+UGSOPC00 i
+# Description: Generic PV System (utility)
+*
+UGSOPC_Lira_Xsabo K
+# Description: Committed Xsabo Lira solar PV plant in Zone 003
+*
+UGSOPC_Busitima J
+# Description: Committed Busitima solar PV plant in Zone 002
+*
+UGSOPC_Nkonge_Xsabo I
+# Description: Committed Xsabo Nkonge solar PV plant in Zone 001
+*
+UGSOPCZ007 H
+# Description: Solar PV Zone 007
+*
+UGSOPCZ006 G
+# Description: Solar PV Zone 006
+*
+UGSOPCZ005 F
+# Description: Solar PV Zone 005
+*
+UGSOPCZ004 E
+# Description: Solar PV Zone 004
+*
+UGSOPCZ003 D
+# Description: Solar PV Zone 003
+*
+UGSOPCZ002 C
+# Description: Solar PV Zone 002
+*
+UGSOPCZ001 A
+# Description: Solar PV Zone 001
+*
+UGSOPCZK23 B
+# Description: Access Solar_Upuyo/Tororo Solar North/XsaboKabulasoke/Bufulubi/Tororo PV
+*
+UGGOCV00 j
+# Description: Generic Geothermal
+*
+UGGOCV20 T
+# Description: Candidate Katwe2
+*
+UGGOCV10 J
+# Description: Candidate Katwe1
+*
+UGBM00X00 a
+# Description: Extraction of Bagasse
+*
+UGBW00X00 a
+# Description: Extraction of Wood
+*
+UGHY00X00 a
+# Description: Supply of Hydro
+*
+UGSO00X00 g
+# Description: Supply of Solar
+*
+UGWD00X00 a
+# Description: Supply of Wind
+*
+UGBMST00 g
+# Description: Generic Bagasse
+*
+UGBWST00 a
+# Description: Generic Wood
+*
+UGBMST10 J
+# Description: Kinyara2/SAIL_Sugar_Allied_Industries
+*
+UGBMST02 B
+# Description: Kinyara_SCOUL
+*
+UGBMST01 A
+# Description: Existing Kakira
+*
+UGSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+UGSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+UGSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+UGSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+UGELBS00 z
+# Description: Backstop
+*
+UGELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+UGELPT04 A
+*
+UGELDT04_01 B
+2. activity C
+*
+UGELDT04_02 D
+2. activity E
+*
+UGELDT04_03 F
+2. activity G
+*
+UGRIDM_Muzizi_HPP H
+*
+UGEXDT00 I
+*
+resources: 
+endata
+

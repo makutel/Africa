@@ -1,0 +1,354 @@
+TDB: empty
+ADB: MAINa
+problem: MAINa
+description:
+# MAINa
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+final f
+# final demand
+demand d 
+# demand
+*
+Exports x
+# DRC, Jordan etc
+EL_EU X 
+# Export Europe
+EL_JLS Y 
+# Export Jordan and Syria
+*
+demand:
+d-f  c 1
+loadcurve:
+relationsc:
+relationsp:
+relationss:
+relations1:
+ReserveMarginGlobal RMG o 
+*
+DomesticCAPP DOMC o 
+*
+DomesticEAPP DOME o 
+*
+DomesticNAPP DOMN o 
+*
+DomesticSAPP DOMS o 
+*
+RECAPP REC o 
+*
+REEAPP REE o 
+*
+RENAPP REN o 
+*
+RESAPP RES o 
+*
+REWAPP REW o 
+*
+RELO RELO o 
+*
+REHI REHI o 
+*
+TXBI TXBI o 
+*
+TXCD TXCD o 
+*
+TXEG TXEG o 
+*
+TXET TXET o 
+*
+TXKE TXKE o 
+*
+TXRW TXRW o 
+*
+TXSD TXSD o 
+*
+TXSS TXSS o 
+*
+TXTZ TXTZ o 
+*
+TXUG TXUG o 
+*
+TXDJ TXDJ o 
+*
+TXER TXER o 
+*
+TXSO TXSO o 
+*
+relations2:
+variables:
+systems:
+DEM a
+*
+CDELNP1BI k
+fyear 2050
+# Description: Candidate DRC-Burundi (?-Bujumbura) 400AC
+2. activity l
+*
+RWELNP1BI k
+# Description: Candidate Rwanda-Burundi (Ruzuzi-Bujumbura) 220AC
+2. activity l
+*
+RWELNG1BI p
+# Description: Generic Burundi - Rwanda
+2. activity q
+*
+ERELNG1DJ p
+# Description: Generic Djibouti - Eritrea
+2. activity q
+*
+SOELNG1DJ p
+# Description: Generic Djibouti - Somalia
+2. activity q
+*
+ETELEX1DJ a
+# Description: Ethiopia-Djibouti () 220AC
+2. activity b
+*
+DJELNG1ET p
+# Description: Generic Ethiopia - Djibouti
+2. activity q
+*
+DJELNP1ET k
+# Description: Committed Ethiopia-Dijbouti (Samara-Tajura) 400AC
+2. activity l
+*
+ERELNG1ET p
+# Description: Generic Ethiopia - Eritrea
+2. activity q
+*
+SOELNG1ET p
+# Description: Generic Ethiopia - Somalia
+2. activity q
+*
+SDELEX1ET a
+# Description: Sudan-Ethiopia (Metema-El Gedaref) 230kV AC
+2. activity b
+*
+SDELNP1ET k
+# Description: Candidate Sudan-Ethiopia (Ed Damazin-Beles) 500AC
+2. activity l
+*
+SDELNG1ET p
+# Description: Generic Ethiopia-Sudan () 500AC
+2. activity q
+*
+ETELNC1KE f
+# Description: Existing [500HVDC]Ethiopia-Kenya (Ethiopia border-Suswa) 500HVDC
+2. activity g
+*
+ETELNG1KE p
+# Description: Generic PIDA North-South Power Transmission Corridor Project () 500DC
+2. activity q
+*
+SOELNG1KE p
+# Description: Generic Kenya - Somalia
+2. activity q
+*
+TZELNG1KE p
+# Description: Generic PIDA North-South Power Transmission Corridor Project () 765AC
+2. activity q
+*
+TZELNC1KE f
+# Description: Committed [ZTK] Kenya -Tanzania (Isinya-Arusha) 400AC
+2. activity g
+*
+UGELEX1KE a
+# Description: Uganda-Kenya (Bujagali/Tororo-Lessos) 400AC
+2. activity b
+*
+UGELNG1KE p
+# Description: Generic Kenya - Uganda
+2. activity q
+*
+CDELNG1RW p
+fyear 2050
+# Description: Generic Rwanda - DRC
+2. activity q
+*
+CDELNP1RW k
+fyear 2050
+# Description: Candidate DRC-Rwanda (Poids-Bukari) 220AC
+2. activity l
+*
+CDELNP2RW m
+fyear 2050
+# Description: Candidate DRC-Rwanda (Kamanyola-Rusizi) 400AC
+2. activity n
+*
+CDELNP1UG m
+# Description: Generic DRC-Uganda () 400AC
+2. activity n
+*
+UGELEX1RW a
+# Description: Uganda-Rwanda (Mbarara-Shango) 220AC
+2. activity b
+*
+UGELNG1RW p
+# Description: Generic Uganda-Rwanda () 220AC
+2. activity q
+*
+ERELNG1SD p
+# Description: Generic Sudan - Eritrea
+2. activity q
+*
+UGELNP1SS m
+# Description: Candidate Sudan - Uganda
+2. activity n
+*
+SDELNP1SS o
+# Description: Candidate Sudan-South Sudan (?-Bobanosa) 220AC
+2. activity n
+*
+UGELNG1SS p
+# Description: Generic Sudan - Uganda
+2. activity q
+*
+BIELNG1TZ p
+# Description: Generic Tanzania - Burundi
+2. activity q
+*
+BIELNP1TZ k
+# Description: Candidate Tanzania-Burundi (Kigoma-Musimba) 400AC
+2. activity l
+*
+RWELNP1TZ k
+# Description: Candidate Rwanda-Tanzania (Gasogi-Rusumo) 220AC
+2. activity l
+*
+RWELNG1TZ p
+# Description: Generic Tanzania - Rwanda
+2. activity q
+*
+UGELEX1TZ a
+# Description: Uganda-Tanzania (Masaka-Kyaka) 400 kV AC
+2. activity b
+*
+CDELNG1UG p
+# Description: Generic DRC-Uganda
+2. activity q
+*
+CDELNG1TZ p
+# Description: Generic DRC-Tanzania
+2. activity q
+*
+UGELNG1TZ p
+# Description: Generic Tanzania - Uganda 400 AC
+2. activity q
+*
+RWELEX1BI A
+# Description: Burundi-Rwanda 110 kV
+2. activity B
+*
+RWELNP2BI B
+# Description: Candidate Burundi-Rwanda (Gitega-Kigoma) 220 kV
+2. activity C
+*
+UGELNC1RW A
+# Description: Existing Rwanda-Uganda (Birembo-Mirama) 220 kV
+2. activity B
+*
+BIELEX1CD A
+# Description: DRC-Burundi 110 kV 
+2. activity B
+*
+RWELEX1CD A
+# Description: DRC-Rwanda 30 kV 
+2. activity B
+*
+BIELNG1CD B
+# Description: Generic DRC-Burundi
+2. activity C
+*
+EGELEX1SD C
+# Description: Egypt-Sudan (Toshka 2-Wadi Halfa) 220kV
+2. activity D
+*
+SSELNG1CD A
+# Description: Generic DemocraticRepublicoftheCongo-SouthSudan
+2. activity B
+*
+SDELNG1EG B
+# Description: Generic Egypt-Sudan
+2. activity B
+*
+SSELNG1ET A
+# Description: Generic Ethiopia-SouthSudan
+2. activity B
+*
+UGELNG1ET A
+# Description: Generic Ethiopia-Uganda
+2. activity B
+*
+SSELNG1KE A
+# Description: Generic Kenya-SouthSudan
+2. activity B
+*
+SDELNG1SS A
+# Description: Generic SouthSudan-Sudan
+2. activity B
+*
+BIELEX1TZ A
+# Description: Candidate Burundi-Tanzania (Muyinga-Rusumo)
+2. activity B
+*
+RWELEX2CD B
+# Description: DRC-Rwanda (Goma-Rubavu) 220 kV
+2. activity A
+*
+RWELEX2BI C
+# Description: Commited Burundi-Rwanda (Gitega-Gisagara) 220kV
+2. activity A
+*
+UGELEX1CD A
+# Description: DRC-Uganda (Beni- Nkenda)
+2. activity B
+*
+UGELEX2KE A
+# Description: Kenya-Uganda (Musaga-Tororo) 400kV
+2. activity B
+*
+TZELEX1RW A
+# Description: Rwanda-Tanzania (Rilima-Rusumo) 220 kV
+2. activity B
+*
+UGELEX2RW B
+# Description: Rwanda-Uganda (Shango-Mirama) 220 kV
+2. activity A
+*
+SDELEX2ET A
+# Description: Sudan-Ethiopia (G Rennaisance - Rabak) 500 HVDC
+2. activity B
+*
+EGELNP1CD A
+# Description: Candidate DRC-South Africa Grand Inga HVDC Phase 1 (Inga - Region Caire) 600HVDC
+2. activity B
+*
+ETELEX2DJ A
+# Description: Ethiopia-Djibouti 230AC
+2. activity B
+*
+SOELNG2ET A
+# Description: New Ethiopia - Somalia
+2. activity B
+*
+ERELNG2ET A
+# Description: New Ethiopia - Eritrea
+2. activity B
+*
+EGELEX2SD A
+# Description: New Egypt-Sudan 500 kV DC
+2. activity C
+*
+resources: 
+endata
+

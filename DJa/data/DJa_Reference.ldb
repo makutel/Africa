@@ -1,0 +1,427 @@
+TDB: empty
+ADB: DJa
+problem: DJa
+description:
+# Djibouti
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity j l f
+# 
+DummyElc d l
+# DummyElc
+*
+Primary D
+# Primary level energies for Burundi
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_DJELST04 A l
+# DummyCom_DJELST04
+*
+demand:
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 69.86 73.13 76.11 79.25 82.43 85.64 88.87 92.14 95.43 98.75 102.09 105.45 108.82 112.22 115.63 119.06 122.5 125.96 129.43 132.91 136.41 139.93 139.93
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+loadcurve:
+year 2019
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.070661 0.154779 0.05975 0.094346 0.25013 \
+0.032249 0.044364 0.07574 0.156279 0.061702
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+systems.DJWDLC00.g.capfac 0.529621 0.576199 0.489741 0.286637 0.300879 \
+0.20124 0.18848 0.34795 0.389937 0.329814
+systems.DJWDOC00.D.capfac 0.529621 0.576199 0.489741 0.286637 0.300879 \
+0.20124 0.18848 0.34795 0.389937 0.329814
+systems.DJWDOCZ002.F.capfac 0.586718 0.636315 0.593153 0.474999 0.519025 \
+0.67432 0.647486 0.502891 0.582735 0.489677
+systems.DJWDOCZ001.E.capfac 0.475012 0.737002 0.689603 0.350913 0.602041 \
+0.404148 0.326588 0.388499 0.674969 0.582316
+systems.DJWDLCZ002.C.capfac 0.796374 0.726151 0.901511 0.54438 0.536062 \
+0.396551 0.420811 0.68336 0.672796 0.803253
+systems.DJWDLCZ001.B.capfac 0.630236 0.812637 0.808142 0.495489 0.72708 \
+0.571052 0.489645 0.531106 0.754207 0.708545
+systems.DJWDLCZE57.A.capfac 0.529621 0.576199 0.489741 0.286637 0.300879 \
+0.20124 0.18848 0.34795 0.389937 0.329814
+systems.DJSOTN00.h.capfac 0.044019 0.610278 0 0.045293 0.53246 \
+0 0 0.031571 0.532518 0
+systems.DJSOTNZ002.E.capfac 0.017989 0.766802 0.419031 0.032477 0.674311 \
+0.263545 0.00658 0.036352 0.740885 0.317472
+systems.DJSOTNZ001.D.capfac 0.022952 0.813165 0.462079 0.032001 0.660089 \
+0.262492 0.011255 0.041481 0.7679 0.362326
+systems.DJSOTS00.i.capfac 0.027583 0.605143 0.097175 0.027583 0.605143 \
+0.242937 0 0.028225 0.604962 0.096711
+systems.DJSOTSZ002.G.capfac 0.380412 0.880744 0.926588 0.100462 0.791661 \
+0.929366 0.514378 0.327661 0.845011 0.898202
+systems.DJSOTSZ001.F.capfac 0.341364 0.856454 0.892908 0.107411 0.809415 \
+0.937497 0.610544 0.294163 0.836441 0.873744
+systems.DJSOPC00.j.capfac 0.03633 0.512765 0 0.037382 0.44231 \
+0 0 0.026056 0.442329 0
+systems.DJSOPCZ002.C.capfac 0.004602 0.457264 0 0.009216 0.433021 \
+0 0 0.006562 0.424167 0
+systems.DJSOPCZ001.B.capfac 0.004805 0.460121 0 0.009693 0.437121 \
+0 0 0.00685 0.428182 0
+systems.DJHYRO00.A.capfac 0.2 0.2 0.2 0.2 0.2 \
+0.2 0.2 0.2 0.2 0.2
+systems.DJSOPU00.g.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.DJSOPB00.g.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.DJSOPR00.g.capfac 0.221098 0.390421 0.326098 0.213168 0.393675 \
+0.460585 0.241929 0.22599 0.388656 0.323483
+systems.DJSOPS00.h.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.DJELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.DJELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.DJELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.DJELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.DJELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.DJELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.DJELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+SS_DJELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_DJELST04 PC01 o 
+*
+PS_DJELST04 PS01 o 0
+*
+DC_DJELST04_01 DC01 o 
+*
+DC_DJELST04_02 DC02 o 
+*
+DC_DJELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+DJEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+DJEL00i00 I
+# Description: Import of Electricity
+*
+DJEL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+DJEL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+DJEL00TDU g
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+DJEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+DJEL00TUI a
+# Description: Industry Demand
+*
+DJEL00TUR g
+# Description: Rural Demand
+*
+DJEL00TUS a
+# Description: SentOut Demand
+*
+DJEL00TUU a
+# Description: Urban Demand
+*
+DJEL00TUC a
+# Description: Commerce Demand
+*
+DJDS00I00 h
+# Description: Import of Diesel
+*
+DJDSRC00 g
+# Description: Generic Diesel Centralized
+*
+DJDSRC01 A
+# Description: Boulaos/Marabout
+*
+DJDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+DJDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+DJDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+DJDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+DJHF00I00 b
+# Description: Import of HFO
+*
+DJHFRC00 g
+# Description: Generic HFO
+*
+DJHFRC02 B
+# Description: Jaban
+*
+DJCO00I00 b
+# Description: Import of Coal
+*
+DJCOSC00 g
+# Description: Generic Coal
+*
+DJNG00X00 g
+# Description: Extraction of Natural Gas
+*
+DJNG00I00 h
+# Description: Import of Natural Gas
+*
+DJNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+DJNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+DJWDLC00 g
+# Description: Generic Wind
+*
+DJWDOC00 D
+# Description: Generic OffShore Wind
+*
+DJWDOCZ002 F
+# Description: Offshore Wind Zone 002
+*
+DJWDOCZ001 E
+# Description: Offshore Wind Zone 001
+*
+DJWDLCZ002 C
+# Description: Wind Zone 002
+*
+DJWDLCZ001 B
+# Description: Wind Zone 001
+*
+DJWDLCZE57 A
+# Description: Wind Zone E_Site ID 57
+*
+DJSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+DJSOTNZ002 E
+# Description: Solar CSP 6hrStor Zone 002
+*
+DJSOTNZ001 D
+# Description: Solar CSP 6hrStor Zone 001
+*
+DJSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+DJSOTSZ002 G
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 002
+*
+DJSOTSZ001 F
+fyear 2050
+# Description: Solar CSP 12hrStor Zone 001
+*
+DJSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+DJSOPC00 j
+# Description: Generic PV System (utility)
+*
+DJSOPCZ002 C
+# Description: Solar PV Zone 002
+*
+DJSOPCZ001 B
+# Description: Solar PV Zone 001
+*
+DJGOCV00 k
+# Description: Generic Geothermal
+*
+DJGOCV03 M
+# Description: Gale-Le-Koma Phase 1
+*
+DJGOCV04 L
+# Description: Gale-Le-Koma Phase 2 (extension)
+*
+DJGOCV05 K
+# Description: Hanle Garrabayis 
+*
+DJGOCV06 J
+# Description: Asal Fiale Phase 1
+*
+DJGOCV07 H
+# Description: Asal Fiale Phase 2 (extension)
+*
+DJGOCV01 A
+# Description: DBGeothermal
+*
+DJGOCV02 B
+# Description: OtherGeothermal
+*
+DJBM00X00 a
+# Description: Extraction of Bagasse
+*
+DJBW00X00 a
+# Description: Extraction of Wood
+*
+DJHY00X00 a
+# Description: Supply of Hydro
+*
+DJSO00X00 a
+# Description: Supply of Solar
+*
+DJWD00X00 a
+# Description: Supply of Wind
+*
+DJBMST00 g
+# Description: Generic Bagasse
+*
+DJBWST00 a
+# Description: Generic Wood
+*
+DJHYMI00 g
+# Description: Generic Hydro Small
+*
+DJHYRO00 A
+# Description: Generic Hydro ROR
+*
+DJSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+DJSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+DJSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+DJSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+DJELBS00 z
+# Description: Backstop
+*
+DJELST04 C
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+DJELPT04 A
+*
+DJELDT04_01 B
+2. activity C
+*
+DJELDT04_02 D
+2. activity E
+*
+DJELDT04_03 F
+2. activity G
+*
+DJEXDT00 H
+*
+resources: 
+endata
+

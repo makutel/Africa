@@ -1,0 +1,454 @@
+TDB: empty
+ADB: ERa
+problem: ERa
+description:
+# Eritrea
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity m l f
+# 
+DummyElc d l
+# DummyElc
+*
+Primary E
+# Primary level energies for Burundi
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_ERELST04 A l
+# DummyCom_ERELST04
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 115.34 121.12 120.43 151.45 184.93 220.61 258.3 315.27 376.26 440.67 507.85 577.13 661.08 747.46 835.77 925.62 1016.65 1114.45 1213.18 1312.59 1412.48 1512.68 1512.68
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+r-f 0.052757 0.294921 0.068637 0.053991 0.177712 \
+0.041092 0.031009 0.05275 0.161664 0.065467
+s-f 0.070661 0.154779 0.05975 0.094346 0.25013 \
+0.032249 0.044364 0.07574 0.156279 0.061702
+systems.ERWDLC00.g.capfac 0.317773 0.34572 0.293846 0.171984 0.180529 \
+0.120749 0.113092 0.208771 0.233964 0.19789
+systems.ERWDOC00.F.capfac 0.317773 0.34572 0.293846 0.171984 0.180529 \
+0.120749 0.113092 0.208771 0.233964 0.19789
+systems.ERWDOCZ002.H.capfac 0.664717 0.723545 0.684395 0.264048 0.377553 \
+0.330048 0.279386 0.581023 0.657471 0.603904
+systems.ERWDOCZ001.G.capfac 0.689955 0.731906 0.74041 0.309749 0.376272 \
+0.501864 0.426678 0.585523 0.668783 0.657163
+systems.ERWDLCZ005.E.capfac 0.59152 0.697152 0.750697 0.299422 0.528673 \
+0.589262 0.423767 0.507963 0.640671 0.679336
+systems.ERWDLCZ004.D.capfac 0.509644 0.58165 0.677442 0.266222 0.655412 \
+0.712662 0.488448 0.411932 0.565871 0.623359
+systems.ERWDLCZ003.C.capfac 0.695152 0.448618 0.831122 0.658742 0.568953 \
+0.497466 0.600715 0.519097 0.311013 0.641188
+systems.ERWDLCZ002.B.capfac 0.61166 0.720354 0.653502 0.261164 0.430217 \
+0.366775 0.310586 0.52532 0.656633 0.573856
+systems.ERWDLCZ001.A.capfac 0.298719 0.65098 0.29661 0.667361 0.804946 \
+0.595237 0.623149 0.262015 0.630693 0.23569
+systems.ERSOTNZ002.C.capfac 0.011774 0.834089 0.609877 0.026907 0.512691 \
+0.197268 0.050866 0.003593 0.762642 0.422355
+systems.ERSOTNZ001.B.capfac 0.013776 0.819776 0.539788 0.036957 0.596965 \
+0.247483 0.067318 0.006443 0.767854 0.399644
+systems.ERSOTS00.i.capfac 0.027583 0.605143 0.097175 0.027583 0.605143 \
+0.242937 0 0.028225 0.604962 0.096711
+systems.ERSOTSZ002.E.capfac 0.455675 0.891111 0.974388 0.126046 0.677399 \
+0.665426 0.281977 0.277982 0.855899 0.904518
+systems.ERSOTSZ001.D.capfac 0.371908 0.877016 0.935644 0.166308 0.810356 \
+0.825955 0.42954 0.292679 0.861956 0.892634
+systems.ERSOPC00.j.capfac 0.04521 0.398876 0 0.086123 0.491038 \
+0 0 0.035731 0.3714 0
+systems.ERSOPCZ005.E.capfac 0.004673 0.483559 0 0.009162 0.445977 \
+0 0 0.005593 0.44719 0
+systems.ERSOPCZ004.D.capfac 0.003953 0.478914 0 0.008885 0.449724 \
+0 0 0.004818 0.433039 0
+systems.ERSOPCZ003.C.capfac 0.004801 0.48084 0 0.009401 0.447864 \
+0 0 0.005438 0.437401 0
+systems.ERSOPCZ002.B.capfac 0.005633 0.470369 0 0.011005 0.464765 \
+0 0 0.006484 0.43584 0
+systems.ERSOPCZ001.A.capfac 0.003736 0.480667 0 0.009039 0.458633 \
+0 0 0.004866 0.433172 0
+systems.ERHYRO00.A.capfac 0.2 0.2 0.2 0.2 0.2 \
+0.2 0.2 0.2 0.2 0.2
+systems.ERSOPU00.g.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.ERSOPB00.g.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.ERSOPR00.g.capfac 0.221098 0.390421 0.326098 0.213168 0.393675 \
+0.460585 0.241929 0.22599 0.388656 0.323483
+systems.ERSOPS00.h.capfac 0.032697 0.461488 0 0.033645 0.398078 \
+0 0 0.023451 0.398096 0
+systems.ERELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.ERELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.ERELDT04_01.C.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.ERELDT04_02.D.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.ERELDT04_02.E.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.ERELDT04_03.F.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.ERELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+SS_ERELST04 SS01 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_ERELST04 PC01 o 
+*
+PS_ERELST04 PS01 o 0
+*
+DC_ERELST04_01 DC01 o 
+*
+DC_ERELST04_02 DC02 o 
+*
+DC_ERELST04_03 DC03 o 
+*
+relations2:
+variables:
+systems:
+EREL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+EREL00i00 I
+# Description: Import of Electricity
+*
+EREL00TDI a
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+EREL00TDR a
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+EREL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+EREL00TDC g
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+EREL00TUI a
+# Description: Industry Demand
+*
+EREL00TUR a
+# Description: Rural Demand
+*
+EREL00TUS a
+# Description: SentOut Demand
+*
+EREL00TUU a
+# Description: Urban Demand
+*
+EREL00TUC a
+# Description: Commerce Demand
+*
+ERDS00I00 g
+# Description: Import of Diesel
+*
+ERDSRC00 g
+# Description: Generic Diesel Centralized
+*
+ERDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+ERDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+ERDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+ERDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+ERDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+ERHF00I00 g
+# Description: Import of HFO
+*
+ERHFRCph3 g
+bdi up c 148.05
+# Description: Hirgigo+Beleza
+*
+ERHFRC00 h
+# Description: Generic HFO
+*
+ERHFRC01 i
+# Description: Existing HFO
+*
+ERCO00I00 g
+# Description: Import of Coal
+*
+ERCOSC00 g
+# Description: Generic Coal
+*
+ERNG00X00 g
+# Description: Extraction of Natural Gas
+*
+ERNG00I00 b
+# Description: Import of Natural Gas
+*
+ERNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+ERNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+ERNUPW00 g
+# Description: Generic Nuclear
+*
+ERWDLC00 g
+# Description: Generic Wind
+*
+ERWDOC00 F
+# Description: Generic OffShore Wind
+*
+ERWDOCZ002 H
+bdi up c 5202.35
+# Description: Offshore Wind Zone 002
+*
+ERWDOCZ001 G
+bdi up c 5536.39
+# Description: Offshore Wind Zone 001
+*
+ERWDLCZ005 E
+bdi up c 10293.84
+# Description: Wind Zone 005
+*
+ERWDLCZ004 D
+bdi up c 264.45
+# Description: Wind Zone 004
+*
+ERWDLCZ003 C
+bdi up c 687.19
+# Description: Wind Zone 003
+*
+ERWDLCZ002 B
+bdi up c 5302.33
+# Description: Wind Zone 002
+*
+ERWDLCZ001 A
+bdi up c 732.06
+# Description: Wind Zone 001
+*
+ERSOTN00 h
+# Description: Generic Solar thermal no storage
+*
+ERSOTNZ002 C
+fyear 2026
+bdi up c 6277.04
+# Description: Solar CSP 6hrStor Zone 002
+*
+ERSOTNZ001 B
+fyear 2026
+bdi up c 4149.56
+# Description: Solar CSP 6hrStor Zone 001
+*
+ERSOTS00 i
+# Description: Generic Solar thermal with Storage
+*
+ERSOTSZ002 E
+fyear 2050
+bdi up c 4187.82
+# Description: Solar CSP 12hrStor Zone 002
+*
+ERSOTSZ001 D
+fyear 2050
+bdi up c 1025.48
+# Description: Solar CSP 12hrStor Zone 001
+*
+ERSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+ERSOPC00 j
+# Description: Generic PV System (utility)
+*
+ERSOPCZ005 E
+bdi up c 1222.37
+# Description: Solar PV Zone 005
+*
+ERSOPCZ004 D
+bdi up c 5356.93
+# Description: Solar PV Zone 004
+*
+ERSOPCZ003 C
+bdi up c 8077.85
+# Description: Solar PV Zone 003
+*
+ERSOPCZ002 B
+bdi up c 4773.36
+# Description: Solar PV Zone 002
+*
+ERSOPCZ001 A
+bdi up c 84.01
+# Description: Solar PV Zone 001
+*
+ERGOCV00 k
+# Description: Generic Geothermal
+*
+ERBM00X00 a
+# Description: Extraction of Bagasse
+*
+ERBW00X00 a
+# Description: Extraction of Wood
+*
+ERHY00X00 a
+# Description: Supply of Hydro
+*
+ERSO00X00 a
+# Description: Supply of Solar
+*
+ERWD00X00 a
+# Description: Supply of Wind
+*
+ERBMST00 g
+# Description: Generic Bagasse
+*
+ERBWST00 a
+# Description: Generic Wood
+*
+ERHYMI00 g
+# Description: Generic Hydro Small
+*
+ERHYRO00 A
+# Description: Generic Hydro ROR
+*
+ERSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+ERSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+ERSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+ERSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+ERELBS00 z
+# Description: Backstop
+*
+ERELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+ERELPT04 A
+*
+ERELDT04_01 B
+2. activity C
+*
+ERELDT04_02 D
+2. activity E
+*
+ERELDT04_03 F
+2. activity G
+*
+EREXDT00 H
+*
+resources: 
+endata
+

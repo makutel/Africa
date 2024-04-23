@@ -1,0 +1,2600 @@
+title: TransmissionCapacity
+unit: , 1.
+@
+AOELP1eCD  = saee:tic
+AOELNGeCG  = sacg:tic
+AOELNPeBW  = saed:tic
+AOELP2eCD  = sage:tic
+BIELEXeCD  = scae:tic
+BIELNCeCD  = scbe:tic
+BIELNPeCD  = scee:tic
+BIELNGeCD  = scce:tic
+BIELEXeRW  = scaG:tic
+BIELNPeRW  = sceG:tic
+BIELNGeRW  = sccG:tic
+BFELNCeML  = sbbz:tic
+BWELEXeZA  = sdaR:tic
+BWELEXeZW  = sdaT:tic
+BWELNCeZW  = sdbT:tic
+BWELP1eZA  = sdeR:tic
+BWELP2eZA  = sdgR:tic
+CDELEXeCG  = seag:tic
+CDELNGeCF  = secf:tic
+CDELNPeAO  = seea:tic
+CDELEXeZM  = seaS:tic
+CDELNCeZA  = sebR:tic
+CDELNPeZA  = seeR:tic
+CDELNPeNA  = seeD:tic
+CDELP1eZM  = seeS:tic
+CDELP2eZM  = segS:tic
+CDELNPeNG  = seeF:tic
+CGELNGeCF  = sgcf:tic
+CGELNPeGA  = sgeo:tic
+CIELEXeBF  = shab:tic
+GHELNCeCI  = spbh:tic
+CIELNCeLR  = shbv:tic
+CMELNGeCF  = sicf:tic
+CMELNGeGA  = sico:tic
+CMELNGeCG  = sicg:tic
+CMELNPeTD  = sieM:tic
+DJELNGeER  = sjcm:tic
+DJELNGeSO  = sjcK:tic
+DZELEXeTN  = skaO:tic
+DZELEXeEU  = xkaX:tic
+EGELNGeME  = xlcY:tic
+ETELNCeDJ  = snbj:tic
+ETELNGeDJ  = sncj:tic
+ETELNGeER  = sncm:tic
+ETELNGeSO  = sncK:tic
+ETELNCeSD  = snbH:tic
+ETELP1eSD  = sneH:tic
+ETELP2eSD  = sngH:tic
+ETELNGeSD  = sncH:tic
+GAELNPeGQ  = soes:tic
+GHELEXeCI  = spah:tic
+GHELEXeTB  = spaN:tic
+GHELNCeTB  = spbN:tic
+GHELNCeBF  = spbb:tic
+GMELNCeGW  = sqbt:tic
+GNELNPeML  = srez:tic
+GQELNPeCM  = ssei:tic
+GWELNCeGN  = stbr:tic
+KEELNCeET  = subn:tic
+KEELP1eET  = suen:tic
+KEELP2eET  = sugn:tic
+KEELNGeET  = sucn:tic
+KEELNGeSO  = sucK:tic
+KEELNGeSD  = sucH:tic
+KEELNCeTZ  = subP:tic
+KEELP1eTZ  = sueP:tic
+KEELP2eTZ  = sugP:tic
+KEELNGeTZ  = sucP:tic
+KEELEXeUG  = suaQ:tic
+KEELNCeUG  = subQ:tic
+KEELP1eUG  = sueQ:tic
+KEELP2eUG  = sugQ:tic
+KEELNGeUG  = sucQ:tic
+LRELNCeGN  = svbr:tic
+LRELNCeSL  = svbI:tic
+LRELNPeCI  = sveh:tic
+LSELEXeZA  = swaR:tic
+LSELNPeZA  = sweR:tic
+LYELEXeEG  = sxal:tic
+LYELNCeDZ  = sxbk:tic
+LYELEXeTN  = sxaO:tic
+LYELNCeEU  = xxbX:tic
+MAELEXeDZ  = syak:tic
+MAELEXeEU  = xyaX:tic
+MLELNCeCI  = szbh:tic
+MLELNPeSN  = szeJ:tic
+MRELNGeMA  = sAcy:tic
+MRELNGeDZ  = sAck:tic
+MWELP1eMZ  = sBeC:tic
+MWELP2eMZ  = sBgC:tic
+MWELP3eMZ  = sBiC:tic
+MWELNPeZM  = sBeS:tic
+MZELEXeZA  = sCaR:tic
+MZELNPeZM  = sCeS:tic
+MZELEXeSZ  = sCaL:tic
+MZELEXeZW  = sCaT:tic
+MZELNPeZA  = sCeR:tic
+MZELNPeZW  = sCeT:tic
+NAELEXeZA  = sDaR:tic
+NAELNCeBW  = sDbd:tic
+NAELNCeZW  = sDbT:tic
+NAELNCeZM  = sDbS:tic
+NAELP1eZA  = sDeR:tic
+NAELP2eZA  = sDgR:tic
+NAELNPeAO  = sDea:tic
+NEELNPeTB  = sEeN:tic
+NEELNPeBF  = sEeb:tic
+NGELEXeTB  = sFaN:tic
+NGELEXeNE  = sFaE:tic
+NGELNPeNE  = sFeE:tic
+NGELNPeTB  = sFeN:tic
+NGELNPeTB  = sFgN:tic
+RWELNGeCD  = sGce:tic
+RWELEXeCD  = sGae:tic
+RWELNCeCD  = sGbe:tic
+RWELNCeUG  = sGbQ:tic
+RWELNPeUG  = sGeQ:tic
+RWELNGeUG  = SGcQ:tic
+SDELNGeER  = sHcm:tic
+SDELNGeUG  = sHcQ:tic
+SDELP1eEG  = sHel:tic
+SDELP2eEG  = sHgl:tic
+SLELNCeGN  = sIbr:tic
+SNELNCeGN  = sJbr:tic
+SNELNCeGM  = sJbq:tic
+SNELEXeML  = sJaz:tic
+TBELNPeGH  = sNep:tic
+TNELNCeEU  = xObX:tic
+TZELNGeBI  = sPcc:tic
+TZELNCeBI  = sPbc:tic
+TZELNPeBI  = sPec:tic
+TZELNGeZM  = sPcS:tic
+TZELNPeZM  = sPeS:tic
+TZELNCeRW  = sPbG:tic
+TZELNPeRW  = sPeG:tic
+TZELNGeRW  = sPcG:tic
+TZELEXeUG  = sPaQ:tic
+TZELNCeUG  = sPbQ:tic
+TZELNPeUG  = sPeQ:tic
+TZELNGeUG  = sPcQ:tic
+TZELNPeMW  = sPeB:tic
+ZAELEXeSZ  = sRaL:tic
+ZAELEXeZW  = sRaT:tic
+ZAELNPeSZ  = sReL:tic
+ZAELNPeZW  = sReT:tic
+ZMELEXeZW  = sSaT:tic
+ZMELNCeZW  = sSbT:tic
+ZMELP1eZW  = sSeT:tic
+ZMELP2eZW  = sSgT:tic
+ZWELNPeNA  = sTeD:tic
+ZWELNPeZA  = sTeR:tic
+@
+title: TransmissionInvestment
+unit: , 1.
+@
+AOELP1eCD  =   saee:inv*saee:yact/1000
+AOELNGeCG  =   sacg:inv*sacg:yact/1000
+AOELNPeBW  =   saed:inv*saed:yact/1000
+AOELP2eCD  =   sage:inv*sage:yact/1000
+BIELEXeCD  =   scae:inv*scae:yact/1000
+BIELNCeCD  =   scbe:inv*scbe:yact/1000
+BIELNPeCD  =   scee:inv*scee:yact/1000
+BIELNGeCD  =   scce:inv*scce:yact/1000
+BIELEXeRW  =   scaG:inv*scaG:yact/1000
+BIELNPeRW  =   sceG:inv*sceG:yact/1000
+BIELNGeRW  =   sccG:inv*sccG:yact/1000
+BFELNCeML  =   sbbz:inv*scbz:yact/1000
+BWELEXeZA  =   sdaR:inv*sdaR:yact/1000
+BWELEXeZW  =   sdaT:inv*sdaT:yact/1000
+BWELNCeZW  =   sdbT:inv*sdbT:yact/1000
+BWELP1eZA  =   sdeR:inv*sdeR:yact/1000
+BWELP2eZA  =   sdgR:inv*sdgR:yact/1000
+CDELEXeCG  =   seag:inv*seag:yact/1000
+CDELNGeCF  =   secf:inv*secf:yact/1000
+CDELNPeAO  =   seea:inv*seea:yact/1000
+CDELEXeZM  =   seaS:inv*seaS:yact/1000
+CDELNCeZA  =   sebR:inv*sebR:yact/1000
+CDELNPeZA  =   seeR:inv*seeR:yact/1000
+CDELNPeNA  =   seeD:inv*seeD:yact/1000
+CDELP1eZM  =   seeS:inv*seeS:yact/1000
+CDELP2eZM  =   segS:inv*segS:yact/1000
+CDELNPeNG  =   seeF:inv*seeF:yact/1000
+CGELNGeCF  =   sgcf:inv*sgcf:yact/1000
+CGELNPeGA  =   sgeo:inv*sgeo:yact/1000
+CIELEXeBF  =   shab:inv*shac:yact/1000
+GHELNCeCI  =   spbh:inv*shbp:yact/1000
+CIELNCeLR  =   shbv:inv*shbv:yact/1000
+CMELNGeCF  =   sicf:inv*sicf:yact/1000
+CMELNGeGA  =   sico:inv*sico:yact/1000
+CMELNGeCG  =   sicg:inv*sicg:yact/1000
+CMELNPeTD  =   sieM:inv*sieM:yact/1000
+DJELNGeER  =   sjcm:inv*sjcm:yact/1000
+DJELNGeSO  =   sjcK:inv*sjcK:yact/1000
+DZELEXeTN  =   skaO:inv*skaO:yact/1000
+DZELEXeEU  =   xkaX:inv*xkaX:yact/1000
+EGELNGeME  =   xlcY:inv*xlcY:yact/1000
+ETELNCeDJ  =   snbj:inv*snbj:yact/1000
+ETELNGeDJ  =   sncj:inv*sncj:yact/1000
+ETELNGeER  =   sncm:inv*sncm:yact/1000
+ETELNGeSO  =   sncK:inv*sncK:yact/1000
+ETELNCeSD  =   snbH:inv*snbH:yact/1000
+ETELP1eSD  =   sneH:inv*sneH:yact/1000
+ETELP2eSD  =   sngH:inv*sngH:yact/1000
+ETELNGeSD  =   sncH:inv*sncH:yact/1000
+GAELNPeGQ  =   soes:inv*soes:yact/1000
+GHELEXeCI  =   spah:inv*spah:yact/1000
+GHELEXeTB  =   spaN:inv*spaN:yact/1000
+GHELNCeTB  =   spbN:inv*spbN:yact/1000
+GHELNCeBF  =   spbb:inv*spbc:yact/1000
+GMELNCeGW  =   sqbt:inv*sqbt:yact/1000
+GNELNPeML  =   srez:inv*srez:yact/1000
+GQELNPeCM  =   ssei:inv*ssei:yact/1000
+GWELNCeGN  =   stbr:inv*stbr:yact/1000
+KEELNCeET  =   subn:inv*subn:yact/1000
+KEELP1eET  =   suen:inv*suen:yact/1000
+KEELP2eET  =   sugn:inv*sugn:yact/1000
+KEELNGeET  =   sucn:inv*sucn:yact/1000
+KEELNGeSO  =   sucK:inv*sucK:yact/1000
+KEELNGeSD  =   sucH:inv*sucH:yact/1000
+KEELNCeTZ  =   subP:inv*subP:yact/1000
+KEELP1eTZ  =   sueP:inv*sueP:yact/1000
+KEELP2eTZ  =   sugP:inv*sugP:yact/1000
+KEELNGeTZ  =   sucP:inv*sucP:yact/1000
+KEELEXeUG  =   suaQ:inv*suaQ:yact/1000
+KEELNCeUG  =   subQ:inv*subQ:yact/1000
+KEELP1eUG  =   sueQ:inv*sueQ:yact/1000
+KEELP2eUG  =   sugQ:inv*sugQ:yact/1000
+KEELNGeUG  =   sucQ:inv*sucQ:yact/1000
+LRELNCeGN  =   svbr:inv*svbr:yact/1000
+LRELNCeSL  =   svbI:inv*svbI:yact/1000
+LRELNPeCI  =   sveh:inv*sveh:yact/1000
+LSELEXeZA  =   swaR:inv*swaR:yact/1000
+LSELNPeZA  =   sweR:inv*sweR:yact/1000
+LYELEXeEG  =   sxal:inv*sxal:yact/1000
+LYELNCeDZ  =   sxbk:inv*sxbk:yact/1000
+LYELEXeTN  =   sxaO:inv*sxaO:yact/1000
+LYELNCeEU  =   xxbX:inv*xxbX:yact/1000
+MAELEXeDZ  =   syak:inv*syak:yact/1000
+MAELEXeEU  =   xyaX:inv*xyaX:yact/1000
+MLELNCeCI  =   szbh:inv*szbh:yact/1000
+MLELNPeSN  =   szeJ:inv*szeJ:yact/1000
+MRELNGeMA  =   sAcy:inv*sAcy:yact/1000
+MRELNGeDZ  =   sAck:inv*sAck:yact/1000
+MWELP1eMZ  =   sBeC:inv*sBeC:yact/1000
+MWELP2eMZ  =   sBgC:inv*sBgC:yact/1000
+MWELP3eMZ  =   sBiC:inv*sBiC:yact/1000
+MWELNPeZM  =   sBeS:inv*sBeS:yact/1000
+MZELEXeZA  =   sCaR:inv*sCaR:yact/1000
+MZELNPeZM  =   sCeS:inv*sCeS:yact/1000
+MZELEXeSZ  =   sCaL:inv*sCaL:yact/1000
+MZELEXeZW  =   sCaT:inv*sCaT:yact/1000
+MZELNPeZA  =   sCeR:inv*sCeR:yact/1000
+MZELNPeZW  =   sCeT:inv*sCeT:yact/1000
+NAELEXeZA  =   sDaR:inv*sDaR:yact/1000
+NAELNCeBW  =   sDbd:inv*sDbd:yact/1000
+NAELNCeZW  =   sDbT:inv*sDbT:yact/1000
+NAELNCeZM  =   sDbS:inv*sDbS:yact/1000
+NAELP1eZA  =   sDeR:inv*sDeR:yact/1000
+NAELP2eZA  =   sDgR:inv*sDgR:yact/1000
+NAELNPeAO  =   sDea:inv*sDea:yact/1000
+NEELNPeTB  =   sEeN:inv*sEeN:yact/1000
+NEELNPeBF  =   sEeb:inv*sEec:yact/1000
+NGELEXeTB  =   sFaN:inv*sFaN:yact/1000
+NGELEXeNE  =   sFaE:inv*sFaE:yact/1000
+NGELNPeNE  =   sFeE:inv*sFeE:yact/1000
+NGELNPeTB  =   sFeN:inv*sFeN:yact/1000
+NGELNPeTB  =   sFgN:inv*sFgN:yact/1000
+RWELNGeCD  =   sGce:inv*sGce:yact/1000
+RWELEXeCD  =   sGae:inv*sGae:yact/1000
+RWELNCeCD  =   sGbe:inv*sGbe:yact/1000
+RWELNCeUG  =   sGbQ:inv*sGbQ:yact/1000
+RWELNPeUG  =   sGeQ:inv*sGeQ:yact/1000
+RWELNGeUG  =   SGcQ:inv*SGcQ:yact/1000
+SDELNGeER  =   sHcm:inv*sHcm:yact/1000
+SDELNGeUG  =   sHcQ:inv*sHcQ:yact/1000
+SDELP1eEG  =   sHel:inv*sHel:yact/1000
+SDELP2eEG  =   sHgl:inv*sHgl:yact/1000
+SLELNCeGN  =   sIbr:inv*sIbr:yact/1000
+SNELNCeGN  =   sJbr:inv*sJbr:yact/1000
+SNELNCeGM  =   sJbq:inv*sJbq:yact/1000
+SNELEXeML  =   sJaz:inv*sJaz:yact/1000
+TBELNPeGH  =   sNep:inv*sNep:yact/1000
+TNELNCeEU  =   xObX:inv*xObX:yact/1000
+TZELNGeBI  =   sPcc:inv*sPcc:yact/1000
+TZELNCeBI  =   sPbc:inv*sPbc:yact/1000
+TZELNPeBI  =   sPec:inv*sPec:yact/1000
+TZELNGeZM  =   sPcS:inv*sPcS:yact/1000
+TZELNPeZM  =   sPeS:inv*sPeS:yact/1000
+TZELNCeRW  =   sPbG:inv*sPbG:yact/1000
+TZELNPeRW  =   sPeG:inv*sPeG:yact/1000
+TZELNGeRW  =   sPcG:inv*sPcG:yact/1000
+TZELEXeUG  =   sPaQ:inv*sPaQ:yact/1000
+TZELNCeUG  =   sPbQ:inv*sPbQ:yact/1000
+TZELNPeUG  =   sPeQ:inv*sPeQ:yact/1000
+TZELNGeUG  =   sPcQ:inv*sPcQ:yact/1000
+TZELNPeMW  =   sPeB:inv*sPeB:yact/1000
+ZAELEXeSZ  =   sRaL:inv*sRaL:yact/1000
+ZAELEXeZW  =   sRaT:inv*sRaT:yact/1000
+ZAELNPeSZ  =   sReL:inv*sReL:yact/1000
+ZAELNPeZW  =   sReT:inv*sReT:yact/1000
+ZMELEXeZW  =   sSaT:inv*sSaT:yact/1000
+ZMELNCeZW  =   sSbT:inv*sSbT:yact/1000
+ZMELP1eZW  =   sSeT:inv*sSeT:yact/1000
+ZMELP2eZW  =   sSgT:inv*sSgT:yact/1000
+ZWELNPeNA  =   sTeD:inv*sTeD:yact/1000
+ZWELNPeZA  =   sTeR:inv*sTeR:yact/1000
+@
+title: TransmissionOutput
+unit: , 1.
+@
+AOELP1eCD  =   saee:out
+AOELNGeCG  =   sacg:out
+AOELNPeBW  =   saed:out
+AOELP2eCD  =   sage:out
+BIELEXeCD  =   scae:out
+BIELNCeCD  =   scbe:out
+BIELNPeCD  =   scee:out
+BIELNGeCD  =   scce:out
+BIELEXeRW  =   scaG:out
+BIELNPeRW  =   sceG:out
+BIELNGeRW  =   sccG:out
+BFELNCeML  =   sbbz:out
+BWELEXeZA  =   sdaR:out
+BWELEXeZW  =   sdaT:out
+BWELNCeZW  =   sdbT:out
+BWELP1eZA  =   sdeR:out
+BWELP2eZA  =   sdgR:out
+CDELEXeCG  =   seag:out
+CDELNGeCF  =   secf:out
+CDELNPeAO  =   seea:out
+CDELEXeZM  =   seaS:out
+CDELNCeZA  =   sebR:out
+CDELNPeZA  =   seeR:out
+CDELNPeNA  =   seeD:out
+CDELP1eZM  =   seeS:out
+CDELP2eZM  =   segS:out
+CDELNPeNG  =   seeF:out
+CGELNGeCF  =   sgcf:out
+CGELNPeGA  =   sgeo:out
+CIELEXeBF  =   shab:out
+GHELNCeCI  =   spbh:out
+CIELNCeLR  =   shbv:out
+CMELNGeCF  =   sicf:out
+CMELNGeGA  =   sico:out
+CMELNGeCG  =   sicg:out
+CMELNPeTD  =   sieM:out
+DJELNGeER  =   sjcm:out
+DJELNGeSO  =   sjcK:out
+DZELEXeTN  =   skaO:out
+DZELEXeEU  =   xkaX:out
+EGELNGeME  =   xlcY:out
+ETELNCeDJ  =   snbj:out
+ETELNGeDJ  =   sncj:out
+ETELNGeER  =   sncm:out
+ETELNGeSO  =   sncK:out
+ETELNCeSD  =   snbH:out
+ETELP1eSD  =   sneH:out
+ETELP2eSD  =   sngH:out
+ETELNGeSD  =   sncH:out
+GAELNPeGQ  =   soes:out
+GHELEXeCI  =   spah:out
+GHELEXeTB  =   spaN:out
+GHELNCeTB  =   spbN:out
+GHELNCeBF  =   spbb:out
+GMELNCeGW  =   sqbt:out
+GNELNPeML  =   srez:out
+GQELNPeCM  =   ssei:out
+GWELNCeGN  =   stbr:out
+KEELNCeET  =   subn:out
+KEELP2eET  =   suen:out
+KEELP2eET  =   sugn:out
+KEELNGeET  =   sucn:out
+KEELNGeSO  =   sucK:out
+KEELNGeSD  =   sucH:out
+KEELNCeTZ  =   subP:out
+KEELP1eTZ  =   sueP:out
+KEELP2eTZ  =   sugP:out
+KEELNGeTZ  =   sucP:out
+KEELEXeUG  =   suaQ:out
+KEELNCeUG  =   subQ:out
+KEELP1eUG  =   sueQ:out
+KEELP2eUG  =   sugQ:out
+KEELNGeUG  =   sucQ:out
+LRELNCeGN  =   svbr:out
+LRELNCeSL  =   svbI:out
+LRELNPeCI  =   sveh:out
+LSELEXeZA  =   swaR:out
+LSELNPeZA  =   sweR:out
+LYELEXeEG  =   sxal:out
+LYELNCeDZ  =   sxbk:out
+LYELEXeTN  =   sxaO:out
+LYELNCeEU  =   xxbX:out
+MAELEXeDZ  =   syak:out
+MAELEXeEU  =   xyaX:out
+MLELNCeCI  =   szbh:out
+MLELNPeSN  =   szeJ:out
+MRELNGeMA  =   sAcy:out
+MRELNGeDZ  =   sAck:out
+MWELP1eMZ  =   sBeC:out
+MWELP2eMZ  =   sBgC:out
+MWELP3eMZ  =   sBiC:out
+MWELNPeZM  =   sBeS:out
+MZELEXeZA  =   sCaR:out
+MZELNPeZM  =   sCeS:out
+MZELEXeSZ  =   sCaL:out
+MZELEXeZW  =   sCaT:out
+MZELNPeZA  =   sCeR:out
+MZELNPeZW  =   sCeT:out
+NAELEXeZA  =   sDaR:out
+NAELNCeBW  =   sDbd:out
+NAELNCeZW  =   sDbT:out
+NAELNCeZM  =   sDbS:out
+NAELP1eZA  =   sDeR:out
+NAELP2eZA  =   sDgR:out
+NAELNPeAO  =   sDea:out
+NEELNPeTB  =   sEeN:out
+NEELNPeBF  =   sEeb:out
+NGELEXeTB  =   sFaN:out
+NGELEXeNE  =   sFaE:out
+NGELNPeNE  =   sFeE:out
+NGELNPeTB  =   sFeN:out
+NGELNPeTB  =   sFgN:out
+RWELNGeCD  =   sGce:out
+RWELEXeCD  =   sGae:out
+RWELNCeCD  =   sGbe:out
+RWELNCeUG  =   sGbQ:out
+RWELNPeUG  =   sGeQ:out
+RWELNGeUG  =   SGcQ:out
+SDELNGeER  =   sHcm:out
+SDELNGeUG  =   sHcQ:out
+SDELP1eEG  =   sHel:out
+SDELP2eEG  =   sHgl:out
+SLELNCeGN  =   sIbr:out
+SNELNCeGN  =   sJbr:out
+SNELNCeGM  =   sJbq:out
+SNELEXeML  =   sJaz:out
+TBELNPeGH  =   sNep:out
+TNELNCeEU  =   xObX:out
+TZELNGeBI  =   sPcc:out
+TZELNCeBI  =   sPbc:out
+TZELNPeBI  =   sPec:out
+TZELNGeZM  =   sPcS:out
+TZELNPeZM  =   sPeS:out
+TZELNCeRW  =   sPbG:out
+TZELNPeRW  =   sPeG:out
+TZELNGeRW  =   sPcG:out
+TZELEXeUG  =   sPaQ:out
+TZELNCeUG  =   sPbQ:out
+TZELNPeUG  =   sPeQ:out
+TZELNGeUG  =   sPcQ:out
+TZELNPeMW  =   sPeB:out
+ZAELEXeSZ  =   sRaL:out
+ZAELEXeZW  =   sRaT:out
+ZAELNPeSZ  =   sReL:out
+ZAELNPeZW  =   sReT:out
+ZMELEXeZW  =   sSaT:out
+ZMELNCeZW  =   sSbT:out
+ZMELP1eZW  =   sSeT:out
+ZMELP2eZW  =   sSgT:out
+ZWELNPeNA  =   sTeD:out
+ZWELNPeZA  =   sTeR:out
+CDELP1eAO  =   sefa:out
+CGELNGeAO  =   sgda:out
+BWELNPeAO  =   sdfa:out
+CDELP2eAO  =   seha:out
+CDELEXeBI  =   sebc:out
+CDELNCeBI  =   secc:out
+CDELNPeBI  =   sefc:out
+CDELNGeBI  =   sedc:out
+RWELEXeBI  =   sGbc:out
+RWELNPeBI  =   sGfc:out
+RWELNGeBI  =   sGdc:out
+MLELNCeBF  =   szcb:out
+ZAELEXeBW  =   sRbd:out
+ZWELEXeBW  =   sTbd:out
+ZWELNCeBW  =   sTcd:out
+ZAELP1eBW  =   sRfd:out
+ZAELP2eBW  =   sRhd:out
+CGELEXeCD  =   sgbe:out
+CFELNGeCD  =   sfde:out
+AOELNPeCD  =   safe:out
+ZMELEXeCD  =   sSbe:out
+ZAELNCeCD  =   sRce:out
+ZAELNPeCD  =   sRfe:out
+NAELNPeCD  =   sDfe:out
+ZMELP1eCD  =   sSfe:out
+ZMELP2eCD  =   sShe:out
+NGELNPeCD  =   sFfe:out
+CFELNGeCG  =   sfdg:out
+GAELNPeCG  =   sofg:out
+BFELEXeCI  =   sbbh:out
+CIELNCeGH  =   shcp:out
+LRELNCeCI  =   svch:out
+CFELNGeCM  =   sfdi:out
+GAELNGeCM  =   sodi:out
+CGELNGeCM  =   sgdi:out
+TDELNPeCM  =   sMfi:out
+ERELNGeDJ  =   smdj:out
+SOELNGeDJ  =   sKdj:out
+TNELEXeDZ  =   sObk:out
+EUELEXeDZ  =   sXbk:out
+MEELNGeEG  =   sYdl:out
+DJELNCeET  =   sjcn:out
+DJELNGeET  =   sjdn:out
+ERELNGeET  =   smdn:out
+SOELNGeET  =   sKdn:out
+SDELNCeET  =   sHcn:out
+SDELP1eET  =   sHfn:out
+SDELP2eET  =   sHhn:out
+SDELNGeET  =   sHdn:out
+GQELNPeGA  =   ssfo:out
+CIELEXeGH  =   shbp:out
+TBELEXeGH  =   sNbp:out
+TBELNCeGH  =   sNcp:out
+BFELNCeGH  =   sbcp:out
+GWELNCeGM  =   stcq:out
+MLELNPeGN  =   szfr:out
+CMELNPeGQ  =   sifs:out
+GNELNCeGW  =   srct:out
+ETELNCeKE  =   sncu:out
+ETELP1eKE  =   snfu:out
+ETELP2eKE  =   snhu:out
+ETELNGeKE  =   sndu:out
+SOELNGeKE  =   sKdu:out
+SDELNGeKE  =   sHdu:out
+TZELNCeKE  =   sPcu:out
+TZELP1eKE  =   sPfu:out
+TZELP2eKE  =   sPhu:out
+TZELNGeKE  =   sPdu:out
+UGELEXeKE  =   sQbu:out
+UGELNCeKE  =   sQcu:out
+UGELP1eKE  =   sQfu:out
+UGELP2eKE  =   sQhu:out
+UGELNGeKE  =   sQdu:out
+GNELNCeLR  =   srcv:out
+SLELNCeLR  =   sIcv:out
+CIELNPeLR  =   shfv:out
+ZAELEXeLS  =   sRbw:out
+ZAELNPeLS  =   sRfw:out
+EGELEXeLY  =   slbx:out
+DZELNCeLY  =   skcx:out
+TNELEXeLY  =   sObx:out
+EUELNCeLY  =   sXcx:out
+DZELEXeMA  =   skby:out
+EUELEXeMA  =   sXby:out
+CIELNCeML  =   shcz:out
+SNELNPeML  =   sJfz:out
+MAELNGeMR  =   sydA:out
+DZELNGeMR  =   skdA:out
+MZELP1eMW  =   sCfB:out
+MZELP2eMW  =   sChB:out
+MZELP3eMW  =   sCjB:out
+ZMELNPeMW  =   sSfB:out
+ZAELEXeMZ  =   sRbC:out
+ZAELNPeMZ  =   sSfC:out
+SZELEXeMZ  =   sLbC:out
+ZWELEXeMZ  =   sTbC:out
+ZAELNPeMZ  =   sRfC:out
+ZWELNPeMZ  =   sTfC:out
+ZAELEXeNA  =   sRbD:out
+BWELNCeNA  =   sdcD:out
+ZWELNCeNA  =   sTcD:out
+ZMELNCeNA  =   sScD:out
+ZAELP1eNA  =   sRfD:out
+ZAELP2eNA  =   sRhD:out
+AOELNPeNA  =   safD:out
+TBELNPeNE  =   sNfE:out
+BFELNPeNE  =   sbfE:out
+TBELEXeNG  =   sNbF:out
+NEELEXeNG  =   sEbF:out
+NEELNPeNG  =   sEfF:out
+TBELNPeNG  =   sNfF:out
+TBELNPeNG  =   sNhF:out
+CDELNGeRW  =   sedG:out
+CDELEXeRW  =   sebG:out
+CDELNCeRW  =   secG:out
+UGELNCeRW  =   sQcG:out
+UGELNPeRW  =   sQfG:out
+UGELNGeRW  =   sQdG:out
+ERELNGeSD  =   smdH:out
+UGELNGeSD  =   sQdH:out
+EGELP1eSD  =   slfH:out
+EGELP2eSD  =   slhH:out
+GNELNCeSL  =   srcI:out
+GNELNCeSN  =   srcJ:out
+GMELNCeSN  =   sqcJ:out
+MLELEXeSN  =   szbJ:out
+GHELNPeTB  =   spfN:out
+EUELNCeTN  =   sXcO:out
+BIELNGeTZ  =   scdP:out
+BIELNCeTZ  =   sccP:out
+BIELNPeTZ  =   scfP:out
+ZMELNGeTZ  =   sSdP:out
+ZMELNPeTZ  =   sSfP:out
+RWELNCeTZ  =   sGcP:out
+RWELNPeTZ  =   sGfP:out
+RWELNGeTZ  =   sGdP:out
+UGELEXeTZ  =   sQbP:out
+UGELNCeTZ  =   sQcP:out
+UGELNPeTZ  =   sQfP:out
+UGELNGeTZ  =   sQdP:out
+MWELNPeTZ  =   sBfP:out
+SZELEXeZA  =   sLbR:out
+ZWELEXeZA  =   sTbR:out
+SZELNPeZA  =   sLfR:out
+ZWELNPeZA  =   sTfR:out
+ZWELEXeZM  =   sTbS:out
+ZWELNCeZM  =   sTcS:out
+ZWELP1eZM  =   sTfS:out
+ZWELP2eZM  =   sThS:out
+NAELNPeZW  =   sDfT:out
+ZAELNPeZW  =   sRfT:out
+@
+title: Capacity_Secondary
+unit: , 1.
+@
+!aggr BIa
+!table: total capacity of energyform El_BUR on level Secondary
+!aggr DJa
+!table: total capacity of energyform El_DJI on level Secondary
+!aggr ERa
+!table: total capacity of energyform El_ERI on level Secondary
+!aggr ETa
+!table: total capacity of energyform El_ETH on level Secondary
+!aggr KEa
+!table: total capacity of energyform El_KNA on level Secondary
+!aggr RWa
+!table: total capacity of energyform El_RDA on level Secondary
+!aggr SDa
+!table: total capacity of energyform El_SDN on level Secondary
+!aggr SOa
+!table: total capacity of energyform El_SOM on level Secondary
+!aggr TZa
+!table: total capacity of energyform El_TZN on level Secondary
+!aggr UGa
+!table: total capacity of energyform El_UGA on level Secondary
+!aggr EGa
+!table: total capacity of energyform El_EGY on level Secondary
+!aggr AOa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr BWa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr CDa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr LSa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr MWa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr MZa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr NAa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr ZAa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr SZa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr ZMa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr ZWa
+!table: total capacity of energyform Electricity on level Secondary
+!aggr BIa
+!table: total capacity of energyform El_BUR on level Tertiary
+!aggr DJa
+!table: total capacity of energyform El_DJI on level Tertiary
+!aggr ERa
+!table: total capacity of energyform El_ERI on level Tertiary
+!aggr ETa
+!table: total capacity of energyform El_ETH on level Tertiary
+!aggr KEa
+!table: total capacity of energyform El_KNA on level Tertiary
+!aggr RWa
+!table: total capacity of energyform El_RDA on level Tertiary
+!aggr SDa
+!table: total capacity of energyform El_SDN on level Tertiary
+!aggr SOa
+!table: total capacity of energyform El_SOM on level Tertiary
+!aggr TZa
+!table: total capacity of energyform El_TZN on level Tertiary
+!aggr UGa
+!table: total capacity of energyform El_UGA on level Tertiary
+!aggr EGa
+!table: total capacity of energyform El_EGY on level Tertiary
+!aggr AOa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr BWa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr CDa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr LSa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr MWa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr MZa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr NAa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr ZAa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr SZa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr ZMa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr ZWa
+!table: total capacity of energyform Electricity on level Tertiary
+!aggr CFa
+!table: total capacity of energyform EL_CAF on level Tertiary
+!aggr CGa
+!table: total capacity of energyform EL_CON on level Tertiary
+!aggr CMa
+!table: total capacity of energyform EL_CAM on level Tertiary
+!aggr GAa
+!table: total capacity of energyform EL_GAB on level Tertiary
+!aggr GQa
+!table: total capacity of energyform EL_EQG on level Tertiary
+!aggr TDa
+!table: total capacity of energyform EL_CHA on level Tertiary
+!aggr DZa
+!table: total capacity of energyform El_ALG on level Tertiary
+!aggr MAa
+!table: total capacity of energyform El_MOR on level Tertiary
+!aggr MRa
+!table: total capacity of energyform El_MAU on level Tertiary
+!aggr TNa
+!table: total capacity of energyform El_TUN on level Tertiary
+!aggr LYa
+!table: total capacity of energyform El_LIB on level Tertiary
+@
+title: Capacity_Final_Industrial
+unit: , 1.
+@
+!aggr BIa
+!table: total capacity of energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: total capacity of energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: total capacity of energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: total capacity of energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: total capacity of energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: total capacity of energyform El_RDA on level Final_Industrial
+!aggr SDa
+!table: total capacity of energyform El_SDN on level Final_Industrial
+!aggr SOa
+!table: total capacity of energyform El_SOM on level Final_Industrial
+!aggr TZa
+!table: total capacity of energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: total capacity of energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: total capacity of energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr BWa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr CDa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr LSa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr MWa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr MZa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr NAa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr ZAa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr SZa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr ZMa
+!table: total capacity of energyform Industry on level Tertiary
+!aggr ZWa
+!table: total capacity of energyform Industry on level Tertiary
+@
+title: Capacity_Final_Urban
+unit: , 1.
+@
+!aggr BIa
+!table: total capacity of energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: total capacity of energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: total capacity of energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: total capacity of energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: total capacity of energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: total capacity of energyform El_RDA on level Final_Urban
+!aggr SDa
+!table: total capacity of energyform El_SDN on level Final_Urban
+!aggr SOa
+!table: total capacity of energyform El_SOM on level Final_Urban
+!aggr TZa
+!table: total capacity of energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: total capacity of energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: total capacity of energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr BWa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr CDa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr LSa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr MWa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr MZa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr NAa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr ZAa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr SZa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr ZMa
+!table: total capacity of energyform Urban on level Tertiary
+!aggr ZWa
+!table: total capacity of energyform Urban on level Tertiary
+@
+title: Capacity_Final_Rural
+unit: , 1.
+@
+!aggr BIa
+!table: total capacity of energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: total capacity of energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: total capacity of energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: total capacity of energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: total capacity of energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: total capacity of energyform El_RDA on level Final_Rural
+!aggr SDa
+!table: total capacity of energyform El_SDN on level Final_Rural
+!aggr SOa
+!table: total capacity of energyform El_SOM on level Final_Rural
+!aggr TZa
+!table: total capacity of energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: total capacity of energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: total capacity of energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr BWa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr CDa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr LSa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr MWa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr MZa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr NAa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr ZAa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr SZa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr ZMa
+!table: total capacity of energyform Rural on level Tertiary
+!aggr ZWa
+!table: total capacity of energyform Rural on level Tertiary
+@
+title: Investment Costs
+unit: , 1.
+@
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Secondary
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Secondary
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Secondary
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Secondary
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Secondary
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Secondary
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Secondary
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Secondary
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Secondary
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Secondary
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Secondary
+!aggr AOa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr BWa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr CDa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr LSa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr MWa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr MZa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr NAa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr ZAa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr SZa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr ZMa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr ZWa
+!table: inv for technologies producing energyform Electricity on level Secondary
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Tertiary
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Tertiary
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Tertiary
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Tertiary
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Tertiary
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Tertiary
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Tertiary
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Tertiary
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Tertiary
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Tertiary
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Tertiary
+!aggr AOa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr BWa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr CDa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr LSa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr MWa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr MZa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr NAa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr ZAa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr SZa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr ZMa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr ZWa
+!table: inv for technologies producing energyform Electricity on level Tertiary
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Final_Urban
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Final_Urban
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Final_Urban
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr BWa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr CDa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr LSa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr MWa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr MZa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr NAa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr ZAa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr SZa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr ZMa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr ZWa
+!table: inv for technologies producing energyform Urban on level Tertiary
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Final_Rural
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Final_Rural
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Final_Rural
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr BWa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr CDa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr LSa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr MWa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr MZa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr NAa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr ZAa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr SZa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr ZMa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr ZWa
+!table: inv for technologies producing energyform Rural on level Tertiary
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Final_Industrial
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Final_Industrial
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Final_Industrial
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr BWa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr CDa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr LSa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr MWa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr MZa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr NAa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr ZAa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr SZa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr ZMa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr ZWa
+!table: inv for technologies producing energyform Industry on level Tertiary
+!aggr BIa
+!table: inv for technologies producing energyform El_BUR on level Final_Offgrid
+!aggr DJa
+!table: inv for technologies producing energyform El_DJI on level Final_Offgrid
+!aggr ERa
+!table: inv for technologies producing energyform El_ERI on level Final_Offgrid
+!aggr ETa
+!table: inv for technologies producing energyform El_ETH on level Final_Offgrid
+!aggr KEa
+!table: inv for technologies producing energyform El_KNA on level Final_Offgrid
+!aggr RWa
+!table: inv for technologies producing energyform El_RDA on level Final_Offgrid
+!aggr SDa
+!table: inv for technologies producing energyform El_SDN on level Final_Offgrid
+!aggr SOa
+!table: inv for technologies producing energyform El_SOM on level Final_Offgrid
+!aggr TZa
+!table: inv for technologies producing energyform El_TZN on level Final_Offgrid
+!aggr UGa
+!table: inv for technologies producing energyform El_UGA on level Final_Offgrid
+!aggr EGa
+!table: inv for technologies producing energyform El_EGY on level Final_Offgrid
+!aggr AOa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr BWa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr CDa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr LSa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr MWa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr MZa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr NAa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr ZAa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr SZa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr ZMa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+!aggr ZWa
+!table: inv for technologies producing energyform Offgrid on level Tertiary
+@
+title: Generation_Secondary
+unit: , 1.
+@
+!aggr BIa
+!table: production for technologies producing energyform El_BUR on level Secondary
+!aggr DJa
+!table: production for technologies producing energyform El_DJI on level Secondary
+!aggr ERa
+!table: production for technologies producing energyform El_ERI on level Secondary
+!aggr ETa
+!table: production for technologies producing energyform El_ETH on level Secondary
+!aggr KEa
+!table: production for technologies producing energyform El_KNA on level Secondary
+!aggr RWa
+!table: production for technologies producing energyform El_RDA on level Secondary
+!aggr SOa
+!table: production for technologies producing energyform El_SOM on level Secondary
+!aggr SDa
+!table: production for technologies producing energyform El_SDN on level Secondary
+!aggr TZa
+!table: production for technologies producing energyform El_TZN on level Secondary
+!aggr UGa
+!table: production for technologies producing energyform El_UGA on level Secondary
+!aggr EGa
+!table: production for technologies producing energyform El_EGY on level Secondary
+!aggr AOa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr BWa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr CDa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr LSa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr MWa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr MZa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr NAa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr ZAa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr SZa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr ZMa
+!table: production for technologies producing energyform Electricity on level Secondary
+!aggr ZWa
+!table: production for technologies producing energyform Electricity on level Secondary
+@
+title: Generation_Final_Industrial
+unit: , 1.
+@
+!aggr BIa
+!table: production for technologies producing energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: production for technologies producing energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: production for technologies producing energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: production for technologies producing energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: production for technologies producing energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: production for technologies producing energyform El_RDA on level Final_Industrial
+!aggr SDa
+!table: production for technologies producing energyform El_SDN on level Final_Industrial
+!aggr SOa
+!table: production for technologies producing energyform El_SOM on level Final_Industrial
+!aggr TZa
+!table: production for technologies producing energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: production for technologies producing energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: production for technologies producing energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr BWa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr CDa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr LSa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr MWa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr MZa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr NAa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr ZAa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr SZa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr ZMa
+!table: production for technologies producing energyform Industry on level Tertiary
+!aggr ZWa
+!table: production for technologies producing energyform Industry on level Tertiary
+@
+title: Generation_Final_Urban
+unit: , 1.
+@
+!aggr BIa
+!table: production for technologies producing energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: production for technologies producing energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: production for technologies producing energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: production for technologies producing energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: production for technologies producing energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: production for technologies producing energyform El_RDA on level Final_Urban
+!aggr SDa
+!table: production for technologies producing energyform El_SDN on level Final_Urban
+!aggr SOa
+!table: production for technologies producing energyform El_SOM on level Final_Urban
+!aggr TZa
+!table: production for technologies producing energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: production for technologies producing energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: production for technologies producing energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr BWa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr CDa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr LSa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr MWa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr MZa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr NAa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr ZAa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr SZa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr ZMa
+!table: production for technologies producing energyform Urban on level Tertiary
+!aggr ZWa
+!table: production for technologies producing energyform Urban on level Tertiary
+@
+title: Generation_Final_Rural
+unit: , 1.
+@
+!aggr BIa
+!table: production for technologies producing energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: production for technologies producing energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: production for technologies producing energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: production for technologies producing energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: production for technologies producing energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: production for technologies producing energyform El_RDA on level Final_Rural
+!aggr SDa
+!table: production for technologies producing energyform El_SDN on level Final_Rural
+!aggr SOa
+!table: production for technologies producing energyform El_SOM on level Final_Rural
+!aggr TZa
+!table: production for technologies producing energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: production for technologies producing energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: production for technologies producing energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr BWa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr CDa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr LSa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr MWa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr MZa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr NAa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr ZAa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr SZa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr ZMa
+!table: production for technologies producing energyform Rural on level Tertiary
+!aggr ZWa
+!table: production for technologies producing energyform Rural on level Tertiary
+@
+title: New Capacity Secondary
+unit: , 1.
+@
+!aggr BIa
+!table: new capacity of energyform El_BUR on level Secondary
+!aggr DJa
+!table: new capacity of energyform El_DJI on level Secondary
+!aggr ERa
+!table: new capacity of energyform El_ERI on level Secondary
+!aggr ETa
+!table: new capacity of energyform El_ETH on level Secondary
+!aggr KEa
+!table: new capacity of energyform El_KNA on level Secondary
+!aggr RWa
+!table: new capacity of energyform El_RDA on level Secondary
+!aggr SDa
+!table: new capacity of energyform El_SDN on level Secondary
+!aggr SOa
+!table: new capacity of energyform El_SOM on level Secondary
+!aggr TZa
+!table: new capacity of energyform El_TZN on level Secondary
+!aggr UGa
+!table: new capacity of energyform El_UGA on level Secondary
+!aggr EGa
+!table: new capacity of energyform El_EGY on level Secondary
+!aggr AOa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr BWa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr CDa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr LSa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr MWa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr MZa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr NAa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr ZAa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr SZa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr ZMa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr ZWa
+!table: new capacity of energyform Electricity on level Secondary
+!aggr BIa
+!table: new capacity of energyform El_BUR on level Tertiary
+!aggr DJa
+!table: new capacity of energyform El_DJI on level Tertiary
+!aggr ERa
+!table: new capacity of energyform El_ERI on level Tertiary
+!aggr ETa
+!table: new capacity of energyform El_ETH on level Tertiary
+!aggr KEa
+!table: new capacity of energyform El_KNA on level Tertiary
+!aggr RWa
+!table: new capacity of energyform El_RDA on level Tertiary
+!aggr SDa
+!table: new capacity of energyform El_SDN on level Tertiary
+!aggr SOa
+!table: new capacity of energyform El_SOM on level Tertiary
+!aggr TZa
+!table: new capacity of energyform El_TZN on level Tertiary
+!aggr UGa
+!table: new capacity of energyform El_UGA on level Tertiary
+!aggr EGa
+!table: new capacity of energyform El_EGY on level Tertiary
+!aggr AOa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr BWa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr CDa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr LSa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr MWa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr MZa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr NAa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr ZAa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr SZa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr ZMa
+!table: new capacity of energyform Electricity on level Tertiary
+!aggr ZWa
+!table: new capacity of energyform Electricity on level Tertiary
+@
+title: New Capacity Industrial
+unit: , 1.
+@
+!aggr BIa
+!table: new capacity of energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: new capacity of energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: new capacity of energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: new capacity of energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: new capacity of energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: new capacity of energyform El_RDA on level Final_Industrial
+!aggr SDa
+!table: new capacity of energyform El_SDN on level Final_Industrial
+!aggr SOa
+!table: new capacity of energyform El_SOM on level Final_Industrial
+!aggr TZa
+!table: new capacity of energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: new capacity of energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: new capacity of energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr BWa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr CDa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr LSa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr MWa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr MZa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr NAa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr ZAa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr SZa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr ZMa
+!table: new capacity of energyform Industry on level Tertiary
+!aggr ZWa
+!table: new capacity of energyform Industry on level Tertiary
+@
+title: New Capacity Urban
+unit: , 1.
+@
+!aggr BIa
+!table: new capacity of energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: new capacity of energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: new capacity of energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: new capacity of energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: new capacity of energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: new capacity of energyform El_RDA on level Final_Urban
+!aggr SDa
+!table: new capacity of energyform El_SDN on level Final_Urban
+!aggr SOa
+!table: new capacity of energyform El_SOM on level Final_Urban
+!aggr TZa
+!table: new capacity of energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: new capacity of energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: new capacity of energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr BWa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr CDa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr LSa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr MWa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr MZa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr NAa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr ZAa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr SZa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr ZMa
+!table: new capacity of energyform Urban on level Tertiary
+!aggr ZWa
+!table: new capacity of energyform Urban on level Tertiary
+@
+title: New Capacity Rural
+unit: , 1.
+@
+!aggr BIa
+!table: new capacity of energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: new capacity of energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: new capacity of energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: new capacity of energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: new capacity of energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: new capacity of energyform El_RDA on level Final_Rural
+!aggr SDa
+!table: new capacity of energyform El_SDN on level Final_Rural
+!aggr SOa
+!table: new capacity of energyform El_SOM on level Final_Rural
+!aggr TZa
+!table: new capacity of energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: new capacity of energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: new capacity of energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr BWa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr CDa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr LSa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr MWa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr MZa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr NAa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr ZAa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr SZa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr ZMa
+!table: new capacity of energyform Rural on level Tertiary
+!aggr ZWa
+!table: new capacity of energyform Rural on level Tertiary
+@
+title: CO2 Costs
+unit: , 1.
+@
+!aggr BIa
+!table: production for technologies producing energyform COA on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform COA on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform COA on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform COA on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform COA on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform COA on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform COA on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform COA on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform COA on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform COA on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform COA on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr BWa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr CDa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr LSa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr MWa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr MZa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr NAa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr SZa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform Coal on level Primary
+!aggr AOa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr BWa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr CDa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr LSa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr MWa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr MZa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr NAa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr SZa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform CoalCCS on level Primary
+!aggr BIa
+!table: production for technologies producing energyform GAS on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform GAS on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform GAS on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform GAS on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform GAS on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform GAS on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform GAS on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform GAS on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform GAS on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform GAS on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform GAS on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr BWa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr CDa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr LSa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr MWa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr MZa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr NAa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr SZa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform Gas on level Primary
+!aggr BIa
+!table: production for technologies producing energyform DSL on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform DSL on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform DSL on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform DSL on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform DSL on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform DSL on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform DSL on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform DSL on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform DSL on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform DSL on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform DSL on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr BWa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr CDa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr LSa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr MWa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr MZa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr NAa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr SZa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform Oil on level Primary
+!aggr BIa
+!table: production for technologies producing energyform BIO on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform BIO on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform BIO on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform BIO on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform BIO on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform BIO on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform BIO on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform BIO on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform BIO on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform BIO on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform BIO on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr BWa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr CDa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr LSa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr MWa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr MZa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr NAa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr SZa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform Biomass on level Primary
+!aggr BIa
+!table: production for technologies producing energyform HFO on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform HFO on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform HFO on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform HFO on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform HFO on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform HFO on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform HFO on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform HFO on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform HFO on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform HFO on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform HFO on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr BWa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr CDa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr LSa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr MWa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr MZa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr NAa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr SZa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform OHF on level Primary
+!aggr BIa
+!table: production for technologies producing energyform NUC on level Primary_BUR
+!aggr DJa
+!table: production for technologies producing energyform NUC on level Primary_DJI
+!aggr ERa
+!table: production for technologies producing energyform NUC on level Primary_ERI
+!aggr ETa
+!table: production for technologies producing energyform NUC on level Primary_ETH
+!aggr KEa
+!table: production for technologies producing energyform NUC on level Primary_KNA
+!aggr RWa
+!table: production for technologies producing energyform NUC on level Primary_RDA
+!aggr SOa
+!table: production for technologies producing energyform NUC on level Primary_SOM
+!aggr SDa
+!table: production for technologies producing energyform NUC on level Primary_SDN
+!aggr TZa
+!table: production for technologies producing energyform NUC on level Primary_TZN
+!aggr UGa
+!table: production for technologies producing energyform NUC on level Primary_UGA
+!aggr EGa
+!table: production for technologies producing energyform NUC on level Primary_EGY
+!aggr AOa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr BWa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr CDa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr LSa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr MWa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr MZa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr NAa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr ZAa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr SZa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr ZMa
+!table: production for technologies producing energyform Nuclear on level Primary
+!aggr ZWa
+!table: production for technologies producing energyform Nuclear on level Primary
+@
+title: O&M Costs_Fixed
+unit: , 1.
+@
+!aggr BIa
+!table: fom for technologies producing energyform El_BUR on level Secondary
+!aggr DJa
+!table: fom for technologies producing energyform El_DJI on level Secondary
+!aggr ERa
+!table: fom for technologies producing energyform El_ERI on level Secondary
+!aggr ETa
+!table: fom for technologies producing energyform El_ETH on level Secondary
+!aggr KEa
+!table: fom for technologies producing energyform El_KNA on level Secondary
+!aggr RWa
+!table: fom for technologies producing energyform El_RDA on level Secondary
+!aggr SOa
+!table: fom for technologies producing energyform El_SOM on level Secondary
+!aggr SDa
+!table: fom for technologies producing energyform El_SDN on level Secondary
+!aggr TZa
+!table: fom for technologies producing energyform El_TZN on level Secondary
+!aggr UGa
+!table: fom for technologies producing energyform El_UGA on level Secondary
+!aggr EGa
+!table: fom for technologies producing energyform El_EGY on level Secondary
+!aggr AOa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr BWa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr CDa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr LSa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr MWa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr MZa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr NAa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr ZAa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr SZa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr ZMa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr ZWa
+!table: fom for technologies producing energyform Electricity on level Secondary
+!aggr BIa
+!table: fom for technologies producing energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: fom for technologies producing energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: fom for technologies producing energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: fom for technologies producing energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: fom for technologies producing energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: fom for technologies producing energyform El_RDA on level Final_Urban
+!aggr SOa
+!table: fom for technologies producing energyform El_SOM on level Final_Urban
+!aggr SDa
+!table: fom for technologies producing energyform El_SDN on level Final_Urban
+!aggr TZa
+!table: fom for technologies producing energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: fom for technologies producing energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: fom for technologies producing energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr BWa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr CDa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr LSa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr MWa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr MZa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr NAa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr ZAa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr SZa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr ZMa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr ZWa
+!table: fom for technologies producing energyform Urban on level Tertiary
+!aggr BIa
+!table: fom for technologies producing energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: fom for technologies producing energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: fom for technologies producing energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: fom for technologies producing energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: fom for technologies producing energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: fom for technologies producing energyform El_RDA on level Final_Rural
+!aggr SOa
+!table: fom for technologies producing energyform El_SOM on level Final_Rural
+!aggr SDa
+!table: fom for technologies producing energyform El_SDN on level Final_Rural
+!aggr TZa
+!table: fom for technologies producing energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: fom for technologies producing energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: fom for technologies producing energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr BWa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr CDa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr LSa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr MWa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr MZa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr NAa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr ZAa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr SZa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr ZMa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr ZWa
+!table: fom for technologies producing energyform Rural on level Tertiary
+!aggr BIa
+!table: fom for technologies producing energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: fom for technologies producing energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: fom for technologies producing energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: fom for technologies producing energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: fom for technologies producing energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: fom for technologies producing energyform El_RDA on level Final_Industrial
+!aggr SOa
+!table: fom for technologies producing energyform El_SOM on level Final_Industrial
+!aggr SDa
+!table: fom for technologies producing energyform El_SDN on level Final_Industrial
+!aggr TZa
+!table: fom for technologies producing energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: fom for technologies producing energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: fom for technologies producing energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr BWa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr CDa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr LSa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr MWa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr MZa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr NAa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr ZAa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr SZa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr ZMa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr ZWa
+!table: fom for technologies producing energyform Industry on level Tertiary
+!aggr BIa
+!table: fom for technologies producing energyform El_BUR on level Tertiary
+!aggr DJa
+!table: fom for technologies producing energyform El_DJI on level Tertiary
+!aggr ERa
+!table: fom for technologies producing energyform El_ERI on level Tertiary
+!aggr ETa
+!table: fom for technologies producing energyform El_ETH on level Tertiary
+!aggr KEa
+!table: fom for technologies producing energyform El_KNA on level Tertiary
+!aggr RWa
+!table: fom for technologies producing energyform El_RDA on level Tertiary
+!aggr SOa
+!table: fom for technologies producing energyform El_SOM on level Tertiary
+!aggr SDa
+!table: fom for technologies producing energyform El_SDN on level Tertiary
+!aggr TZa
+!table: fom for technologies producing energyform El_TZN on level Tertiary
+!aggr UGa
+!table: fom for technologies producing energyform El_UGA on level Tertiary
+!aggr EGa
+!table: fom for technologies producing energyform El_EGY on level Tertiary
+!aggr AOa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr BWa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr CDa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr LSa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr MWa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr MZa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr NAa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr ZAa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr SZa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr ZMa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+!aggr ZWa
+!table: fom for technologies producing energyform Electricite on level Tertiary
+@
+title: O&M Costs_Variable
+unit: , 1.
+@
+!aggr BIa
+!table: vom for technologies producing energyform El_BUR on level Secondary
+!aggr DJa
+!table: vom for technologies producing energyform El_DJI on level Secondary
+!aggr ERa
+!table: vom for technologies producing energyform El_ERI on level Secondary
+!aggr ETa
+!table: vom for technologies producing energyform El_ETH on level Secondary
+!aggr KEa
+!table: vom for technologies producing energyform El_KNA on level Secondary
+!aggr RWa
+!table: vom for technologies producing energyform El_RDA on level Secondary
+!aggr SOa
+!table: vom for technologies producing energyform El_SOM on level Secondary
+!aggr SDa
+!table: vom for technologies producing energyform El_SDN on level Secondary
+!aggr TZa
+!table: vom for technologies producing energyform El_TZN on level Secondary
+!aggr UGa
+!table: vom for technologies producing energyform El_UGA on level Secondary
+!aggr EGa
+!table: vom for technologies producing energyform El_EGY on level Secondary
+!aggr AOa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr BWa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr CDa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr LSa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr MWa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr MZa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr NAa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr ZAa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr SZa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr ZMa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr ZWa
+!table: vom for technologies producing energyform Electricity on level Secondary
+!aggr BIa
+!table: vom for technologies producing energyform El_BUR on level Final_Urban
+!aggr DJa
+!table: vom for technologies producing energyform El_DJI on level Final_Urban
+!aggr ERa
+!table: vom for technologies producing energyform El_ERI on level Final_Urban
+!aggr ETa
+!table: vom for technologies producing energyform El_ETH on level Final_Urban
+!aggr KEa
+!table: vom for technologies producing energyform El_KNA on level Final_Urban
+!aggr RWa
+!table: vom for technologies producing energyform El_RDA on level Final_Urban
+!aggr SOa
+!table: vom for technologies producing energyform El_SOM on level Final_Urban
+!aggr SDa
+!table: vom for technologies producing energyform El_SDN on level Final_Urban
+!aggr TZa
+!table: vom for technologies producing energyform El_TZN on level Final_Urban
+!aggr UGa
+!table: vom for technologies producing energyform El_UGA on level Final_Urban
+!aggr EGa
+!table: vom for technologies producing energyform El_EGY on level Final_Urb
+!aggr AOa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr BWa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr CDa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr LSa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr MWa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr MZa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr NAa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr ZAa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr SZa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr ZMa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr ZWa
+!table: vom for technologies producing energyform Urban on level Tertiary
+!aggr BIa
+!table: vom for technologies producing energyform El_BUR on level Final_Rural
+!aggr DJa
+!table: vom for technologies producing energyform El_DJI on level Final_Rural
+!aggr ERa
+!table: vom for technologies producing energyform El_ERI on level Final_Rural
+!aggr ETa
+!table: vom for technologies producing energyform El_ETH on level Final_Rural
+!aggr KEa
+!table: vom for technologies producing energyform El_KNA on level Final_Rural
+!aggr RWa
+!table: vom for technologies producing energyform El_RDA on level Final_Rural
+!aggr SOa
+!table: vom for technologies producing energyform El_SOM on level Final_Rural
+!aggr SDa
+!table: vom for technologies producing energyform El_SDN on level Final_Rural
+!aggr TZa
+!table: vom for technologies producing energyform El_TZN on level Final_Rural
+!aggr UGa
+!table: vom for technologies producing energyform El_UGA on level Final_Rural
+!aggr EGa
+!table: vom for technologies producing energyform El_EGY on level Final_Rur
+!aggr AOa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr BWa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr CDa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr LSa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr MWa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr MZa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr NAa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr ZAa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr SZa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr ZMa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr ZWa
+!table: vom for technologies producing energyform Rural on level Tertiary
+!aggr BIa
+!table: vom for technologies producing energyform El_BUR on level Final_Industrial
+!aggr DJa
+!table: vom for technologies producing energyform El_DJI on level Final_Industrial
+!aggr ERa
+!table: vom for technologies producing energyform El_ERI on level Final_Industrial
+!aggr ETa
+!table: vom for technologies producing energyform El_ETH on level Final_Industrial
+!aggr KEa
+!table: vom for technologies producing energyform El_KNA on level Final_Industrial
+!aggr RWa
+!table: vom for technologies producing energyform El_RDA on level Final_Industrial
+!aggr SOa
+!table: vom for technologies producing energyform El_SOM on level Final_Industrial
+!aggr SDa
+!table: vom for technologies producing energyform El_SDN on level Final_Industrial
+!aggr TZa
+!table: vom for technologies producing energyform El_TZN on level Final_Industrial
+!aggr UGa
+!table: vom for technologies producing energyform El_UGA on level Final_Industrial
+!aggr EGa
+!table: vom for technologies producing energyform El_EGY on level Final_Ind
+!aggr AOa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr BWa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr CDa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr LSa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr MWa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr MZa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr NAa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr ZAa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr SZa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr ZMa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr ZWa
+!table: vom for technologies producing energyform Industry on level Tertiary
+!aggr BIa
+!table: vom for technologies producing energyform El_BUR on level Tertiary
+!aggr DJa
+!table: vom for technologies producing energyform El_DJI on level Tertiary
+!aggr ERa
+!table: vom for technologies producing energyform El_ERI on level Tertiary
+!aggr ETa
+!table: vom for technologies producing energyform El_ETH on level Tertiary
+!aggr KEa
+!table: vom for technologies producing energyform El_KNA on level Tertiary
+!aggr RWa
+!table: vom for technologies producing energyform El_RDA on level Tertiary
+!aggr SOa
+!table: vom for technologies producing energyform El_SOM on level Tertiary
+!aggr SDa
+!table: vom for technologies producing energyform El_SDN on level Tertiary
+!aggr TZa
+!table: vom for technologies producing energyform El_TZN on level Tertiary
+!aggr UGa
+!table: vom for technologies producing energyform El_UGA on level Tertiary
+!aggr EGa
+!table: vom for technologies producing energyform El_EGY on level Tertiary
+!aggr AOa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr BWa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr CDa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr LSa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr MWa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr MZa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr NAa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr ZAa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr SZa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr ZMa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+!aggr ZWa
+!table: vom for technologies producing energyform Electricite on level Tertiary
+@
+title: Fuel Costs
+unit: , 1.
+@
+!aggr BIa
+!table: vom for technologies producing energyform COA on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform COA on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform COA on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform COA on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform COA on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform COA on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform COA on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform COA on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform COA on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform COA on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform COA on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform Coal on level Primary
+!aggr AOa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform CoalCCS on level Primary
+!aggr BIa
+!table: vom for technologies producing energyform GAS on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform GAS on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform GAS on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform GAS on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform GAS on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform GAS on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform GAS on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform GAS on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform GAS on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform GAS on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform GAS on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform Gas on level Primary
+!aggr BIa
+!table: vom for technologies producing energyform DSL on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform DSL on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform DSL on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform DSL on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform DSL on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform DSL on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform DSL on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform DSL on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform DSL on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform DSL on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform DSL on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform Oil on level Primary
+!aggr BIa
+!table: vom for technologies producing energyform BIO on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform BIO on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform BIO on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform BIO on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform BIO on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform BIO on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform BIO on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform BIO on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform BIO on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform BIO on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform BIO on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform Biomass on level Primary
+!aggr BIa
+!table: vom for technologies producing energyform HFO on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform HFO on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform HFO on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform HFO on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform HFO on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform HFO on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform HFO on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform HFO on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform HFO on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform HFO on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform HFO on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform OHF on level Primary
+!aggr BIa
+!table: vom for technologies producing energyform NUC on level Primary_BUR
+!aggr DJa
+!table: vom for technologies producing energyform NUC on level Primary_DJI
+!aggr ERa
+!table: vom for technologies producing energyform NUC on level Primary_ERI
+!aggr ETa
+!table: vom for technologies producing energyform NUC on level Primary_ETH
+!aggr KEa
+!table: vom for technologies producing energyform NUC on level Primary_KNA
+!aggr RWa
+!table: vom for technologies producing energyform NUC on level Primary_RDA
+!aggr SOa
+!table: vom for technologies producing energyform NUC on level Primary_SOM
+!aggr SDa
+!table: vom for technologies producing energyform NUC on level Primary_SDN
+!aggr TZa
+!table: vom for technologies producing energyform NUC on level Primary_TZN
+!aggr UGa
+!table: vom for technologies producing energyform NUC on level Primary_UGA
+!aggr EGa
+!table: vom for technologies producing energyform NUC on level Primary_EGY
+!aggr AOa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr BWa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr CDa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr LSa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr MWa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr MZa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr NAa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr ZAa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr SZa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr ZMa
+!table: vom for technologies producing energyform Nuclear on level Primary
+!aggr ZWa
+!table: vom for technologies producing energyform Nuclear on level Primary
+@
+@
+@

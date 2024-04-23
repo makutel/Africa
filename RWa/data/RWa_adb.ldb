@@ -1,0 +1,455 @@
+TDB: empty
+ADB: RWa
+problem: RWa
+description:
+# Default scenario
+# Rwanda
+drate: 10.0
+timesteps:  2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity G l f
+# 
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary x
+# Primary Energy
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources r
+# Resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_RWELST04 A l
+# DummyCom_RWELST04
+*
+demand:
+e-f  ts 28.57 30.17 37.83 45.5 53.16 60.83 68.49 76.16 83.82 91.49 99.15 106.82 119.28 131.74 144.2 156.65 169.11 181.57 194.03 206.49 218.95 231.41 231.41
+c-f  ts 34.66 42.16 49.26 56.36 63.46 70.57 77.67 84.77 91.88 98.98 106.08 113.18 129.87 146.56 163.24 179.93 196.61 213.3 229.99 246.67 263.36 280.04 280.04
+u-f  ts 45.14 46.63 57.24 67.85 78.45 89.06 99.67 110.28 120.89 131.49 142.1 152.71 165.04 177.36 189.69 202.02 214.34 226.67 239 251.32 263.65 275.98 275.98
+r-f  ts 6.02 6.52 7.16 7.8 8.44 9.08 9.72 10.36 11.01 11.65 12.29 12.93 13.47 14 14.54 15.07 15.61 16.15 16.68 17.22 17.76 18.29 18.29
+s-f  ts 100.19 101.44 118.4 129.96 142.59 155.62 169.05 183.71 199.65 216.96 235.72 256 279.18 305.45 335.02 368.12 405.02 448.03 497.68 554.59 619.44 692.98 692.98
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+r-f 0.053055 0.17701 0.122885 0.05303 0.185526 \
+0.047676 0.050549 0.053232 0.169925 0.087112
+s-f 0.077466 0.162932 0.068372 0.078661 0.173038 \
+0.03235 0.038559 0.079103 0.220805 0.068714
+systems.RWWDLC00.i.capfac 0.076543 0.067242 0.07743 0.105026 0.184045 \
+0.175547 0.131898 0.052596 0.163758 0.099887
+systems.RWWDOC00.A.capfac 0.076543 0.067242 0.07743 0.105026 0.184045 \
+0.175547 0.131898 0.052596 0.163758 0.099887
+systems.RWSOTS00.h.capfac 0 0.549682 0.153981 0 0.549682 \
+0.285516 0.066291 0.000219 0.549781 0.153435
+systems.RWSOPC00.i.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_Rwinkwavu_PV_gen.L.capfac 0 0.372451 0 0 0.37379 \
+0 0 0.000001 0.39486 0
+systems.RWSOPC_Bugesera_PV_gen.K.capfac 0.000003 0.392048 0.000116 0.000008 0.385157 \
+0.000065 0 0.000173 0.404115 0.000008
+systems.RWSOPC_NashoPV_gen.J.capfac 0 0.37716 0 0 0.382201 \
+0 0 0.000044 0.398951 0
+systems.RWSOPC_GigawattPV_gen.I.capfac 0.000001 0.385023 0.000161 0.000011 0.379166 \
+0.000096 0 0.000196 0.401481 0.000011
+systems.RWSOPC_RW_PV.E.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_Nyagatare_PV.D.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPC_JaliSolar.C.capfac 0.010283 0.469047 0 0.00809 0.470036 \
+0 0 0.00995 0.461879 0
+systems.RWSOPCZ005.H.capfac 0.000003 0.392048 0.000116 0.000008 0.385157 \
+0.000065 0 0.000173 0.404115 0.000008
+systems.RWSOPCZ004.G.capfac 0 0.37716 0 0 0.382201 \
+0 0 0.000044 0.398951 0
+systems.RWSOPCZ003.F.capfac 0 0.380623 0 0 0.379218 \
+0 0 0 0.400513 0
+systems.RWSOPCZ002.B.capfac 0 0.372451 0 0 0.37379 \
+0 0 0.000001 0.39486 0
+systems.RWSOPCZ001.A.capfac 0.000001 0.385023 0.000161 0.000011 0.379166 \
+0.000096 0 0.000196 0.401481 0.000011
+systems.RWHYRO_Nyabarongo_I.F.capfac 0.41578 0.41578 0.41578 0.375787 0.375787 \
+0.375787 0.375787 0.358454 0.358454 0.358454
+systems.RWHYRO_Ruzizi_IV.B.capfac 0.744893 0.744893 0.744893 0.244125 0.244125 \
+0.244125 0.244125 0.503566 0.503566 0.503566
+systems.RWHYRO_Rusumo.A.capfac 0.829087 0.829087 0.829087 0.336378 0.336378 \
+0.336378 0.336378 0.240602 0.240602 0.240602
+systems.RWSOPU00.g.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWSOPB00.g.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWSOPR00.g.capfac 0.195678 0.367934 0.374359 0.182323 0.366886 \
+0.489725 0.332688 0.199015 0.36629 0.373598
+systems.RWSOPS00.h.capfac 0.009254 0.422142 0 0.007281 0.423032 \
+0 0 0.008955 0.415691 0
+systems.RWRIDM_Nyabarongo_II.C.capfac 0.55706 0.55706 0.55706 0.25023 0.25023 \
+0.25023 0.25023 0.117254 0.117254 0.117254
+systems.RWRIDM_Rwanda_Ruzizi_III.D.capfac 0.716511 0.716511 0.716511 0.230038 0.230038 \
+0.230038 0.230038 0.474753 0.474753 0.474753
+systems.RWELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.RWELDT04_01.B.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.RWELDT04_01.E.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.RWELDT04_02.F.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.RWELDT04_02.G.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.RWELDT04_03.H.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.RWELDT04_03.I.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.RWRIDM_Ruzizi_II.J.capfac 0.716511 0.716511 0.716511 0.230038 0.230038 \
+0.230038 0.230038 0.474753 0.474753 0.474753
+relationsc:
+relationsp:
+relationss:
+D_RWHYDM_Nyabarongo_II D001 o 0
+*
+D_RWHYDM_Rwanda_Ruzizi_III D002 o 0
+*
+SS_RWELST04 SS01 o 0
+*
+D_RWHYDM_Ruzizi_II D003 o 0
+*
+relations1:
+ReserveMargin RM o 
+*
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+InstantaneousWindPV IPW o 0
+*
+Domestic DOM o 
+*
+PC_RWELST04 PC01 o 
+*
+PS_RWELST04 PS01 o 0
+*
+DC_RWELST04_01 DC01 o 
+*
+DC_RWELST04_02 DC02 o 
+*
+DC_RWELST04_03 DC03 o 
+*
+DX_RWEXDT00 DX01 o 
+*
+relations2:
+variables:
+systems:
+RWEL00T00 g
+*
+RWEL00e00 a
+*
+RWEL00i00 I
+*
+RWEL00TDI g
+*
+RWEL00TDR g
+*
+RWEL00TDU g
+*
+RWEL00TDC g
+*
+RWEL00TUI a
+*
+RWEL00TUR a
+*
+RWEL00TUS a
+*
+RWEL00TUU a
+*
+RWEL00TUC a
+*
+RWDS00I00 b
+*
+RWDSRC00 g
+*
+RWDSRC_RW_Diesel D
+*
+RWDSRC_Mukungwa C
+*
+RWDSRC_Jabana1 B
+*
+RWDSRC_Gikondo A
+*
+RWDSSC00 h
+*
+RWDSRI00 g
+*
+RWDSRU00 g
+*
+RWDSRB00 g
+*
+RWDSRR00 g
+*
+RWHF00I00 g
+*
+RWHFRC00 g
+*
+RWHFRC_KSEZ_HFO B
+*
+RWHFRC_Jabana2 A
+*
+RWCO00I00 b
+*
+RWNG00X00 a
+*
+RWNGSC00 g
+*
+RWNGSC_Shema_I_II_II_GT D
+*
+RWNGSC_KivuWattGT_Existing C
+*
+RWNGSC_KP1_Gisenyi_Methan B
+*
+RWNGSC_Gisenyi_Methane A
+*
+RWCOSC00 g
+*
+RWCOSC_HakanPeat C
+*
+RWCOSC_Gishoma_Peat B
+*
+RWCOSC_Akanyaru_Peat A
+*
+RWNGCC00 h
+*
+RWWDLC00 i
+*
+RWWDOC00 A
+*
+RWSOTN00 g
+*
+RWSOTS00 h
+*
+RWSOTG00 i
+*
+RWSOPC00 i
+*
+RWSOPC_Rwinkwavu_PV_gen L
+*
+RWSOPC_Bugesera_PV_gen K
+*
+RWSOPC_NashoPV_gen J
+*
+RWSOPC_GigawattPV_gen I
+*
+RWSOPC_RW_PV E
+*
+RWSOPC_Nyagatare_PV D
+*
+RWSOPC_JaliSolar C
+*
+RWSOPCZ005 H
+*
+RWSOPCZ004 G
+*
+RWSOPCZ003 F
+*
+RWSOPCZ002 B
+*
+RWSOPCZ001 A
+*
+RWGOCV00 j
+*
+RWBM00X00 a
+*
+RWBW00X00 a
+*
+RWHY00X00 g
+*
+RWSO00X00 a
+*
+RWWD00X00 g
+*
+RWBMST00 g
+*
+RWBMST02 B
+*
+RWBMST01 A
+*
+RWBWST00 a
+*
+RWHYRO00 g
+*
+RWHYRO_Kilimbi_combined N
+*
+RWHYRO_Kabavu M
+*
+RWHYRO_Gihira_combined L
+*
+RWHYRO_RukararaV_HY_gen z
+*
+RWHYRO_RukararaII_HY_gen y
+*
+RWHYRO_RukararaI_HY_gen x
+*
+RWHYRO_Uganda_imports w
+*
+RWHYRO_Rukarara_V_Mushishito v
+*
+RWHYRO_Bihongore_HY_gen t
+*
+RWHYRO_GakenkeBaseIIMHPP_HY_gen r
+*
+RWHYRO_GakenkeBaseIMHPP_HY_gen q
+*
+RWHYRO_Gaseke_HY_gen p
+*
+RWHYRO_GiciyeI_HY_gen n
+*
+RWHYRO_GiciyeII_HY_gen m
+*
+RWHYRO_GiciyeIII_HY_gen l
+*
+RWHYRO_Keya_HY_gen e
+*
+RWHYRO_Kigasa_HY_gen d
+*
+RWHYRO_Mukungwa1_HY_gen Y
+*
+RWHYRO_Mukungwa2_HY_gen X
+*
+RWHYRO_Rukarara_6 U
+*
+RWHYRO_Ngororero_HY_gen S
+*
+RWHYRO_NtarukaI_HY_gen P
+*
+RWHYRO_NtarukaII_HY_gen O
+*
+RWHYRO_Nyirantaruko_HY_gen K
+*
+RWHYRO_Nyundo_HY_gen J
+*
+RWHYRO_Rubagabaga_HY_gen I
+*
+RWHYRO_Rucanzogera_HY_gen H
+*
+RWHYRO_Rugezi_HY_gen G
+*
+RWHYRO_Nyabarongo_I F
+*
+RWHYRO_MiniHydro_1-IV C
+*
+RWHYRO_Ruzizi_IV B
+*
+RWHYRO_Rusumo A
+*
+RWHYDM00 h
+*
+RWHYDM_Ruzizi_II W
+*
+RWHYDM_Nyabarongo_II E
+*
+RWHYDM_Rwanda_Ruzizi_III D
+*
+RWHYMI00 g
+*
+RWSOPU00 g
+*
+RWSOPB00 g
+*
+RWSOPR00 g
+*
+RWSOPS00 h
+*
+RWELBS00 z
+*
+RWRIDM_Nyabarongo_II C
+*
+RWRIDM_Rwanda_Ruzizi_III D
+*
+RWELST04 A
+2. activity B
+*
+RWELPT04 A
+*
+RWELDT04_01 B
+2. activity E
+*
+RWELDT04_02 F
+2. activity G
+*
+RWELDT04_03 H
+2. activity I
+*
+RWRIDM_Ruzizi_II J
+*
+RWEXDT00 K
+*
+resources: 
+endata

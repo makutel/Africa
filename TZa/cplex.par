@@ -1,0 +1,15 @@
+method simplex
+# method ipm
+# preproc -1
+# reduce no
+# multiobj 0
+scale yes
+# basis yes
+basis no
+strategy 1
+solution yes
+sendsol no
+maxsols 1
+# primtol 1.e-6
+# dualtol 1.e-6
+objective func

@@ -1,0 +1,49 @@
+title: 
+graph:	cumulative	yes (same color)	histogramm
+year: annual
+unit: energy MWyr
+@
+AOEL00TDI/Industry; AOa/RE; Technologies; AOEL00TDI; output; Industry; red; 0; 1
+AODSRCfi2/Industry; AOa/RE; Technologies; AODSRCfi2; output; Industry; green; 1; 1
+BIEL00TDI/El_BUR; BIa/RE; Technologies; BIEL00TDI; output; El_BUR; blue; 2; 1
+BIDSRCfi1/El_BUR; BIa/RE; Technologies; BIDSRCfi1; output; El_BUR; yellow; 3; 1
+BWEL00TDI/Industry; BWa/RE; Technologies; BWEL00TDI; output; Industry; cyan; 4; 1
+BWDSRCfi2/Industry; BWa/RE; Technologies; BWDSRCfi2; output; Industry; magenta; 5; 1
+CDEL00TDI/Industry; CDa/RE; Technologies; CDEL00TDI; output; Industry; purple; 6; 1
+CDDSRCfi2/Industry; CDa/RE; Technologies; CDDSRCfi2; output; Industry; orange; 7; 1
+DJEL00TDI/El_DJI; DJa/RE; Technologies; DJEL00TDI; output; El_DJI; brown; 8; 1
+DJDSRCfi1/El_DJI; DJa/RE; Technologies; DJDSRCfi1; output; El_DJI; navy; 9; 1
+EGEL00TDI/El_EGY; EGa/RE; Technologies; EGEL00TDI; output; El_EGY; seagreen; 10; 1
+EGDSRCfi1/El_EGY; EGa/RE; Technologies; EGDSRCfi1; output; El_EGY; palegreen; 11; 1
+EREL00TDI/El_ERI; ERa/RE; Technologies; EREL00TDI; output; El_ERI; darkgrey; 12; 1
+ERDSRCfi1/El_ERI; ERa/RE; Technologies; ERDSRCfi1; output; El_ERI; grey; 13; 1
+ETEL00TDI/El_ETH; ETa/RE; Technologies; ETEL00TDI; output; El_ETH; red; 14; 1
+ETDSRCfi1/El_ETH; ETa/RE; Technologies; ETDSRCfi1; output; El_ETH; green; 15; 1
+KEEL00TDI/El_KNA; KEa/RE; Technologies; KEEL00TDI; output; El_KNA; blue; 16; 1
+KEDSRCfi1/El_KNA; KEa/RE; Technologies; KEDSRCfi1; output; El_KNA; yellow; 17; 1
+LSEL00TDI/Industry; LSa/RE; Technologies; LSEL00TDI; output; Industry; cyan; 18; 1
+LSDSRCfi2/Industry; LSa/RE; Technologies; LSDSRCfi2; output; Industry; magenta; 19; 1
+MWEL00TDI/Industry; MWa/RE; Technologies; MWEL00TDI; output; Industry; purple; 20; 1
+MWDSRCfi2/Industry; MWa/RE; Technologies; MWDSRCfi2; output; Industry; orange; 21; 1
+MZEL00TDI/Industry; MZa/RE; Technologies; MZEL00TDI; output; Industry; brown; 22; 1
+MZDSRCfi2/Industry; MZa/RE; Technologies; MZDSRCfi2; output; Industry; navy; 23; 1
+NAEL00TDI/Industry; NAa/RE; Technologies; NAEL00TDI; output; Industry; seagreen; 24; 1
+NADSRCfi2/Industry; NAa/RE; Technologies; NADSRCfi2; output; Industry; palegreen; 25; 1
+RWEL00TDI/El_RDA; RWa/RE; Technologies; RWEL00TDI; output; El_RDA; black; 26; 1
+RWDSRCfi1/El_RDA; RWa/RE; Technologies; RWDSRCfi1; output; El_RDA; darkgrey; 27; 1
+SDEL00TDI/El_SDN; SDa/RE; Technologies; SDEL00TDI; output; El_SDN; grey; 28; 1
+SDDSRCfi1/El_SDN; SDa/RE; Technologies; SDDSRCfi1; output; El_SDN; red; 29; 1
+SOEL00TDI/El_SOM; SOa/RE; Technologies; SOEL00TDI; output; El_SOM; green; 30; 1
+SODSRCfi1/El_SOM; SOa/RE; Technologies; SODSRCfi1; output; El_SOM; blue; 31; 1
+SZEL00TDI/Industry; SZa/RE; Technologies; SZEL00TDI; output; Industry; yellow; 32; 1
+SZDSRCfi2/Industry; SZa/RE; Technologies; SZDSRCfi2; output; Industry; cyan; 33; 1
+TZEL00TDI/El_TZN; TZa/RE; Technologies; TZEL00TDI; output; El_TZN; magenta; 34; 1
+TZDSRCfi1/El_TZN; TZa/RE; Technologies; TZDSRCfi1; output; El_TZN; purple; 35; 1
+UGEL00TDI/El_UGA; UGa/RE; Technologies; UGEL00TDI; output; El_UGA; orange; 36; 1
+UGDSRCfi1/El_UGA; UGa/RE; Technologies; UGDSRCfi1; output; El_UGA; brown; 37; 1
+ZAEL00TDI/Industry; ZAa/RE; Technologies; ZAEL00TDI; output; Industry; navy; 38; 1
+ZADSRCfi2/Industry; ZAa/RE; Technologies; ZADSRCfi2; output; Industry; seagreen; 39; 1
+ZMEL00TDI/Industry; ZMa/RE; Technologies; ZMEL00TDI; output; Industry; palegreen; 40; 1
+ZMDSRCfi2/Industry; ZMa/RE; Technologies; ZMDSRCfi2; output; Industry; black; 41; 1
+ZWEL00TDI/Industry; ZWa/RE; Technologies; ZWEL00TDI; output; Industry; darkgrey; 42; 1
+ZWDSRCfi2/Industry; ZWa/RE; Technologies; ZWDSRCfi2; output; Industry; grey; 43; 1

@@ -1,0 +1,1997 @@
+title: ETaETEL00T00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00T00aaa = tnae......aaa:out
+ETEL00T00aab = tnae......aab:out
+ETEL00T00aac = tnae......aac:out
+ETEL00T00baa = tnae......baa:out
+ETEL00T00bab = tnae......bab:out
+ETEL00T00bac = tnae......bac:out
+ETEL00T00bad = tnae......bad:out
+ETEL00T00caa = tnae......caa:out
+ETEL00T00cab = tnae......cab:out
+ETEL00T00cac = tnae......cac:out
+@
+title: ETaETEL00i00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00i00aaa = s.In......aaa:out
+ETEL00i00aab = s.In......aab:out
+ETEL00i00aac = s.In......aac:out
+ETEL00i00baa = s.In......baa:out
+ETEL00i00bab = s.In......bab:out
+ETEL00i00bac = s.In......bac:out
+ETEL00i00bad = s.In......bad:out
+ETEL00i00caa = s.In......caa:out
+ETEL00i00cab = s.In......cab:out
+ETEL00i00cac = s.In......cac:out
+@
+title: ETaETEL00TDI_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00TDIaaa = teai......aaa:out
+ETEL00TDIaab = teai......aab:out
+ETEL00TDIaac = teai......aac:out
+ETEL00TDIbaa = teai......baa:out
+ETEL00TDIbab = teai......bab:out
+ETEL00TDIbac = teai......bac:out
+ETEL00TDIbad = teai......bad:out
+ETEL00TDIcaa = teai......caa:out
+ETEL00TDIcab = teai......cab:out
+ETEL00TDIcac = teai......cac:out
+@
+title: ETaETEL00TDR_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00TDRaaa = tear......aaa:out
+ETEL00TDRaab = tear......aab:out
+ETEL00TDRaac = tear......aac:out
+ETEL00TDRbaa = tear......baa:out
+ETEL00TDRbab = tear......bab:out
+ETEL00TDRbac = tear......bac:out
+ETEL00TDRbad = tear......bad:out
+ETEL00TDRcaa = tear......caa:out
+ETEL00TDRcab = tear......cab:out
+ETEL00TDRcac = tear......cac:out
+@
+title: ETaETEL00TDU_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00TDUaaa = teau......aaa:out
+ETEL00TDUaab = teau......aab:out
+ETEL00TDUaac = teau......aac:out
+ETEL00TDUbaa = teau......baa:out
+ETEL00TDUbab = teau......bab:out
+ETEL00TDUbac = teau......bac:out
+ETEL00TDUbad = teau......bad:out
+ETEL00TDUcaa = teau......caa:out
+ETEL00TDUcab = teau......cab:out
+ETEL00TDUcac = teau......cac:out
+@
+title: ETaETEL00TDC_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETEL00TDCaaa = tegc......aaa:out
+ETEL00TDCaab = tegc......aab:out
+ETEL00TDCaac = tegc......aac:out
+ETEL00TDCbaa = tegc......baa:out
+ETEL00TDCbab = tegc......bab:out
+ETEL00TDCbac = tegc......bac:out
+ETEL00TDCbad = tegc......bad:out
+ETEL00TDCcaa = tegc......caa:out
+ETEL00TDCcab = tegc......cab:out
+ETEL00TDCcac = tegc......cac:out
+@
+title: ETaETDSRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRC00aaa = sdgn......aaa:out
+ETDSRC00aab = sdgn......aab:out
+ETDSRC00aac = sdgn......aac:out
+ETDSRC00baa = sdgn......baa:out
+ETDSRC00bab = sdgn......bab:out
+ETDSRC00bac = sdgn......bac:out
+ETDSRC00bad = sdgn......bad:out
+ETDSRC00caa = sdgn......caa:out
+ETDSRC00cab = sdgn......cab:out
+ETDSRC00cac = sdgn......cac:out
+@
+title: ETaETDSRC01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRC01aaa = sdAn......aaa:out
+ETDSRC01aab = sdAn......aab:out
+ETDSRC01aac = sdAn......aac:out
+ETDSRC01baa = sdAn......baa:out
+ETDSRC01bab = sdAn......bab:out
+ETDSRC01bac = sdAn......bac:out
+ETDSRC01bad = sdAn......bad:out
+ETDSRC01caa = sdAn......caa:out
+ETDSRC01cab = sdAn......cab:out
+ETDSRC01cac = sdAn......cac:out
+@
+title: ETaETDSSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSSC00aaa = sdhn......aaa:out
+ETDSSC00aab = sdhn......aab:out
+ETDSSC00aac = sdhn......aac:out
+ETDSSC00baa = sdhn......baa:out
+ETDSSC00bab = sdhn......bab:out
+ETDSSC00bac = sdhn......bac:out
+ETDSSC00bad = sdhn......bad:out
+ETDSSC00caa = sdhn......caa:out
+ETDSSC00cab = sdhn......cab:out
+ETDSSC00cac = sdhn......cac:out
+@
+title: ETaETDSRI00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRI00aaa = tdgi......aaa:out
+ETDSRI00aab = tdgi......aab:out
+ETDSRI00aac = tdgi......aac:out
+ETDSRI00baa = tdgi......baa:out
+ETDSRI00bab = tdgi......bab:out
+ETDSRI00bac = tdgi......bac:out
+ETDSRI00bad = tdgi......bad:out
+ETDSRI00caa = tdgi......caa:out
+ETDSRI00cab = tdgi......cab:out
+ETDSRI00cac = tdgi......cac:out
+@
+title: ETaETDSRU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRU00aaa = tdgu......aaa:out
+ETDSRU00aab = tdgu......aab:out
+ETDSRU00aac = tdgu......aac:out
+ETDSRU00baa = tdgu......baa:out
+ETDSRU00bab = tdgu......bab:out
+ETDSRU00bac = tdgu......bac:out
+ETDSRU00bad = tdgu......bad:out
+ETDSRU00caa = tdgu......caa:out
+ETDSRU00cab = tdgu......cab:out
+ETDSRU00cac = tdgu......cac:out
+@
+title: ETaETDSRB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRB00aaa = tdgc......aaa:out
+ETDSRB00aab = tdgc......aab:out
+ETDSRB00aac = tdgc......aac:out
+ETDSRB00baa = tdgc......baa:out
+ETDSRB00bab = tdgc......bab:out
+ETDSRB00bac = tdgc......bac:out
+ETDSRB00bad = tdgc......bad:out
+ETDSRB00caa = tdgc......caa:out
+ETDSRB00cab = tdgc......cab:out
+ETDSRB00cac = tdgc......cac:out
+@
+title: ETaETDSRR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETDSRR00aaa = tdgr......aaa:out
+ETDSRR00aab = tdgr......aab:out
+ETDSRR00aac = tdgr......aac:out
+ETDSRR00baa = tdgr......baa:out
+ETDSRR00bab = tdgr......bab:out
+ETDSRR00bac = tdgr......bac:out
+ETDSRR00bad = tdgr......bad:out
+ETDSRR00caa = tdgr......caa:out
+ETDSRR00cab = tdgr......cab:out
+ETDSRR00cac = tdgr......cac:out
+@
+title: ETaETHFRC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHFRC00aaa = shgn......aaa:out
+ETHFRC00aab = shgn......aab:out
+ETHFRC00aac = shgn......aac:out
+ETHFRC00baa = shgn......baa:out
+ETHFRC00bab = shgn......bab:out
+ETHFRC00bac = shgn......bac:out
+ETHFRC00bad = shgn......bad:out
+ETHFRC00caa = shgn......caa:out
+ETHFRC00cab = shgn......cab:out
+ETHFRC00cac = shgn......cac:out
+@
+title: ETaETCOSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETCOSC00aaa = scgn......aaa:out
+ETCOSC00aab = scgn......aab:out
+ETCOSC00aac = scgn......aac:out
+ETCOSC00baa = scgn......baa:out
+ETCOSC00bab = scgn......bab:out
+ETCOSC00bac = scgn......bac:out
+ETCOSC00bad = scgn......bad:out
+ETCOSC00caa = scgn......caa:out
+ETCOSC00cab = scgn......cab:out
+ETCOSC00cac = scgn......cac:out
+@
+title: ETaETNGSC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETNGSC00aaa = sggn......aaa:out
+ETNGSC00aab = sggn......aab:out
+ETNGSC00aac = sggn......aac:out
+ETNGSC00baa = sggn......baa:out
+ETNGSC00bab = sggn......bab:out
+ETNGSC00bac = sggn......bac:out
+ETNGSC00bad = sggn......bad:out
+ETNGSC00caa = sggn......caa:out
+ETNGSC00cab = sggn......cab:out
+ETNGSC00cac = sggn......cac:out
+@
+title: ETaETNGSC01_TPP_1_2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETNGSC01_TPP_1_2aaa = sgAn......aaa:out
+ETNGSC01_TPP_1_2aab = sgAn......aab:out
+ETNGSC01_TPP_1_2aac = sgAn......aac:out
+ETNGSC01_TPP_1_2baa = sgAn......baa:out
+ETNGSC01_TPP_1_2bab = sgAn......bab:out
+ETNGSC01_TPP_1_2bac = sgAn......bac:out
+ETNGSC01_TPP_1_2bad = sgAn......bad:out
+ETNGSC01_TPP_1_2caa = sgAn......caa:out
+ETNGSC01_TPP_1_2cab = sgAn......cab:out
+ETNGSC01_TPP_1_2cac = sgAn......cac:out
+@
+title: ETaETNGCC00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETNGCC00aaa = sghn......aaa:out
+ETNGCC00aab = sghn......aab:out
+ETNGCC00aac = sghn......aac:out
+ETNGCC00baa = sghn......baa:out
+ETNGCC00bab = sghn......bab:out
+ETNGCC00bac = sghn......bac:out
+ETNGCC00bad = sghn......bad:out
+ETNGCC00caa = sghn......caa:out
+ETNGCC00cab = sghn......cab:out
+ETNGCC00cac = sghn......cac:out
+@
+title: ETaETNUPW00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETNUPW00aaa = sngn......aaa:out
+ETNUPW00aab = sngn......aab:out
+ETNUPW00aac = sngn......aac:out
+ETNUPW00baa = sngn......baa:out
+ETNUPW00bab = sngn......bab:out
+ETNUPW00bac = sngn......bac:out
+ETNUPW00bad = sngn......bad:out
+ETNUPW00caa = sngn......caa:out
+ETNUPW00cab = sngn......cab:out
+ETNUPW00cac = sngn......cac:out
+@
+title: ETaETWDLCZ003_Gode_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ003_Godeaaa = swTn......aaa:out
+ETWDLCZ003_Godeaab = swTn......aab:out
+ETWDLCZ003_Godeaac = swTn......aac:out
+ETWDLCZ003_Godebaa = swTn......baa:out
+ETWDLCZ003_Godebab = swTn......bab:out
+ETWDLCZ003_Godebac = swTn......bac:out
+ETWDLCZ003_Godebad = swTn......bad:out
+ETWDLCZ003_Godecaa = swTn......caa:out
+ETWDLCZ003_Godecab = swTn......cab:out
+ETWDLCZ003_Godecac = swTn......cac:out
+@
+title: ETaETWDLCZ001_Atigala_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ001_Atigalaaaa = swSn......aaa:out
+ETWDLCZ001_Atigalaaab = swSn......aab:out
+ETWDLCZ001_Atigalaaac = swSn......aac:out
+ETWDLCZ001_Atigalabaa = swSn......baa:out
+ETWDLCZ001_Atigalabab = swSn......bab:out
+ETWDLCZ001_Atigalabac = swSn......bac:out
+ETWDLCZ001_Atigalabad = swSn......bad:out
+ETWDLCZ001_Atigalacaa = swSn......caa:out
+ETWDLCZ001_Atigalacab = swSn......cab:out
+ETWDLCZ001_Atigalacac = swSn......cac:out
+@
+title: ETaETWDLCZ001_Ashegoda_2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ001_Ashegoda_2aaa = swRn......aaa:out
+ETWDLCZ001_Ashegoda_2aab = swRn......aab:out
+ETWDLCZ001_Ashegoda_2aac = swRn......aac:out
+ETWDLCZ001_Ashegoda_2baa = swRn......baa:out
+ETWDLCZ001_Ashegoda_2bab = swRn......bab:out
+ETWDLCZ001_Ashegoda_2bac = swRn......bac:out
+ETWDLCZ001_Ashegoda_2bad = swRn......bad:out
+ETWDLCZ001_Ashegoda_2caa = swRn......caa:out
+ETWDLCZ001_Ashegoda_2cab = swRn......cab:out
+ETWDLCZ001_Ashegoda_2cac = swRn......cac:out
+@
+title: ETaETWDLCZ004_Mega_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ004_Megaaaa = swQn......aaa:out
+ETWDLCZ004_Megaaab = swQn......aab:out
+ETWDLCZ004_Megaaac = swQn......aac:out
+ETWDLCZ004_Megabaa = swQn......baa:out
+ETWDLCZ004_Megabab = swQn......bab:out
+ETWDLCZ004_Megabac = swQn......bac:out
+ETWDLCZ004_Megabad = swQn......bad:out
+ETWDLCZ004_Megacaa = swQn......caa:out
+ETWDLCZ004_Megacab = swQn......cab:out
+ETWDLCZ004_Megacac = swQn......cac:out
+@
+title: ETaETWDLCZ001_Itaya_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ001_Itayaaaa = swPn......aaa:out
+ETWDLCZ001_Itayaaab = swPn......aab:out
+ETWDLCZ001_Itayaaac = swPn......aac:out
+ETWDLCZ001_Itayabaa = swPn......baa:out
+ETWDLCZ001_Itayabab = swPn......bab:out
+ETWDLCZ001_Itayabac = swPn......bac:out
+ETWDLCZ001_Itayabad = swPn......bad:out
+ETWDLCZ001_Itayacaa = swPn......caa:out
+ETWDLCZ001_Itayacab = swPn......cab:out
+ETWDLCZ001_Itayacac = swPn......cac:out
+@
+title: ETaETWDLCZ001_Asela_Wind_1A_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ001_Asela_Wind_1Aaaa = swOn......aaa:out
+ETWDLCZ001_Asela_Wind_1Aaab = swOn......aab:out
+ETWDLCZ001_Asela_Wind_1Aaac = swOn......aac:out
+ETWDLCZ001_Asela_Wind_1Abaa = swOn......baa:out
+ETWDLCZ001_Asela_Wind_1Abab = swOn......bab:out
+ETWDLCZ001_Asela_Wind_1Abac = swOn......bac:out
+ETWDLCZ001_Asela_Wind_1Abad = swOn......bad:out
+ETWDLCZ001_Asela_Wind_1Acaa = swOn......caa:out
+ETWDLCZ001_Asela_Wind_1Acab = swOn......cab:out
+ETWDLCZ001_Asela_Wind_1Acac = swOn......cac:out
+@
+title: ETaETWDLCZ006_Aysha_1_2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ006_Aysha_1_2aaa = swNn......aaa:out
+ETWDLCZ006_Aysha_1_2aab = swNn......aab:out
+ETWDLCZ006_Aysha_1_2aac = swNn......aac:out
+ETWDLCZ006_Aysha_1_2baa = swNn......baa:out
+ETWDLCZ006_Aysha_1_2bab = swNn......bab:out
+ETWDLCZ006_Aysha_1_2bac = swNn......bac:out
+ETWDLCZ006_Aysha_1_2bad = swNn......bad:out
+ETWDLCZ006_Aysha_1_2caa = swNn......caa:out
+ETWDLCZ006_Aysha_1_2cab = swNn......cab:out
+ETWDLCZ006_Aysha_1_2cac = swNn......cac:out
+@
+title: ETaETWDLCZ006_AyishaII_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ006_AyishaIIaaa = swMn......aaa:out
+ETWDLCZ006_AyishaIIaab = swMn......aab:out
+ETWDLCZ006_AyishaIIaac = swMn......aac:out
+ETWDLCZ006_AyishaIIbaa = swMn......baa:out
+ETWDLCZ006_AyishaIIbab = swMn......bab:out
+ETWDLCZ006_AyishaIIbac = swMn......bac:out
+ETWDLCZ006_AyishaIIbad = swMn......bad:out
+ETWDLCZ006_AyishaIIcaa = swMn......caa:out
+ETWDLCZ006_AyishaIIcab = swMn......cab:out
+ETWDLCZ006_AyishaIIcac = swMn......cac:out
+@
+title: ETaETWDLCZ010_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ010aaa = swKn......aaa:out
+ETWDLCZ010aab = swKn......aab:out
+ETWDLCZ010aac = swKn......aac:out
+ETWDLCZ010baa = swKn......baa:out
+ETWDLCZ010bab = swKn......bab:out
+ETWDLCZ010bac = swKn......bac:out
+ETWDLCZ010bad = swKn......bad:out
+ETWDLCZ010caa = swKn......caa:out
+ETWDLCZ010cab = swKn......cab:out
+ETWDLCZ010cac = swKn......cac:out
+@
+title: ETaETWDLCZ009_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ009aaa = swJn......aaa:out
+ETWDLCZ009aab = swJn......aab:out
+ETWDLCZ009aac = swJn......aac:out
+ETWDLCZ009baa = swJn......baa:out
+ETWDLCZ009bab = swJn......bab:out
+ETWDLCZ009bac = swJn......bac:out
+ETWDLCZ009bad = swJn......bad:out
+ETWDLCZ009caa = swJn......caa:out
+ETWDLCZ009cab = swJn......cab:out
+ETWDLCZ009cac = swJn......cac:out
+@
+title: ETaETWDLCZ008_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ008aaa = swIn......aaa:out
+ETWDLCZ008aab = swIn......aab:out
+ETWDLCZ008aac = swIn......aac:out
+ETWDLCZ008baa = swIn......baa:out
+ETWDLCZ008bab = swIn......bab:out
+ETWDLCZ008bac = swIn......bac:out
+ETWDLCZ008bad = swIn......bad:out
+ETWDLCZ008caa = swIn......caa:out
+ETWDLCZ008cab = swIn......cab:out
+ETWDLCZ008cac = swIn......cac:out
+@
+title: ETaETWDLCZ007_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ007aaa = swHn......aaa:out
+ETWDLCZ007aab = swHn......aab:out
+ETWDLCZ007aac = swHn......aac:out
+ETWDLCZ007baa = swHn......baa:out
+ETWDLCZ007bab = swHn......bab:out
+ETWDLCZ007bac = swHn......bac:out
+ETWDLCZ007bad = swHn......bad:out
+ETWDLCZ007caa = swHn......caa:out
+ETWDLCZ007cab = swHn......cab:out
+ETWDLCZ007cac = swHn......cac:out
+@
+title: ETaETWDLCZ006_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ006aaa = swGn......aaa:out
+ETWDLCZ006aab = swGn......aab:out
+ETWDLCZ006aac = swGn......aac:out
+ETWDLCZ006baa = swGn......baa:out
+ETWDLCZ006bab = swGn......bab:out
+ETWDLCZ006bac = swGn......bac:out
+ETWDLCZ006bad = swGn......bad:out
+ETWDLCZ006caa = swGn......caa:out
+ETWDLCZ006cab = swGn......cab:out
+ETWDLCZ006cac = swGn......cac:out
+@
+title: ETaETWDLCZ005_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ005aaa = swFn......aaa:out
+ETWDLCZ005aab = swFn......aab:out
+ETWDLCZ005aac = swFn......aac:out
+ETWDLCZ005baa = swFn......baa:out
+ETWDLCZ005bab = swFn......bab:out
+ETWDLCZ005bac = swFn......bac:out
+ETWDLCZ005bad = swFn......bad:out
+ETWDLCZ005caa = swFn......caa:out
+ETWDLCZ005cab = swFn......cab:out
+ETWDLCZ005cac = swFn......cac:out
+@
+title: ETaETWDLCZ004_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ004aaa = swEn......aaa:out
+ETWDLCZ004aab = swEn......aab:out
+ETWDLCZ004aac = swEn......aac:out
+ETWDLCZ004baa = swEn......baa:out
+ETWDLCZ004bab = swEn......bab:out
+ETWDLCZ004bac = swEn......bac:out
+ETWDLCZ004bad = swEn......bad:out
+ETWDLCZ004caa = swEn......caa:out
+ETWDLCZ004cab = swEn......cab:out
+ETWDLCZ004cac = swEn......cac:out
+@
+title: ETaETWDLCZ003_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ003aaa = swCn......aaa:out
+ETWDLCZ003aab = swCn......aab:out
+ETWDLCZ003aac = swCn......aac:out
+ETWDLCZ003baa = swCn......baa:out
+ETWDLCZ003bab = swCn......bab:out
+ETWDLCZ003bac = swCn......bac:out
+ETWDLCZ003bad = swCn......bad:out
+ETWDLCZ003caa = swCn......caa:out
+ETWDLCZ003cab = swCn......cab:out
+ETWDLCZ003cac = swCn......cac:out
+@
+title: ETaETWDLCZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ002aaa = swBn......aaa:out
+ETWDLCZ002aab = swBn......aab:out
+ETWDLCZ002aac = swBn......aac:out
+ETWDLCZ002baa = swBn......baa:out
+ETWDLCZ002bab = swBn......bab:out
+ETWDLCZ002bac = swBn......bac:out
+ETWDLCZ002bad = swBn......bad:out
+ETWDLCZ002caa = swBn......caa:out
+ETWDLCZ002cab = swBn......cab:out
+ETWDLCZ002cac = swBn......cac:out
+@
+title: ETaETWDLCZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZ001aaa = swAn......aaa:out
+ETWDLCZ001aab = swAn......aab:out
+ETWDLCZ001aac = swAn......aac:out
+ETWDLCZ001baa = swAn......baa:out
+ETWDLCZ001bab = swAn......bab:out
+ETWDLCZ001bac = swAn......bac:out
+ETWDLCZ001bad = swAn......bad:out
+ETWDLCZ001caa = swAn......caa:out
+ETWDLCZ001cab = swAn......cab:out
+ETWDLCZ001cac = swAn......cac:out
+@
+title: ETaETWDLCZBQ04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETWDLCZBQ04aaa = swDn......aaa:out
+ETWDLCZBQ04aab = swDn......aab:out
+ETWDLCZBQ04aac = swDn......aac:out
+ETWDLCZBQ04baa = swDn......baa:out
+ETWDLCZBQ04bab = swDn......bab:out
+ETWDLCZBQ04bac = swDn......bac:out
+ETWDLCZBQ04bad = swDn......bad:out
+ETWDLCZBQ04caa = swDn......caa:out
+ETWDLCZBQ04cab = swDn......cab:out
+ETWDLCZBQ04cac = swDn......cac:out
+@
+title: ETaETSOTNZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOTNZ002aaa = s.Dn......aaa:out
+ETSOTNZ002aab = s.Dn......aab:out
+ETSOTNZ002aac = s.Dn......aac:out
+ETSOTNZ002baa = s.Dn......baa:out
+ETSOTNZ002bab = s.Dn......bab:out
+ETSOTNZ002bac = s.Dn......bac:out
+ETSOTNZ002bad = s.Dn......bad:out
+ETSOTNZ002caa = s.Dn......caa:out
+ETSOTNZ002cab = s.Dn......cab:out
+ETSOTNZ002cac = s.Dn......cac:out
+@
+title: ETaETSOTNZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOTNZ001aaa = s.Cn......aaa:out
+ETSOTNZ001aab = s.Cn......aab:out
+ETSOTNZ001aac = s.Cn......aac:out
+ETSOTNZ001baa = s.Cn......baa:out
+ETSOTNZ001bab = s.Cn......bab:out
+ETSOTNZ001bac = s.Cn......bac:out
+ETSOTNZ001bad = s.Cn......bad:out
+ETSOTNZ001caa = s.Cn......caa:out
+ETSOTNZ001cab = s.Cn......cab:out
+ETSOTNZ001cac = s.Cn......cac:out
+@
+title: ETaETSOPCZ008_Metahare2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ008_Metahare2aaa = ssQn......aaa:out
+ETSOPCZ008_Metahare2aab = ssQn......aab:out
+ETSOPCZ008_Metahare2aac = ssQn......aac:out
+ETSOPCZ008_Metahare2baa = ssQn......baa:out
+ETSOPCZ008_Metahare2bab = ssQn......bab:out
+ETSOPCZ008_Metahare2bac = ssQn......bac:out
+ETSOPCZ008_Metahare2bad = ssQn......bad:out
+ETSOPCZ008_Metahare2caa = ssQn......caa:out
+ETSOPCZ008_Metahare2cab = ssQn......cab:out
+ETSOPCZ008_Metahare2cac = ssQn......cac:out
+@
+title: ETaETSOPCZ008_Gad2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ008_Gad2aaa = ssPn......aaa:out
+ETSOPCZ008_Gad2aab = ssPn......aab:out
+ETSOPCZ008_Gad2aac = ssPn......aac:out
+ETSOPCZ008_Gad2baa = ssPn......baa:out
+ETSOPCZ008_Gad2bab = ssPn......bab:out
+ETSOPCZ008_Gad2bac = ssPn......bac:out
+ETSOPCZ008_Gad2bad = ssPn......bad:out
+ETSOPCZ008_Gad2caa = ssPn......caa:out
+ETSOPCZ008_Gad2cab = ssPn......cab:out
+ETSOPCZ008_Gad2cac = ssPn......cac:out
+@
+title: ETaETSOPCZ008_Metahare1_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ008_Metahare1aaa = ssOn......aaa:out
+ETSOPCZ008_Metahare1aab = ssOn......aab:out
+ETSOPCZ008_Metahare1aac = ssOn......aac:out
+ETSOPCZ008_Metahare1baa = ssOn......baa:out
+ETSOPCZ008_Metahare1bab = ssOn......bab:out
+ETSOPCZ008_Metahare1bac = ssOn......bac:out
+ETSOPCZ008_Metahare1bad = ssOn......bad:out
+ETSOPCZ008_Metahare1caa = ssOn......caa:out
+ETSOPCZ008_Metahare1cab = ssOn......cab:out
+ETSOPCZ008_Metahare1cac = ssOn......cac:out
+@
+title: ETaETSOPCZ008_Gad1_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ008_Gad1aaa = ssNn......aaa:out
+ETSOPCZ008_Gad1aab = ssNn......aab:out
+ETSOPCZ008_Gad1aac = ssNn......aac:out
+ETSOPCZ008_Gad1baa = ssNn......baa:out
+ETSOPCZ008_Gad1bab = ssNn......bab:out
+ETSOPCZ008_Gad1bac = ssNn......bac:out
+ETSOPCZ008_Gad1bad = ssNn......bad:out
+ETSOPCZ008_Gad1caa = ssNn......caa:out
+ETSOPCZ008_Gad1cab = ssNn......cab:out
+ETSOPCZ008_Gad1cac = ssNn......cac:out
+@
+title: ETaETSOPCZ001_Weranso_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ001_Weransoaaa = ssMn......aaa:out
+ETSOPCZ001_Weransoaab = ssMn......aab:out
+ETSOPCZ001_Weransoaac = ssMn......aac:out
+ETSOPCZ001_Weransobaa = ssMn......baa:out
+ETSOPCZ001_Weransobab = ssMn......bab:out
+ETSOPCZ001_Weransobac = ssMn......bac:out
+ETSOPCZ001_Weransobad = ssMn......bad:out
+ETSOPCZ001_Weransocaa = ssMn......caa:out
+ETSOPCZ001_Weransocab = ssMn......cab:out
+ETSOPCZ001_Weransocac = ssMn......cac:out
+@
+title: ETaETSOPCZ001_Mekele_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ001_Mekeleaaa = ssLn......aaa:out
+ETSOPCZ001_Mekeleaab = ssLn......aab:out
+ETSOPCZ001_Mekeleaac = ssLn......aac:out
+ETSOPCZ001_Mekelebaa = ssLn......baa:out
+ETSOPCZ001_Mekelebab = ssLn......bab:out
+ETSOPCZ001_Mekelebac = ssLn......bac:out
+ETSOPCZ001_Mekelebad = ssLn......bad:out
+ETSOPCZ001_Mekelecaa = ssLn......caa:out
+ETSOPCZ001_Mekelecab = ssLn......cab:out
+ETSOPCZ001_Mekelecac = ssLn......cac:out
+@
+title: ETaETSOPCZ001_Dicheto_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ001_Dichetoaaa = ssKn......aaa:out
+ETSOPCZ001_Dichetoaab = ssKn......aab:out
+ETSOPCZ001_Dichetoaac = ssKn......aac:out
+ETSOPCZ001_Dichetobaa = ssKn......baa:out
+ETSOPCZ001_Dichetobab = ssKn......bab:out
+ETSOPCZ001_Dichetobac = ssKn......bac:out
+ETSOPCZ001_Dichetobad = ssKn......bad:out
+ETSOPCZ001_Dichetocaa = ssKn......caa:out
+ETSOPCZ001_Dichetocab = ssKn......cab:out
+ETSOPCZ001_Dichetocac = ssKn......cac:out
+@
+title: ETaETSOPCZ010_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ010aaa = ssJn......aaa:out
+ETSOPCZ010aab = ssJn......aab:out
+ETSOPCZ010aac = ssJn......aac:out
+ETSOPCZ010baa = ssJn......baa:out
+ETSOPCZ010bab = ssJn......bab:out
+ETSOPCZ010bac = ssJn......bac:out
+ETSOPCZ010bad = ssJn......bad:out
+ETSOPCZ010caa = ssJn......caa:out
+ETSOPCZ010cab = ssJn......cab:out
+ETSOPCZ010cac = ssJn......cac:out
+@
+title: ETaETSOPCZ009_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ009aaa = ssIn......aaa:out
+ETSOPCZ009aab = ssIn......aab:out
+ETSOPCZ009aac = ssIn......aac:out
+ETSOPCZ009baa = ssIn......baa:out
+ETSOPCZ009bab = ssIn......bab:out
+ETSOPCZ009bac = ssIn......bac:out
+ETSOPCZ009bad = ssIn......bad:out
+ETSOPCZ009caa = ssIn......caa:out
+ETSOPCZ009cab = ssIn......cab:out
+ETSOPCZ009cac = ssIn......cac:out
+@
+title: ETaETSOPCZ008_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ008aaa = ssHn......aaa:out
+ETSOPCZ008aab = ssHn......aab:out
+ETSOPCZ008aac = ssHn......aac:out
+ETSOPCZ008baa = ssHn......baa:out
+ETSOPCZ008bab = ssHn......bab:out
+ETSOPCZ008bac = ssHn......bac:out
+ETSOPCZ008bad = ssHn......bad:out
+ETSOPCZ008caa = ssHn......caa:out
+ETSOPCZ008cab = ssHn......cab:out
+ETSOPCZ008cac = ssHn......cac:out
+@
+title: ETaETSOPCZ007_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ007aaa = ssGn......aaa:out
+ETSOPCZ007aab = ssGn......aab:out
+ETSOPCZ007aac = ssGn......aac:out
+ETSOPCZ007baa = ssGn......baa:out
+ETSOPCZ007bab = ssGn......bab:out
+ETSOPCZ007bac = ssGn......bac:out
+ETSOPCZ007bad = ssGn......bad:out
+ETSOPCZ007caa = ssGn......caa:out
+ETSOPCZ007cab = ssGn......cab:out
+ETSOPCZ007cac = ssGn......cac:out
+@
+title: ETaETSOPCZ006_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ006aaa = ssFn......aaa:out
+ETSOPCZ006aab = ssFn......aab:out
+ETSOPCZ006aac = ssFn......aac:out
+ETSOPCZ006baa = ssFn......baa:out
+ETSOPCZ006bab = ssFn......bab:out
+ETSOPCZ006bac = ssFn......bac:out
+ETSOPCZ006bad = ssFn......bad:out
+ETSOPCZ006caa = ssFn......caa:out
+ETSOPCZ006cab = ssFn......cab:out
+ETSOPCZ006cac = ssFn......cac:out
+@
+title: ETaETSOPCZ005_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ005aaa = ssEn......aaa:out
+ETSOPCZ005aab = ssEn......aab:out
+ETSOPCZ005aac = ssEn......aac:out
+ETSOPCZ005baa = ssEn......baa:out
+ETSOPCZ005bab = ssEn......bab:out
+ETSOPCZ005bac = ssEn......bac:out
+ETSOPCZ005bad = ssEn......bad:out
+ETSOPCZ005caa = ssEn......caa:out
+ETSOPCZ005cab = ssEn......cab:out
+ETSOPCZ005cac = ssEn......cac:out
+@
+title: ETaETSOPCZ004_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ004aaa = ssDn......aaa:out
+ETSOPCZ004aab = ssDn......aab:out
+ETSOPCZ004aac = ssDn......aac:out
+ETSOPCZ004baa = ssDn......baa:out
+ETSOPCZ004bab = ssDn......bab:out
+ETSOPCZ004bac = ssDn......bac:out
+ETSOPCZ004bad = ssDn......bad:out
+ETSOPCZ004caa = ssDn......caa:out
+ETSOPCZ004cab = ssDn......cab:out
+ETSOPCZ004cac = ssDn......cac:out
+@
+title: ETaETSOPCZ003_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ003aaa = ssCn......aaa:out
+ETSOPCZ003aab = ssCn......aab:out
+ETSOPCZ003aac = ssCn......aac:out
+ETSOPCZ003baa = ssCn......baa:out
+ETSOPCZ003bab = ssCn......bab:out
+ETSOPCZ003bac = ssCn......bac:out
+ETSOPCZ003bad = ssCn......bad:out
+ETSOPCZ003caa = ssCn......caa:out
+ETSOPCZ003cab = ssCn......cab:out
+ETSOPCZ003cac = ssCn......cac:out
+@
+title: ETaETSOPCZ002_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ002aaa = ssBn......aaa:out
+ETSOPCZ002aab = ssBn......aab:out
+ETSOPCZ002aac = ssBn......aac:out
+ETSOPCZ002baa = ssBn......baa:out
+ETSOPCZ002bab = ssBn......bab:out
+ETSOPCZ002bac = ssBn......bac:out
+ETSOPCZ002bad = ssBn......bad:out
+ETSOPCZ002caa = ssBn......caa:out
+ETSOPCZ002cab = ssBn......cab:out
+ETSOPCZ002cac = ssBn......cac:out
+@
+title: ETaETSOPCZ001_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPCZ001aaa = ssAn......aaa:out
+ETSOPCZ001aab = ssAn......aab:out
+ETSOPCZ001aac = ssAn......aac:out
+ETSOPCZ001baa = ssAn......baa:out
+ETSOPCZ001bab = ssAn......bab:out
+ETSOPCZ001bac = ssAn......bac:out
+ETSOPCZ001bad = ssAn......bad:out
+ETSOPCZ001caa = ssAn......caa:out
+ETSOPCZ001cab = ssAn......cab:out
+ETSOPCZ001cac = ssAn......cac:out
+@
+title: ETaETGOCV00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV00aaa = s.kn......aaa:out
+ETGOCV00aab = s.kn......aab:out
+ETGOCV00aac = s.kn......aac:out
+ETGOCV00baa = s.kn......baa:out
+ETGOCV00bab = s.kn......bab:out
+ETGOCV00bac = s.kn......bac:out
+ETGOCV00bad = s.kn......bad:out
+ETGOCV00caa = s.kn......caa:out
+ETGOCV00cab = s.kn......cab:out
+ETGOCV00cac = s.kn......cac:out
+@
+title: ETaETGOCV11_Tulu_Moye_Site_II_III_IV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV11_Tulu_Moye_Site_II_III_IVaaa = s.Mn......aaa:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVaab = s.Mn......aab:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVaac = s.Mn......aac:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVbaa = s.Mn......baa:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVbab = s.Mn......bab:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVbac = s.Mn......bac:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVbad = s.Mn......bad:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVcaa = s.Mn......caa:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVcab = s.Mn......cab:out
+ETGOCV11_Tulu_Moye_Site_II_III_IVcac = s.Mn......cac:out
+@
+title: ETaETGOCV02_Tulu_Moye_Site_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV02_Tulu_Moye_Siteaaa = s.Hn......aaa:out
+ETGOCV02_Tulu_Moye_Siteaab = s.Hn......aab:out
+ETGOCV02_Tulu_Moye_Siteaac = s.Hn......aac:out
+ETGOCV02_Tulu_Moye_Sitebaa = s.Hn......baa:out
+ETGOCV02_Tulu_Moye_Sitebab = s.Hn......bab:out
+ETGOCV02_Tulu_Moye_Sitebac = s.Hn......bac:out
+ETGOCV02_Tulu_Moye_Sitebad = s.Hn......bad:out
+ETGOCV02_Tulu_Moye_Sitecaa = s.Hn......caa:out
+ETGOCV02_Tulu_Moye_Sitecab = s.Hn......cab:out
+ETGOCV02_Tulu_Moye_Sitecac = s.Hn......cac:out
+@
+title: ETaETGOCV01_Corbitti_Site_2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV01_Corbitti_Site_2aaa = s.Gn......aaa:out
+ETGOCV01_Corbitti_Site_2aab = s.Gn......aab:out
+ETGOCV01_Corbitti_Site_2aac = s.Gn......aac:out
+ETGOCV01_Corbitti_Site_2baa = s.Gn......baa:out
+ETGOCV01_Corbitti_Site_2bab = s.Gn......bab:out
+ETGOCV01_Corbitti_Site_2bac = s.Gn......bac:out
+ETGOCV01_Corbitti_Site_2bad = s.Gn......bad:out
+ETGOCV01_Corbitti_Site_2caa = s.Gn......caa:out
+ETGOCV01_Corbitti_Site_2cab = s.Gn......cab:out
+ETGOCV01_Corbitti_Site_2cac = s.Gn......cac:out
+@
+title: ETaETGOCV11_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV11aaa = s.Kn......aaa:out
+ETGOCV11aab = s.Kn......aab:out
+ETGOCV11aac = s.Kn......aac:out
+ETGOCV11baa = s.Kn......baa:out
+ETGOCV11bab = s.Kn......bab:out
+ETGOCV11bac = s.Kn......bac:out
+ETGOCV11bad = s.Kn......bad:out
+ETGOCV11caa = s.Kn......caa:out
+ETGOCV11cab = s.Kn......cab:out
+ETGOCV11cac = s.Kn......cac:out
+@
+title: ETaETGOCV10_Aluto_Langano_2_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV10_Aluto_Langano_2aaa = s.Jn......aaa:out
+ETGOCV10_Aluto_Langano_2aab = s.Jn......aab:out
+ETGOCV10_Aluto_Langano_2aac = s.Jn......aac:out
+ETGOCV10_Aluto_Langano_2baa = s.Jn......baa:out
+ETGOCV10_Aluto_Langano_2bab = s.Jn......bab:out
+ETGOCV10_Aluto_Langano_2bac = s.Jn......bac:out
+ETGOCV10_Aluto_Langano_2bad = s.Jn......bad:out
+ETGOCV10_Aluto_Langano_2caa = s.Jn......caa:out
+ETGOCV10_Aluto_Langano_2cab = s.Jn......cab:out
+ETGOCV10_Aluto_Langano_2cac = s.Jn......cac:out
+@
+title: ETaETGOCV01_Corbitti_Site_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETGOCV01_Corbitti_Siteaaa = s.An......aaa:out
+ETGOCV01_Corbitti_Siteaab = s.An......aab:out
+ETGOCV01_Corbitti_Siteaac = s.An......aac:out
+ETGOCV01_Corbitti_Sitebaa = s.An......baa:out
+ETGOCV01_Corbitti_Sitebab = s.An......bab:out
+ETGOCV01_Corbitti_Sitebac = s.An......bac:out
+ETGOCV01_Corbitti_Sitebad = s.An......bad:out
+ETGOCV01_Corbitti_Sitecaa = s.An......caa:out
+ETGOCV01_Corbitti_Sitecab = s.An......cab:out
+ETGOCV01_Corbitti_Sitecac = s.An......cac:out
+@
+title: ETaETBMST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST00aaa = sbgn......aaa:out
+ETBMST00aab = sbgn......aab:out
+ETBMST00aac = sbgn......aac:out
+ETBMST00baa = sbgn......baa:out
+ETBMST00bab = sbgn......bab:out
+ETBMST00bac = sbgn......bac:out
+ETBMST00bad = sbgn......bad:out
+ETBMST00caa = sbgn......caa:out
+ETBMST00cab = sbgn......cab:out
+ETBMST00cac = sbgn......cac:out
+@
+title: ETaETBMST15_Kessem_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST15_Kessemaaa = sbEn......aaa:out
+ETBMST15_Kessemaab = sbEn......aab:out
+ETBMST15_Kessemaac = sbEn......aac:out
+ETBMST15_Kessembaa = sbEn......baa:out
+ETBMST15_Kessembab = sbEn......bab:out
+ETBMST15_Kessembac = sbEn......bac:out
+ETBMST15_Kessembad = sbEn......bad:out
+ETBMST15_Kessemcaa = sbEn......caa:out
+ETBMST15_Kessemcab = sbEn......cab:out
+ETBMST15_Kessemcac = sbEn......cac:out
+@
+title: ETaETBMST14_Welkayte_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST14_Welkayteaaa = sbDn......aaa:out
+ETBMST14_Welkayteaab = sbDn......aab:out
+ETBMST14_Welkayteaac = sbDn......aac:out
+ETBMST14_Welkaytebaa = sbDn......baa:out
+ETBMST14_Welkaytebab = sbDn......bab:out
+ETBMST14_Welkaytebac = sbDn......bac:out
+ETBMST14_Welkaytebad = sbDn......bad:out
+ETBMST14_Welkaytecaa = sbDn......caa:out
+ETBMST14_Welkaytecab = sbDn......cab:out
+ETBMST14_Welkaytecac = sbDn......cac:out
+@
+title: ETaETBMST13_Beles_1_2_3_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST13_Beles_1_2_3aaa = sbCn......aaa:out
+ETBMST13_Beles_1_2_3aab = sbCn......aab:out
+ETBMST13_Beles_1_2_3aac = sbCn......aac:out
+ETBMST13_Beles_1_2_3baa = sbCn......baa:out
+ETBMST13_Beles_1_2_3bab = sbCn......bab:out
+ETBMST13_Beles_1_2_3bac = sbCn......bac:out
+ETBMST13_Beles_1_2_3bad = sbCn......bad:out
+ETBMST13_Beles_1_2_3caa = sbCn......caa:out
+ETBMST13_Beles_1_2_3cab = sbCn......cab:out
+ETBMST13_Beles_1_2_3cac = sbCn......cac:out
+@
+title: ETaETBMST14_Omo_Kuraz_1_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST14_Omo_Kuraz_1aaa = sbBn......aaa:out
+ETBMST14_Omo_Kuraz_1aab = sbBn......aab:out
+ETBMST14_Omo_Kuraz_1aac = sbBn......aac:out
+ETBMST14_Omo_Kuraz_1baa = sbBn......baa:out
+ETBMST14_Omo_Kuraz_1bab = sbBn......bab:out
+ETBMST14_Omo_Kuraz_1bac = sbBn......bac:out
+ETBMST14_Omo_Kuraz_1bad = sbBn......bad:out
+ETBMST14_Omo_Kuraz_1caa = sbBn......caa:out
+ETBMST14_Omo_Kuraz_1cab = sbBn......cab:out
+ETBMST14_Omo_Kuraz_1cac = sbBn......cac:out
+@
+title: ETaETBMST15_Omo_Kuraz_2-6_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST15_Omo_Kuraz_2-6aaa = sbAn......aaa:out
+ETBMST15_Omo_Kuraz_2-6aab = sbAn......aab:out
+ETBMST15_Omo_Kuraz_2-6aac = sbAn......aac:out
+ETBMST15_Omo_Kuraz_2-6baa = sbAn......baa:out
+ETBMST15_Omo_Kuraz_2-6bab = sbAn......bab:out
+ETBMST15_Omo_Kuraz_2-6bac = sbAn......bac:out
+ETBMST15_Omo_Kuraz_2-6bad = sbAn......bad:out
+ETBMST15_Omo_Kuraz_2-6caa = sbAn......caa:out
+ETBMST15_Omo_Kuraz_2-6cab = sbAn......cab:out
+ETBMST15_Omo_Kuraz_2-6cac = sbAn......cac:out
+@
+title: ETaETBWST00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBWST00aaa = sBan......aaa:out
+ETBWST00aab = sBan......aab:out
+ETBWST00aac = sBan......aac:out
+ETBWST00baa = sBan......baa:out
+ETBWST00bab = sBan......bab:out
+ETBWST00bac = sBan......bac:out
+ETBWST00bad = sBan......bad:out
+ETBWST00caa = sBan......caa:out
+ETBWST00cab = sBan......cab:out
+ETBWST00cac = sBan......cac:out
+@
+title: ETaETBMST16_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST16aaa = sbPn......aaa:out
+ETBMST16aab = sbPn......aab:out
+ETBMST16aac = sbPn......aac:out
+ETBMST16baa = sbPn......baa:out
+ETBMST16bab = sbPn......bab:out
+ETBMST16bac = sbPn......bac:out
+ETBMST16bad = sbPn......bad:out
+ETBMST16caa = sbPn......caa:out
+ETBMST16cab = sbPn......cab:out
+ETBMST16cac = sbPn......cac:out
+@
+title: ETaETBMST13_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST13aaa = sbMn......aaa:out
+ETBMST13aab = sbMn......aab:out
+ETBMST13aac = sbMn......aac:out
+ETBMST13baa = sbMn......baa:out
+ETBMST13bab = sbMn......bab:out
+ETBMST13bac = sbMn......bac:out
+ETBMST13bad = sbMn......bad:out
+ETBMST13caa = sbMn......caa:out
+ETBMST13cab = sbMn......cab:out
+ETBMST13cac = sbMn......cac:out
+@
+title: ETaETBMST12_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST12aaa = sbLn......aaa:out
+ETBMST12aab = sbLn......aab:out
+ETBMST12aac = sbLn......aac:out
+ETBMST12baa = sbLn......baa:out
+ETBMST12bab = sbLn......bab:out
+ETBMST12bac = sbLn......bac:out
+ETBMST12bad = sbLn......bad:out
+ETBMST12caa = sbLn......caa:out
+ETBMST12cab = sbLn......cab:out
+ETBMST12cac = sbLn......cac:out
+@
+title: ETaETBMST11_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETBMST11aaa = sbKn......aaa:out
+ETBMST11aab = sbKn......aab:out
+ETBMST11aac = sbKn......aac:out
+ETBMST11baa = sbKn......baa:out
+ETBMST11bab = sbKn......bab:out
+ETBMST11bac = sbKn......bac:out
+ETBMST11bad = sbKn......bad:out
+ETBMST11caa = sbKn......caa:out
+ETBMST11cab = sbKn......cab:out
+ETBMST11cac = sbKn......cac:out
+@
+title: ETaETHYDM00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM00aaa = sHgn......aaa:out
+ETHYDM00aab = sHgn......aab:out
+ETHYDM00aac = sHgn......aac:out
+ETHYDM00baa = sHgn......baa:out
+ETHYDM00bab = sHgn......bab:out
+ETHYDM00bac = sHgn......bac:out
+ETHYDM00bad = sHgn......bad:out
+ETHYDM00caa = sHgn......caa:out
+ETHYDM00cab = sHgn......cab:out
+ETHYDM00cac = sHgn......cac:out
+@
+title: ETaETHYDM_Wabaressa_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Wabaressaaaa = sHbn......aaa:out
+ETHYDM_Wabaressaaab = sHbn......aab:out
+ETHYDM_Wabaressaaac = sHbn......aac:out
+ETHYDM_Wabaressabaa = sHbn......baa:out
+ETHYDM_Wabaressabab = sHbn......bab:out
+ETHYDM_Wabaressabac = sHbn......bac:out
+ETHYDM_Wabaressabad = sHbn......bad:out
+ETHYDM_Wabaressacaa = sHbn......caa:out
+ETHYDM_Wabaressacab = sHbn......cab:out
+ETHYDM_Wabaressacac = sHbn......cac:out
+@
+title: ETaETHYDM_Halele_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Haleleaaa = sHSn......aaa:out
+ETHYDM_Haleleaab = sHSn......aab:out
+ETHYDM_Haleleaac = sHSn......aac:out
+ETHYDM_Halelebaa = sHSn......baa:out
+ETHYDM_Halelebab = sHSn......bab:out
+ETHYDM_Halelebac = sHSn......bac:out
+ETHYDM_Halelebad = sHSn......bad:out
+ETHYDM_Halelecaa = sHSn......caa:out
+ETHYDM_Halelecab = sHSn......cab:out
+ETHYDM_Halelecac = sHSn......cac:out
+@
+title: ETaETHYDM_Genji_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Genjiaaa = sHRn......aaa:out
+ETHYDM_Genjiaab = sHRn......aab:out
+ETHYDM_Genjiaac = sHRn......aac:out
+ETHYDM_Genjibaa = sHRn......baa:out
+ETHYDM_Genjibab = sHRn......bab:out
+ETHYDM_Genjibac = sHRn......bac:out
+ETHYDM_Genjibad = sHRn......bad:out
+ETHYDM_Genjicaa = sHRn......caa:out
+ETHYDM_Genjicab = sHRn......cab:out
+ETHYDM_Genjicac = sHRn......cac:out
+@
+title: ETaETHYDM_Geba_1_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Geba_1_IIaaa = sHPn......aaa:out
+ETHYDM_Geba_1_IIaab = sHPn......aab:out
+ETHYDM_Geba_1_IIaac = sHPn......aac:out
+ETHYDM_Geba_1_IIbaa = sHPn......baa:out
+ETHYDM_Geba_1_IIbab = sHPn......bab:out
+ETHYDM_Geba_1_IIbac = sHPn......bac:out
+ETHYDM_Geba_1_IIbad = sHPn......bad:out
+ETHYDM_Geba_1_IIcaa = sHPn......caa:out
+ETHYDM_Geba_1_IIcab = sHPn......cab:out
+ETHYDM_Geba_1_IIcac = sHPn......cac:out
+@
+title: ETaETHYDM_Koysha_Step_1_2_3_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Koysha_Step_1_2_3aaa = sHMn......aaa:out
+ETHYDM_Koysha_Step_1_2_3aab = sHMn......aab:out
+ETHYDM_Koysha_Step_1_2_3aac = sHMn......aac:out
+ETHYDM_Koysha_Step_1_2_3baa = sHMn......baa:out
+ETHYDM_Koysha_Step_1_2_3bab = sHMn......bab:out
+ETHYDM_Koysha_Step_1_2_3bac = sHMn......bac:out
+ETHYDM_Koysha_Step_1_2_3bad = sHMn......bad:out
+ETHYDM_Koysha_Step_1_2_3caa = sHMn......caa:out
+ETHYDM_Koysha_Step_1_2_3cab = sHMn......cab:out
+ETHYDM_Koysha_Step_1_2_3cac = sHMn......cac:out
+@
+title: ETaETHYRO_WabiShebele_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_WabiShebeleaaa = sHen......aaa:out
+ETHYRO_WabiShebeleaab = sHen......aab:out
+ETHYRO_WabiShebeleaac = sHen......aac:out
+ETHYRO_WabiShebelebaa = sHen......baa:out
+ETHYRO_WabiShebelebab = sHen......bab:out
+ETHYRO_WabiShebelebac = sHen......bac:out
+ETHYRO_WabiShebelebad = sHen......bad:out
+ETHYRO_WabiShebelecaa = sHen......caa:out
+ETHYRO_WabiShebelecab = sHen......cab:out
+ETHYRO_WabiShebelecac = sHen......cac:out
+@
+title: ETaETHYDM_GenaleVI_GenaleV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_GenaleVI_GenaleVaaa = sHdn......aaa:out
+ETHYDM_GenaleVI_GenaleVaab = sHdn......aab:out
+ETHYDM_GenaleVI_GenaleVaac = sHdn......aac:out
+ETHYDM_GenaleVI_GenaleVbaa = sHdn......baa:out
+ETHYDM_GenaleVI_GenaleVbab = sHdn......bab:out
+ETHYDM_GenaleVI_GenaleVbac = sHdn......bac:out
+ETHYDM_GenaleVI_GenaleVbad = sHdn......bad:out
+ETHYDM_GenaleVI_GenaleVcaa = sHdn......caa:out
+ETHYDM_GenaleVI_GenaleVcab = sHdn......cab:out
+ETHYDM_GenaleVI_GenaleVcac = sHdn......cac:out
+@
+title: ETaETHYDM_ChemogaYI_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_ChemogaYI_IIaaa = sHan......aaa:out
+ETHYDM_ChemogaYI_IIaab = sHan......aab:out
+ETHYDM_ChemogaYI_IIaac = sHan......aac:out
+ETHYDM_ChemogaYI_IIbaa = sHan......baa:out
+ETHYDM_ChemogaYI_IIbab = sHan......bab:out
+ETHYDM_ChemogaYI_IIbac = sHan......bac:out
+ETHYDM_ChemogaYI_IIbad = sHan......bad:out
+ETHYDM_ChemogaYI_IIcaa = sHan......caa:out
+ETHYDM_ChemogaYI_IIcab = sHan......cab:out
+ETHYDM_ChemogaYI_IIcac = sHan......cac:out
+@
+title: ETaETHYRO_BirbirR_TekezeII_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_BirbirR_TekezeIIaaa = sHZn......aaa:out
+ETHYRO_BirbirR_TekezeIIaab = sHZn......aab:out
+ETHYRO_BirbirR_TekezeIIaac = sHZn......aac:out
+ETHYRO_BirbirR_TekezeIIbaa = sHZn......baa:out
+ETHYRO_BirbirR_TekezeIIbab = sHZn......bab:out
+ETHYRO_BirbirR_TekezeIIbac = sHZn......bac:out
+ETHYRO_BirbirR_TekezeIIbad = sHZn......bad:out
+ETHYRO_BirbirR_TekezeIIcaa = sHZn......caa:out
+ETHYRO_BirbirR_TekezeIIcab = sHZn......cab:out
+ETHYRO_BirbirR_TekezeIIcac = sHZn......cac:out
+@
+title: ETaETHYRO_BaroI_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_BaroI_IIaaa = sHXn......aaa:out
+ETHYRO_BaroI_IIaab = sHXn......aab:out
+ETHYRO_BaroI_IIaac = sHXn......aac:out
+ETHYRO_BaroI_IIbaa = sHXn......baa:out
+ETHYRO_BaroI_IIbab = sHXn......bab:out
+ETHYRO_BaroI_IIbac = sHXn......bac:out
+ETHYRO_BaroI_IIbad = sHXn......bad:out
+ETHYRO_BaroI_IIcaa = sHXn......caa:out
+ETHYRO_BaroI_IIcab = sHXn......cab:out
+ETHYRO_BaroI_IIcac = sHXn......cac:out
+@
+title: ETaETHYRO_Beko_Abo_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Beko_Aboaaa = sHWn......aaa:out
+ETHYRO_Beko_Aboaab = sHWn......aab:out
+ETHYRO_Beko_Aboaac = sHWn......aac:out
+ETHYRO_Beko_Abobaa = sHWn......baa:out
+ETHYRO_Beko_Abobab = sHWn......bab:out
+ETHYRO_Beko_Abobac = sHWn......bac:out
+ETHYRO_Beko_Abobad = sHWn......bad:out
+ETHYRO_Beko_Abocaa = sHWn......caa:out
+ETHYRO_Beko_Abocab = sHWn......cab:out
+ETHYRO_Beko_Abocac = sHWn......cac:out
+@
+title: ETaETHYRO_Tams_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Tamsaaa = sHVn......aaa:out
+ETHYRO_Tamsaab = sHVn......aab:out
+ETHYRO_Tamsaac = sHVn......aac:out
+ETHYRO_Tamsbaa = sHVn......baa:out
+ETHYRO_Tamsbab = sHVn......bab:out
+ETHYRO_Tamsbac = sHVn......bac:out
+ETHYRO_Tamsbad = sHVn......bad:out
+ETHYRO_Tamscaa = sHVn......caa:out
+ETHYRO_Tamscab = sHVn......cab:out
+ETHYRO_Tamscac = sHVn......cac:out
+@
+title: ETaETHYDM_Karadobi_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Karadobiaaa = sHUn......aaa:out
+ETHYDM_Karadobiaab = sHUn......aab:out
+ETHYDM_Karadobiaac = sHUn......aac:out
+ETHYDM_Karadobibaa = sHUn......baa:out
+ETHYDM_Karadobibab = sHUn......bab:out
+ETHYDM_Karadobibac = sHUn......bac:out
+ETHYDM_Karadobibad = sHUn......bad:out
+ETHYDM_Karadobicaa = sHUn......caa:out
+ETHYDM_Karadobicab = sHUn......cab:out
+ETHYDM_Karadobicac = sHUn......cac:out
+@
+title: ETaETHYRO_Upper_Mandaya_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Upper_Mandayaaaa = sHTn......aaa:out
+ETHYRO_Upper_Mandayaaab = sHTn......aab:out
+ETHYRO_Upper_Mandayaaac = sHTn......aac:out
+ETHYRO_Upper_Mandayabaa = sHTn......baa:out
+ETHYRO_Upper_Mandayabab = sHTn......bab:out
+ETHYRO_Upper_Mandayabac = sHTn......bac:out
+ETHYRO_Upper_Mandayabad = sHTn......bad:out
+ETHYRO_Upper_Mandayacaa = sHTn......caa:out
+ETHYRO_Upper_Mandayacab = sHTn......cab:out
+ETHYRO_Upper_Mandayacac = sHTn......cac:out
+@
+title: ETaETHYRO_Genale_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Genaleaaa = sHLn......aaa:out
+ETHYRO_Genaleaab = sHLn......aab:out
+ETHYRO_Genaleaac = sHLn......aac:out
+ETHYRO_Genalebaa = sHLn......baa:out
+ETHYRO_Genalebab = sHLn......bab:out
+ETHYRO_Genalebac = sHLn......bac:out
+ETHYRO_Genalebad = sHLn......bad:out
+ETHYRO_Genalecaa = sHLn......caa:out
+ETHYRO_Genalecab = sHLn......cab:out
+ETHYRO_Genalecac = sHLn......cac:out
+@
+title: ETaETHYDM_Gilgel_Gibe_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Gilgel_Gibe_IIIaaa = sHOn......aaa:out
+ETHYDM_Gilgel_Gibe_IIIaab = sHOn......aab:out
+ETHYDM_Gilgel_Gibe_IIIaac = sHOn......aac:out
+ETHYDM_Gilgel_Gibe_IIIbaa = sHOn......baa:out
+ETHYDM_Gilgel_Gibe_IIIbab = sHOn......bab:out
+ETHYDM_Gilgel_Gibe_IIIbac = sHOn......bac:out
+ETHYDM_Gilgel_Gibe_IIIbad = sHOn......bad:out
+ETHYDM_Gilgel_Gibe_IIIcaa = sHOn......caa:out
+ETHYDM_Gilgel_Gibe_IIIcab = sHOn......cab:out
+ETHYDM_Gilgel_Gibe_IIIcac = sHOn......cac:out
+@
+title: ETaETHYDM_Renaissance_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Renaissanceaaa = sHQn......aaa:out
+ETHYDM_Renaissanceaab = sHQn......aab:out
+ETHYDM_Renaissanceaac = sHQn......aac:out
+ETHYDM_Renaissancebaa = sHQn......baa:out
+ETHYDM_Renaissancebab = sHQn......bab:out
+ETHYDM_Renaissancebac = sHQn......bac:out
+ETHYDM_Renaissancebad = sHQn......bad:out
+ETHYDM_Renaissancecaa = sHQn......caa:out
+ETHYDM_Renaissancecab = sHQn......cab:out
+ETHYDM_Renaissancecac = sHQn......cac:out
+@
+title: ETaETHYRO_Sor_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Soraaa = sHHn......aaa:out
+ETHYRO_Soraab = sHHn......aab:out
+ETHYRO_Soraac = sHHn......aac:out
+ETHYRO_Sorbaa = sHHn......baa:out
+ETHYRO_Sorbab = sHHn......bab:out
+ETHYRO_Sorbac = sHHn......bac:out
+ETHYRO_Sorbad = sHHn......bad:out
+ETHYRO_Sorcaa = sHHn......caa:out
+ETHYRO_Sorcab = sHHn......cab:out
+ETHYRO_Sorcac = sHHn......cac:out
+@
+title: ETaETHYRO_Koka_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Kokaaaa = sHGn......aaa:out
+ETHYRO_Kokaaab = sHGn......aab:out
+ETHYRO_Kokaaac = sHGn......aac:out
+ETHYRO_Kokabaa = sHGn......baa:out
+ETHYRO_Kokabab = sHGn......bab:out
+ETHYRO_Kokabac = sHGn......bac:out
+ETHYRO_Kokabad = sHGn......bad:out
+ETHYRO_Kokacaa = sHGn......caa:out
+ETHYRO_Kokacab = sHGn......cab:out
+ETHYRO_Kokacac = sHGn......cac:out
+@
+title: ETaETHYDM_Amarti_Neshe_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Amarti_Nesheaaa = sHFn......aaa:out
+ETHYDM_Amarti_Nesheaab = sHFn......aab:out
+ETHYDM_Amarti_Nesheaac = sHFn......aac:out
+ETHYDM_Amarti_Neshebaa = sHFn......baa:out
+ETHYDM_Amarti_Neshebab = sHFn......bab:out
+ETHYDM_Amarti_Neshebac = sHFn......bac:out
+ETHYDM_Amarti_Neshebad = sHFn......bad:out
+ETHYDM_Amarti_Neshecaa = sHFn......caa:out
+ETHYDM_Amarti_Neshecab = sHFn......cab:out
+ETHYDM_Amarti_Neshecac = sHFn......cac:out
+@
+title: ETaETHYDM_Finchaa_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Finchaaaaa = sHEn......aaa:out
+ETHYDM_Finchaaaab = sHEn......aab:out
+ETHYDM_Finchaaaac = sHEn......aac:out
+ETHYDM_Finchaabaa = sHEn......baa:out
+ETHYDM_Finchaabab = sHEn......bab:out
+ETHYDM_Finchaabac = sHEn......bac:out
+ETHYDM_Finchaabad = sHEn......bad:out
+ETHYDM_Finchaacaa = sHEn......caa:out
+ETHYDM_Finchaacab = sHEn......cab:out
+ETHYDM_Finchaacac = sHEn......cac:out
+@
+title: ETaETHYDM_Maleka_Wakana_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Maleka_Wakanaaaa = sHDn......aaa:out
+ETHYDM_Maleka_Wakanaaab = sHDn......aab:out
+ETHYDM_Maleka_Wakanaaac = sHDn......aac:out
+ETHYDM_Maleka_Wakanabaa = sHDn......baa:out
+ETHYDM_Maleka_Wakanabab = sHDn......bab:out
+ETHYDM_Maleka_Wakanabac = sHDn......bac:out
+ETHYDM_Maleka_Wakanabad = sHDn......bad:out
+ETHYDM_Maleka_Wakanacaa = sHDn......caa:out
+ETHYDM_Maleka_Wakanacab = sHDn......cab:out
+ETHYDM_Maleka_Wakanacac = sHDn......cac:out
+@
+title: ETaETHYDM_Gilgel_Gibe_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Gilgel_Gibe_Iaaa = sHCn......aaa:out
+ETHYDM_Gilgel_Gibe_Iaab = sHCn......aab:out
+ETHYDM_Gilgel_Gibe_Iaac = sHCn......aac:out
+ETHYDM_Gilgel_Gibe_Ibaa = sHCn......baa:out
+ETHYDM_Gilgel_Gibe_Ibab = sHCn......bab:out
+ETHYDM_Gilgel_Gibe_Ibac = sHCn......bac:out
+ETHYDM_Gilgel_Gibe_Ibad = sHCn......bad:out
+ETHYDM_Gilgel_Gibe_Icaa = sHCn......caa:out
+ETHYDM_Gilgel_Gibe_Icab = sHCn......cab:out
+ETHYDM_Gilgel_Gibe_Icac = sHCn......cac:out
+@
+title: ETaETHYDM_Tekeze_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYDM_Tekeze_Iaaa = sHBn......aaa:out
+ETHYDM_Tekeze_Iaab = sHBn......aab:out
+ETHYDM_Tekeze_Iaac = sHBn......aac:out
+ETHYDM_Tekeze_Ibaa = sHBn......baa:out
+ETHYDM_Tekeze_Ibab = sHBn......bab:out
+ETHYDM_Tekeze_Ibac = sHBn......bac:out
+ETHYDM_Tekeze_Ibad = sHBn......bad:out
+ETHYDM_Tekeze_Icaa = sHBn......caa:out
+ETHYDM_Tekeze_Icab = sHBn......cab:out
+ETHYDM_Tekeze_Icac = sHBn......cac:out
+@
+title: ETaETHYRO_Beles_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Belesaaa = sHAn......aaa:out
+ETHYRO_Belesaab = sHAn......aab:out
+ETHYRO_Belesaac = sHAn......aac:out
+ETHYRO_Belesbaa = sHAn......baa:out
+ETHYRO_Belesbab = sHAn......bab:out
+ETHYRO_Belesbac = sHAn......bac:out
+ETHYRO_Belesbad = sHAn......bad:out
+ETHYRO_Belescaa = sHAn......caa:out
+ETHYRO_Belescab = sHAn......cab:out
+ETHYRO_Belescac = sHAn......cac:out
+@
+title: ETaETHYRO00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO00aaa = sHjn......aaa:out
+ETHYRO00aab = sHjn......aab:out
+ETHYRO00aac = sHjn......aac:out
+ETHYRO00baa = sHjn......baa:out
+ETHYRO00bab = sHjn......bab:out
+ETHYRO00bac = sHjn......bac:out
+ETHYRO00bad = sHjn......bad:out
+ETHYRO00caa = sHjn......caa:out
+ETHYRO00cab = sHjn......cab:out
+ETHYRO00cac = sHjn......cac:out
+@
+title: ETaETHYRO_Dabus_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Dabusaaa = sHNn......aaa:out
+ETHYRO_Dabusaab = sHNn......aab:out
+ETHYRO_Dabusaac = sHNn......aac:out
+ETHYRO_Dabusbaa = sHNn......baa:out
+ETHYRO_Dabusbab = sHNn......bab:out
+ETHYRO_Dabusbac = sHNn......bac:out
+ETHYRO_Dabusbad = sHNn......bad:out
+ETHYRO_Dabuscaa = sHNn......caa:out
+ETHYRO_Dabuscab = sHNn......cab:out
+ETHYRO_Dabuscac = sHNn......cac:out
+@
+title: ETaETHYRO_Gibe_IV-V_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Gibe_IV-Vaaa = sHfn......aaa:out
+ETHYRO_Gibe_IV-Vaab = sHfn......aab:out
+ETHYRO_Gibe_IV-Vaac = sHfn......aac:out
+ETHYRO_Gibe_IV-Vbaa = sHfn......baa:out
+ETHYRO_Gibe_IV-Vbab = sHfn......bab:out
+ETHYRO_Gibe_IV-Vbac = sHfn......bac:out
+ETHYRO_Gibe_IV-Vbad = sHfn......bad:out
+ETHYRO_Gibe_IV-Vcaa = sHfn......caa:out
+ETHYRO_Gibe_IV-Vcab = sHfn......cab:out
+ETHYRO_Gibe_IV-Vcac = sHfn......cac:out
+@
+title: ETaETHYRO_Awash_II-III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Awash_II-IIIaaa = sHKn......aaa:out
+ETHYRO_Awash_II-IIIaab = sHKn......aab:out
+ETHYRO_Awash_II-IIIaac = sHKn......aac:out
+ETHYRO_Awash_II-IIIbaa = sHKn......baa:out
+ETHYRO_Awash_II-IIIbab = sHKn......bab:out
+ETHYRO_Awash_II-IIIbac = sHKn......bac:out
+ETHYRO_Awash_II-IIIbad = sHKn......bad:out
+ETHYRO_Awash_II-IIIcaa = sHKn......caa:out
+ETHYRO_Awash_II-IIIcab = sHKn......cab:out
+ETHYRO_Awash_II-IIIcac = sHKn......cac:out
+@
+title: ETaETHYRO_Tis_Abbay_I-II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Tis_Abbay_I-IIaaa = sHJn......aaa:out
+ETHYRO_Tis_Abbay_I-IIaab = sHJn......aab:out
+ETHYRO_Tis_Abbay_I-IIaac = sHJn......aac:out
+ETHYRO_Tis_Abbay_I-IIbaa = sHJn......baa:out
+ETHYRO_Tis_Abbay_I-IIbab = sHJn......bab:out
+ETHYRO_Tis_Abbay_I-IIbac = sHJn......bac:out
+ETHYRO_Tis_Abbay_I-IIbad = sHJn......bad:out
+ETHYRO_Tis_Abbay_I-IIcaa = sHJn......caa:out
+ETHYRO_Tis_Abbay_I-IIcab = sHJn......cab:out
+ETHYRO_Tis_Abbay_I-IIcac = sHJn......cac:out
+@
+title: ETaETHYRO_Gilgel_Gibe_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Gilgel_Gibe_IIaaa = sHIn......aaa:out
+ETHYRO_Gilgel_Gibe_IIaab = sHIn......aab:out
+ETHYRO_Gilgel_Gibe_IIaac = sHIn......aac:out
+ETHYRO_Gilgel_Gibe_IIbaa = sHIn......baa:out
+ETHYRO_Gilgel_Gibe_IIbab = sHIn......bab:out
+ETHYRO_Gilgel_Gibe_IIbac = sHIn......bac:out
+ETHYRO_Gilgel_Gibe_IIbad = sHIn......bad:out
+ETHYRO_Gilgel_Gibe_IIcaa = sHIn......caa:out
+ETHYRO_Gilgel_Gibe_IIcab = sHIn......cab:out
+ETHYRO_Gilgel_Gibe_IIcac = sHIn......cac:out
+@
+title: ETaETHYMI00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYMI00aaa = tHhr......aaa:out
+ETHYMI00aab = tHhr......aab:out
+ETHYMI00aac = tHhr......aac:out
+ETHYMI00baa = tHhr......baa:out
+ETHYMI00bab = tHhr......bab:out
+ETHYMI00bac = tHhr......bac:out
+ETHYMI00bad = tHhr......bad:out
+ETHYMI00caa = tHhr......caa:out
+ETHYMI00cab = tHhr......cab:out
+ETHYMI00cac = tHhr......cac:out
+@
+title: ETaETHYRO_Aba_Samuel_Sor_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETHYRO_Aba_Samuel_Sor_IIaaa = sHhn......aaa:out
+ETHYRO_Aba_Samuel_Sor_IIaab = sHhn......aab:out
+ETHYRO_Aba_Samuel_Sor_IIaac = sHhn......aac:out
+ETHYRO_Aba_Samuel_Sor_IIbaa = sHhn......baa:out
+ETHYRO_Aba_Samuel_Sor_IIbab = sHhn......bab:out
+ETHYRO_Aba_Samuel_Sor_IIbac = sHhn......bac:out
+ETHYRO_Aba_Samuel_Sor_IIbad = sHhn......bad:out
+ETHYRO_Aba_Samuel_Sor_IIcaa = sHhn......caa:out
+ETHYRO_Aba_Samuel_Sor_IIcab = sHhn......cab:out
+ETHYRO_Aba_Samuel_Sor_IIcac = sHhn......cac:out
+@
+title: ETaETSOPU00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPU00aaa = t.gu......aaa:out
+ETSOPU00aab = t.gu......aab:out
+ETSOPU00aac = t.gu......aac:out
+ETSOPU00baa = t.gu......baa:out
+ETSOPU00bab = t.gu......bab:out
+ETSOPU00bac = t.gu......bac:out
+ETSOPU00bad = t.gu......bad:out
+ETSOPU00caa = t.gu......caa:out
+ETSOPU00cab = t.gu......cab:out
+ETSOPU00cac = t.gu......cac:out
+@
+title: ETaETSOPB00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPB00aaa = t.gc......aaa:out
+ETSOPB00aab = t.gc......aab:out
+ETSOPB00aac = t.gc......aac:out
+ETSOPB00baa = t.gc......baa:out
+ETSOPB00bab = t.gc......bab:out
+ETSOPB00bac = t.gc......bac:out
+ETSOPB00bad = t.gc......bad:out
+ETSOPB00caa = t.gc......caa:out
+ETSOPB00cab = t.gc......cab:out
+ETSOPB00cac = t.gc......cac:out
+@
+title: ETaETSOPR00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPR00aaa = t.gr......aaa:out
+ETSOPR00aab = t.gr......aab:out
+ETSOPR00aac = t.gr......aac:out
+ETSOPR00baa = t.gr......baa:out
+ETSOPR00bab = t.gr......bab:out
+ETSOPR00bac = t.gr......bac:out
+ETSOPR00bad = t.gr......bad:out
+ETSOPR00caa = t.gr......caa:out
+ETSOPR00cab = t.gr......cab:out
+ETSOPR00cac = t.gr......cac:out
+@
+title: ETaETSOPS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETSOPS00aaa = t.hr......aaa:out
+ETSOPS00aab = t.hr......aab:out
+ETSOPS00aac = t.hr......aac:out
+ETSOPS00baa = t.hr......baa:out
+ETSOPS00bab = t.hr......bab:out
+ETSOPS00bac = t.hr......bac:out
+ETSOPS00bad = t.hr......bad:out
+ETSOPS00caa = t.hr......caa:out
+ETSOPS00cab = t.hr......cab:out
+ETSOPS00cac = t.hr......cac:out
+@
+title: ETaETELBS00_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELBS00aaa = s.zn......aaa:out
+ETELBS00aab = s.zn......aab:out
+ETELBS00aac = s.zn......aac:out
+ETELBS00baa = s.zn......baa:out
+ETELBS00bab = s.zn......bab:out
+ETELBS00bac = s.zn......bac:out
+ETELBS00bad = s.zn......bad:out
+ETELBS00caa = s.zn......caa:out
+ETELBS00cab = s.zn......cab:out
+ETELBS00cac = s.zn......cac:out
+@
+title: ETaETRIDM_GenaleVI_GenaleV_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_GenaleVI_GenaleVaaa = s.Ld......aaa:out
+ETRIDM_GenaleVI_GenaleVaab = s.Ld......aab:out
+ETRIDM_GenaleVI_GenaleVaac = s.Ld......aac:out
+ETRIDM_GenaleVI_GenaleVbaa = s.Ld......baa:out
+ETRIDM_GenaleVI_GenaleVbab = s.Ld......bab:out
+ETRIDM_GenaleVI_GenaleVbac = s.Ld......bac:out
+ETRIDM_GenaleVI_GenaleVbad = s.Ld......bad:out
+ETRIDM_GenaleVI_GenaleVcaa = s.Ld......caa:out
+ETRIDM_GenaleVI_GenaleVcab = s.Ld......cab:out
+ETRIDM_GenaleVI_GenaleVcac = s.Ld......cac:out
+@
+title: ETaETRIDM_ChemogaYI_II_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_ChemogaYI_IIaaa = s.Od......aaa:out
+ETRIDM_ChemogaYI_IIaab = s.Od......aab:out
+ETRIDM_ChemogaYI_IIaac = s.Od......aac:out
+ETRIDM_ChemogaYI_IIbaa = s.Od......baa:out
+ETRIDM_ChemogaYI_IIbab = s.Od......bab:out
+ETRIDM_ChemogaYI_IIbac = s.Od......bac:out
+ETRIDM_ChemogaYI_IIbad = s.Od......bad:out
+ETRIDM_ChemogaYI_IIcaa = s.Od......caa:out
+ETRIDM_ChemogaYI_IIcab = s.Od......cab:out
+ETRIDM_ChemogaYI_IIcac = s.Od......cac:out
+@
+title: ETaETRIDM_Karadobi_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Karadobiaaa = s.Ud......aaa:out
+ETRIDM_Karadobiaab = s.Ud......aab:out
+ETRIDM_Karadobiaac = s.Ud......aac:out
+ETRIDM_Karadobibaa = s.Ud......baa:out
+ETRIDM_Karadobibab = s.Ud......bab:out
+ETRIDM_Karadobibac = s.Ud......bac:out
+ETRIDM_Karadobibad = s.Ud......bad:out
+ETRIDM_Karadobicaa = s.Ud......caa:out
+ETRIDM_Karadobicab = s.Ud......cab:out
+ETRIDM_Karadobicac = s.Ud......cac:out
+@
+title: ETaETRIDM_Gilgel_Gibe_III_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Gilgel_Gibe_IIIaaa = s.Xd......aaa:out
+ETRIDM_Gilgel_Gibe_IIIaab = s.Xd......aab:out
+ETRIDM_Gilgel_Gibe_IIIaac = s.Xd......aac:out
+ETRIDM_Gilgel_Gibe_IIIbaa = s.Xd......baa:out
+ETRIDM_Gilgel_Gibe_IIIbab = s.Xd......bab:out
+ETRIDM_Gilgel_Gibe_IIIbac = s.Xd......bac:out
+ETRIDM_Gilgel_Gibe_IIIbad = s.Xd......bad:out
+ETRIDM_Gilgel_Gibe_IIIcaa = s.Xd......caa:out
+ETRIDM_Gilgel_Gibe_IIIcab = s.Xd......cab:out
+ETRIDM_Gilgel_Gibe_IIIcac = s.Xd......cac:out
+@
+title: ETaETRIDM_Renaissance_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Renaissanceaaa = s.Yd......aaa:out
+ETRIDM_Renaissanceaab = s.Yd......aab:out
+ETRIDM_Renaissanceaac = s.Yd......aac:out
+ETRIDM_Renaissancebaa = s.Yd......baa:out
+ETRIDM_Renaissancebab = s.Yd......bab:out
+ETRIDM_Renaissancebac = s.Yd......bac:out
+ETRIDM_Renaissancebad = s.Yd......bad:out
+ETRIDM_Renaissancecaa = s.Yd......caa:out
+ETRIDM_Renaissancecab = s.Yd......cab:out
+ETRIDM_Renaissancecac = s.Yd......cac:out
+@
+title: ETaETRIDM_Amarti_Neshe_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Amarti_Nesheaaa = s.bd......aaa:out
+ETRIDM_Amarti_Nesheaab = s.bd......aab:out
+ETRIDM_Amarti_Nesheaac = s.bd......aac:out
+ETRIDM_Amarti_Neshebaa = s.bd......baa:out
+ETRIDM_Amarti_Neshebab = s.bd......bab:out
+ETRIDM_Amarti_Neshebac = s.bd......bac:out
+ETRIDM_Amarti_Neshebad = s.bd......bad:out
+ETRIDM_Amarti_Neshecaa = s.bd......caa:out
+ETRIDM_Amarti_Neshecab = s.bd......cab:out
+ETRIDM_Amarti_Neshecac = s.bd......cac:out
+@
+title: ETaETRIDM_Finchaa_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Finchaaaaa = s.cd......aaa:out
+ETRIDM_Finchaaaab = s.cd......aab:out
+ETRIDM_Finchaaaac = s.cd......aac:out
+ETRIDM_Finchaabaa = s.cd......baa:out
+ETRIDM_Finchaabab = s.cd......bab:out
+ETRIDM_Finchaabac = s.cd......bac:out
+ETRIDM_Finchaabad = s.cd......bad:out
+ETRIDM_Finchaacaa = s.cd......caa:out
+ETRIDM_Finchaacab = s.cd......cab:out
+ETRIDM_Finchaacac = s.cd......cac:out
+@
+title: ETaETRIDM_Maleka_Wakana_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Maleka_Wakanaaaa = s.dd......aaa:out
+ETRIDM_Maleka_Wakanaaab = s.dd......aab:out
+ETRIDM_Maleka_Wakanaaac = s.dd......aac:out
+ETRIDM_Maleka_Wakanabaa = s.dd......baa:out
+ETRIDM_Maleka_Wakanabab = s.dd......bab:out
+ETRIDM_Maleka_Wakanabac = s.dd......bac:out
+ETRIDM_Maleka_Wakanabad = s.dd......bad:out
+ETRIDM_Maleka_Wakanacaa = s.dd......caa:out
+ETRIDM_Maleka_Wakanacab = s.dd......cab:out
+ETRIDM_Maleka_Wakanacac = s.dd......cac:out
+@
+title: ETaETRIDM_Gilgel_Gibe_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Gilgel_Gibe_Iaaa = s.ed......aaa:out
+ETRIDM_Gilgel_Gibe_Iaab = s.ed......aab:out
+ETRIDM_Gilgel_Gibe_Iaac = s.ed......aac:out
+ETRIDM_Gilgel_Gibe_Ibaa = s.ed......baa:out
+ETRIDM_Gilgel_Gibe_Ibab = s.ed......bab:out
+ETRIDM_Gilgel_Gibe_Ibac = s.ed......bac:out
+ETRIDM_Gilgel_Gibe_Ibad = s.ed......bad:out
+ETRIDM_Gilgel_Gibe_Icaa = s.ed......caa:out
+ETRIDM_Gilgel_Gibe_Icab = s.ed......cab:out
+ETRIDM_Gilgel_Gibe_Icac = s.ed......cac:out
+@
+title: ETaETRIDM_Tekeze_I_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETRIDM_Tekeze_Iaaa = s.fd......aaa:out
+ETRIDM_Tekeze_Iaab = s.fd......aab:out
+ETRIDM_Tekeze_Iaac = s.fd......aac:out
+ETRIDM_Tekeze_Ibaa = s.fd......baa:out
+ETRIDM_Tekeze_Ibab = s.fd......bab:out
+ETRIDM_Tekeze_Ibac = s.fd......bac:out
+ETRIDM_Tekeze_Ibad = s.fd......bad:out
+ETRIDM_Tekeze_Icaa = s.fd......caa:out
+ETRIDM_Tekeze_Icab = s.fd......cab:out
+ETRIDM_Tekeze_Icac = s.fd......cac:out
+@
+title: ETaETELST04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELST04aaa = s.Bn......aaa:out
+ETELST04aab = s.Bn......aab:out
+ETELST04aac = s.Bn......aac:out
+ETELST04baa = s.Bn......baa:out
+ETELST04bab = s.Bn......bab:out
+ETELST04bac = s.Bn......bac:out
+ETELST04bad = s.Bn......bad:out
+ETELST04caa = s.Bn......caa:out
+ETELST04cab = s.Bn......cab:out
+ETELST04cac = s.Bn......cac:out
+@
+title: ETaETELST04_02
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELST04aaa = snBd......aaa:out
+ETELST04aab = snBd......aab:out
+ETELST04aac = snBd......aac:out
+ETELST04baa = snBd......baa:out
+ETELST04bab = snBd......bab:out
+ETELST04bac = snBd......bac:out
+ETELST04bad = snBd......bad:out
+ETELST04caa = snBd......caa:out
+ETELST04cab = snBd......cab:out
+ETELST04cac = snBd......cac:out
+@
+title: ETaETELPT04_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELPT04aaa = s.Ad......aaa:out
+ETELPT04aab = s.Ad......aab:out
+ETELPT04aac = s.Ad......aac:out
+ETELPT04baa = s.Ad......baa:out
+ETELPT04bab = s.Ad......bab:out
+ETELPT04bac = s.Ad......bac:out
+ETELPT04bad = s.Ad......bad:out
+ETELPT04caa = s.Ad......caa:out
+ETELPT04cab = s.Ad......cab:out
+ETELPT04cac = s.Ad......cac:out
+@
+title: ETaETELDT04_01_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_01aaa = s.Bd......aaa:out
+ETELDT04_01aab = s.Bd......aab:out
+ETELDT04_01aac = s.Bd......aac:out
+ETELDT04_01baa = s.Bd......baa:out
+ETELDT04_01bab = s.Bd......bab:out
+ETELDT04_01bac = s.Bd......bac:out
+ETELDT04_01bad = s.Bd......bad:out
+ETELDT04_01caa = s.Bd......caa:out
+ETELDT04_01cab = s.Bd......cab:out
+ETELDT04_01cac = s.Bd......cac:out
+@
+title: ETaETELDT04_01_02
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_01aaa = s.Cd......aaa:out
+ETELDT04_01aab = s.Cd......aab:out
+ETELDT04_01aac = s.Cd......aac:out
+ETELDT04_01baa = s.Cd......baa:out
+ETELDT04_01bab = s.Cd......bab:out
+ETELDT04_01bac = s.Cd......bac:out
+ETELDT04_01bad = s.Cd......bad:out
+ETELDT04_01caa = s.Cd......caa:out
+ETELDT04_01cab = s.Cd......cab:out
+ETELDT04_01cac = s.Cd......cac:out
+@
+title: ETaETELDT04_02_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_02aaa = s.Dd......aaa:out
+ETELDT04_02aab = s.Dd......aab:out
+ETELDT04_02aac = s.Dd......aac:out
+ETELDT04_02baa = s.Dd......baa:out
+ETELDT04_02bab = s.Dd......bab:out
+ETELDT04_02bac = s.Dd......bac:out
+ETELDT04_02bad = s.Dd......bad:out
+ETELDT04_02caa = s.Dd......caa:out
+ETELDT04_02cab = s.Dd......cab:out
+ETELDT04_02cac = s.Dd......cac:out
+@
+title: ETaETELDT04_02_02
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_02aaa = s.Ed......aaa:out
+ETELDT04_02aab = s.Ed......aab:out
+ETELDT04_02aac = s.Ed......aac:out
+ETELDT04_02baa = s.Ed......baa:out
+ETELDT04_02bab = s.Ed......bab:out
+ETELDT04_02bac = s.Ed......bac:out
+ETELDT04_02bad = s.Ed......bad:out
+ETELDT04_02caa = s.Ed......caa:out
+ETELDT04_02cab = s.Ed......cab:out
+ETELDT04_02cac = s.Ed......cac:out
+@
+title: ETaETELDT04_03_01
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_03aaa = s.Fd......aaa:out
+ETELDT04_03aab = s.Fd......aab:out
+ETELDT04_03aac = s.Fd......aac:out
+ETELDT04_03baa = s.Fd......baa:out
+ETELDT04_03bab = s.Fd......bab:out
+ETELDT04_03bac = s.Fd......bac:out
+ETELDT04_03bad = s.Fd......bad:out
+ETELDT04_03caa = s.Fd......caa:out
+ETELDT04_03cab = s.Fd......cab:out
+ETELDT04_03cac = s.Fd......cac:out
+@
+title: ETaETELDT04_03_02
+unit: , 1.
+maxtabwidth: 2000
+@
+ETELDT04_03aaa = s.Gd......aaa:out
+ETELDT04_03aab = s.Gd......aab:out
+ETELDT04_03aac = s.Gd......aac:out
+ETELDT04_03baa = s.Gd......baa:out
+ETELDT04_03bab = s.Gd......bab:out
+ETELDT04_03bac = s.Gd......bac:out
+ETELDT04_03bad = s.Gd......bad:out
+ETELDT04_03caa = s.Gd......caa:out
+ETELDT04_03cab = s.Gd......cab:out
+ETELDT04_03cac = s.Gd......cac:out
+@
+@
+@

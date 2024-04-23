@@ -1,0 +1,933 @@
+TDB: empty
+ADB: EGa
+problem: EGa
+description:
+# Egypt
+drate: 10
+timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+loadregions:
+ltype ordered seasonal 1 0
+year 2019 1 10
+name aaa aab aac \
+baa bab bac bad \
+caa cab cac 
+length 0.096689 0.165753 0.069064 \
+0.101484 0.173974 0.028995 0.043493 \
+0.093493 0.160274 0.066781 
+energyforms:
+Final f
+# Final Energy
+Industry e l
+# Industry Electricity Final
+Commerce c l
+# Commerce Electricity Final
+Urban u l
+# Urban Electricity Final
+Rural r l
+# Rural Electricity Final
+SentOut s l f
+# Sentout Electricity Final
+Export E 
+# Export Elc
+*
+Tertiary t
+# Tertiary Energy
+Industry i l
+# Industry Electricity Tertiary
+Commerce c l
+# Commerce Electricity Tertiary
+Urban u l
+# Urban Electricity Tertiary
+Rural r l
+# Rural Electricity Tertiary
+Electricity e l f
+# Tertiary Electricity
+*
+Secondary s
+# Secondary level energies for all countries
+Electricity l l f
+# Secondary level electricity in Egypt
+ElcDummy d l
+# Dummy elc for PS
+*
+Primary G
+# Primary level energies for Egypt
+Coal c 
+# Coal
+Gas g 
+# Gas
+Diesel d 
+# Diesel
+HFO h 
+# Heavy fuel oil
+Bagasse b 
+# Bagasse
+Wood B 
+# Wood
+Hydro H 
+# Hydro
+Solar s 
+# Solar
+Wind w 
+# Wind
+Nuclear n 
+# Nuclear
+*
+Resources 2
+# Energy resources for Egypt
+Coal c 
+# Coal resources
+Oil o 
+# Oil resources
+Gas g 
+# Gas resources
+Biomass b 
+# Biomass resources
+*
+DummyLevelStorage d
+# DummyLevelStorage
+DummyCom_EGELST04 A l
+# DummyCom_EGELST04
+DummyCom_EGELSTPS_Pumpstorage B l
+# DummyCom_EGELSTPS_Pumpstorage
+DummyCom_EGELSTPS_Pumpstorage2 C l
+# DummyCom_EGELSTPS_Pumpstorage2
+*
+demand:
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 22052.74 21780.82 22614.04 23561.27 24520.55 25486.4 26456.47 27540.08 28662.06 29796.97 30934.54 32069.64 33338.86 34646.43 35961.31 37273.12 38578.25 40021.84 41502.92 42990.54 44476.43 45959.35 45959.35
+loadcurve:
+year 2019
+e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
+0.028995 0.043493 0.093493 0.160274 0.066781
+c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
+0.027541 0.041313 0.088806 0.167744 0.063433
+u-f 0.05877 0.277416 0.06189 0.059423 0.188244 \
+0.036716 0.028913 0.058066 0.171193 0.059369
+r-f 0.05877 0.277416 0.06189 0.059423 0.188244 \
+0.036716 0.028913 0.058066 0.171193 0.059369
+s-f 0.069636 0.152214 0.06256 0.093874 0.250127 \
+0.032522 0.046077 0.07508 0.153443 0.064467
+systems.EGWDLC00.g.capfac 0.343799 0.252049 0.397666 0.368568 0.315645 \
+0.569865 0.536056 0.350413 0.225136 0.422363
+systems.EGWDOC00.N.capfac 0.343799 0.252049 0.397666 0.368568 0.315645 \
+0.569865 0.536056 0.350413 0.225136 0.422363
+systems.EGWDOCZ002.P.capfac 0.520411 0.502552 0.540177 0.713295 0.679919 \
+0.67615 0.690931 0.620182 0.597061 0.623677
+systems.EGWDOCZ001.O.capfac 0.607454 0.576178 0.568301 0.82435 0.671184 \
+0.596894 0.688505 0.746553 0.621046 0.685213
+systems.EGWDLC_Zafarana_Wind.M.capfac 0.343799 0.252049 0.397666 0.368568 0.315645 \
+0.569865 0.536056 0.350413 0.225136 0.422363
+systems.EGWDLC_Gabal_El-Zeit_Wind.L.capfac 0.343799 0.252049 0.397666 0.368568 0.315645 \
+0.569865 0.536056 0.350413 0.225136 0.422363
+systems.EGWDLC_Ras_Gharib_Wind.A.capfac 0.611621 0.599414 0.599962 0.790295 0.756599 \
+0.738654 0.743962 0.745561 0.694563 0.71545
+systems.EGWDLCZ010.K.capfac 0.531988 0.538928 0.64102 0.577749 0.592484 \
+0.83779 0.839511 0.540174 0.515044 0.652908
+systems.EGWDLCZ009.J.capfac 0.654679 0.428663 0.573278 0.760734 0.504075 \
+0.652282 0.754168 0.742277 0.464434 0.686016
+systems.EGWDLCZ008.I.capfac 0.541107 0.44835 0.627869 0.711126 0.571764 \
+0.830207 0.827577 0.612543 0.478769 0.686406
+systems.EGWDLCZ007.H.capfac 0.581968 0.507382 0.622385 0.692869 0.596561 \
+0.78819 0.786917 0.584214 0.523116 0.657189
+systems.EGWDLCZ006.G.capfac 0.611621 0.599414 0.599962 0.790295 0.756599 \
+0.738654 0.743962 0.745561 0.694563 0.71545
+systems.EGWDLCZ005.F.capfac 0.542978 0.604372 0.639278 0.613849 0.687349 \
+0.820828 0.779211 0.586924 0.593314 0.647117
+systems.EGWDLCZ004.E.capfac 0.552705 0.614498 0.458234 0.504569 0.651386 \
+0.362586 0.382315 0.652091 0.659894 0.536345
+systems.EGWDLCZ003.D.capfac 0.549409 0.440477 0.600372 0.69148 0.576395 \
+0.771352 0.802439 0.623329 0.49416 0.701809
+systems.EGWDLCZ002.C.capfac 0.710594 0.434067 0.615354 0.74246 0.441495 \
+0.597512 0.69658 0.794856 0.415819 0.700791
+systems.EGWDLCZ001.B.capfac 0.502639 0.53309 0.564971 0.716505 0.705545 \
+0.742704 0.724792 0.568957 0.589664 0.596036
+systems.EGSOTN00.i.capfac 0.011624 0.492342 0 0.035126 0.611186 \
+0 0 0.006945 0.454376 0
+systems.EGSOTNZ002.C.capfac 0.004943 0.801979 0.671447 0.050025 0.932841 \
+0.951997 0.558213 0 0.741762 0.546605
+systems.EGSOTNZ001.B.capfac 0.002199 0.843685 0.777164 0.033269 0.932977 \
+0.953972 0.368334 0 0.805516 0.623738
+systems.EGSOTS00.j.capfac 0 0.54342 0.152227 0 0.54342 \
+0.282263 0.065536 0.000216 0.543519 0.151687
+systems.EGSOTSZ002.E.capfac 0.414963 0.855805 0.91329 0.605869 0.971353 \
+0.984435 0.962251 0.32371 0.798447 0.908713
+systems.EGSOTSZ001.D.capfac 0.483209 0.880203 0.954782 0.441445 0.972665 \
+0.992259 0.969352 0.348447 0.853677 0.956393
+systems.EGSOPC00.k.capfac 0.010761 0.418971 0 0.031679 0.522797 \
+0 0 0.006605 0.38839 0
+systems.EGSOPC_Benban_Solar_PV.B.capfac 0.010761 0.418971 0 0.031679 0.522797 \
+0 0 0.006605 0.38839 0
+systems.EGSOPC_Phares_SolarPV.A.capfac 0.00068 0.44688 0.00009 0.005372 0.533908 \
+0.004237 0 0.000299 0.386148 0
+systems.EGSOPCZ010.M.capfac 0.00068 0.44688 0.00009 0.005372 0.533908 \
+0.004237 0 0.000299 0.386148 0
+systems.EGSOPCZ009.L.capfac 0.00111 0.429632 0.000172 0.008322 0.547435 \
+0.005636 0 0.00058 0.366441 0
+systems.EGSOPCZ008.K.capfac 0.000002 0.457068 0.000022 0.000022 0.508807 \
+0.001048 0 0 0.401518 0
+systems.EGSOPCZ007.J.capfac 0.001375 0.443227 0.000327 0.009263 0.557059 \
+0.008251 0 0.000858 0.380121 0
+systems.EGSOPCZ006.I.capfac 0.000099 0.446661 0 0.002108 0.526436 \
+0.001212 0 0.000001 0.386287 0
+systems.EGSOPCZ005.H.capfac 0.000946 0.440705 0.000212 0.007467 0.558797 \
+0.007206 0 0.000469 0.378101 0
+systems.EGSOPCZ004.G.capfac 0.001128 0.431045 0.000197 0.008606 0.554179 \
+0.006758 0 0.000574 0.367067 0
+systems.EGSOPCZ003.F.capfac 0.000596 0.433928 0.000124 0.005564 0.545427 \
+0.005756 0 0.000216 0.371305 0
+systems.EGSOPCZ002.E.capfac 0.000223 0.449514 0.000001 0.002525 0.513053 \
+0.00049 0 0.000046 0.391068 0
+systems.EGSOPCZ001.D.capfac 0.00076 0.438705 0.000126 0.006169 0.540409 \
+0.005034 0 0.000334 0.378738 0
+systems.EGHYRO_Assuit.0.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.EGHYRO_Naga_Hamadi.4.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.EGHYRO_Esna.3.capfac 0.929064 0.929064 0.929064 0.929064 0.929064 \
+0.929064 0.929064 0.929064 0.929064 0.929064
+systems.EGHYRO_Aswan_II.2.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.EGHYRO_Aswan_I.1.capfac 1 1 1 1 1 \
+1 1 1 1 1
+systems.EGSOPU00.g.capfac 0.008992 0.380846 0 0.027171 0.472778 \
+0 0 0.005371 0.351478 0
+systems.EGSOPB00.g.capfac 0.008992 0.380846 0 0.027171 0.472778 \
+0 0 0.005371 0.351478 0
+systems.EGSOPR00.g.capfac 0.189365 0.356063 0.362281 0.176441 0.355049 \
+0.473925 0.321955 0.192594 0.354472 0.361545
+systems.EGSOPS00.h.capfac 0.008992 0.380846 0 0.027171 0.472778 \
+0 0 0.005371 0.351478 0
+systems.EGRIDM_High_Dam.B.capfac 0.382224 0.382224 0.382224 0.743104 0.743104 \
+0.743104 0.743104 0.507173 0.507173 0.507173
+systems.EGELPT04.A.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.EGELDT04_01.C.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.EGELDT04_01.D.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.EGELDT04_02.E.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.EGELDT04_02.F.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.EGELDT04_03.G.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.EGELDT04_03.H.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.EGELPTPS_Pumpstorage.I.capfac 0.331507 0.331507 0 0.347945 0.347945 \
+0.347945 0 0.320548 0.320548 0
+systems.EGELDTPS_Pumpstorage_01.J.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage_01.K.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage_02.L.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage_02.M.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.EGELDTPS_Pumpstorage_03.N.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.EGELDTPS_Pumpstorage_03.O.capfac 0 0 0 0 0 \
+0 0 0 0 1
+systems.EGELPTPS_Pumpstorage2.P.capfac 0.055251 0.055251 0 0.057991 0.057991 \
+0.057991 0 0.053425 0.053425 0
+systems.EGELDTPS_Pumpstorage2_01.Q.capfac 1 0 0 0 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage2_01.R.capfac 0 0 1 0 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage2_02.S.capfac 0 0 0 1 0 \
+0 0 0 0 0
+systems.EGELDTPS_Pumpstorage2_02.T.capfac 0 0 0 0 0 \
+0 1 0 0 0
+systems.EGELDTPS_Pumpstorage2_03.U.capfac 0 0 0 0 0 \
+0 0 1 0 0
+systems.EGELDTPS_Pumpstorage2_03.V.capfac 0 0 0 0 0 \
+0 0 0 0 1
+relationsc:
+relationsp:
+relationss:
+PSd1 PSd1 o 0
+*
+D_EGHYDM_High_Dam D001 o 0
+*
+SS_EGELST04 SS02 o 0
+*
+SS_EGELSTPS_Pumpstorage SS03 o 0
+*
+SS_EGELSTPS_Pumpstorage2 SS04 o 0
+*
+relations1:
+CO2emissionskt CO2 o 
+*
+LocalRE RE o 
+*
+WDBR WDBR o 
+*
+PVBR PVBR o 
+*
+BMTC BMTC o 
+*
+NUC NUC o 
+*
+ReserveMargin RM o 
+*
+InstantaneousWindPV IPW o 0
+*
+WND3 WND3 o 
+*
+PV3 PV3 o 
+*
+Domestic DOM o 
+*
+PSo1 PSo1 o 
+*
+PC_EGELST04 PC01 o 
+*
+PS_EGELST04 PS02 o 0
+*
+DC_EGELST04_01 DC01 o 
+*
+DC_EGELST04_02 DC02 o 
+*
+DC_EGELST04_03 DC03 o 
+*
+PC_EGELSTPS_Pumpstorage PC02 o 
+*
+PS_EGELSTPS_Pumpstorage PS03 o 0
+*
+DC_EGELSTPS_Pumpstorage_01 DC04 o 
+*
+DC_EGELSTPS_Pumpstorage_02 DC05 o 
+*
+DC_EGELSTPS_Pumpstorage_03 DC06 o 
+*
+PC_EGELSTPS_Pumpstorage2 PC03 o 
+*
+PS_EGELSTPS_Pumpstorage2 PS04 o 0
+*
+DC_EGELSTPS_Pumpstorage2_01 DC07 o 
+*
+DC_EGELSTPS_Pumpstorage2_02 DC08 o 
+*
+DC_EGELSTPS_Pumpstorage2_03 DC09 o 
+*
+relations2:
+test test o
+*
+variables:
+systems:
+EGEL00T00 a
+moutp e-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Transmission
+*
+EGEL00i00 I
+# Description: Import of Electricity
+*
+EGEL00i00_Jordan y
+# Description: Import/Export of Electricity (Jordan)
+2. activity d
+*
+EGEL00i00_KSA a
+# Description: Import/Export of Electricity (KSA)
+2. activity g
+*
+EGEL00i00_Greece H
+# Description: Import/Export of Electricity (Greece)
+2. activity h
+*
+EGEL00i00_GCC_Jordan J
+# Description: Import/Export of Electricity (GCC-Jordan)
+2. activity i
+*
+EGEL00TDR g
+moutp r-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Rural Distribution
+*
+EGEL00TDU a
+moutp u-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Urban Distribution
+*
+EGEL00TDC a
+moutp c-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Commerce Distribution
+*
+EGEL00TDI g
+moutp i-t c 1
+inv c 0.01
+fom c 0.01
+# Description: Industry Distribution
+*
+EGEL00TUI a
+# Description: Industry Demand
+*
+EGEL00TUR a
+# Description: Rural Demand
+*
+EGEL00TUS a
+# Description: SentOut Demand
+*
+EGEL00TUU g
+# Description: Urban Demand
+*
+EGEL00TUC g
+# Description: Commerce Demand
+*
+EGDS00I00 g
+# Description: Import of Diesel
+*
+EGDSRC00 g
+# Description: Generic Diesel Centralized
+*
+EGDSSC00 h
+# Description: Generic Diesel Open Cycle
+*
+EGDSSC_Abu_Kir_Gas_Turbines 2
+bdi up c 24
+# Description: Abu_Kir_Gas_Turbines
+*
+EGDSSC_EL-Masaid_Gas_Turbines 1
+# Description: EL-Masaid_Gas_Turbines
+*
+EGDSSC_Sharm_El-Sheikh_Gas_Turbines 0
+bdi up c 120.5
+# Description: Sharm_El-Sheikh_Gas_Turbines
+*
+EGDSRI00 g
+# Description: Generic Diesel 100 kW system (Industry)
+*
+EGDSRU00 g
+# Description: Generic Diesel/Gasoline 1kW system (urban)
+*
+EGDSRB00 g
+# Description: Generic Diesel/Gasoline 1kW system (commercial buildings)
+*
+EGDSRR00 g
+# Description: Generic Diesel/Gasoline 1kW system (rural)
+*
+EGHF00I00 a
+# Description: Import of HFO
+*
+EGHFRC00 g
+# Description: Generic HFO
+*
+EGHFSC00 h
+# Description: Generic HFO Turbine
+*
+EGHFSC_Walidia_Steam_Turbines 0
+bdi up c 600
+# Description: Walidia_Steam_Turbines
+*
+EGCO00I00 a
+# Description: Import of Coal
+*
+EGCOSC00 g
+# Description: Generic Coal
+*
+EGNG00X00 a
+# Description: Extraction of Natural Gas
+*
+EGNGSC00 g
+# Description: Generic Gas Open Cycle
+*
+EGNGSC_Cairo_West_Steam_Turbines_New C
+# Description: Cairo_West_Steam_Turbines_New
+*
+EGNGSC_Matrouh/Arish_Steam_Turbines x
+bdi up c 126
+# Description: Matrouh/Arish_Steam_Turbines
+*
+EGNGSC_Hurghada/Wadi_Hof_Gas_Turbines w
+bdi up c 243.06
+# Description: Hurghada/Wadi_Hof_Gas_Turbines
+*
+EGNGSC_Sham_El-Sheikh_Gas_Turbines_Ext p
+bdi up c 288
+# Description: Sham_El-Sheikh_Gas_Turbines_Ext
+*
+EGNGSC_Port_Said_Gas_Turbines_Ext o
+bdi up c 84
+# Description: Port_Said_Gas_Turbines_Ext
+*
+EGNGSC_Damietta_Gas_Turbines_New m
+bdi up c 500
+# Description: Damietta_Gas_Turbines_New
+*
+EGNGSC_Cairo_West_Steam_Turbines_Ext k
+bdc fx ts 0 0 650 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 2010
+# Description: Cairo_West_Steam_Turbines_Ext
+*
+EGNGSC_Ataka_Gas_Turbines e
+bdi up c 1540
+# Description: Ataka_Gas_Turbines Ext
+*
+EGNGSC_Port_Said_East_Steam_Turbines d
+bdi up c 682.5
+# Description: Port_Said_East_Steam_Turbines
+*
+EGNGSC_Suez_Gulf_Steam_Turbines c
+bdi up c 682.5
+# Description: Suez_Gulf_Steam_Turbines
+*
+EGNGSC_South_Helwan_Steam_Turbines a
+bdi up c 1950
+# Description: South_Helwan_Steam_Turbines
+*
+EGNGSC_Kuriemat_Steam_Turbines X
+bdi up c 1254
+# Description: Kureimat_Steam_Turbines
+*
+EGNGSC_Sidi_Krir_Steam_Turbines W
+bdi up c 1322.5
+# Description: Sidi_Krir_Steam_Turbines
+*
+EGNGSC_Abu_Kir_Steam_Turbines U
+bdi up c 911
+# Description: Abu_Kir_Steam_Turbines
+*
+EGNGSC_New_Abu_Kir_Steam_Turbines T
+bdi up c 1300
+# Description: New_Abu_Kir_Steam_Turbines
+*
+EGNGSC_Damanhour_Steam_Turbines S
+bdi up c 300
+# Description: Damanhour_Steam_Turbines
+*
+EGNGSC_Kafr_El-Dewar_Steam_Turbines R
+bdi up c 220
+# Description: Kafr_El-Dewar_Steam_Turbines
+*
+EGNGSC_New_Mahmoudia_Gas_Turbines O
+bdi up c 336
+# Description: New_Mahmoudia_Gas_Turbines
+*
+EGNGSC_Mahmoudia_Gas_Turbines N
+bdi up c 317
+# Description: Mahmoudia_Gas_Turbines
+*
+EGNGSC_Talkha_210_Steam_Turbines K
+bdi up c 420
+# Description: Talkha_210_Steam_Turbines
+*
+EGNGSC_Hurghada_Ext_Gas_Turbines I
+bdi up c 288
+# Description: Hurghada_Ext_Gas_Turbines
+*
+EGNGSC_Suez_Steam_Turbines H
+bdi up c 650
+# Description: Suez_Steam_Turbines
+*
+EGNGSC_Ain_Sokhna_Steam_Turbines G
+bdi up c 1300
+# Description: Ain_Sokhna_Steam_Turbines
+*
+EGNGSC_Oyoun_Mousa_Steam_Turbines D
+bdi up c 640
+# Description: Oyoun_Mousa_Steam_Turbines
+*
+EGNGSC_El-Shabab_Gas_Turbines B
+bdi up c 66.6
+# Description: El-Shabab_Gas_Turbines
+*
+EGNGSC_Abu_Sultan_Steam_Turbines A
+bdi up c 600
+# Description: Abu_Sultan_Steam_Turbines
+*
+EGNGSC_6_October_Gas_Turbines 4
+bdi up c 600
+# Description: 6_October_Gas_Turbines
+*
+EGNGSC_El-Tebeen_Steam_Turbines 3
+bdi up c 700
+# Description: El-Tebeen_Steam_Turbines
+*
+EGNGSC_Cairo_South_Steam_Turbines 2
+bdi up c 165
+# Description: Cairo_South_Steam_Turbines_II
+*
+EGNGSC_Cairo_South_Gas_Turbines 1
+bdi up c 330
+# Description: Cairo_South_Gas_Turbines_I
+*
+EGNGSC_Shoubra_El-Kheima_Steam_Turbines 0
+bdi up c 1295
+# Description: Shoubra_El-Kheima_Steam_Turbines
+*
+EGNGCC00 h
+# Description: Generic Gas Combined Cycle
+*
+EGNGCC_Damanhour/Mahmoudia_Combined_Cycle z
+bdi up c 158
+# Description: Damanhour_Combined_Cycle
+*
+EGNGCC_Cairo_North/South_Combined_Cycle y
+bdi up c 1500
+# Description: Cairo_North_Combined_Cycle
+*
+EGNGCC_6_October_Combined_Cycle_Ext u
+bdi up c 918.5
+# Description: 6_October_Combined_Cycle_Ext
+*
+EGNGCC_New_Capital_Combined_Cycle t
+bdi up c 4800
+# Description: New_Capital_Combined_Cycle
+*
+EGNGCC_Beni_Suef_Combined_Cycle s
+bdi up c 4800
+# Description: Beni_Suef_Combined_Cycle
+*
+EGNGCC_Sidi_Krir_Combined_Cycle r
+bdi up c 750
+# Description: Sidi_Krir_Combined_Cycle
+*
+EGNGCC_West_Damietta_Combined_Cycle_Ext n
+bdi up c 750
+# Description: West_Damietta_Combined_Cycle_Ext
+*
+EGNGCC_El-Shabab_Combined_Cycle_New l
+bdi up c 1500
+# Description: El-Shabab_Combined_Cycle_New
+*
+EGNGCC_Burulls_Combined_Cycle f
+bdi up c 4800
+# Description: Burulus_Combined_Cycle
+*
+EGNGCC_West_Assuit_Combined_Cycle Z
+bdi up c 1500
+# Description: West_Assuit_Combined_Cycle
+*
+EGNGCC_Kuriemat_Combined_Cycle Y
+bdi up c 1620
+# Description: Kuriemat_Combined_Cycle
+*
+EGNGCC_Benha_Combined_Cycle Q
+bdi up c 750
+# Description: Banha_Combined_Cycle
+*
+EGNGCC_El-Atf_Combined_Cycle P
+bdi up c 750
+# Description: El-Atf_Combined_Cycle
+*
+EGNGCC_Nubaria_Combined_Cycle M
+bdi up c 2250
+# Description: Nubaria_Combined_Cycle_1_2_3
+*
+EGNGCC_Talkha_750_Combined_Cycle L
+bdi up c 750
+# Description: Talkha_750_Combined_Cycle
+*
+EGNGCC_Talkha_Combined_Cycle J
+bdi up c 289.4
+# Description: Talkha_Combined_Cycle
+*
+EGNGCC_Damietta_Combined_Cycle F
+bdi up c 1200
+# Description: Damietta_Combined_Cycle
+*
+EGNGCC_West_Damietta_Combined_Cycle E
+bdi up c 750
+# Description: West_Damietta_Combined_Cycle
+*
+EGNGCC_North_Giza_Combined_Cycle 5
+bdi up c 2250
+# Description: North_Giza_Combined_Cycle
+*
+EGNUPW00 g
+# Description: Generic Nuclear
+*
+EGNUPW_Nuclear 0
+bdc fx ts 0 0 0 0 0 0 0 0 1200 1200 1200 1200 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 4800
+# Description: El Dabaa Nuclear Power Plant
+*
+EGWDLC00 g
+# Description: Generic Wind
+*
+EGWDOC00 N
+# Description: Generic OffShore Wind
+*
+EGWDOCZ002 P
+bdi up c 35513.59
+# Description: Offshore Wind Zone 002
+*
+EGWDOCZ001 O
+bdi up c 983.72
+# Description: Offshore Wind Zone 001
+*
+EGWDLC_Zafarana_Wind M
+bdi up c 542
+# Description: Existing E_Zafarana_Wind
+*
+EGWDLC_Gabal_El-Zeit_Wind L
+bdi up c 580
+# Description: Existing E_Gabal_El-Zeit_Wind
+*
+EGWDLC_Ras_Gharib_Wind A
+bdc fx ts 262.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 262.5
+# Description: Existing_Ras Gharib Wind Plant in Zone
+*
+EGWDLCZ010 K
+bdi up c 6825.69
+# Description: Wind Zone 010
+*
+EGWDLCZ009 J
+bdi up c 57740.28
+# Description: Wind Zone 009
+*
+EGWDLCZ008 I
+bdi up c 12507.59
+# Description: Wind Zone 008
+*
+EGWDLCZ007 H
+bdi up c 8505.97
+# Description: Wind Zone 007
+*
+EGWDLCZ006 G
+bdi up c 13720.59
+# Description: Wind Zone 006
+*
+EGWDLCZ005 F
+bdi up c 5287.04
+# Description: Wind Zone 005
+*
+EGWDLCZ004 E
+bdi up c 4526.32
+# Description: Wind Zone 004
+*
+EGWDLCZ003 D
+bdi up c 19981.98
+# Description: Wind Zone 003
+*
+EGWDLCZ002 C
+bdi up c 5289.32
+# Description: Wind Zone 002
+*
+EGWDLCZ001 B
+bdi up c 9633.52
+# Description: Wind Zone 001
+*
+EGGOCV00 h
+# Description: Generic Geothermal
+*
+EGSOTN00 i
+# Description: Generic Solar thermal no storage
+*
+EGSOTNZ002 C
+fyear 2026
+bdi up c 32781.91
+# Description: Solar CSP 6hrStor Zone 002
+*
+EGSOTNZ001 B
+fyear 2026
+bdi up c 53468.91
+# Description: Solar CSP 6hrStor Zone 001
+*
+EGSOTN_Kuriemat_Hybrid_Solar_CSP b
+bdi up c 20
+# Description: Kuriemat_Hybrid_Solar_CSP
+*
+EGSOTS00 j
+# Description: Generic Solar thermal with Storage
+*
+EGSOTSZ002 E
+fyear 2050
+bdi up c 16501.07
+# Description: Solar CSP 12hrStor Zone 002
+*
+EGSOTSZ001 D
+fyear 2050
+bdi up c 26624.33
+# Description: Solar CSP 12hrStor Zone 001
+*
+EGSOTG00 i
+# Description: Generic Solar thermal with Gas co-firing
+*
+EGSOPC00 k
+# Description: Generic PV System (utility)
+*
+EGSOPC_Benban_Solar_PV B
+bdi up c 1465
+# Description: Existing E_Benban_Solar_PV
+*
+EGSOPC_Phares_SolarPV A
+bdc fx ts 0 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 26
+# Description: Existing_Phares solar PV Plant in Zone
+*
+EGSOPCZ010 M
+bdi up c 18152.21
+# Description: Solar PV Zone 010
+*
+EGSOPCZ009 L
+bdi up c 462.23
+# Description: Solar PV Zone 009
+*
+EGSOPCZ008 K
+bdi up c 12286.14
+# Description: Solar PV Zone 008
+*
+EGSOPCZ007 J
+bdc lo ts 0 0 0 0 0 0 853 853 853 853 853 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 5014.47
+# Description: Solar PV Zone 007
+*
+EGSOPCZ006 I
+bdi up c 32523.61
+# Description: Solar PV Zone 006
+*
+EGSOPCZ005 H
+bdi up c 10297.52
+# Description: Solar PV Zone 005
+*
+EGSOPCZ004 G
+bdi up c 7761.5
+bdi lo ts 0 0 0 0 0 278 422.5 422.5 422.5 422.5 422.5 0 0 0 0 0 0 0 0 0 0 0 0
+# Description: Solar PV Zone 004
+*
+EGSOPCZ003 F
+bdi up c 10781.75
+# Description: Solar PV Zone 003
+*
+EGSOPCZ002 E
+bdi up c 53514.93
+# Description: Solar PV Zone 002
+*
+EGSOPCZ001 D
+bdi up c 10158.31
+# Description: Solar PV Zone 001
+*
+EGBM00X00 a
+# Description: Extraction of Bagasse
+*
+EGBW00X00 a
+# Description: Extraction of Wood
+*
+EGHY00X00 a
+# Description: Supply of Hydro
+*
+EGSO00X00 a
+# Description: Supply of Solar
+*
+EGWD00X00 a
+# Description: Supply of Wind
+*
+EGBMST00 g
+# Description: Generic Bagasse
+*
+EGBWST00 a
+# Description: Generic Wood
+*
+EGHYMI00 g
+# Description: Generic Hydro Small
+*
+EGHYRO_Assuit 0
+bdi up c 32
+# Description: Assuit_Hydro
+*
+EGHYDM00 g
+# Description: Generic Hydro with DAM
+*
+EGHYDM_High_Dam 0
+bdi up c 2100
+# Description: High_Dam_Hydro
+*
+EGHYRO00 h
+# Description: Generic Hydro ROR
+*
+EGHYRO_Naga_Hamadi 4
+bdi up c 64
+# Description: Naga_Hamadi_Hydro
+*
+EGHYRO_Esna 3
+bdi up c 85.68
+# Description: Esna_Hydro
+*
+EGHYRO_Aswan_II 2
+# Description: Aswan_Dam_II_Hydro
+*
+EGHYRO_Aswan_I 1
+# Description: Aswan_Dam_I_Hydro
+*
+EGSOPU00 g
+# Description: Generic PV system (roof top - urban)
+*
+EGSOPB00 g
+# Description: Generic PV system (roof top - commercial buildings)
+*
+EGSOPR00 g
+# Description: Generic PV system (roof top - rural)
+*
+EGSOPS00 h
+# Description: Generic PV with 2h Battery (roof top - rural)
+*
+EGNU00I00 g
+# Description: Import of Nuclear
+*
+EGELBS00 z
+# Description: Backstop
+*
+EGRIDM_High_Dam B
+*
+EGELST04 A
+# Description: Battery Storage 4 hrs
+2. activity B
+*
+EGELPT04 A
+*
+EGELDT04_01 C
+2. activity D
+*
+EGELDT04_02 E
+2. activity F
+*
+EGELDT04_03 G
+2. activity H
+*
+EGELSTPS_Pumpstorage F
+bdc fx ts 0 0 0 0 0 0 0 0 1200 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 1200
+# Description: Pump Storage 1 Scheme
+2. activity A
+*
+EGELPTPS_Pumpstorage I
+*
+EGELDTPS_Pumpstorage_01 J
+2. activity K
+*
+EGELDTPS_Pumpstorage_02 L
+2. activity M
+*
+EGELDTPS_Pumpstorage_03 N
+2. activity O
+*
+EGEXDT00 W
+*
+EGELSTPS_Pumpstorage2 G
+# Description: Pump Storage 2 Scheme
+2. activity C
+*
+EGELPTPS_Pumpstorage2 P
+*
+EGELDTPS_Pumpstorage2_01 Q
+2. activity R
+*
+EGELDTPS_Pumpstorage2_02 S
+2. activity T
+*
+EGELDTPS_Pumpstorage2_03 U
+2. activity V
+*
+resources: 
+endata
+
