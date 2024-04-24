@@ -689,69 +689,6 @@ KESOPCZ001 A
 KEGOCV00 k
 # Description: Generic Geothermal
 *
-KEGOCV17_Silali_III A
-# Description: Baringo Silali Silali III
-*
-KEGOCV17_Paka_III A
-# Description: Baringo Silali Paka III
-*
-KEGOCV17_Silali_II A
-# Description: Baringo Silali Silali II
-*
-KEGOCV17_Paka_II A
-# Description: Baringo Silali Paka II
-*
-KEGOCV16_Olkaria_II_Rehab A
-# Description: Olkaria_II_Rehabilitation
-*
-KEGOCV17_Paka_I A
-# Description: Baringo Silali Paka I
-*
-KEGOCV17_Korosi_I A
-# Description: Baringo Silali Korosi I
-*
-KEGOCV20_AGIL_IV A
-# Description: AGIL Longonot Stage IV
-*
-KEGOCV20_AGIL_III A
-# Description: AGIL Longonot Stage III
-*
-KEGOCV20_AGIL_II A
-# Description: AGIL Longonot Stage II
-*
-KEGOCV20_AGIL_I A
-# Description: AGIL Longonot Stage I
-*
-KEGOCV13_Akiira_II A
-# Description: Marine Power Akiira Stage II
-*
-KEGOCV13_Akiira_I A
-# Description: Marine Power Akiira Stage I
-*
-KEGOCV12_Olsuswa_II A
-# Description: Olsuswa Unit II
-*
-KEGOCV12_Olsuswa_I A
-# Description: Olsuswa Unit I
-*
-KEGOCV12_Suswa_III A
-# Description: Suswa III
-*
-KEGOCV12_Suswa_II A
-# Description: Suswa II
-*
-KEGOCV12_Suswa_I A
-# Description: Suswa I
-*
-KEGOCV16_Olkaria_7 {
-# Description: Olkaria 7
-*
-KEGOCV16_Olkaria_6 l
-# Description: Olkaria 6
-*
-KEGOCV18_Menengai_V y
-# Description: Menengai V
-*
 KEGOCV18_Menengai_IV x
 # Description: Menengai IV
 *
@@ -871,9 +808,6 @@ KEGOCV03 C
 *
 KEGOCV02 B
 # Description: Olkaria_1
-*
-KEGOCV01 A
-# Description: Olkaria_2/OrPower_4PI/OrPower_4P2/Orpower_4P3/Orpower_4P4
 *
 KEBM00X00 g
 # Description: Extraction of Bagasse
