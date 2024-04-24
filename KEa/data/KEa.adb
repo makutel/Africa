@@ -424,7 +424,7 @@ moutp u-s c 1
 pll c 60
 inv c 0.01
 abda up c 0
-con1c RM:tin c 0.5
+con1c RM:tin c 0
 con1c TXKE:tin c -1
 # Description: Import of Electricity
 *
