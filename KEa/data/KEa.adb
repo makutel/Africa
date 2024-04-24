@@ -1357,11 +1357,235 @@ con1a DOM c 1
 # lat: -0.54894
 # long: 36.55481
 # source: IRENA 2017
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM
-# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM 
+* 
+KEWDLCZ004_Marsabit_PhII b 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2035 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdi up c 200 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Marsabit Phase 2 
+# status: Candidate 
+# lat: -0.54894 
+# long: 36.55481 
+# source: EAPP database 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZ007_Meru_PhIII a 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2037 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdi up c 220 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Meru Ph III 
+# status: Candidate 
+# lat: -0.54894 
+# long: 36.55481 
+# source: IRENA RE MSR Database Clustered Test5 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZ007_Meru_PhII Z 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2034 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdi up c 100 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Meru Ph II 
+# status: Candidate 
+# lat: -0.54894 
+# long: 36.55481 
+# source: IRENA RE MSR Database Clustered Test5 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZ007_Meru_PhI Y 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2031 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdi up c 80 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Meru Ph I 
+# status: Candidate 
+# lat: -0.54894 
+# long: 36.55481 
+# source: IRENA RE MSR Database Clustered Test5 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZ008_Oldanyat X 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2028 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdc fx ts 0 0 0 0 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0 0 
+bdi up c 30 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Oldanyat 
+# status: Committed 
+# lat: -0.54894 
+# long: 36.55481 
+# source: EAPP database 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZ008_Prunus W 
+minp w-K 1 
+moutp u-s c 1 
+fyear 2026 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+optm c 1 
+ctime c 2 
+bdc fx ts 0 0 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+bdi up c 50 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Prunus 
+# status: Committed 
+# lat: -0.54894 
+# long: 36.55481 
+# source: EAPP database 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01 
+* 
+KEWDLCZH08_Ngong_PhII V 
+minp w-K 1 
+moutp u-s c 1 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+hisc 0 hc 2015 20.4 
+optm c 1 
+ctime c 2 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Ngong_PhII_Wind Zone H_Site ID 08 
+# status: Existing 
+# lat: -0.54894 
+# long: 36.55481 
+# source: KPLC Annual accounts 2020/21 FY 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM 
+* 
+KEWDLCZH08_Ngong_PhI U 
+minp w-K 1 
+moutp u-s c 1 
+plf c 0.83 
+pll c 20 
+inv ts 1846.47 1847.39 1791.84 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 
+fom ts 29.54 29.56 28.67 27.78 26.89 26 25.11 24.23 23.34 22.45 21.56 20.67 20.32 19.96 19.61 19.26 18.9 18.55 18.2 17.84 17.49 17.14 17.14 
+vom c 0 
+hisc 0 hc 2008 5.1 
+optm c 1 
+ctime c 2 
+con1c WDBR c 1 
+con1a RE c 1 
+con1a RELO ts 0.95 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 
+con1a IPW c 1 
+con1a REHI ts 1 1 1 1 1 1 1 0.95 0.9 0.85 0.8 0.75 0.725 0.7 0.675 0.65 0.625 0.6 0.575 0.55 0.525 0.5 0.5 
+con1a DOM c 1 
+# Description: Ngong_PhI_Wind Zone H_Site ID 08 
+# status: Existing 
+# lat: -0.54894 
+# long: 36.55481 
+# source: KPLC Annual accounts 2020/21 FY 
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37 
+# fom: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# inv: cost projection aligned to IRENA WETO2022%%user:Bilal Hussain%%date:10/28/2022 7:00:55 AM 
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM 
+* 
 KEWDLCZ001_Bahari2 T
 minp w-K 1
 moutp u-s c 1
