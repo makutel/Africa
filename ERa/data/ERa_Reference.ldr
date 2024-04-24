@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1884729 0.5776167 0.23391 
 r-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1884729 0.5776167 0.23391 
 s-f
-2019
+2022
 0.28519 0.421089 0.293721
 1.000000
 0.2477681 0.5427222 0.2095094 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2578637 0.532066 0.21007 
 systems.ERWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.317773 0.34572 0.293846 
@@ -70,7 +70,7 @@ systems.ERWDLC00.g.capfac
 1
 0.208771 0.233964 0.19789 
 systems.ERWDOC00.F.capfac
-2019
+2022
 1 1 1
 1
 0.317773 0.34572 0.293846 
@@ -79,7 +79,7 @@ systems.ERWDOC00.F.capfac
 1
 0.208771 0.233964 0.19789 
 systems.ERWDOCZ002.H.capfac
-2019
+2022
 1 1 1
 1
 0.664717 0.723545 0.684395 
@@ -88,7 +88,7 @@ systems.ERWDOCZ002.H.capfac
 1
 0.581023 0.657471 0.603904 
 systems.ERWDOCZ001.G.capfac
-2019
+2022
 1 1 1
 1
 0.689955 0.731906 0.74041 
@@ -97,7 +97,7 @@ systems.ERWDOCZ001.G.capfac
 1
 0.585523 0.668783 0.657163 
 systems.ERWDLCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.59152 0.697152 0.750697 
@@ -106,7 +106,7 @@ systems.ERWDLCZ005.E.capfac
 1
 0.507963 0.640671 0.679336 
 systems.ERWDLCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.509644 0.58165 0.677442 
@@ -115,7 +115,7 @@ systems.ERWDLCZ004.D.capfac
 1
 0.411932 0.565871 0.623359 
 systems.ERWDLCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.695152 0.448618 0.831122 
@@ -124,7 +124,7 @@ systems.ERWDLCZ003.C.capfac
 1
 0.519097 0.311013 0.641188 
 systems.ERWDLCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.61166 0.720354 0.653502 
@@ -133,7 +133,7 @@ systems.ERWDLCZ002.B.capfac
 1
 0.52532 0.656633 0.573856 
 systems.ERWDLCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.298719 0.65098 0.29661 
@@ -142,7 +142,7 @@ systems.ERWDLCZ001.A.capfac
 1
 0.262015 0.630693 0.23569 
 systems.ERSOTNZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.011774 0.834089 0.609877 
@@ -151,7 +151,7 @@ systems.ERSOTNZ002.C.capfac
 1
 0.003593 0.762642 0.422355 
 systems.ERSOTNZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.013776 0.819776 0.539788 
@@ -160,7 +160,7 @@ systems.ERSOTNZ001.B.capfac
 1
 0.006443 0.767854 0.399644 
 systems.ERSOTS00.i.capfac
-2019
+2022
 1 1 1
 1
 0.027583 0.605143 0.097175 
@@ -169,7 +169,7 @@ systems.ERSOTS00.i.capfac
 1
 0.028225 0.604962 0.096711 
 systems.ERSOTSZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.455675 0.891111 0.974388 
@@ -178,7 +178,7 @@ systems.ERSOTSZ002.E.capfac
 1
 0.277982 0.855899 0.904518 
 systems.ERSOTSZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.371908 0.877016 0.935644 
@@ -187,7 +187,7 @@ systems.ERSOTSZ001.D.capfac
 1
 0.292679 0.861956 0.892634 
 systems.ERSOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.04521 0.398876 0 
@@ -196,7 +196,7 @@ systems.ERSOPC00.j.capfac
 1
 0.035731 0.3714 0 
 systems.ERSOPCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.004673 0.483559 0 
@@ -205,7 +205,7 @@ systems.ERSOPCZ005.E.capfac
 1
 0.005593 0.44719 0 
 systems.ERSOPCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.003953 0.478914 0 
@@ -214,7 +214,7 @@ systems.ERSOPCZ004.D.capfac
 1
 0.004818 0.433039 0 
 systems.ERSOPCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.004801 0.48084 0 
@@ -223,7 +223,7 @@ systems.ERSOPCZ003.C.capfac
 1
 0.005438 0.437401 0 
 systems.ERSOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.005633 0.470369 0 
@@ -232,7 +232,7 @@ systems.ERSOPCZ002.B.capfac
 1
 0.006484 0.43584 0 
 systems.ERSOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.003736 0.480667 0 
@@ -241,7 +241,7 @@ systems.ERSOPCZ001.A.capfac
 1
 0.004866 0.433172 0 
 systems.ERHYRO00.A.capfac
-2019
+2022
 1 1 1
 1
 0.2 0.2 0.2 
@@ -250,7 +250,7 @@ systems.ERHYRO00.A.capfac
 1
 0.2 0.2 0.2 
 systems.ERSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -259,7 +259,7 @@ systems.ERSOPU00.g.capfac
 1
 0.023451 0.398096 0 
 systems.ERSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -268,7 +268,7 @@ systems.ERSOPB00.g.capfac
 1
 0.023451 0.398096 0 
 systems.ERSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.221098 0.390421 0.326098 
@@ -277,7 +277,7 @@ systems.ERSOPR00.g.capfac
 1
 0.22599 0.388656 0.323483 
 systems.ERSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -286,7 +286,7 @@ systems.ERSOPS00.h.capfac
 1
 0.023451 0.398096 0 
 systems.ERELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -295,7 +295,7 @@ systems.ERELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.ERELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -304,7 +304,7 @@ systems.ERELDT04_01.B.capfac
 1
 0 0 0 
 systems.ERELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -313,7 +313,7 @@ systems.ERELDT04_01.C.capfac
 1
 0 0 0 
 systems.ERELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -322,7 +322,7 @@ systems.ERELDT04_02.D.capfac
 1
 0 0 0 
 systems.ERELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -331,7 +331,7 @@ systems.ERELDT04_02.E.capfac
 1
 0 0 0 
 systems.ERELDT04_03.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -340,7 +340,7 @@ systems.ERELDT04_03.F.capfac
 1
 1 0 0 
 systems.ERELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 

@@ -1,22 +1,22 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
-length  0.291665 0.500001 0.208334
+length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1884729 0.5776167 0.23391 
 r-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1884729 0.5776167 0.23391 
 s-f
-2019
+2022
 0.309674 0.3236 0.366726
 1.000000
 0.2566892 0.5363348 0.2069757 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2219395 0.6020897 0.1759706 
 systems.ETWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.144928 0.539589 0.427558 
@@ -70,7 +70,7 @@ systems.ETWDLC00.g.capfac
 1
 0.073175 0.301878 0.191175 
 systems.ETWDLC_Ashegoda_2.R.capfac
-2019
+2022
 1 1 1
 1
 0.446381 0.515369 0.815436 
@@ -79,7 +79,7 @@ systems.ETWDLC_Ashegoda_2.R.capfac
 1
 0.386539 0.468728 0.775504 
 systems.ETWDOC00.L.capfac
-2019
+2022
 1 1 1
 1
 0.144928 0.539589 0.427558 
@@ -88,7 +88,7 @@ systems.ETWDOC00.L.capfac
 1
 0.073175 0.301878 0.191175 
 systems.ETWDLCZ010.K.capfac
-2019
+2022
 1 1 1
 1
 0.401327 0.570838 0.623473 
@@ -97,7 +97,7 @@ systems.ETWDLCZ010.K.capfac
 1
 0.38324 0.601346 0.554136 
 systems.ETWDLCZ009.J.capfac
-2019
+2022
 1 1 1
 1
 0.494874 0.591849 0.661132 
@@ -106,7 +106,7 @@ systems.ETWDLCZ009.J.capfac
 1
 0.466296 0.547356 0.48729 
 systems.ETWDLCZ008.I.capfac
-2019
+2022
 1 1 1
 1
 0.695809 0.446563 0.809762 
@@ -115,7 +115,7 @@ systems.ETWDLCZ008.I.capfac
 1
 0.61068 0.469303 0.678889 
 systems.ETWDLCZ007.H.capfac
-2019
+2022
 1 1 1
 1
 0.395203 0.388499 0.417981 
@@ -124,7 +124,7 @@ systems.ETWDLCZ007.H.capfac
 1
 0.418509 0.381956 0.430999 
 systems.ETWDLCZ006.G.capfac
-2019
+2022
 1 1 1
 1
 0.623157 0.504709 0.804579 
@@ -133,7 +133,7 @@ systems.ETWDLCZ006.G.capfac
 1
 0.551998 0.506662 0.738938 
 systems.ETWDLCZ005.F.capfac
-2019
+2022
 1 1 1
 1
 0.446381 0.515369 0.815436 
@@ -142,7 +142,7 @@ systems.ETWDLCZ005.F.capfac
 1
 0.386539 0.468728 0.775504 
 systems.ETWDLCZ004.E.capfac
-2019
+2022
 1 1 1
 1
 0.326417 0.332439 0.386535 
@@ -151,7 +151,7 @@ systems.ETWDLCZ004.E.capfac
 1
 0.476053 0.546588 0.642521 
 systems.ETWDLCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.39973 0.300455 0.323006 
@@ -160,7 +160,7 @@ systems.ETWDLCZ003.C.capfac
 1
 0.400003 0.350951 0.323767 
 systems.ETWDLCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.709556 0.623706 0.842465 
@@ -169,7 +169,7 @@ systems.ETWDLCZ002.B.capfac
 1
 0.594909 0.58244 0.733227 
 systems.ETWDLC_Ashegoda.A.capfac
-2019
+2022
 1 1 1
 1
 0.446381 0.515369 0.815436 
@@ -178,7 +178,7 @@ systems.ETWDLC_Ashegoda.A.capfac
 1
 0.386539 0.468728 0.775504 
 systems.ETWDLCZBQ04.D.capfac
-2019
+2022
 1 1 1
 1
 0.596745 0.596745 0.596745 
@@ -187,7 +187,7 @@ systems.ETWDLCZBQ04.D.capfac
 1
 0.596745 0.596745 0.596745 
 systems.ETSOTN00.h.capfac
-2019
+2022
 1 1 1
 1
 0.122931 0.552544 0 
@@ -196,7 +196,7 @@ systems.ETSOTN00.h.capfac
 1
 0.102657 0.506186 0 
 systems.ETSOTNZ002.D.capfac
-2019
+2022
 1 1 1
 1
 0.00992 0.820073 0.585442 
@@ -205,7 +205,7 @@ systems.ETSOTNZ002.D.capfac
 1
 0.008379 0.76659 0.452677 
 systems.ETSOTNZ001.C.capfac
-2019
+2022
 1 1 1
 1
 0.029521 0.797308 0.569837 
@@ -214,7 +214,7 @@ systems.ETSOTNZ001.C.capfac
 1
 0.070787 0.750931 0.414567 
 systems.ETSOTS00.i.capfac
-2019
+2022
 1 1 1
 1
 0.027583 0.605143 0.097175 
@@ -223,7 +223,7 @@ systems.ETSOTS00.i.capfac
 1
 0.028225 0.604962 0.096711 
 systems.ETSOTSZ002.F.capfac
-2019
+2022
 1 1 1
 1
 0.430064 0.879083 0.954188 
@@ -232,7 +232,7 @@ systems.ETSOTSZ002.F.capfac
 1
 0.296708 0.849416 0.894331 
 systems.ETSOTSZ001.E.capfac
-2019
+2022
 1 1 1
 1
 0.41583 0.869626 0.885235 
@@ -241,7 +241,7 @@ systems.ETSOTSZ001.E.capfac
 1
 0.369819 0.845589 0.868212 
 systems.ETSOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.104617 0.462138 0 
@@ -250,7 +250,7 @@ systems.ETSOPC00.j.capfac
 1
 0.09052 0.434122 0 
 systems.ETSOPCZ008_Metahare2.Q.capfac
-2019
+2022
 1 1 1
 1
 0.005125 0.469815 0 
@@ -259,7 +259,7 @@ systems.ETSOPCZ008_Metahare2.Q.capfac
 1
 0.007518 0.439916 0 
 systems.ETSOPCZ008_Metahare1.O.capfac
-2019
+2022
 1 1 1
 1
 0.005125 0.469815 0 
@@ -268,7 +268,7 @@ systems.ETSOPCZ008_Metahare1.O.capfac
 1
 0.007518 0.439916 0 
 systems.ETSOPCZ008_Gad1.N.capfac
-2019
+2022
 1 1 1
 1
 0.005125 0.469815 0 
@@ -277,7 +277,7 @@ systems.ETSOPCZ008_Gad1.N.capfac
 1
 0.007518 0.439916 0 
 systems.ETSOPCZ001_Weranso.M.capfac
-2019
+2022
 1 1 1
 1
 0.002426 0.478239 0 
@@ -286,7 +286,7 @@ systems.ETSOPCZ001_Weranso.M.capfac
 1
 0.003273 0.443641 0 
 systems.ETSOPCZ001_Mekele.L.capfac
-2019
+2022
 1 1 1
 1
 0.002426 0.478239 0 
@@ -295,7 +295,7 @@ systems.ETSOPCZ001_Mekele.L.capfac
 1
 0.003273 0.443641 0 
 systems.ETSOPCZ001_Dicheto.K.capfac
-2019
+2022
 1 1 1
 1
 0.002426 0.478239 0 
@@ -304,7 +304,7 @@ systems.ETSOPCZ001_Dicheto.K.capfac
 1
 0.003273 0.443641 0 
 systems.ETSOPCZ010.J.capfac
-2019
+2022
 1 1 1
 1
 0.002585 0.47714 0 
@@ -313,7 +313,7 @@ systems.ETSOPCZ010.J.capfac
 1
 0.004478 0.461793 0 
 systems.ETSOPCZ009.I.capfac
-2019
+2022
 1 1 1
 1
 0.00302 0.464804 0 
@@ -322,7 +322,7 @@ systems.ETSOPCZ009.I.capfac
 1
 0.004748 0.46539 0 
 systems.ETSOPCZ008.H.capfac
-2019
+2022
 1 1 1
 1
 0.005125 0.469815 0 
@@ -331,7 +331,7 @@ systems.ETSOPCZ008.H.capfac
 1
 0.007518 0.439916 0 
 systems.ETSOPCZ007.G.capfac
-2019
+2022
 1 1 1
 1
 0.006966 0.48459 0 
@@ -340,7 +340,7 @@ systems.ETSOPCZ007.G.capfac
 1
 0.009116 0.457375 0 
 systems.ETSOPCZ006.F.capfac
-2019
+2022
 1 1 1
 1
 0.003905 0.475058 0 
@@ -349,7 +349,7 @@ systems.ETSOPCZ006.F.capfac
 1
 0.005719 0.466614 0 
 systems.ETSOPCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.009461 0.498973 0 
@@ -358,7 +358,7 @@ systems.ETSOPCZ005.E.capfac
 1
 0.012906 0.465076 0 
 systems.ETSOPCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.003495 0.466845 0 
@@ -367,7 +367,7 @@ systems.ETSOPCZ004.D.capfac
 1
 0.005015 0.465175 0 
 systems.ETSOPCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.002789 0.484334 0 
@@ -376,7 +376,7 @@ systems.ETSOPCZ003.C.capfac
 1
 0.003752 0.452874 0 
 systems.ETSOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.002584 0.464974 0 
@@ -385,7 +385,7 @@ systems.ETSOPCZ002.B.capfac
 1
 0.004523 0.454564 0 
 systems.ETSOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.002426 0.478239 0 
@@ -394,7 +394,7 @@ systems.ETSOPCZ001.A.capfac
 1
 0.003273 0.443641 0 
 systems.ETHYRO_Wabaressa.b.capfac
-2019
+2022
 1 1 1
 1
 0.023879 0.023879 0.023902 
@@ -403,7 +403,7 @@ systems.ETHYRO_Wabaressa.b.capfac
 1
 0.400336 0.400336 0.398674 
 systems.ETHYRO_Halele.S.capfac
-2019
+2022
 1 1 1
 1
 0.023879 0.023879 0.023902 
@@ -412,7 +412,7 @@ systems.ETHYRO_Halele.S.capfac
 1
 0.400336 0.400336 0.398674 
 systems.ETHYRO_Genji.R.capfac
-2019
+2022
 1 1 1
 1
 0.053002 0.053002 0.053473 
@@ -421,7 +421,7 @@ systems.ETHYRO_Genji.R.capfac
 1
 0.481039 0.481039 0.479426 
 systems.ETHYRO_Geba_1_II.P.capfac
-2019
+2022
 1 1 1
 1
 0.053521 0.053521 0.054107 
@@ -430,7 +430,7 @@ systems.ETHYRO_Geba_1_II.P.capfac
 1
 0.52557 0.52557 0.523932 
 systems.ETHYRO_Koysha_Step_1_2_3.M.capfac
-2019
+2022
 1 1 1
 1
 0.428813 0.428813 0.428903 
@@ -439,7 +439,7 @@ systems.ETHYRO_Koysha_Step_1_2_3.M.capfac
 1
 0.499645 0.499645 0.499348 
 systems.ETHYRO_BirbirR.Z.capfac
-2019
+2022
 1 1 1
 1
 0.016729 0.016729 0.016802 
@@ -448,7 +448,7 @@ systems.ETHYRO_BirbirR.Z.capfac
 1
 0.423024 0.423024 0.421361 
 systems.ETHYRO_BaroI_II.X.capfac
-2019
+2022
 1 1 1
 1
 0.364871 0.364871 0.36622 
@@ -457,7 +457,7 @@ systems.ETHYRO_BaroI_II.X.capfac
 1
 0.757383 0.757383 0.755989 
 systems.ETHYRO_Beko_Abo.W.capfac
-2019
+2022
 1 1 1
 1
 0.611389 0.611389 0.611389 
@@ -466,7 +466,7 @@ systems.ETHYRO_Beko_Abo.W.capfac
 1
 0.611389 0.611389 0.611389 
 systems.ETHYRO_Sor.H.capfac
-2019
+2022
 1 1 1
 1
 0.035581 0.035581 0.03597 
@@ -475,7 +475,7 @@ systems.ETHYRO_Sor.H.capfac
 1
 0.421024 0.421024 0.419362 
 systems.ETHYRO_Koka.G.capfac
-2019
+2022
 1 1 1
 1
 0.599032 0.599032 0.600357 
@@ -484,7 +484,7 @@ systems.ETHYRO_Koka.G.capfac
 1
 0.553505 0.553505 0.552135 
 systems.ETHYRO_Beles.A.capfac
-2019
+2022
 1 1 1
 1
 0.599032 0.599032 0.600357 
@@ -493,7 +493,7 @@ systems.ETHYRO_Beles.A.capfac
 1
 0.553505 0.553505 0.552135 
 systems.ETHYRO_Gojeb.m.capfac
-2019
+2022
 1 1 1
 1
 0.07304 0.07304 0.0737 
@@ -502,7 +502,7 @@ systems.ETHYRO_Gojeb.m.capfac
 1
 0.389301 0.389301 0.388035 
 systems.ETHYRO_AleltuEast.l.capfac
-2019
+2022
 1 1 1
 1
 0.029809 0.029809 0.029821 
@@ -511,7 +511,7 @@ systems.ETHYRO_AleltuEast.l.capfac
 1
 0.324672 0.324672 0.323005 
 systems.ETHYRO_AleltuWest.k.capfac
-2019
+2022
 1 1 1
 1
 0.029541 0.029541 0.029552 
@@ -520,7 +520,7 @@ systems.ETHYRO_AleltuWest.k.capfac
 1
 0.323671 0.323671 0.322004 
 systems.ETHYRO_TekezeII.f.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -529,7 +529,7 @@ systems.ETHYRO_TekezeII.f.capfac
 1
 1 1 1 
 systems.ETHYRO_Awash_II-III.K.capfac
-2019
+2022
 1 1 1
 1
 0.331369 0.331369 0.332032 
@@ -538,7 +538,7 @@ systems.ETHYRO_Awash_II-III.K.capfac
 1
 0.283577 0.283577 0.282783 
 systems.ETHYRO_Tis_Abbay_I-II.J.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -547,7 +547,7 @@ systems.ETHYRO_Tis_Abbay_I-II.J.capfac
 1
 1 1 1 
 systems.ETHYRO_Gilgel_Gibe_II.I.capfac
-2019
+2022
 1 1 1
 1
 0.436346 0.436346 0.43729 
@@ -556,7 +556,7 @@ systems.ETHYRO_Gilgel_Gibe_II.I.capfac
 1
 0.858158 0.858158 0.857182 
 systems.ETHYRO_Aba_Samuel.h.capfac
-2019
+2022
 1 1 1
 1
 0.1919 0.1919 0.192335 
@@ -565,7 +565,7 @@ systems.ETHYRO_Aba_Samuel.h.capfac
 1
 0.295156 0.295156 0.293482 
 systems.ETSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.098412 0.442336 0 
@@ -574,7 +574,7 @@ systems.ETSOPU00.g.capfac
 1
 0.082181 0.405224 0 
 systems.ETSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.098412 0.442336 0 
@@ -583,7 +583,7 @@ systems.ETSOPB00.g.capfac
 1
 0.082181 0.405224 0 
 systems.ETSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.238287 0.420774 0.351449 
@@ -592,7 +592,7 @@ systems.ETSOPR00.g.capfac
 1
 0.243559 0.418871 0.348631 
 systems.ETSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.098412 0.442336 0 
@@ -601,7 +601,7 @@ systems.ETSOPS00.h.capfac
 1
 0.082181 0.405224 0 
 systems.ETRIDM_GenaleVI.L.capfac
-2019
+2022
 1 1 1
 1
 0.162904 0.162904 0.164371 
@@ -610,7 +610,7 @@ systems.ETRIDM_GenaleVI.L.capfac
 1
 0.568539 0.568539 0.567311 
 systems.ETRIDM_ChemogaYI_II.O.capfac
-2019
+2022
 1 1 1
 1
 0.015472 0.015472 0.015446 
@@ -619,7 +619,7 @@ systems.ETRIDM_ChemogaYI_II.O.capfac
 1
 0.258651 0.258651 0.257245 
 systems.ETRIDM_Karadobi.U.capfac
-2019
+2022
 1 1 1
 1
 0.013415 0.013415 0.013439 
@@ -628,7 +628,7 @@ systems.ETRIDM_Karadobi.U.capfac
 1
 0.20112 0.20112 0.20003 
 systems.ETRIDM_Gilgel_Gibe_III.X.capfac
-2019
+2022
 1 1 1
 1
 0.046984 0.046984 0.047304 
@@ -637,7 +637,7 @@ systems.ETRIDM_Gilgel_Gibe_III.X.capfac
 1
 0.298003 0.298003 0.29695 
 systems.ETRIDM_Renaissance.Y.capfac
-2019
+2022
 1 1 1
 1
 0.011511 0.011511 0.011578 
@@ -646,7 +646,7 @@ systems.ETRIDM_Renaissance.Y.capfac
 1
 0.239878 0.239878 0.238568 
 systems.ETRIDM_Amarti_Neshe.b.capfac
-2019
+2022
 1 1 1
 1
 0.012991 0.012991 0.013015 
@@ -655,7 +655,7 @@ systems.ETRIDM_Amarti_Neshe.b.capfac
 1
 0.196401 0.196401 0.195335 
 systems.ETRIDM_Finchaa.c.capfac
-2019
+2022
 1 1 1
 1
 0.012991 0.012991 0.013015 
@@ -664,7 +664,7 @@ systems.ETRIDM_Finchaa.c.capfac
 1
 0.196401 0.196401 0.195335 
 systems.ETRIDM_Maleka_Wakana.d.capfac
-2019
+2022
 1 1 1
 1
 0.108833 0.108833 0.108946 
@@ -673,7 +673,7 @@ systems.ETRIDM_Maleka_Wakana.d.capfac
 1
 0.351897 0.351897 0.350973 
 systems.ETRIDM_Gilgel_Gibe_I.e.capfac
-2019
+2022
 1 1 1
 1
 0.037558 0.037558 0.037778 
@@ -682,7 +682,7 @@ systems.ETRIDM_Gilgel_Gibe_I.e.capfac
 1
 0.26317 0.26317 0.262142 
 systems.ETRIDM_Tekeze_I.f.capfac
-2019
+2022
 1 1 1
 1
 0.015981 0.015981 0.016004 
@@ -691,7 +691,7 @@ systems.ETRIDM_Tekeze_I.f.capfac
 1
 0.211211 0.211211 0.209993 
 systems.ETELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -700,7 +700,7 @@ systems.ETELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.ETELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -709,7 +709,7 @@ systems.ETELDT04_01.B.capfac
 1
 0 0 0 
 systems.ETELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -718,7 +718,7 @@ systems.ETELDT04_01.C.capfac
 1
 0 0 0 
 systems.ETELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -727,7 +727,7 @@ systems.ETELDT04_02.D.capfac
 1
 0 0 0 
 systems.ETELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -736,7 +736,7 @@ systems.ETELDT04_02.E.capfac
 1
 0 0 0 
 systems.ETELDT04_03.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -745,7 +745,7 @@ systems.ETELDT04_03.F.capfac
 1
 1 0 0 
 systems.ETELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -754,7 +754,7 @@ systems.ETELDT04_03.G.capfac
 1
 0 0 1 
 systems.ETRIDM_GenaleV.I.capfac
-2019
+2022
 1 1 1
 1
 0.162904 0.162904 0.164371 
@@ -763,7 +763,7 @@ systems.ETRIDM_GenaleV.I.capfac
 1
 0.568539 0.568539 0.567311 
 systems.ETRIDM_SorII.A.capfac
-2019
+2022
 1 1 1
 1
 0.026761 0.026761 0.027053 
@@ -772,7 +772,7 @@ systems.ETRIDM_SorII.A.capfac
 1
 0.369623 0.369623 0.367949 
 systems.ETRIDM_WabiShebele.B.capfac
-2019
+2022
 1 1 1
 1
 0.196639 0.196639 0.197548 
@@ -781,7 +781,7 @@ systems.ETRIDM_WabiShebele.B.capfac
 1
 0.474105 0.474105 0.472535 
 systems.ETRIDM_Lower_Dedessa.C.capfac
-2019
+2022
 1 1 1
 1
 0.011749 0.011749 0.011852 
@@ -790,7 +790,7 @@ systems.ETRIDM_Lower_Dedessa.C.capfac
 1
 0.295918 0.295918 0.294527 
 systems.ETRIDM_Tams.D.capfac
-2019
+2022
 1 1 1
 1
 0.022732 0.022732 0.022941 
@@ -799,7 +799,7 @@ systems.ETRIDM_Tams.D.capfac
 1
 0.365195 0.365195 0.363608 
 systems.ETRIDM_Upper_Lower_Dabus.E.capfac
-2019
+2022
 1 1 1
 1
 0.009312 0.009312 0.009385 
@@ -808,7 +808,7 @@ systems.ETRIDM_Upper_Lower_Dabus.E.capfac
 1
 0.313079 0.313079 0.311391 
 systems.ETRIDM_Upper_Mandaya.F.capfac
-2019
+2022
 1 1 1
 1
 0.011812 0.011812 0.011873 
@@ -817,7 +817,7 @@ systems.ETRIDM_Upper_Mandaya.F.capfac
 1
 0.23774 0.23774 0.236441 
 systems.ETRIDM_Genale_III.G.capfac
-2019
+2022
 1 1 1
 1
 0.162904 0.162904 0.164371 

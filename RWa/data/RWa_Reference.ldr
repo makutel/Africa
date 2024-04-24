@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.35295 0.336781 0.310269
 1.000000
 0.1503187 0.5015157 0.3481654 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1715672 0.5476697 0.2807627 
 r-f
-2019
+2022
 0.35295 0.336781 0.310269
 1.000000
 0.1503187 0.5015157 0.3481654 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1715672 0.5476697 0.2807627 
 s-f
-2019
+2022
 0.30877 0.322608 0.368622
 1.000000
 0.2508857 0.5276806 0.2214334 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.214591 0.599001 0.1864077 
 systems.RWWDLC00.i.capfac
-2019
+2022
 1 1 1
 1
 0.076543 0.067242 0.07743 
@@ -70,7 +70,7 @@ systems.RWWDLC00.i.capfac
 1
 0.052596 0.163758 0.099887 
 systems.RWWDOC00.A.capfac
-2019
+2022
 1 1 1
 1
 0.076543 0.067242 0.07743 
@@ -79,7 +79,7 @@ systems.RWWDOC00.A.capfac
 1
 0.052596 0.163758 0.099887 
 systems.RWSOTS00.h.capfac
-2019
+2022
 1 1 1
 1
 0 0.549682 0.153981 
@@ -88,7 +88,7 @@ systems.RWSOTS00.h.capfac
 1
 0.000219 0.549781 0.153435 
 systems.RWSOPC00.i.capfac
-2019
+2022
 1 1 1
 1
 0.010283 0.469047 0 
@@ -97,7 +97,7 @@ systems.RWSOPC00.i.capfac
 1
 0.00995 0.461879 0 
 systems.RWSOPC_Rwinkwavu_PV_gen.L.capfac
-2019
+2022
 1 1 1
 1
 0 0.372451 0 
@@ -106,7 +106,7 @@ systems.RWSOPC_Rwinkwavu_PV_gen.L.capfac
 1
 0.000001 0.39486 0 
 systems.RWSOPC_Bugesera_PV_gen.K.capfac
-2019
+2022
 1 1 1
 1
 0.000003 0.392048 0.000116 
@@ -115,7 +115,7 @@ systems.RWSOPC_Bugesera_PV_gen.K.capfac
 1
 0.000173 0.404115 0.000008 
 systems.RWSOPC_NashoPV_gen.J.capfac
-2019
+2022
 1 1 1
 1
 0 0.37716 0 
@@ -124,7 +124,7 @@ systems.RWSOPC_NashoPV_gen.J.capfac
 1
 0.000044 0.398951 0 
 systems.RWSOPC_GigawattPV_gen.I.capfac
-2019
+2022
 1 1 1
 1
 0.000001 0.385023 0.000161 
@@ -133,7 +133,7 @@ systems.RWSOPC_GigawattPV_gen.I.capfac
 1
 0.000196 0.401481 0.000011 
 systems.RWSOPC_RW_PV.E.capfac
-2019
+2022
 1 1 1
 1
 0.010283 0.469047 0 
@@ -142,7 +142,7 @@ systems.RWSOPC_RW_PV.E.capfac
 1
 0.00995 0.461879 0 
 systems.RWSOPC_Nyagatare_PV.D.capfac
-2019
+2022
 1 1 1
 1
 0.010283 0.469047 0 
@@ -151,7 +151,7 @@ systems.RWSOPC_Nyagatare_PV.D.capfac
 1
 0.00995 0.461879 0 
 systems.RWSOPC_JaliSolar.C.capfac
-2019
+2022
 1 1 1
 1
 0.010283 0.469047 0 
@@ -160,7 +160,7 @@ systems.RWSOPC_JaliSolar.C.capfac
 1
 0.00995 0.461879 0 
 systems.RWSOPCZ005.H.capfac
-2019
+2022
 1 1 1
 1
 0.000003 0.392048 0.000116 
@@ -169,7 +169,7 @@ systems.RWSOPCZ005.H.capfac
 1
 0.000173 0.404115 0.000008 
 systems.RWSOPCZ004.G.capfac
-2019
+2022
 1 1 1
 1
 0 0.37716 0 
@@ -178,7 +178,7 @@ systems.RWSOPCZ004.G.capfac
 1
 0.000044 0.398951 0 
 systems.RWSOPCZ003.F.capfac
-2019
+2022
 1 1 1
 1
 0 0.380623 0 
@@ -187,7 +187,7 @@ systems.RWSOPCZ003.F.capfac
 1
 0 0.400513 0 
 systems.RWSOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0 0.372451 0 
@@ -196,7 +196,7 @@ systems.RWSOPCZ002.B.capfac
 1
 0.000001 0.39486 0 
 systems.RWSOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.000001 0.385023 0.000161 
@@ -205,7 +205,7 @@ systems.RWSOPCZ001.A.capfac
 1
 0.000196 0.401481 0.000011 
 systems.RWHYRO_Nyabarongo_I.F.capfac
-2019
+2022
 1 1 1
 1
 0.41578 0.41578 0.41578 
@@ -214,7 +214,7 @@ systems.RWHYRO_Nyabarongo_I.F.capfac
 1
 0.358454 0.358454 0.358454 
 systems.RWHYRO_Ruzizi_IV.B.capfac
-2019
+2022
 1 1 1
 1
 0.744893 0.744893 0.744893 
@@ -223,7 +223,7 @@ systems.RWHYRO_Ruzizi_IV.B.capfac
 1
 0.503566 0.503566 0.503566 
 systems.RWHYRO_Rusumo.A.capfac
-2019
+2022
 1 1 1
 1
 0.829087 0.829087 0.829087 
@@ -232,7 +232,7 @@ systems.RWHYRO_Rusumo.A.capfac
 1
 0.240602 0.240602 0.240602 
 systems.RWSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.009254 0.422142 0 
@@ -241,7 +241,7 @@ systems.RWSOPU00.g.capfac
 1
 0.008955 0.415691 0 
 systems.RWSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.009254 0.422142 0 
@@ -250,7 +250,7 @@ systems.RWSOPB00.g.capfac
 1
 0.008955 0.415691 0 
 systems.RWSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.195678 0.367934 0.374359 
@@ -259,7 +259,7 @@ systems.RWSOPR00.g.capfac
 1
 0.199015 0.36629 0.373598 
 systems.RWSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.009254 0.422142 0 
@@ -268,7 +268,7 @@ systems.RWSOPS00.h.capfac
 1
 0.008955 0.415691 0 
 systems.RWRIDM_Nyabarongo_II.C.capfac
-2019
+2022
 1 1 1
 1
 0.55706 0.55706 0.55706 
@@ -277,7 +277,7 @@ systems.RWRIDM_Nyabarongo_II.C.capfac
 1
 0.117254 0.117254 0.117254 
 systems.RWRIDM_Rwanda_Ruzizi_III.D.capfac
-2019
+2022
 1 1 1
 1
 0.716511 0.716511 0.716511 
@@ -286,7 +286,7 @@ systems.RWRIDM_Rwanda_Ruzizi_III.D.capfac
 1
 0.474753 0.474753 0.474753 
 systems.RWELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -295,7 +295,7 @@ systems.RWELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.RWELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -304,7 +304,7 @@ systems.RWELDT04_01.B.capfac
 1
 0 0 0 
 systems.RWELDT04_01.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -313,7 +313,7 @@ systems.RWELDT04_01.E.capfac
 1
 0 0 0 
 systems.RWELDT04_02.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -322,7 +322,7 @@ systems.RWELDT04_02.F.capfac
 1
 0 0 0 
 systems.RWELDT04_02.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -331,7 +331,7 @@ systems.RWELDT04_02.G.capfac
 1
 0 0 0 
 systems.RWELDT04_03.H.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -340,7 +340,7 @@ systems.RWELDT04_03.H.capfac
 1
 1 0 0 
 systems.RWELDT04_03.I.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -349,7 +349,7 @@ systems.RWELDT04_03.I.capfac
 1
 0 0 1 
 systems.RWRIDM_Ruzizi_II.J.capfac
-2019
+2022
 1 1 1
 1
 0.716511 0.716511 0.716511 

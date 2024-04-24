@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -25,7 +25,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -34,7 +34,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 r-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -43,7 +43,7 @@ r-f
 1.000000
 0.1884729 0.5776167 0.23391 
 s-f
-2019
+2022
 0.28519 0.421089 0.293721
 1.000000
 0.2477681 0.5427222 0.2095094 
@@ -52,7 +52,7 @@ s-f
 1.000000
 0.2578637 0.532066 0.21007 
 u-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -61,7 +61,7 @@ u-f
 1.000000
 0.1884729 0.5776167 0.23391 
 systems.DJWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.529621 0.576199 0.489741 
@@ -70,7 +70,7 @@ systems.DJWDLC00.g.capfac
 1
 0.34795 0.389937 0.329814 
 systems.DJWDOC00.D.capfac
-2019
+2022
 1 1 1
 1
 0.529621 0.576199 0.489741 
@@ -79,7 +79,7 @@ systems.DJWDOC00.D.capfac
 1
 0.34795 0.389937 0.329814 
 systems.DJWDOCZ002.F.capfac
-2019
+2022
 1 1 1
 1
 0.586718 0.636315 0.593153 
@@ -88,7 +88,7 @@ systems.DJWDOCZ002.F.capfac
 1
 0.502891 0.582735 0.489677 
 systems.DJWDOCZ001.E.capfac
-2019
+2022
 1 1 1
 1
 0.475012 0.737002 0.689603 
@@ -97,7 +97,7 @@ systems.DJWDOCZ001.E.capfac
 1
 0.388499 0.674969 0.582316 
 systems.DJWDLCZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.796374 0.726151 0.901511 
@@ -106,7 +106,7 @@ systems.DJWDLCZ002.C.capfac
 1
 0.68336 0.672796 0.803253 
 systems.DJWDLCZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.630236 0.812637 0.808142 
@@ -115,7 +115,7 @@ systems.DJWDLCZ001.B.capfac
 1
 0.531106 0.754207 0.708545 
 systems.DJWDLCZE57.A.capfac
-2019
+2022
 1 1 1
 1
 0.529621 0.576199 0.489741 
@@ -124,7 +124,7 @@ systems.DJWDLCZE57.A.capfac
 1
 0.34795 0.389937 0.329814 
 systems.DJSOTN00.h.capfac
-2019
+2022
 1 1 1
 1
 0.044019 0.610278 0 
@@ -133,7 +133,7 @@ systems.DJSOTN00.h.capfac
 1
 0.031571 0.532518 0 
 systems.DJSOTNZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.017989 0.766802 0.419031 
@@ -142,7 +142,7 @@ systems.DJSOTNZ002.E.capfac
 1
 0.036352 0.740885 0.317472 
 systems.DJSOTNZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.022952 0.813165 0.462079 
@@ -151,7 +151,7 @@ systems.DJSOTNZ001.D.capfac
 1
 0.041481 0.7679 0.362326 
 systems.DJSOTS00.i.capfac
-2019
+2022
 1 1 1
 1
 0.027583 0.605143 0.097175 
@@ -160,7 +160,7 @@ systems.DJSOTS00.i.capfac
 1
 0.028225 0.604962 0.096711 
 systems.DJSOTSZ002.G.capfac
-2019
+2022
 1 1 1
 1
 0.380412 0.880744 0.926588 
@@ -169,7 +169,7 @@ systems.DJSOTSZ002.G.capfac
 1
 0.327661 0.845011 0.898202 
 systems.DJSOTSZ001.F.capfac
-2019
+2022
 1 1 1
 1
 0.341364 0.856454 0.892908 
@@ -178,7 +178,7 @@ systems.DJSOTSZ001.F.capfac
 1
 0.294163 0.836441 0.873744 
 systems.DJSOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.03633 0.512765 0 
@@ -187,7 +187,7 @@ systems.DJSOPC00.j.capfac
 1
 0.026056 0.442329 0 
 systems.DJSOPCZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.004602 0.457264 0 
@@ -196,7 +196,7 @@ systems.DJSOPCZ002.C.capfac
 1
 0.006562 0.424167 0 
 systems.DJSOPCZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.004805 0.460121 0 
@@ -205,7 +205,7 @@ systems.DJSOPCZ001.B.capfac
 1
 0.00685 0.428182 0 
 systems.DJHYRO00.A.capfac
-2019
+2022
 1 1 1
 1
 0.2 0.2 0.2 
@@ -214,7 +214,7 @@ systems.DJHYRO00.A.capfac
 1
 0.2 0.2 0.2 
 systems.DJSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -223,7 +223,7 @@ systems.DJSOPU00.g.capfac
 1
 0.023451 0.398096 0 
 systems.DJSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -232,7 +232,7 @@ systems.DJSOPB00.g.capfac
 1
 0.023451 0.398096 0 
 systems.DJSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.221098 0.390421 0.326098 
@@ -241,7 +241,7 @@ systems.DJSOPR00.g.capfac
 1
 0.22599 0.388656 0.323483 
 systems.DJSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.032697 0.461488 0 
@@ -250,7 +250,7 @@ systems.DJSOPS00.h.capfac
 1
 0.023451 0.398096 0 
 systems.DJELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -259,7 +259,7 @@ systems.DJELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.DJELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -268,7 +268,7 @@ systems.DJELDT04_01.B.capfac
 1
 0 0 0 
 systems.DJELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -277,7 +277,7 @@ systems.DJELDT04_01.C.capfac
 1
 0 0 0 
 systems.DJELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -286,7 +286,7 @@ systems.DJELDT04_02.D.capfac
 1
 0 0 0 
 systems.DJELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -295,7 +295,7 @@ systems.DJELDT04_02.E.capfac
 1
 0 0 0 
 systems.DJELDT04_03.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -304,7 +304,7 @@ systems.DJELDT04_03.F.capfac
 1
 1 0 0 
 systems.DJELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 

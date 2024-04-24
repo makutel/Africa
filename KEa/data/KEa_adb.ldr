@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -16,7 +16,7 @@ name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1884729 0.5776167 0.23391 
 r-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1884729 0.5776167 0.23391 
 s-f
-2019
+2022
 0.309674 0.3236 0.366726
 1.000000
 0.2566892 0.5363348 0.2069757 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2219395 0.6020897 0.1759706 
 systems.KEWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -70,7 +70,7 @@ systems.KEWDLC00.g.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ004_Marsabit_PhII.b.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -79,7 +79,7 @@ systems.KEWDLCZ004_Marsabit_PhII.b.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ007_Meru_PhIII.a.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -88,7 +88,7 @@ systems.KEWDLCZ007_Meru_PhIII.a.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ007_Meru_PhII.Z.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -97,7 +97,7 @@ systems.KEWDLCZ007_Meru_PhII.Z.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ007_Meru_PhI.Y.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -106,7 +106,7 @@ systems.KEWDLCZ007_Meru_PhI.Y.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ008_Oldanyat.X.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -115,7 +115,7 @@ systems.KEWDLCZ008_Oldanyat.X.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ008_Prunus.W.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -124,7 +124,7 @@ systems.KEWDLCZ008_Prunus.W.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZH08_Ngong_PhII.V.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -133,7 +133,7 @@ systems.KEWDLCZH08_Ngong_PhII.V.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZH08_Ngong_PhI.U.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -142,7 +142,7 @@ systems.KEWDLCZH08_Ngong_PhI.U.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ001_Bahari2.T.capfac
-2019
+2022
 1 1 1
 1
 0.342964 0.416957 0.460478 
@@ -151,7 +151,7 @@ systems.KEWDLCZ001_Bahari2.T.capfac
 1
 0.603495 0.689985 0.733868 
 systems.KEWDLCZH08_Kipeto.S.capfac
-2019
+2022
 1 1 1
 1
 0.422037 0.528798 0.639148 
@@ -160,7 +160,7 @@ systems.KEWDLCZH08_Kipeto.S.capfac
 1
 0.585369 0.794935 0.915465 
 systems.KEWDLCZ001_Bahari_PhI.R.capfac
-2019
+2022
 1 1 1
 1
 0.342964 0.416957 0.460478 
@@ -169,7 +169,7 @@ systems.KEWDLCZ001_Bahari_PhI.R.capfac
 1
 0.603495 0.689985 0.733868 
 systems.KEWDLCZ004_Marsabit_PhI.Q.capfac
-2019
+2022
 1 1 1
 1
 0.769503 0.679309 0.680869 
@@ -178,7 +178,7 @@ systems.KEWDLCZ004_Marsabit_PhI.Q.capfac
 1
 0.923815 0.874881 0.931961 
 systems.KEWDLCZ008_Aperture.P.capfac
-2019
+2022
 1 1 1
 1
 0.422037 0.528798 0.639148 
@@ -187,7 +187,7 @@ systems.KEWDLCZ008_Aperture.P.capfac
 1
 0.585369 0.794935 0.915465 
 systems.KEWDLCZ008_Chania.O.capfac
-2019
+2022
 1 1 1
 1
 0.422037 0.528798 0.639148 
@@ -196,7 +196,7 @@ systems.KEWDLCZ008_Chania.O.capfac
 1
 0.585369 0.794935 0.915465 
 systems.KEWDLCZ008_Ngong1_PhIII.N.capfac
-2019
+2022
 1 1 1
 1
 0.422037 0.528798 0.639148 
@@ -205,7 +205,7 @@ systems.KEWDLCZ008_Ngong1_PhIII.N.capfac
 1
 0.585369 0.794935 0.915465 
 systems.KEWDOC00.M.capfac
-2019
+2022
 1 1 1
 1
 0.508158 0.767852 0.688159 
@@ -214,7 +214,7 @@ systems.KEWDOC00.M.capfac
 1
 0.537184 0.629764 0.554306 
 systems.KEWDLCZ010.L.capfac
-2019
+2022
 1 1 1
 1
 0.556335 0.486316 0.485542 
@@ -223,7 +223,7 @@ systems.KEWDLCZ010.L.capfac
 1
 0.771021 0.713562 0.803253 
 systems.KEWDLCZ009.K.capfac
-2019
+2022
 1 1 1
 1
 0.488203 0.55912 0.586922 
@@ -232,7 +232,7 @@ systems.KEWDLCZ009.K.capfac
 1
 0.705904 0.793524 0.878718 
 systems.KEWDLCZ008.J.capfac
-2019
+2022
 1 1 1
 1
 0.422037 0.528798 0.639148 
@@ -241,7 +241,7 @@ systems.KEWDLCZ008.J.capfac
 1
 0.585369 0.794935 0.915465 
 systems.KEWDLCZ007.I.capfac
-2019
+2022
 1 1 1
 1
 0.349142 0.323884 0.342684 
@@ -250,7 +250,7 @@ systems.KEWDLCZ007.I.capfac
 1
 0.565925 0.563927 0.558063 
 systems.KEWDLCZ006.H.capfac
-2019
+2022
 1 1 1
 1
 0.589326 0.614588 0.664 
@@ -259,7 +259,7 @@ systems.KEWDLCZ006.H.capfac
 1
 0.834851 0.847434 0.943526 
 systems.KEWDLCZ005.G.capfac
-2019
+2022
 1 1 1
 1
 0.238185 0.590489 0.380588 
@@ -268,7 +268,7 @@ systems.KEWDLCZ005.G.capfac
 1
 0.480034 0.692832 0.641556 
 systems.KEWDLCZ004.F.capfac
-2019
+2022
 1 1 1
 1
 0.769503 0.679309 0.680869 
@@ -277,7 +277,7 @@ systems.KEWDLCZ004.F.capfac
 1
 0.923815 0.874881 0.931961 
 systems.KEWDLCZ003.E.capfac
-2019
+2022
 1 1 1
 1
 0.503029 0.559022 0.585298 
@@ -286,7 +286,7 @@ systems.KEWDLCZ003.E.capfac
 1
 0.747158 0.837681 0.860651 
 systems.KEWDLCZ002.D.capfac
-2019
+2022
 1 1 1
 1
 0.68762 0.676979 0.722365 
@@ -295,7 +295,7 @@ systems.KEWDLCZ002.D.capfac
 1
 0.826911 0.779783 0.925337 
 systems.KEWDLCZ001.C.capfac
-2019
+2022
 1 1 1
 1
 0.342964 0.416957 0.460478 
@@ -304,7 +304,7 @@ systems.KEWDLCZ001.C.capfac
 1
 0.603495 0.689985 0.733868 
 systems.KEWDLCZDP09_Lake_Turkana.B.capfac
-2019
+2022
 1 1 1
 1
 0.548517 0.739746 0.648249 
@@ -313,7 +313,7 @@ systems.KEWDLCZDP09_Lake_Turkana.B.capfac
 1
 0.555008 0.623794 0.54986 
 systems.KEWDLCZH08.A.capfac
-2019
+2022
 1 1 1
 1
 0.277664 0.436531 0.42509 
@@ -322,7 +322,7 @@ systems.KEWDLCZH08.A.capfac
 1
 0.298907 0.413342 0.526607 
 systems.KESOTN00.h.capfac
-2019
+2022
 1 1 1
 1
 0.083517 0.520679 0 
@@ -331,7 +331,7 @@ systems.KESOTN00.h.capfac
 1
 0.088182 0.534114 0 
 systems.KESOTNZ002.F.capfac
-2019
+2022
 1 1 1
 1
 0.000267 0.74626 0.388102 
@@ -340,7 +340,7 @@ systems.KESOTNZ002.F.capfac
 1
 0.006742 0.805603 0.389113 
 systems.KESOTNZ001.E.capfac
-2019
+2022
 1 1 1
 1
 0.000272 0.716029 0.355719 
@@ -349,7 +349,7 @@ systems.KESOTNZ001.E.capfac
 1
 0.003384 0.782408 0.375802 
 systems.KESOTS00.i.capfac
-2019
+2022
 1 1 1
 1
 0.026271 0.576364 0.092554 
@@ -358,7 +358,7 @@ systems.KESOTS00.i.capfac
 1
 0.026883 0.576192 0.092112 
 systems.KESOTSZ002.H.capfac
-2019
+2022
 1 1 1
 1
 0.275782 0.832051 0.793242 
@@ -367,7 +367,7 @@ systems.KESOTSZ002.H.capfac
 1
 0.305166 0.876078 0.916595 
 systems.KESOTSZ001.G.capfac
-2019
+2022
 1 1 1
 1
 0.252888 0.836275 0.75902 
@@ -376,7 +376,7 @@ systems.KESOTSZ001.G.capfac
 1
 0.299786 0.868883 0.911171 
 systems.KESOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.07386 0.460469 0 
@@ -385,7 +385,7 @@ systems.KESOPC00.j.capfac
 1
 0.077985 0.472352 0 
 systems.KESOPCZ001_Kenya_Solar.Z.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -394,7 +394,7 @@ systems.KESOPCZ001_Kenya_Solar.Z.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ003_Strathmore.Y.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -403,7 +403,7 @@ systems.KESOPCZ003_Strathmore.Y.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ003_REA_Garissa.X.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -412,7 +412,7 @@ systems.KESOPCZ003_REA_Garissa.X.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ008_Kibwezi.W.capfac
-2019
+2022
 1 1 1
 1
 0.001991 0.449653 0 
@@ -421,7 +421,7 @@ systems.KESOPCZ008_Kibwezi.W.capfac
 1
 0.003831 0.466773 0 
 systems.KESOPCZ008_Tarita_Green.V.capfac
-2019
+2022
 1 1 1
 1
 0.001991 0.449653 0 
@@ -430,7 +430,7 @@ systems.KESOPCZ008_Tarita_Green.V.capfac
 1
 0.003831 0.466773 0 
 systems.KESOPCZ008_Kopere.U.capfac
-2019
+2022
 1 1 1
 1
 0.001991 0.449653 0 
@@ -439,7 +439,7 @@ systems.KESOPCZ008_Kopere.U.capfac
 1
 0.003831 0.466773 0 
 systems.KESOPCZ001_SevenForks.T.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -448,7 +448,7 @@ systems.KESOPCZ001_SevenForks.T.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ003_Eldosol.S.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -457,7 +457,7 @@ systems.KESOPCZ003_Eldosol.S.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ003_Selenkei.R.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -466,7 +466,7 @@ systems.KESOPCZ003_Selenkei.R.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ003_Alten.Q.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -475,7 +475,7 @@ systems.KESOPCZ003_Alten.Q.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ009_Kenergy.P.capfac
-2019
+2022
 1 1 1
 1
 0.00149 0.45674 0 
@@ -484,7 +484,7 @@ systems.KESOPCZ009_Kenergy.P.capfac
 1
 0.003589 0.470316 0 
 systems.KESOPCZ009_MarcoBorero.O.capfac
-2019
+2022
 1 1 1
 1
 0.00149 0.45674 0 
@@ -493,7 +493,7 @@ systems.KESOPCZ009_MarcoBorero.O.capfac
 1
 0.003589 0.470316 0 
 systems.KESOPCZ001_Greenmillenia.N.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -502,7 +502,7 @@ systems.KESOPCZ001_Greenmillenia.N.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ001_Makindu.M.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -511,7 +511,7 @@ systems.KESOPCZ001_Makindu.M.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ001_HannanArya.L.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -520,7 +520,7 @@ systems.KESOPCZ001_HannanArya.L.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ001_Malindi.K.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -529,7 +529,7 @@ systems.KESOPCZ001_Malindi.K.capfac
 1
 0.004901 0.469135 0 
 systems.KESOPCZ010.J.capfac
-2019
+2022
 1 1 1
 1
 0.003049 0.467428 0 
@@ -538,7 +538,7 @@ systems.KESOPCZ010.J.capfac
 1
 0.005265 0.473412 0 
 systems.KESOPCZ009.I.capfac
-2019
+2022
 1 1 1
 1
 0.00149 0.45674 0 
@@ -547,7 +547,7 @@ systems.KESOPCZ009.I.capfac
 1
 0.003589 0.470316 0 
 systems.KESOPCZ008.H.capfac
-2019
+2022
 1 1 1
 1
 0.001991 0.449653 0 
@@ -556,7 +556,7 @@ systems.KESOPCZ008.H.capfac
 1
 0.003831 0.466773 0 
 systems.KESOPCZ007.G.capfac
-2019
+2022
 1 1 1
 1
 0.001822 0.454887 0 
@@ -565,7 +565,7 @@ systems.KESOPCZ007.G.capfac
 1
 0.003972 0.477454 0 
 systems.KESOPCZ006.F.capfac
-2019
+2022
 1 1 1
 1
 0.00433 0.454697 0 
@@ -574,7 +574,7 @@ systems.KESOPCZ006.F.capfac
 1
 0.006276 0.479262 0 
 systems.KESOPCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.001986 0.459328 0 
@@ -583,7 +583,7 @@ systems.KESOPCZ005.E.capfac
 1
 0.003549 0.481377 0 
 systems.KESOPCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.003927 0.454481 0 
@@ -592,7 +592,7 @@ systems.KESOPCZ004.D.capfac
 1
 0.006456 0.494346 0 
 systems.KESOPCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.00115 0.462058 0 
@@ -601,7 +601,7 @@ systems.KESOPCZ003.C.capfac
 1
 0.003031 0.475955 0 
 systems.KESOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.002017 0.450556 0 
@@ -610,7 +610,7 @@ systems.KESOPCZ002.B.capfac
 1
 0.003301 0.472874 0 
 systems.KESOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.002538 0.460535 0 
@@ -619,7 +619,7 @@ systems.KESOPCZ001.A.capfac
 1
 0.004901 0.469135 0 
 systems.KEHYRO_Lower_Grand.T.capfac
-2019
+2022
 1 1 1
 1
 0.235527 0.235527 0.236466 
@@ -628,7 +628,7 @@ systems.KEHYRO_Lower_Grand.T.capfac
 1
 0.29909 0.29909 0.299506 
 systems.KEHYRO_Karura.U.capfac
-2019
+2022
 1 1 1
 1
 0.353767 0.353767 0.354032 
@@ -637,7 +637,7 @@ systems.KEHYRO_Karura.U.capfac
 1
 0.226398 0.226398 0.226618 
 systems.KEHYRO_Kindaruma_Opt.J.capfac
-2019
+2022
 1 1 1
 1
 0.713264 0.713264 0.713694 
@@ -646,7 +646,7 @@ systems.KEHYRO_Kindaruma_Opt.J.capfac
 1
 0.728316 0.728316 0.728908 
 systems.KEHYRO_Tana.H.capfac
-2019
+2022
 1 1 1
 1
 0.344075 0.344075 0.345499 
@@ -655,7 +655,7 @@ systems.KEHYRO_Tana.H.capfac
 1
 0.352792 0.352792 0.352998 
 systems.KEHYRO_Sangoro.G.capfac
-2019
+2022
 1 1 1
 1
 0.405524 0.405524 0.406567 
@@ -664,7 +664,7 @@ systems.KEHYRO_Sangoro.G.capfac
 1
 0.356276 0.356276 0.355532 
 systems.KEHYRO_Kindaruma.F.capfac
-2019
+2022
 1 1 1
 1
 0.713264 0.713264 0.713694 
@@ -673,7 +673,7 @@ systems.KEHYRO_Kindaruma.F.capfac
 1
 0.728316 0.728316 0.728908 
 systems.KEHYRO_Sondu_Miriu.E.capfac
-2019
+2022
 1 1 1
 1
 0.405524 0.405524 0.406567 
@@ -682,7 +682,7 @@ systems.KEHYRO_Sondu_Miriu.E.capfac
 1
 0.356276 0.356276 0.355532 
 systems.KEHYRO_Gitaru.D.capfac
-2019
+2022
 1 1 1
 1
 0.713264 0.713264 0.713694 
@@ -691,7 +691,7 @@ systems.KEHYRO_Gitaru.D.capfac
 1
 0.728316 0.728316 0.728908 
 systems.KESOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.068628 0.427854 0 
@@ -700,7 +700,7 @@ systems.KESOPU00.g.capfac
 1
 0.072461 0.438894 0 
 systems.KESOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.068628 0.427854 0 
@@ -709,7 +709,7 @@ systems.KESOPB00.g.capfac
 1
 0.072461 0.438894 0 
 systems.KESOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.231277 0.408395 0.341111 
@@ -718,7 +718,7 @@ systems.KESOPR00.g.capfac
 1
 0.236394 0.406549 0.338375 
 systems.KESOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.068628 0.427854 0 
@@ -727,7 +727,7 @@ systems.KESOPS00.h.capfac
 1
 0.072461 0.438894 0 
 systems.KERIDM_Kamburu_Masinga.E.capfac
-2019
+2022
 1 1 1
 1
 0.189971 0.189971 0.191394 
@@ -736,7 +736,7 @@ systems.KERIDM_Kamburu_Masinga.E.capfac
 1
 0.19546 0.19546 0.195666 
 systems.KERIDM_Turkwell.F.capfac
-2019
+2022
 1 1 1
 1
 0.19084 0.19084 0.192272 
@@ -745,7 +745,7 @@ systems.KERIDM_Turkwell.F.capfac
 1
 0.394148 0.394148 0.393666 
 systems.KERIDM_Kiambere.G.capfac
-2019
+2022
 1 1 1
 1
 0.285003 0.285003 0.28614 
@@ -754,7 +754,7 @@ systems.KERIDM_Kiambere.G.capfac
 1
 0.361919 0.361919 0.362423 
 systems.KEELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -763,7 +763,7 @@ systems.KEELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.KEELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -772,7 +772,7 @@ systems.KEELDT04_01.B.capfac
 1
 0 0 0 
 systems.KEELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -781,7 +781,7 @@ systems.KEELDT04_01.C.capfac
 1
 0 0 0 
 systems.KEELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -790,7 +790,7 @@ systems.KEELDT04_02.D.capfac
 1
 0 0 0 
 systems.KEELDT04_02.H.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -799,7 +799,7 @@ systems.KEELDT04_02.H.capfac
 1
 0 0 0 
 systems.KEELDT04_03.I.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -808,7 +808,7 @@ systems.KEELDT04_03.I.capfac
 1
 1 0 0 
 systems.KEELDT04_03.J.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 

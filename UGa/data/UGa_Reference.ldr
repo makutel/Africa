@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1884729 0.5776167 0.23391 
 r-f
-2019
+2022
 0.416315 0.303804 0.279881
 1.000000
 0.1267237 0.7084081 0.1648679 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1884729 0.5776167 0.23391 
 s-f
-2019
+2022
 0.309674 0.3236 0.366726
 1.000000
 0.2566892 0.5363348 0.2069757 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2219395 0.6020897 0.1759706 
 systems.UGWDLC00.i.capfac
-2019
+2022
 1 1 1
 1
 0.576634 0.491541 0.670773 
@@ -70,7 +70,7 @@ systems.UGWDLC00.i.capfac
 1
 0.574177 0.643995 0.63569 
 systems.UGWDOC00.F.capfac
-2019
+2022
 1 1 1
 1
 0.576634 0.491541 0.670773 
@@ -79,7 +79,7 @@ systems.UGWDOC00.F.capfac
 1
 0.574177 0.643995 0.63569 
 systems.UGWDLCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.452697 0.612024 0.56036 
@@ -88,7 +88,7 @@ systems.UGWDLCZ005.E.capfac
 1
 0.707867 0.849384 0.756516 
 systems.UGWDLCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.359525 0.455274 0.474385 
@@ -97,7 +97,7 @@ systems.UGWDLCZ004.D.capfac
 1
 0.627518 0.69909 0.637414 
 systems.UGWDLCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.392752 0.526324 0.461288 
@@ -106,7 +106,7 @@ systems.UGWDLCZ003.C.capfac
 1
 0.62359 0.740975 0.610795 
 systems.UGWDLCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.35026 0.524302 0.459281 
@@ -115,7 +115,7 @@ systems.UGWDLCZ002.B.capfac
 1
 0.581891 0.757953 0.64296 
 systems.UGWDLCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.462815 0.465731 0.475963 
@@ -124,7 +124,7 @@ systems.UGWDLCZ001.A.capfac
 1
 0.675305 0.675795 0.612454 
 systems.UGHYRO_Mitano.Q.capfac
-2019
+2022
 1 1 1
 1
 0.829587 0.829587 0.830149 
@@ -133,7 +133,7 @@ systems.UGHYRO_Mitano.Q.capfac
 1
 0.976154 0.976154 0.975573 
 systems.UGHYRO_Kikagati.P.capfac
-2019
+2022
 1 1 1
 1
 0.659504 0.659504 0.660579 
@@ -142,7 +142,7 @@ systems.UGHYRO_Kikagati.P.capfac
 1
 0.474872 0.474872 0.474308 
 systems.UGHYRO_Nyamagasani.O.capfac
-2019
+2022
 1 1 1
 1
 0.671736 0.671736 0.672793 
@@ -151,7 +151,7 @@ systems.UGHYRO_Nyamagasani.O.capfac
 1
 0.851624 0.851624 0.85053 
 systems.UGHYRO_Awere.N.capfac
-2019
+2022
 1 1 1
 1
 0.127521 0.127521 0.129107 
@@ -160,7 +160,7 @@ systems.UGHYRO_Awere.N.capfac
 1
 0.385812 0.385812 0.385538 
 systems.UGHYRO_Nshongezi_HPP.M.capfac
-2019
+2022
 1 1 1
 1
 0.88 0.88 0.880595 
@@ -169,7 +169,7 @@ systems.UGHYRO_Nshongezi_HPP.M.capfac
 1
 0.310256 0.310256 0.311043 
 systems.UGHYRO_Mpanga.H.capfac
-2019
+2022
 1 1 1
 1
 2675140.743802 2676090.743802 2683088.842975 
@@ -178,7 +178,7 @@ systems.UGHYRO_Mpanga.H.capfac
 1
 10736071.025641 10737021.025641 10723630.34188 
 systems.UGHYRO_Siti2.G.capfac
-2019
+2022
 1 1 1
 1
 2675140.743802 2676090.743802 2683088.842975 
@@ -187,7 +187,7 @@ systems.UGHYRO_Siti2.G.capfac
 1
 10736071.025641 10737021.025641 10723630.34188 
 systems.UGHYRO_Bugoye.F.capfac
-2019
+2022
 1 1 1
 1
 2675140.743802 2676090.743802 2683088.842975 
@@ -196,7 +196,7 @@ systems.UGHYRO_Bugoye.F.capfac
 1
 10736071.025641 10737021.025641 10723630.34188 
 systems.UGHYRO_AgagoAchwa.E.capfac
-2019
+2022
 1 1 1
 1
 2675140.743802 2676090.743802 2683088.842975 
@@ -205,7 +205,7 @@ systems.UGHYRO_AgagoAchwa.E.capfac
 1
 10736071.025641 10737021.025641 10723630.34188 
 systems.UGHYRO_Oriang_Kiba.U.capfac
-2019
+2022
 1 1 1
 1
 0.6203 0.6203 0.621349 
@@ -214,7 +214,7 @@ systems.UGHYRO_Oriang_Kiba.U.capfac
 1
 0.480436 0.480436 0.480561 
 systems.UGHYRO_Murchisson_Falls_High.T.capfac
-2019
+2022
 1 1 1
 1
 0.483948 0.483948 0.485141 
@@ -223,7 +223,7 @@ systems.UGHYRO_Murchisson_Falls_High.T.capfac
 1
 0.301057 0.301057 0.301135 
 systems.UGHYRO_Isimba.L.capfac
-2019
+2022
 1 1 1
 1
 0.895389 0.895389 0.895678 
@@ -232,7 +232,7 @@ systems.UGHYRO_Isimba.L.capfac
 1
 0.872442 0.872442 0.872905 
 systems.UGHYRO_Karuma_High.K.capfac
-2019
+2022
 1 1 1
 1
 0.327424 0.327424 0.32861 
@@ -241,7 +241,7 @@ systems.UGHYRO_Karuma_High.K.capfac
 1
 0.352076 0.352076 0.351345 
 systems.UGHYRO_Ayago.J.capfac
-2019
+2022
 1 1 1
 1
 0.747502 0.747502 0.74827 
@@ -250,7 +250,7 @@ systems.UGHYRO_Ayago.J.capfac
 1
 0.703477 0.703477 0.70366 
 systems.UGHYRO_Nalubaale.C.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -259,7 +259,7 @@ systems.UGHYRO_Nalubaale.C.capfac
 1
 1 1 1 
 systems.UGHYRO_Kira.B.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -268,7 +268,7 @@ systems.UGHYRO_Kira.B.capfac
 1
 1 1 1 
 systems.UGHYRO_Bujagali.A.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -277,7 +277,7 @@ systems.UGHYRO_Bujagali.A.capfac
 1
 1 1 1 
 systems.UGHYDM_Muzizi_HPP.I.capfac
-2019
+2022
 1 1 1
 1
 0.347673 0.347673 0.348733 
@@ -286,7 +286,7 @@ systems.UGHYDM_Muzizi_HPP.I.capfac
 1
 0.419253 0.419253 0.418283 
 systems.UGSOTN00.g.capfac
-2019
+2022
 1 1 1
 1
 0.06254 0.516599 0 
@@ -295,7 +295,7 @@ systems.UGSOTN00.g.capfac
 1
 0.055731 0.492749 0 
 systems.UGSOTNZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.000603 0.713035 0.338846 
@@ -304,7 +304,7 @@ systems.UGSOTNZ002.C.capfac
 1
 0.000055 0.795811 0.364736 
 systems.UGSOTNZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.000224 0.69872 0.278567 
@@ -313,7 +313,7 @@ systems.UGSOTNZ001.B.capfac
 1
 0.000041 0.745372 0.280624 
 systems.UGSOTS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.024747 0.542934 0.087185 
@@ -322,7 +322,7 @@ systems.UGSOTS00.h.capfac
 1
 0.025323 0.542772 0.086769 
 systems.UGSOTSZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.223751 0.832033 0.75258 
@@ -331,7 +331,7 @@ systems.UGSOTSZ002.E.capfac
 1
 0.266934 0.86966 0.916615 
 systems.UGSOTSZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.218774 0.834203 0.727032 
@@ -340,7 +340,7 @@ systems.UGSOTSZ001.D.capfac
 1
 0.22466 0.842947 0.846731 
 systems.UGSOPC00.i.capfac
-2019
+2022
 1 1 1
 1
 0.068805 0.503107 0 
@@ -349,7 +349,7 @@ systems.UGSOPC00.i.capfac
 1
 0.064034 0.486762 0 
 systems.UGSOPC_Lira_Xsabo.K.capfac
-2019
+2022
 1 1 1
 1
 0.000261 0.429368 0.00006 
@@ -358,7 +358,7 @@ systems.UGSOPC_Lira_Xsabo.K.capfac
 1
 0.000943 0.444778 0 
 systems.UGSOPC_Busitima.J.capfac
-2019
+2022
 1 1 1
 1
 0.001951 0.42115 0.000007 
@@ -367,7 +367,7 @@ systems.UGSOPC_Busitima.J.capfac
 1
 0.003372 0.441778 0 
 systems.UGSOPC_Nkonge_Xsabo.I.capfac
-2019
+2022
 1 1 1
 1
 0.001952 0.435726 0.000207 
@@ -376,7 +376,7 @@ systems.UGSOPC_Nkonge_Xsabo.I.capfac
 1
 0.004024 0.449506 0 
 systems.UGSOPCZ007.H.capfac
-2019
+2022
 1 1 1
 1
 0.004706 0.438262 0 
@@ -385,7 +385,7 @@ systems.UGSOPCZ007.H.capfac
 1
 0.00604 0.456839 0 
 systems.UGSOPCZ006.G.capfac
-2019
+2022
 1 1 1
 1
 0.001804 0.438675 0 
@@ -394,7 +394,7 @@ systems.UGSOPCZ006.G.capfac
 1
 0.003385 0.458162 0 
 systems.UGSOPCZ005.F.capfac
-2019
+2022
 1 1 1
 1
 0.004706 0.438262 0 
@@ -403,7 +403,7 @@ systems.UGSOPCZ005.F.capfac
 1
 0.00604 0.456839 0 
 systems.UGSOPCZ004.E.capfac
-2019
+2022
 1 1 1
 1
 0.001804 0.438675 0 
@@ -412,7 +412,7 @@ systems.UGSOPCZ004.E.capfac
 1
 0.003385 0.458162 0 
 systems.UGSOPCZ003.D.capfac
-2019
+2022
 1 1 1
 1
 0.000261 0.429368 0.00006 
@@ -421,7 +421,7 @@ systems.UGSOPCZ003.D.capfac
 1
 0.000943 0.444778 0 
 systems.UGSOPCZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.001951 0.42115 0.000007 
@@ -430,7 +430,7 @@ systems.UGSOPCZ002.C.capfac
 1
 0.003372 0.441778 0 
 systems.UGSOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.001952 0.435726 0.000207 
@@ -439,7 +439,7 @@ systems.UGSOPCZ001.A.capfac
 1
 0.004024 0.449506 0 
 systems.UGSOPCZK23.B.capfac
-2019
+2022
 1 1 1
 1
 0.059702 0.496014 0 
@@ -448,7 +448,7 @@ systems.UGSOPCZK23.B.capfac
 1
 0.052789 0.472282 0 
 systems.UGSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.0539 0.447129 0 
@@ -457,7 +457,7 @@ systems.UGSOPU00.g.capfac
 1
 0.048032 0.425912 0 
 systems.UGSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.0539 0.447129 0 
@@ -466,7 +466,7 @@ systems.UGSOPB00.g.capfac
 1
 0.048032 0.425912 0 
 systems.UGSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.225423 0.398058 0.332476 
@@ -475,7 +475,7 @@ systems.UGSOPR00.g.capfac
 1
 0.23041 0.396258 0.32981 
 systems.UGSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.0539 0.447129 0 
@@ -484,7 +484,7 @@ systems.UGSOPS00.h.capfac
 1
 0.048032 0.425912 0 
 systems.UGELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -493,7 +493,7 @@ systems.UGELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.UGELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -502,7 +502,7 @@ systems.UGELDT04_01.B.capfac
 1
 0 0 0 
 systems.UGELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -511,7 +511,7 @@ systems.UGELDT04_01.C.capfac
 1
 0 0 0 
 systems.UGELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -520,7 +520,7 @@ systems.UGELDT04_02.D.capfac
 1
 0 0 0 
 systems.UGELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -529,7 +529,7 @@ systems.UGELDT04_02.E.capfac
 1
 0 0 0 
 systems.UGELDT04_03.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -538,7 +538,7 @@ systems.UGELDT04_03.F.capfac
 1
 1 0 0 
 systems.UGELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 

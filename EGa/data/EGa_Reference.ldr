@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.398076 0.313296 0.288628
 1.000000
 0.1476351 0.6968919 0.1554728 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.2011793 0.5931266 0.2056938 
 r-f
-2019
+2022
 0.398076 0.313296 0.288628
 1.000000
 0.1476351 0.6968919 0.1554728 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.2011793 0.5931266 0.2056938 
 s-f
-2019
+2022
 0.28441 0.4226 0.29299
 1.000000
 0.2448436 0.535192 0.2199641 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2562544 0.5237139 0.2200313 
 systems.EGWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.343799 0.252049 0.397666 
@@ -70,7 +70,7 @@ systems.EGWDLC00.g.capfac
 1
 0.350413 0.225136 0.422363 
 systems.EGWDOC00.N.capfac
-2019
+2022
 1 1 1
 1
 0.343799 0.252049 0.397666 
@@ -79,7 +79,7 @@ systems.EGWDOC00.N.capfac
 1
 0.350413 0.225136 0.422363 
 systems.EGWDOCZ002.P.capfac
-2019
+2022
 1 1 1
 1
 0.520411 0.502552 0.540177 
@@ -88,7 +88,7 @@ systems.EGWDOCZ002.P.capfac
 1
 0.620182 0.597061 0.623677 
 systems.EGWDOCZ001.O.capfac
-2019
+2022
 1 1 1
 1
 0.607454 0.576178 0.568301 
@@ -97,7 +97,7 @@ systems.EGWDOCZ001.O.capfac
 1
 0.746553 0.621046 0.685213 
 systems.EGWDLC_Zafarana_Wind.M.capfac
-2019
+2022
 1 1 1
 1
 0.343799 0.252049 0.397666 
@@ -106,7 +106,7 @@ systems.EGWDLC_Zafarana_Wind.M.capfac
 1
 0.350413 0.225136 0.422363 
 systems.EGWDLC_Gabal_El-Zeit_Wind.L.capfac
-2019
+2022
 1 1 1
 1
 0.343799 0.252049 0.397666 
@@ -115,7 +115,7 @@ systems.EGWDLC_Gabal_El-Zeit_Wind.L.capfac
 1
 0.350413 0.225136 0.422363 
 systems.EGWDLC_Ras_Gharib_Wind.A.capfac
-2019
+2022
 1 1 1
 1
 0.611621 0.599414 0.599962 
@@ -124,7 +124,7 @@ systems.EGWDLC_Ras_Gharib_Wind.A.capfac
 1
 0.745561 0.694563 0.71545 
 systems.EGWDLCZ010.K.capfac
-2019
+2022
 1 1 1
 1
 0.531988 0.538928 0.64102 
@@ -133,7 +133,7 @@ systems.EGWDLCZ010.K.capfac
 1
 0.540174 0.515044 0.652908 
 systems.EGWDLCZ009.J.capfac
-2019
+2022
 1 1 1
 1
 0.654679 0.428663 0.573278 
@@ -142,7 +142,7 @@ systems.EGWDLCZ009.J.capfac
 1
 0.742277 0.464434 0.686016 
 systems.EGWDLCZ008.I.capfac
-2019
+2022
 1 1 1
 1
 0.541107 0.44835 0.627869 
@@ -151,7 +151,7 @@ systems.EGWDLCZ008.I.capfac
 1
 0.612543 0.478769 0.686406 
 systems.EGWDLCZ007.H.capfac
-2019
+2022
 1 1 1
 1
 0.581968 0.507382 0.622385 
@@ -160,7 +160,7 @@ systems.EGWDLCZ007.H.capfac
 1
 0.584214 0.523116 0.657189 
 systems.EGWDLCZ006.G.capfac
-2019
+2022
 1 1 1
 1
 0.611621 0.599414 0.599962 
@@ -169,7 +169,7 @@ systems.EGWDLCZ006.G.capfac
 1
 0.745561 0.694563 0.71545 
 systems.EGWDLCZ005.F.capfac
-2019
+2022
 1 1 1
 1
 0.542978 0.604372 0.639278 
@@ -178,7 +178,7 @@ systems.EGWDLCZ005.F.capfac
 1
 0.586924 0.593314 0.647117 
 systems.EGWDLCZ004.E.capfac
-2019
+2022
 1 1 1
 1
 0.552705 0.614498 0.458234 
@@ -187,7 +187,7 @@ systems.EGWDLCZ004.E.capfac
 1
 0.652091 0.659894 0.536345 
 systems.EGWDLCZ003.D.capfac
-2019
+2022
 1 1 1
 1
 0.549409 0.440477 0.600372 
@@ -196,7 +196,7 @@ systems.EGWDLCZ003.D.capfac
 1
 0.623329 0.49416 0.701809 
 systems.EGWDLCZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.710594 0.434067 0.615354 
@@ -205,7 +205,7 @@ systems.EGWDLCZ002.C.capfac
 1
 0.794856 0.415819 0.700791 
 systems.EGWDLCZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.502639 0.53309 0.564971 
@@ -214,7 +214,7 @@ systems.EGWDLCZ001.B.capfac
 1
 0.568957 0.589664 0.596036 
 systems.EGSOTN00.i.capfac
-2019
+2022
 1 1 1
 1
 0.011624 0.492342 0 
@@ -223,7 +223,7 @@ systems.EGSOTN00.i.capfac
 1
 0.006945 0.454376 0 
 systems.EGSOTNZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.004943 0.801979 0.671447 
@@ -232,7 +232,7 @@ systems.EGSOTNZ002.C.capfac
 1
 0 0.741762 0.546605 
 systems.EGSOTNZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.002199 0.843685 0.777164 
@@ -241,7 +241,7 @@ systems.EGSOTNZ001.B.capfac
 1
 0 0.805516 0.623738 
 systems.EGSOTS00.j.capfac
-2019
+2022
 1 1 1
 1
 0 0.54342 0.152227 
@@ -250,7 +250,7 @@ systems.EGSOTS00.j.capfac
 1
 0.000216 0.543519 0.151687 
 systems.EGSOTSZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.414963 0.855805 0.91329 
@@ -259,7 +259,7 @@ systems.EGSOTSZ002.E.capfac
 1
 0.32371 0.798447 0.908713 
 systems.EGSOTSZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.483209 0.880203 0.954782 
@@ -268,7 +268,7 @@ systems.EGSOTSZ001.D.capfac
 1
 0.348447 0.853677 0.956393 
 systems.EGSOPC00.k.capfac
-2019
+2022
 1 1 1
 1
 0.010761 0.418971 0 
@@ -277,7 +277,7 @@ systems.EGSOPC00.k.capfac
 1
 0.006605 0.38839 0 
 systems.EGSOPC_Benban_Solar_PV.B.capfac
-2019
+2022
 1 1 1
 1
 0.010761 0.418971 0 
@@ -286,7 +286,7 @@ systems.EGSOPC_Benban_Solar_PV.B.capfac
 1
 0.006605 0.38839 0 
 systems.EGSOPC_Phares_SolarPV.A.capfac
-2019
+2022
 1 1 1
 1
 0.00068 0.44688 0.00009 
@@ -295,7 +295,7 @@ systems.EGSOPC_Phares_SolarPV.A.capfac
 1
 0.000299 0.386148 0 
 systems.EGSOPCZ010.M.capfac
-2019
+2022
 1 1 1
 1
 0.00068 0.44688 0.00009 
@@ -304,7 +304,7 @@ systems.EGSOPCZ010.M.capfac
 1
 0.000299 0.386148 0 
 systems.EGSOPCZ009.L.capfac
-2019
+2022
 1 1 1
 1
 0.00111 0.429632 0.000172 
@@ -313,7 +313,7 @@ systems.EGSOPCZ009.L.capfac
 1
 0.00058 0.366441 0 
 systems.EGSOPCZ008.K.capfac
-2019
+2022
 1 1 1
 1
 0.000002 0.457068 0.000022 
@@ -322,7 +322,7 @@ systems.EGSOPCZ008.K.capfac
 1
 0 0.401518 0 
 systems.EGSOPCZ007.J.capfac
-2019
+2022
 1 1 1
 1
 0.001375 0.443227 0.000327 
@@ -331,7 +331,7 @@ systems.EGSOPCZ007.J.capfac
 1
 0.000858 0.380121 0 
 systems.EGSOPCZ006.I.capfac
-2019
+2022
 1 1 1
 1
 0.000099 0.446661 0 
@@ -340,7 +340,7 @@ systems.EGSOPCZ006.I.capfac
 1
 0.000001 0.386287 0 
 systems.EGSOPCZ005.H.capfac
-2019
+2022
 1 1 1
 1
 0.000946 0.440705 0.000212 
@@ -349,7 +349,7 @@ systems.EGSOPCZ005.H.capfac
 1
 0.000469 0.378101 0 
 systems.EGSOPCZ004.G.capfac
-2019
+2022
 1 1 1
 1
 0.001128 0.431045 0.000197 
@@ -358,7 +358,7 @@ systems.EGSOPCZ004.G.capfac
 1
 0.000574 0.367067 0 
 systems.EGSOPCZ003.F.capfac
-2019
+2022
 1 1 1
 1
 0.000596 0.433928 0.000124 
@@ -367,7 +367,7 @@ systems.EGSOPCZ003.F.capfac
 1
 0.000216 0.371305 0 
 systems.EGSOPCZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.000223 0.449514 0.000001 
@@ -376,7 +376,7 @@ systems.EGSOPCZ002.E.capfac
 1
 0.000046 0.391068 0 
 systems.EGSOPCZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.00076 0.438705 0.000126 
@@ -385,7 +385,7 @@ systems.EGSOPCZ001.D.capfac
 1
 0.000334 0.378738 0 
 systems.EGHYRO_Assuit.0.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -394,7 +394,7 @@ systems.EGHYRO_Assuit.0.capfac
 1
 1 1 1 
 systems.EGHYRO_Naga_Hamadi.4.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -403,7 +403,7 @@ systems.EGHYRO_Naga_Hamadi.4.capfac
 1
 1 1 1 
 systems.EGHYRO_Esna.3.capfac
-2019
+2022
 1 1 1
 1
 0.929064 0.929064 0.929064 
@@ -412,7 +412,7 @@ systems.EGHYRO_Esna.3.capfac
 1
 0.929064 0.929064 0.929064 
 systems.EGHYRO_Aswan_II.2.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -421,7 +421,7 @@ systems.EGHYRO_Aswan_II.2.capfac
 1
 1 1 1 
 systems.EGHYRO_Aswan_I.1.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -430,7 +430,7 @@ systems.EGHYRO_Aswan_I.1.capfac
 1
 1 1 1 
 systems.EGSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.008992 0.380846 0 
@@ -439,7 +439,7 @@ systems.EGSOPU00.g.capfac
 1
 0.005371 0.351478 0 
 systems.EGSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.008992 0.380846 0 
@@ -448,7 +448,7 @@ systems.EGSOPB00.g.capfac
 1
 0.005371 0.351478 0 
 systems.EGSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.189365 0.356063 0.362281 
@@ -457,7 +457,7 @@ systems.EGSOPR00.g.capfac
 1
 0.192594 0.354472 0.361545 
 systems.EGSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.008992 0.380846 0 
@@ -466,7 +466,7 @@ systems.EGSOPS00.h.capfac
 1
 0.005371 0.351478 0 
 systems.EGRIDM_High_Dam.B.capfac
-2019
+2022
 1 1 1
 1
 0.382224 0.382224 0.382224 
@@ -475,7 +475,7 @@ systems.EGRIDM_High_Dam.B.capfac
 1
 0.507173 0.507173 0.507173 
 systems.EGELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -484,7 +484,7 @@ systems.EGELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.EGELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -493,7 +493,7 @@ systems.EGELDT04_01.C.capfac
 1
 0 0 0 
 systems.EGELDT04_01.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -502,7 +502,7 @@ systems.EGELDT04_01.D.capfac
 1
 0 0 0 
 systems.EGELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -511,7 +511,7 @@ systems.EGELDT04_02.E.capfac
 1
 0 0 0 
 systems.EGELDT04_02.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -520,7 +520,7 @@ systems.EGELDT04_02.F.capfac
 1
 0 0 0 
 systems.EGELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -529,7 +529,7 @@ systems.EGELDT04_03.G.capfac
 1
 1 0 0 
 systems.EGELDT04_03.H.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -538,7 +538,7 @@ systems.EGELDT04_03.H.capfac
 1
 0 0 1 
 systems.EGELPTPS_Pumpstorage.I.capfac
-2019
+2022
 1 1 1
 1
 0.331507 0.331507 0 
@@ -547,7 +547,7 @@ systems.EGELPTPS_Pumpstorage.I.capfac
 1
 0.320548 0.320548 0 
 systems.EGELDTPS_Pumpstorage_01.J.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -556,7 +556,7 @@ systems.EGELDTPS_Pumpstorage_01.J.capfac
 1
 0 0 0 
 systems.EGELDTPS_Pumpstorage_01.K.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -565,7 +565,7 @@ systems.EGELDTPS_Pumpstorage_01.K.capfac
 1
 0 0 0 
 systems.EGELDTPS_Pumpstorage_02.L.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -574,7 +574,7 @@ systems.EGELDTPS_Pumpstorage_02.L.capfac
 1
 0 0 0 
 systems.EGELDTPS_Pumpstorage_02.M.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -583,7 +583,7 @@ systems.EGELDTPS_Pumpstorage_02.M.capfac
 1
 0 0 0 
 systems.EGELDTPS_Pumpstorage_03.N.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -592,7 +592,7 @@ systems.EGELDTPS_Pumpstorage_03.N.capfac
 1
 1 0 0 
 systems.EGELDTPS_Pumpstorage_03.O.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -600,13 +600,67 @@ systems.EGELDTPS_Pumpstorage_03.O.capfac
 0 0 0 0 
 1
 0 0 1 
-systems.EGELPTPS_Pumpstorage_2.P.capfac
-2019
+systems.EGELPTPS_Pumpstorage2.P.capfac
+2022
 1 1 1
 1
-0.331507 0.331507 0 
+0.055251 0.055251 0 
 1
-0.347945 0.347945 0.347945 0 
+0.057991 0.057991 0.057991 0 
 1
-0.320548 0.320548 0 
+0.053425 0.053425 0 
+systems.EGELDTPS_Pumpstorage2_01.Q.capfac
+2022
+1 1 1
+1
+1 0 0 
+1
+0 0 0 0 
+1
+0 0 0 
+systems.EGELDTPS_Pumpstorage2_01.R.capfac
+2022
+1 1 1
+1
+0 0 1 
+1
+0 0 0 0 
+1
+0 0 0 
+systems.EGELDTPS_Pumpstorage2_02.S.capfac
+2022
+1 1 1
+1
+0 0 0 
+1
+1 0 0 0 
+1
+0 0 0 
+systems.EGELDTPS_Pumpstorage2_02.T.capfac
+2022
+1 1 1
+1
+0 0 0 
+1
+0 0 0 1 
+1
+0 0 0 
+systems.EGELDTPS_Pumpstorage2_03.U.capfac
+2022
+1 1 1
+1
+0 0 0 
+1
+0 0 0 0 
+1
+1 0 0 
+systems.EGELDTPS_Pumpstorage2_03.V.capfac
+2022
+1 1 1
+1
+0 0 0 
+1
+0 0 0 0 
+1
+0 0 1 
 

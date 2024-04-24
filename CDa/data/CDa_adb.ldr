@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 c-f
-2019
+2022
 0.333865 0.346718 0.319417
 1.000000
 0.2745989 0.5248976 0.2005031 
@@ -25,7 +25,7 @@ c-f
 1.000000
 0.2775337 0.5198219 0.2026441 
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -34,7 +34,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 r-f
-2019
+2022
 0.352197 0.337174 0.310629
 1.000000
 0.1541722 0.4969178 0.3489097 
@@ -43,7 +43,7 @@ r-f
 1.000000
 0.173448 0.5412629 0.2852888 
 s-f
-2019
+2022
 0.32382 0.345891 0.330289
 1.000000
 0.2419461 0.5023468 0.2557068 
@@ -52,7 +52,7 @@ s-f
 1.000000
 0.2351758 0.4675873 0.2972366 
 u-f
-2019
+2022
 0.352197 0.337174 0.310629
 1.000000
 0.1541722 0.4969178 0.3489097 
@@ -61,7 +61,7 @@ u-f
 1.000000
 0.173448 0.5412629 0.2852888 
 systems.CDHYRO_Inga_IV.V.capfac
-2019
+2022
 1 1 1
 1
 0.754772 0.754573 0.754573 
@@ -70,7 +70,7 @@ systems.CDHYRO_Inga_IV.V.capfac
 1
 0.518434 0.518571 0.518571 
 systems.CDHYRO_Inga_III.U.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -79,7 +79,7 @@ systems.CDHYRO_Inga_III.U.capfac
 1
 1 1 1 
 systems.CDHYRO_Ruzizi_III.T.capfac
-2019
+2022
 1 1 1
 1
 0.744623 0.744893 0.744893 
@@ -88,7 +88,7 @@ systems.CDHYRO_Ruzizi_III.T.capfac
 1
 0.503277 0.503566 0.503566 
 systems.CDHYRO_Wanie_Rukula.S.capfac
-2019
+2022
 1 1 1
 1
 0.904247 0.904093 0.904093 
@@ -97,7 +97,7 @@ systems.CDHYRO_Wanie_Rukula.S.capfac
 1
 0.206668 0.207035 0.207035 
 systems.CDHYRO_Zongo_II.R.capfac
-2019
+2022
 1 1 1
 1
 0.810341 0.809775 0.809775 
@@ -106,7 +106,7 @@ systems.CDHYRO_Zongo_II.R.capfac
 1
 0.365472 0.366686 0.366686 
 systems.CDHYRO_Inga_II.O.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -115,7 +115,7 @@ systems.CDHYRO_Inga_II.O.capfac
 1
 1 1 1 
 systems.CDHYRO_Nzoro.M.capfac
-2019
+2022
 1 1 1
 1
 0.25499 0.255126 0.255126 
@@ -124,7 +124,7 @@ systems.CDHYRO_Nzoro.M.capfac
 1
 0.605045 0.604715 0.604715 
 systems.CDHYRO_Busanga.L.capfac
-2019
+2022
 1 1 1
 1
 0.953584 0.953724 0.953724 
@@ -133,7 +133,7 @@ systems.CDHYRO_Busanga.L.capfac
 1
 0.034996 0.035146 0.035146 
 systems.CDHYRO_Piana.K.capfac
-2019
+2022
 1 1 1
 1
 0.932079 0.931979 0.931979 
@@ -142,7 +142,7 @@ systems.CDHYRO_Piana.K.capfac
 1
 0.055009 0.055181 0.055181 
 systems.CDHYRO_Soleniama.B.capfac
-2019
+2022
 1 1 1
 1
 0.570982 0.571624 0.571624 
@@ -151,7 +151,7 @@ systems.CDHYRO_Soleniama.B.capfac
 1
 0.850444 0.849752 0.849752 
 systems.CDHYRO_Katende.X.capfac
-2019
+2022
 1 1 1
 1
 0.99366 0.992969 0.992969 
@@ -160,7 +160,7 @@ systems.CDHYRO_Katende.X.capfac
 1
 0.233765 0.234659 0.234659 
 systems.CDHYRO_Mobayi.J.capfac
-2019
+2022
 1 1 1
 1
 0.384502 0.384502 0.384502 
@@ -169,7 +169,7 @@ systems.CDHYRO_Mobayi.J.capfac
 1
 1 1 1 
 systems.CDHYRO_Tshopo.G.capfac
-2019
+2022
 1 1 1
 1
 0.09806 0.098396 0.098396 
@@ -178,7 +178,7 @@ systems.CDHYRO_Tshopo.G.capfac
 1
 0.588591 0.587862 0.587862 
 systems.CDHYRO_Sanga.C.capfac
-2019
+2022
 1 1 1
 1
 0.683023 0.682524 0.682524 
@@ -187,7 +187,7 @@ systems.CDHYRO_Sanga.C.capfac
 1
 0.296417 0.297419 0.297419 
 systems.CDWDLC00.i.capfac
-2019
+2022
 1 1 1
 1
 0.150836 0.173491 0.116429 
@@ -196,7 +196,7 @@ systems.CDWDLC00.i.capfac
 1
 0.100761 0.129828 0.089225 
 systems.CDWDOC00.K.capfac
-2019
+2022
 1 1 1
 1
 0.150836 0.173491 0.116429 
@@ -205,7 +205,7 @@ systems.CDWDOC00.K.capfac
 1
 0.100761 0.129828 0.089225 
 systems.CDWDLCZ010.J.capfac
-2019
+2022
 1 1 1
 1
 0.277018 0.292901 0.249467 
@@ -214,7 +214,7 @@ systems.CDWDLCZ010.J.capfac
 1
 0.377565 0.343945 0.339232 
 systems.CDWDLCZ009.I.capfac
-2019
+2022
 1 1 1
 1
 0.304813 0.266589 0.256997 
@@ -223,7 +223,7 @@ systems.CDWDLCZ009.I.capfac
 1
 0.461138 0.396922 0.393914 
 systems.CDWDLCZ008.H.capfac
-2019
+2022
 1 1 1
 1
 0.238649 0.31932 0.212686 
@@ -232,7 +232,7 @@ systems.CDWDLCZ008.H.capfac
 1
 0.323896 0.339944 0.290029 
 systems.CDWDLCZ007.G.capfac
-2019
+2022
 1 1 1
 1
 0.192848 0.265329 0.174837 
@@ -241,7 +241,7 @@ systems.CDWDLCZ007.G.capfac
 1
 0.387009 0.402226 0.243276 
 systems.CDWDLCZ006.F.capfac
-2019
+2022
 1 1 1
 1
 0.23584 0.306776 0.194813 
@@ -250,7 +250,7 @@ systems.CDWDLCZ006.F.capfac
 1
 0.333358 0.42972 0.261737 
 systems.CDWDLCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0.261037 0.181246 0.252486 
@@ -259,7 +259,7 @@ systems.CDWDLCZ005.E.capfac
 1
 0.536482 0.310317 0.530711 
 systems.CDWDLCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.433034 0.216934 0.531186 
@@ -268,7 +268,7 @@ systems.CDWDLCZ004.D.capfac
 1
 0.436156 0.231411 0.527094 
 systems.CDWDLCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.201282 0.192839 0.166088 
@@ -277,7 +277,7 @@ systems.CDWDLCZ003.C.capfac
 1
 0.390857 0.311299 0.333259 
 systems.CDWDLCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.538804 0.252529 0.495338 
@@ -286,7 +286,7 @@ systems.CDWDLCZ002.B.capfac
 1
 0.524521 0.233292 0.46736 
 systems.CDWDLCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0.261739 0.290358 0.229388 
@@ -295,7 +295,7 @@ systems.CDWDLCZ001.A.capfac
 1
 0.31309 0.336463 0.276209 
 systems.CDSOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.000002 0.462704 0.000829 
@@ -304,7 +304,7 @@ systems.CDSOPC00.j.capfac
 1
 0.000005 0.462043 0.001125 
 systems.CDSOPC_MONANO.K.capfac
-2019
+2022
 1 1 1
 1
 0.000044 0.379966 0.000978 
@@ -313,7 +313,7 @@ systems.CDSOPC_MONANO.K.capfac
 1
 0.000576 0.408841 0.000272 
 systems.CDSOPCZ010.J.capfac
-2019
+2022
 1 1 1
 1
 0 0.368324 0.002874 
@@ -322,7 +322,7 @@ systems.CDSOPCZ010.J.capfac
 1
 0 0.372326 0.000319 
 systems.CDSOPCZ009.I.capfac
-2019
+2022
 1 1 1
 1
 0.000041 0.386357 0.001816 
@@ -331,7 +331,7 @@ systems.CDSOPCZ009.I.capfac
 1
 0.000624 0.440574 0.000721 
 systems.CDSOPCZ008.H.capfac
-2019
+2022
 1 1 1
 1
 0 0.414502 0.000031 
@@ -340,7 +340,7 @@ systems.CDSOPCZ008.H.capfac
 1
 0.000013 0.39965 0.000003 
 systems.CDSOPCZ007.G.capfac
-2019
+2022
 1 1 1
 1
 0 0.376489 0.001141 
@@ -349,7 +349,7 @@ systems.CDSOPCZ007.G.capfac
 1
 0.000001 0.392035 0.000239 
 systems.CDSOPCZ006.F.capfac
-2019
+2022
 1 1 1
 1
 0 0.375272 0.007736 
@@ -358,7 +358,7 @@ systems.CDSOPCZ006.F.capfac
 1
 0 0.364296 0.002604 
 systems.CDSOPCZ005.E.capfac
-2019
+2022
 1 1 1
 1
 0 0.376693 0.000896 
@@ -367,7 +367,7 @@ systems.CDSOPCZ005.E.capfac
 1
 0.000003 0.396456 0.000111 
 systems.CDSOPCZ004.D.capfac
-2019
+2022
 1 1 1
 1
 0.000181 0.399231 0.002771 
@@ -376,7 +376,7 @@ systems.CDSOPCZ004.D.capfac
 1
 0.001509 0.45644 0.001614 
 systems.CDSOPCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0 0.37565 0.005643 
@@ -385,7 +385,7 @@ systems.CDSOPCZ003.C.capfac
 1
 0 0.366912 0.001344 
 systems.CDSOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.000044 0.379966 0.000978 
@@ -394,7 +394,7 @@ systems.CDSOPCZ002.B.capfac
 1
 0.000576 0.408841 0.000272 
 systems.CDSOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0 0.372657 0.000871 
@@ -403,7 +403,7 @@ systems.CDSOPCZ001.A.capfac
 1
 0.0006 0.380751 0.000157 
 systems.CDSOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0 0.395078 0.001204 
@@ -412,7 +412,7 @@ systems.CDSOPU00.g.capfac
 1
 0 0.372971 0.001371 
 systems.CDSOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0 0.395078 0.001204 
@@ -421,7 +421,7 @@ systems.CDSOPB00.g.capfac
 1
 0 0.372971 0.001371 
 systems.CDSOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.180768 0.346452 0.372158 
@@ -430,7 +430,7 @@ systems.CDSOPR00.g.capfac
 1
 0.181906 0.345935 0.371781 
 systems.CDSOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0 0.395078 0.001204 
@@ -439,7 +439,7 @@ systems.CDSOPS00.h.capfac
 1
 0 0.372971 0.001371 
 systems.CDSOTN00.k.capfac
-2019
+2022
 1 1 1
 1
 0 0.479363 0.001465 
@@ -448,7 +448,7 @@ systems.CDSOTN00.k.capfac
 1
 0 0.452979 0.001668 
 systems.CDSOTNZ002.C.capfac
-2019
+2022
 1 1 1
 1
 0.000094 0.49013 0.154774 
@@ -457,7 +457,7 @@ systems.CDSOTNZ002.C.capfac
 1
 0.000014 0.557351 0.150685 
 systems.CDSOTNZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0.00001 0.479909 0.109138 
@@ -466,7 +466,7 @@ systems.CDSOTNZ001.B.capfac
 1
 0.000739 0.641782 0.283455 
 systems.CDSOTS00.l.capfac
-2019
+2022
 1 1 1
 1
 0 0.468445 0.234124 
@@ -475,7 +475,7 @@ systems.CDSOTS00.l.capfac
 1
 0 0.468774 0.233336 
 systems.CDSOTSZ002.E.capfac
-2019
+2022
 1 1 1
 1
 0.046282 0.576768 0.427388 
@@ -484,7 +484,7 @@ systems.CDSOTSZ002.E.capfac
 1
 0.099819 0.697745 0.563254 
 systems.CDSOTSZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.168862 0.780207 0.690773 
@@ -493,7 +493,7 @@ systems.CDSOTSZ001.D.capfac
 1
 0.065693 0.75831 0.634037 
 systems.CDRIDM_Ruzizi_II.O.capfac
-2019
+2022
 1 1 1
 1
 0.716256 0.716511 0.716511 
@@ -502,7 +502,7 @@ systems.CDRIDM_Ruzizi_II.O.capfac
 1
 0.47448 0.474753 0.474753 
 systems.CDRIDM_Ruzizi_I.P.capfac
-2019
+2022
 1 1 1
 1
 0.716256 0.716511 0.716511 
@@ -511,7 +511,7 @@ systems.CDRIDM_Ruzizi_I.P.capfac
 1
 0.47448 0.474753 0.474753 
 systems.CDRIDM_Inga_I.R.capfac
-2019
+2022
 1 1 1
 1
 0.825227 0.825009 0.825009 
@@ -520,7 +520,7 @@ systems.CDRIDM_Inga_I.R.capfac
 1
 0.566827 0.566977 0.566977 
 systems.CDRIDM_Zongo.A.capfac
-2019
+2022
 1 1 1
 1
 0.529177 0.528854 0.528854 
@@ -529,7 +529,7 @@ systems.CDRIDM_Zongo.A.capfac
 1
 0.191605 0.192253 0.192253 
 systems.CDRIDM_Nseke.B.capfac
-2019
+2022
 1 1 1
 1
 0.717495 0.717667 0.717667 
@@ -538,7 +538,7 @@ systems.CDRIDM_Nseke.B.capfac
 1
 0.005897 0.005919 0.005919 
 systems.CDRIDM_Nzilo.C.capfac
-2019
+2022
 1 1 1
 1
 0.714442 0.714345 0.714345 
@@ -547,7 +547,7 @@ systems.CDRIDM_Nzilo.C.capfac
 1
 0.024158 0.024267 0.024267 
 systems.CDRIDM_Mwadingusha.D.capfac
-2019
+2022
 1 1 1
 1
 0.71895 0.719088 0.719088 
@@ -556,7 +556,7 @@ systems.CDRIDM_Mwadingusha.D.capfac
 1
 0 0 0 
 systems.CDRIDM_Koni.E.capfac
-2019
+2022
 1 1 1
 1
 0.635113 0.635178 0.635178 
@@ -565,7 +565,7 @@ systems.CDRIDM_Koni.E.capfac
 1
 0.001489 0.001495 0.001495 
 systems.CDRIDM_Sombwe.F.capfac
-2019
+2022
 1 1 1
 1
 0.696274 0.696304 0.696304 
@@ -574,7 +574,7 @@ systems.CDRIDM_Sombwe.F.capfac
 1
 0.017083 0.017143 0.017143 
 systems.CDELPT04.G.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -583,7 +583,7 @@ systems.CDELPT04.G.capfac
 1
 0.053425 0.053425 0 
 systems.CDELDT04_01.H.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -592,7 +592,7 @@ systems.CDELDT04_01.H.capfac
 1
 0 0 0 
 systems.CDELDT04_01.I.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -601,7 +601,7 @@ systems.CDELDT04_01.I.capfac
 1
 0 0 0 
 systems.CDELDT04_02.J.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -610,7 +610,7 @@ systems.CDELDT04_02.J.capfac
 1
 0 0 0 
 systems.CDELDT04_02.K.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -619,7 +619,7 @@ systems.CDELDT04_02.K.capfac
 1
 0 0 0 
 systems.CDELDT04_03.L.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -628,7 +628,7 @@ systems.CDELDT04_03.L.capfac
 1
 1 0 0 
 systems.CDELDT04_03.M.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 

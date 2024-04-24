@@ -1,6 +1,6 @@
 subregions:	BIa CDa DJa EGa ERa ETa KEa RWa SOa SSa SDa TZa UGa	
 ntu:	1         ; ntu    [number of first period to be in matrix]
-ntrun:	24	; ntrun  [number of last period to be in matrix]
+ntrun: 24 ; ntrun  [number of last period to be in matrix]
 mixsw:	no	; isw(2) [mixed integer programming initiated]
 actint:	b	; set activities integer up to and including period (or 'all')
 invint:	b	; set investment integer up to and including period (or 'all')

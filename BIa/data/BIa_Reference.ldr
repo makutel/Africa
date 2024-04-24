@@ -1,7 +1,7 @@
 loadregions:
 ltype seasonal
-year 2019 sa sb sc
-range 2019-01-01 2019-05-02 2019-09-06 2020-01-01
+year 2022 sa sb sc
+range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
 season sa anyday
 day anyday 121
 name  aaa aab aac
@@ -9,14 +9,14 @@ length  0.291665 0.499999 0.208334
 season sb anyday
 day anyday 127
 name  baa bab bac bad
-length  0.291667 0.500001 0.083332 0.125
+length  0.291667 0.500004 0.083332 0.125
 season sc anyday
 day anyday 117
 name  caa cab cac
 length  0.291666 0.5 0.208334
 loadcurves:
 e-f
-2019
+2022
 0.331506 0.347946 0.320548
 1.000000
 0.2916658 0.4999998 0.208334 
@@ -25,7 +25,7 @@ e-f
 1.000000
 0.2916661 0.4999998 0.2083338 
 c-f
-2019
+2022
 0.332687 0.34733 0.319983
 1.000000
 0.2760582 0.5267562 0.1971853 
@@ -34,7 +34,7 @@ c-f
 1.000000
 0.2775334 0.5242277 0.1982386 
 u-f
-2019
+2022
 0.35295 0.336781 0.310269
 1.000000
 0.1503187 0.5015157 0.3481654 
@@ -43,7 +43,7 @@ u-f
 1.000000
 0.1715672 0.5476697 0.2807627 
 r-f
-2019
+2022
 0.35295 0.336781 0.310269
 1.000000
 0.1503187 0.5015157 0.3481654 
@@ -52,7 +52,7 @@ r-f
 1.000000
 0.1715672 0.5476697 0.2807627 
 s-f
-2019
+2022
 0.323492 0.345563 0.330945
 1.000000
 0.2365591 0.5093076 0.2541329 
@@ -61,7 +61,7 @@ s-f
 1.000000
 0.2301228 0.4732295 0.2966474 
 systems.BIWDLC00.g.capfac
-2019
+2022
 1 1 1
 1
 0.196939 0.378429 0.194964 
@@ -70,7 +70,7 @@ systems.BIWDLC00.g.capfac
 1
 0.141396 0.284362 0.114329 
 systems.BIWDOC00.A.capfac
-2019
+2022
 1 1 1
 1
 0.196939 0.378429 0.194964 
@@ -79,7 +79,7 @@ systems.BIWDOC00.A.capfac
 1
 0.141396 0.284362 0.114329 
 systems.BISOTNZ001.B.capfac
-2019
+2022
 1 1 1
 1
 0 0.471189 0.089362 
@@ -88,7 +88,7 @@ systems.BISOTNZ001.B.capfac
 1
 0 0.578537 0.147068 
 systems.BISOTS00.i.capfac
-2019
+2022
 1 1 1
 1
 0 0.549682 0.153981 
@@ -97,7 +97,7 @@ systems.BISOTS00.i.capfac
 1
 0.000219 0.549781 0.153435 
 systems.BISOTSZ001.D.capfac
-2019
+2022
 1 1 1
 1
 0.031727 0.62803 0.403375 
@@ -106,7 +106,7 @@ systems.BISOTSZ001.D.capfac
 1
 0.076957 0.735909 0.530774 
 systems.BISOPC00.j.capfac
-2019
+2022
 1 1 1
 1
 0.010459 0.46196 0 
@@ -115,7 +115,7 @@ systems.BISOPC00.j.capfac
 1
 0.010324 0.455397 0 
 systems.BISOPC_1.G.capfac
-2019
+2022
 1 1 1
 1
 0.010459 0.46196 0 
@@ -124,7 +124,7 @@ systems.BISOPC_1.G.capfac
 1
 0.010324 0.455397 0 
 systems.BISOPC_BU_PV.D.capfac
-2019
+2022
 1 1 1
 1
 0.010459 0.46196 0 
@@ -133,7 +133,7 @@ systems.BISOPC_BU_PV.D.capfac
 1
 0.010324 0.455397 0 
 systems.BISOPCZ005.F.capfac
-2019
+2022
 1 1 1
 1
 0.000063 0.380819 0.001569 
@@ -142,7 +142,7 @@ systems.BISOPCZ005.F.capfac
 1
 0.001578 0.41039 0.00024 
 systems.BISOPCZ004.E.capfac
-2019
+2022
 1 1 1
 1
 0 0.378901 0 
@@ -151,7 +151,7 @@ systems.BISOPCZ004.E.capfac
 1
 0.000006 0.407133 0 
 systems.BISOPCZ003.C.capfac
-2019
+2022
 1 1 1
 1
 0.000042 0.366286 0.002272 
@@ -160,7 +160,7 @@ systems.BISOPCZ003.C.capfac
 1
 0.001958 0.385883 0.000422 
 systems.BISOPCZ002.B.capfac
-2019
+2022
 1 1 1
 1
 0.000014 0.383719 0.000377 
@@ -169,7 +169,7 @@ systems.BISOPCZ002.B.capfac
 1
 0.000422 0.410741 0.000041 
 systems.BISOPCZ001.A.capfac
-2019
+2022
 1 1 1
 1
 0 0.380339 0.006893 
@@ -178,7 +178,7 @@ systems.BISOPCZ001.A.capfac
 1
 0.005271 0.400838 0.001405 
 systems.BIHYRO_Nyamyotsi.U.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -187,7 +187,7 @@ systems.BIHYRO_Nyamyotsi.U.capfac
 1
 1 1 1 
 systems.BIHYRO_Buhiga.T.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -196,7 +196,7 @@ systems.BIHYRO_Buhiga.T.capfac
 1
 1 1 1 
 systems.BIHYRO_Marangara.S.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -205,7 +205,7 @@ systems.BIHYRO_Marangara.S.capfac
 1
 1 1 1 
 systems.BIHYRO_Kayenzi.R.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -214,7 +214,7 @@ systems.BIHYRO_Kayenzi.R.capfac
 1
 1 1 1 
 systems.BIHYRO_Gikonge.Q.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -223,7 +223,7 @@ systems.BIHYRO_Gikonge.Q.capfac
 1
 1 1 1 
 systems.BIHYRO_Ruvyironza.P.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -232,7 +232,7 @@ systems.BIHYRO_Ruvyironza.P.capfac
 1
 1 1 1 
 systems.BIHYRO_Nyemanga.O.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -241,7 +241,7 @@ systems.BIHYRO_Nyemanga.O.capfac
 1
 1 1 1 
 systems.BIHYRO_Ruzizi_III.J.capfac
-2019
+2022
 1 1 1
 1
 0.744893 0.744893 0.744893 
@@ -250,7 +250,7 @@ systems.BIHYRO_Ruzizi_III.J.capfac
 1
 0.503566 0.503566 0.503566 
 systems.BIHYRO_Mulembwe.K.capfac
-2019
+2022
 1 1 1
 1
 0.793638 0.793638 0.793638 
@@ -259,7 +259,7 @@ systems.BIHYRO_Mulembwe.K.capfac
 1
 0.552923 0.552923 0.552923 
 systems.BIHYRO_Kabu.I.capfac
-2019
+2022
 1 1 1
 1
 0.372198 0.372198 0.372198 
@@ -268,7 +268,7 @@ systems.BIHYRO_Kabu.I.capfac
 1
 0.246615 0.246615 0.246615 
 systems.BIHYRO_Jiji.H.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -277,7 +277,7 @@ systems.BIHYRO_Jiji.H.capfac
 1
 0.981327 0.981327 0.981327 
 systems.BIHYRO_Ruzizi_IV.D.capfac
-2019
+2022
 1 1 1
 1
 0.744893 0.744893 0.744893 
@@ -286,7 +286,7 @@ systems.BIHYRO_Ruzizi_IV.D.capfac
 1
 0.503566 0.503566 0.503566 
 systems.BIHYRO_Ruzibazi.C.capfac
-2019
+2022
 1 1 1
 1
 0.686117 0.686117 0.686117 
@@ -295,7 +295,7 @@ systems.BIHYRO_Ruzibazi.C.capfac
 1
 0.454614 0.454614 0.454614 
 systems.BIHYRO_Rusumo_Falls.B.capfac
-2019
+2022
 1 1 1
 1
 0.829087 0.829087 0.829087 
@@ -304,7 +304,7 @@ systems.BIHYRO_Rusumo_Falls.B.capfac
 1
 0.240602 0.240602 0.240602 
 systems.BIHYRO_Kagunizi.E.capfac
-2019
+2022
 1 1 1
 1
 0.768426 0.768426 0.768426 
@@ -313,7 +313,7 @@ systems.BIHYRO_Kagunizi.E.capfac
 1
 0.527352 0.527352 0.527352 
 systems.BIHYRO_Mpanda.A.capfac
-2019
+2022
 1 1 1
 1
 1 1 1 
@@ -322,7 +322,7 @@ systems.BIHYRO_Mpanda.A.capfac
 1
 1 1 1 
 systems.BISOPU00.g.capfac
-2019
+2022
 1 1 1
 1
 0.009413 0.415765 0 
@@ -331,7 +331,7 @@ systems.BISOPU00.g.capfac
 1
 0.00929 0.409858 0 
 systems.BISOPB00.g.capfac
-2019
+2022
 1 1 1
 1
 0.009413 0.415765 0 
@@ -340,7 +340,7 @@ systems.BISOPB00.g.capfac
 1
 0.00929 0.409858 0 
 systems.BISOPR00.g.capfac
-2019
+2022
 1 1 1
 1
 0.199198 0.374552 0.381092 
@@ -349,7 +349,7 @@ systems.BISOPR00.g.capfac
 1
 0.202595 0.372878 0.380318 
 systems.BISOPS00.h.capfac
-2019
+2022
 1 1 1
 1
 0.009413 0.415765 0 
@@ -358,7 +358,7 @@ systems.BISOPS00.h.capfac
 1
 0.00929 0.409858 0 
 systems.BIELPT04.A.capfac
-2019
+2022
 1 1 1
 1
 0.055251 0.055251 0 
@@ -367,7 +367,7 @@ systems.BIELPT04.A.capfac
 1
 0.053425 0.053425 0 
 systems.BIELDT04_01.B.capfac
-2019
+2022
 1 1 1
 1
 1 0 0 
@@ -376,7 +376,7 @@ systems.BIELDT04_01.B.capfac
 1
 0 0 0 
 systems.BIELDT04_01.C.capfac
-2019
+2022
 1 1 1
 1
 0 0 1 
@@ -385,7 +385,7 @@ systems.BIELDT04_01.C.capfac
 1
 0 0 0 
 systems.BIELDT04_02.D.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -394,7 +394,7 @@ systems.BIELDT04_02.D.capfac
 1
 0 0 0 
 systems.BIELDT04_02.E.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -403,7 +403,7 @@ systems.BIELDT04_02.E.capfac
 1
 0 0 0 
 systems.BIELDT04_03.F.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -412,7 +412,7 @@ systems.BIELDT04_03.F.capfac
 1
 1 0 0 
 systems.BIELDT04_03.G.capfac
-2019
+2022
 1 1 1
 1
 0 0 0 
@@ -421,7 +421,7 @@ systems.BIELDT04_03.G.capfac
 1
 0 0 1 
 systems.BIRIDM_Ruzizi_II.H.capfac
-2019
+2022
 1 1 1
 1
 0.716511 0.716511 0.716511 

@@ -4,10 +4,10 @@ problem: EGa
 description:
 # Egypt
 drate: 10
-timesteps: 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042
+timesteps: 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047
 loadregions:
 ltype ordered seasonal 1 0
-year 2019 1 10
+year 2022 1 10
 name aaa aab aac \
 baa bab bac bad \
 caa cab cac 
@@ -94,13 +94,13 @@ DummyCom_EGELSTPS_Pumpstorage2 C l
 # DummyCom_EGELSTPS_Pumpstorage2
 *
 demand:
-e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-s-f  ts 22052.74 21780.82 22614.04 23561.27 24520.55 25486.4 26456.47 27540.08 28662.06 29796.97 30934.54 32069.64 33338.86 34646.43 35961.31 37273.12 38578.25 40021.84 41502.92 42990.54 44476.43 45959.35 45959.35
+e-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+c-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+u-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r-f  ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+s-f  ts 23561.27 24520.55 25486.4 26456.47 27540.08 28662.06 29796.97 30934.54 32069.64 33338.86 34646.43 35961.31 37273.12 38578.25 40021.84 41502.92 42990.54 44476.43 45959.35 45959.35 45959.35 45959.35 45959.35 45959.35 45959.35
 loadcurve:
-year 2019
+year 2022
 e-f 0.096689 0.165753 0.069064 0.101484 0.173974 \
 0.028995 0.043493 0.093493 0.160274 0.066781
 c-f 0.091841 0.175245 0.065601 0.096395 0.182081 \
@@ -463,7 +463,7 @@ bdi up c 500
 # Description: Damietta_Gas_Turbines_New
 *
 EGNGSC_Cairo_West_Steam_Turbines_Ext k
-bdc fx ts 0 0 650 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 2010
 # Description: Cairo_West_Steam_Turbines_Ext
 *
@@ -646,7 +646,7 @@ EGNUPW00 g
 # Description: Generic Nuclear
 *
 EGNUPW_Nuclear 0
-bdc fx ts 0 0 0 0 0 0 0 0 1200 1200 1200 1200 0 0 0 0 0 0 0 0 0 0 0
+bdc fx ts 0 0 0 0 0 1200 1200 1200 1200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 4800
 # Description: El Dabaa Nuclear Power Plant
 *
@@ -673,7 +673,7 @@ bdi up c 580
 # Description: Existing E_Gabal_El-Zeit_Wind
 *
 EGWDLC_Ras_Gharib_Wind A
-bdc fx ts 262.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 262.5
 # Description: Existing_Ras Gharib Wind Plant in Zone
 *
@@ -761,7 +761,7 @@ bdi up c 1465
 # Description: Existing E_Benban_Solar_PV
 *
 EGSOPC_Phares_SolarPV A
-bdc fx ts 0 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 26
 # Description: Existing_Phares solar PV Plant in Zone
 *
@@ -778,7 +778,7 @@ bdi up c 12286.14
 # Description: Solar PV Zone 008
 *
 EGSOPCZ007 J
-bdc lo ts 0 0 0 0 0 0 853 853 853 853 853 0 0 0 0 0 0 0 0 0 0 0 0
+bdc lo ts 0 0 0 853 853 853 853 853 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 5014.47
 # Description: Solar PV Zone 007
 *
@@ -792,7 +792,7 @@ bdi up c 10297.52
 *
 EGSOPCZ004 G
 bdi up c 7761.5
-bdi lo ts 0 0 0 0 0 278 422.5 422.5 422.5 422.5 422.5 0 0 0 0 0 0 0 0 0 0 0 0
+bdi lo ts 0 0 278 422.5 422.5 422.5 422.5 422.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 # Description: Solar PV Zone 004
 *
 EGSOPCZ003 F
@@ -895,7 +895,7 @@ EGELDT04_03 G
 2. activity H
 *
 EGELSTPS_Pumpstorage F
-bdc fx ts 0 0 0 0 0 0 0 0 1200 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdc fx ts 0 0 0 0 0 1200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 1200
 # Description: Pump Storage 1 Scheme
 2. activity A
