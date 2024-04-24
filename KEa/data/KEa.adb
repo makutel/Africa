@@ -80,7 +80,7 @@ GeothermalC T
 # Gethermal conventional
 HFON f 
 # HFO Nairobi
-Geothermal j 
+GeothermalS t 
 # Geothermal Steam
 *
 Resources r
@@ -523,10 +523,16 @@ con1a CO2 c 2.34
 # Description: Import of Nuclear_Uranium
 *
 KEGE00I00 b
-moutp j-K c 1
-vom ts 499.58 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2
-con1a CO2 c 2.34
-# Description: Geothermal
+moutp T-K c 1
+vom c 0
+con1a CO2 c 0
+# Description: Geothermal conventional
+*
+KEGE00I00_steam a
+moutp t-K c 1
+vom c 0
+con1a CO2 c 0
+# Description: Geothermal steam
 *
 KEDSRC00 g
 minp d-K 1

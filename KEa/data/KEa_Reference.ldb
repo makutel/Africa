@@ -80,7 +80,7 @@ GeothermalC T
 # Gethermal conventional
 HFON f 
 # HFO Nairobi
-Geothermal j 
+GeothermalS t 
 # Geothermal Steam
 *
 Resources r
@@ -374,7 +374,10 @@ KENU00I00 a
 # Description: Import of Nuclear_Uranium
 *
 KEGE00I00 b
-# Description: Geothermal
+# Description: Geothermal conventional
+*
+KEGE00I00_steam a
+# Description: Geothermal steam
 *
 KEDSRC00 g
 # Description: Generic Diesel Centralized
