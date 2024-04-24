@@ -74,6 +74,8 @@ Wind w
 # Wind
 Nuclear n 
 # Nuclear
+LNG l 
+# LNG Import
 GeothermalC T 
 # Gethermal conventional
 HFON f 
