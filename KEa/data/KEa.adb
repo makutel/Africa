@@ -55,11 +55,13 @@ Primary K
 Coal c 
 # Coal
 Gas g 
-# Gas
+# Gas Domestic
 Diesel d 
-# Diesel
+# Diesel Eldoret
+DieselN a 
+# Diesel Nairobi
 HFO h 
-# Heavy fuel oil
+# Heavy fuel oil Mombasa
 Bagasse b 
 # Bagasse
 Wood B 
@@ -74,8 +76,10 @@ Nuclear n
 # Nuclear
 GeothermalC T 
 # Gethermal conventional
-GeothermalS t 
-# Geothermal steam
+HFON f 
+# HFO Nairobi
+Geothermal j 
+# Geothermal Steam
 *
 Resources r
 # Resources
@@ -506,9 +510,21 @@ moutp c-f c 1
 *
 KEDS00I00 b
 moutp d-K c 1
-vom ts 440.2 459.99 479.79 499.58 519.37 539.18 558.97 578.76 598.56 618.35 638.15 657.94 665.7 673.46 681.22 688.98 696.74 704.5 712.26 720.01 727.77 735.53 735.53
+vom ts 440.2 459.99 479.79 499.58 610.17 587.59 548.14 520.95 499.87 481.43 466.93 454.76 443.89 434.89 424.72 415.05 405.44 396.08 386.96 378.09 369.45 361.03 352.84 344.86 304.07 304.07 304.07
 con1a CO2 c 2.34
-# Description: Import of Diesel
+# Description: Gas Oil Eldoret
+*
+KENU00I00 a
+moutp n-K c 1
+vom ts 440.2 459.99 479.79 499.58 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16
+con1a CO2 c 2.34
+# Description: Import of Nuclear_Uranium
+*
+KEGE00I00 b
+moutp j-K c 1
+vom ts 440.2 459.99 479.79 499.58 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2 175.2
+con1a CO2 c 2.34
+# Description: Geothermal
 *
 KEDSRC00 g
 minp d-K 1
@@ -660,11 +676,17 @@ con1a DOM c 1
 # source: SAPP 2017
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
+KEHF00I00_NAIROBI a
+moutp f-K c 1
+vom ts 300.29 313.78 327.28 340.77 541.46 404.75 379.89 363.37 350.53 339.29 330.42 322.97 316.29 310.74 304.49 298.42 292.5 286.73 281.11 275.63 270.3 265.1 260.03 255.09 250.28 250.28 250.28
+con1a CO2 c 2.44
+# Description: HFO NAIROBI
+*
 KEHF00I00 b
 moutp h-K c 1
-vom ts 300.29 313.78 327.28 340.77 354.28 367.77 381.27 394.77 408.26 421.76 435.25 448.75 454.15 459.55 464.94 470.34 475.74 481.14 486.54 491.94 497.34 502.74 502.74
+vom ts 300.29 313.78 327.28 340.77 474.73 338.02 313.16 296.64 283.8 272.56 263.69 256.24 249.56 244.01 237.76 231.69 225.77 220 214.38 208.9 203.57 198.36 193.3 188.36 183.55 183.55 183.55
 con1a CO2 c 2.44
-# Description: Import of HFO
+# Description: HFO Mombasa
 *
 KEHFRC00 g
 minp h-K 1
@@ -985,6 +1007,12 @@ con1a DOM c 1
 # lat: -2.26956
 # long: 40.90064
 # source: KY_Coal/KY_Coal2
+*
+KENG00I00_LNG a
+moutp l-K c 1
+vom ts 244.28 249.68 255.07 260.48 762.17 804.09 848.3 801.66 757.57 715.91 676.54 639.34 604.18 570.96 539.56 509.89 481.85 455.36 430.32 406.65 384.29 363.16 343.19 324.32 306.48 306.48 306.48
+con1a CO2 c 1.77
+# Description: Import of Natural Gas
 *
 KENG00I00 g
 moutp g-K c 1
