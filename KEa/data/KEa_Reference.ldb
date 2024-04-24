@@ -55,11 +55,13 @@ Primary K
 Coal c 
 # Coal
 Gas g 
-# Gas
+# Gas Domestic
 Diesel d 
-# Diesel
+# Diesel Eldoret
+DieselN a 
+# Diesel Nairobi
 HFO h 
-# Heavy fuel oil
+# Heavy fuel oil Mombasa
 Bagasse b 
 # Bagasse
 Wood B 
@@ -72,6 +74,14 @@ Wind w
 # Wind
 Nuclear n 
 # Nuclear
+LNG l 
+# LNG Import
+GeothermalC T 
+# Gethermal conventional
+HFON f 
+# HFO Nairobi
+Geothermal j 
+# Geothermal Steam
 *
 Resources r
 # Resources
@@ -358,7 +368,13 @@ KEEL00TUC g
 # Description: Commerce Demand
 *
 KEDS00I00 b
-# Description: Import of Diesel
+# Description: Gas Oil Eldoret
+*
+KENU00I00 a
+# Description: Import of Nuclear_Uranium
+*
+KEGE00I00 b
+# Description: Geothermal
 *
 KEDSRC00 g
 # Description: Generic Diesel Centralized
@@ -381,11 +397,23 @@ KEDSRB00 g
 KEDSRR00 g
 # Description: Generic Diesel/Gasoline 1kW system (rural)
 *
+KEHF00I00_NAIROBI a
+# Description: HFO NAIROBI
+*
 KEHF00I00 b
-# Description: Import of HFO
+# Description: HFO Mombasa
 *
 KEHFRC00 g
 # Description: Generic HFO
+*
+KEHFRC01_Tsavo I
+# Description: 1_Tsavo
+*
+KEHFRC01_Rabai H
+# Description: 1_Rabai
+*
+KEHFRC01_Kipevu_III G
+# Description: 1_Kipevu_III
 *
 KEHFRC10_Thika F
 # Description: 0_Thika
@@ -417,6 +445,9 @@ KECOSC00 g
 KECOSC11 K
 # Description: Candidate KE-ST-SUBCRI_35
 *
+KENG00I00_LNG a
+# Description: Import of Natural Gas
+*
 KENG00I00 g
 # Description: Import of Natural Gas
 *
@@ -447,6 +478,15 @@ KENGCC12_LNG2 A
 KENUPW00 g
 # Description: Generic Nuclear
 *
+KENUPW20_Nuclear_III C
+# Description: Nuclear Unit III
+*
+KENUPW20_Nuclear_II B
+# Description: Nuclear Unit II
+*
+KENUPW20_Nuclear_I A
+# Description: Nuclear Unit I
+*
 KENUPW20 T
 # Description: Candidate KY_Nuclear
 *
@@ -454,28 +494,28 @@ KEWDLC00 g
 # Description: Generic Wind
 *
 KEWDLCZ004_Marsabit_PhII b
-# Description: Marsabit Phase 2
+# Description: Marsabit Phase 2 
 *
 KEWDLCZ007_Meru_PhIII a
-# Description: Meru Ph III
+# Description: Meru Ph III 
 *
 KEWDLCZ007_Meru_PhII Z
-# Description: Meru Ph II
+# Description: Meru Ph II 
 *
 KEWDLCZ007_Meru_PhI Y
-# Description: Meru Ph I
+# Description: Meru Ph I 
 *
 KEWDLCZ008_Oldanyat X
-# Description: Oldanyat
+# Description: Oldanyat 
 *
 KEWDLCZ008_Prunus W
-# Description: Prunus
+# Description: Prunus 
 *
 KEWDLCZH08_Ngong_PhII V
-# Description: Ngong_PhII_Wind Zone H_Site ID 08
+# Description: Ngong_PhII_Wind Zone H_Site ID 08 
 *
 KEWDLCZH08_Ngong_PhI U
-# Description: Ngong_PhI_Wind Zone H_Site ID 08
+# Description: Ngong_PhI_Wind Zone H_Site ID 08 
 *
 KEWDLCZ001_Bahari2 T
 # Description: Electrawinds Bahari Phase 2
@@ -645,6 +685,96 @@ KESOPCZ001 A
 *
 KEGOCV00 k
 # Description: Generic Geothermal
+*
+KEGOCV17_Silali_III A
+# Description: Baringo Silali Silali III
+*
+KEGOCV17_Paka_III A
+# Description: Baringo Silali Paka III
+*
+KEGOCV17_Silali_II A
+# Description: Baringo Silali Silali II
+*
+KEGOCV17_Paka_II A
+# Description: Baringo Silali Paka II
+*
+KEGOCV16_Olkaria_II_Rehab A
+# Description: Olkaria_II_Rehabilitation
+*
+KEGOCV17_Paka_I A
+# Description: Baringo Silali Paka I
+*
+KEGOCV17_Korosi_I A
+# Description: Baringo Silali Korosi I
+*
+KEGOCV20_AGIL_IV A
+# Description: AGIL Longonot Stage IV
+*
+KEGOCV20_AGIL_III A
+# Description: AGIL Longonot Stage III
+*
+KEGOCV20_AGIL_II A
+# Description: AGIL Longonot Stage II
+*
+KEGOCV20_AGIL_I A
+# Description: AGIL Longonot Stage I
+*
+KEGOCV13_Akiira_II A
+# Description: Marine Power Akiira Stage II
+*
+KEGOCV13_Akiira_I A
+# Description: Marine Power Akiira Stage I
+*
+KEGOCV12_Olsuswa_II A
+# Description: Olsuswa Unit II
+*
+KEGOCV12_Olsuswa_I A
+# Description: Olsuswa Unit I
+*
+KEGOCV12_Suswa_III A
+# Description: Suswa III
+*
+KEGOCV12_Suswa_II A
+# Description: Suswa II
+*
+KEGOCV12_Suswa_I A
+# Description: Suswa I
+*
+KEGOCV16_Olkaria_7 {
+# Description: Olkaria 7
+*
+KEGOCV16_Olkaria_6 l
+# Description: Olkaria 6
+*
+KEGOCV18_Menengai_V y
+# Description: Menengai V
+*
+KEGOCV18_Menengai_IV x
+# Description: Menengai IV
+*
+KEGOCV01_Orpower_4P4 w
+# Description: 1_Orpower_4P4
+*
+KEGOCV01_Orpower_4P3 v
+# Description: 1_Orpower_4P3
+*
+KEGOCV01_Orpower_4P2 u
+# Description: 1_Orpower_4P2
+*
+KEGOCV01_Orpower_4PI t
+# Description: 1_Orpower_4PI
+*
+KEGOCV01_Olkaria_2 s
+# Description: 1_Olkaria_2
+*
+KEGOCV10_OLK_V j
+# Description: 0_OLK_V
+*
+KEGOCV10_OLK_IAU g
+# Description: 0_OLK_IAU
+*
+KEGOCV10_OLK_IV f
+# Description: 0_OLK_IV
 *
 KEGOCV17_Baringo_Silali_I o
 # Description: Baringo Silali I
