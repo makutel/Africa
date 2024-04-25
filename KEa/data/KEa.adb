@@ -425,7 +425,9 @@ KEEL00i00_HVDC t
 moutp u-s c 1
 pll c 60
 inv c 0.01
-abda up c 0
+vom c 569.4
+hisc 0 hc 2021 200
+bdi up c 400
 con1c RM:tin c 0
 con1c TXKE:tin c -1
 # Description: Import of Electricity HVDC Ethiopia
@@ -435,25 +437,31 @@ minp d-s 1
 moutp u-s c 1
 pll c 60
 inv c 0.01
-abda up c 0
+vom c 963.6
+bdi up c 100
 con1c RM:tin c 0
 con1c TXKE:tin c -1
 # Description: TANESCO Energy Exchange
+# bdi: based on current system parameters but theoretical potential is higher%%user:Raymond Sewe%%date:25/04/2024 15:05:28
 2. activity t
 minp u-s 1
 moutp d-s c 1
+vom c -953.96
 *
 KEEL00i00_UETCL q
 moutp u-s c 1
 pll c 60
 inv c 0.01
-abda up c 0
+vom c 788.4
+hisc 0 hc 2018 70
+bdi up c 70
 con1c RM:tin c 0
 con1c TXKE:tin c -1
 # Description: UETCL Energy Exchange
 2. activity r
 minp u-s 1
 moutp d-s c 1
+vom c -780.52
 *
 KEEL00i00 I
 moutp u-s c 1

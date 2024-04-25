@@ -327,6 +327,17 @@ inv c 0.01
 fom c 0.01
 # Description: Transmission
 *
+KEEL00i00_HVDC t
+# Description: Import of Electricity HVDC Ethiopia
+*
+KEEL00i00_TANESCO s
+# Description: TANESCO Energy Exchange
+2. activity t
+*
+KEEL00i00_UETCL q
+# Description: UETCL Energy Exchange
+2. activity r
+*
 KEEL00i00 I
 # Description: Import of Electricity
 *
