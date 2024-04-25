@@ -421,48 +421,6 @@ con1a IPW c -0.7
 # moutp: Assumption. Needs review by Country.%%user:Bruno%%date:2020/05/21 11:15:28 AM
 # inv: Assumption based on South Africa. Needs review by Country.%%user:Bruno%%date:2020/05/21 11:15:58 AM
 *
-KEEL00i00_HVDC t
-moutp u-s c 1
-pll c 60
-inv c 0.01
-vom c 569.4
-hisc 0 hc 2021 200
-bdi up c 400
-con1c RM:tin c 0
-con1c TXKE:tin c -1
-# Description: Import of Electricity HVDC Ethiopia
-*
-KEEL00i00_TANESCO s
-minp d-s 1
-moutp u-s c 1
-pll c 60
-inv c 0.01
-vom c 963.6
-bdi up c 100
-con1c RM:tin c 0
-con1c TXKE:tin c -1
-# Description: TANESCO Energy Exchange
-# bdi: based on current system parameters but theoretical potential is higher%%user:Raymond Sewe%%date:25/04/2024 15:05:28
-2. activity t
-minp u-s 1
-moutp d-s c 1
-vom c -953.96
-*
-KEEL00i00_UETCL q
-moutp u-s c 1
-pll c 60
-inv c 0.01
-vom c 788.4
-hisc 0 hc 2018 70
-bdi up c 70
-con1c RM:tin c 0
-con1c TXKE:tin c -1
-# Description: UETCL Energy Exchange
-2. activity r
-minp u-s 1
-moutp d-s c 1
-vom c -780.52
-*
 KEEL00i00 I
 moutp u-s c 1
 pll c 60
@@ -556,13 +514,13 @@ moutp c-f c 1
 *
 KEDS00I00 b
 moutp d-K c 1
-vom ts 499.58 610.17 587.59 548.14 520.95 499.87 481.43 466.93 454.76 443.89 434.89 424.72 415.05 405.44 396.08 386.96 378.09 369.45 361.03 352.84 344.86 304.07 304.07 361.03 361.03
+vom ts 611.99 747.46 719.8 671.47 638.16 612.34 589.75 571.99 557.08 543.77 532.74 520.28 508.44 496.66 485.2 474.03 463.16 452.58 442.26 442.26 442.26 442.26 442.26 442.26 442.26
 con1a CO2 c 2.34
 # Description: Gas Oil Eldoret
 *
 KENU00I00 a
 moutp n-K c 1
-vom ts 499.58 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16 34.16
+vom ts 611.99 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85 41.85
 con1a CO2 c 2.34
 # Description: Import of Nuclear_Uranium
 *
@@ -736,13 +694,13 @@ con1a DOM c 1
 *
 KEHF00I00_NAIROBI a
 moutp f-K c 1
-vom ts 340.77 541.46 404.75 379.89 363.37 350.53 339.29 330.42 322.97 316.29 310.74 304.49 298.42 292.5 286.73 281.11 275.63 270.3 265.1 260.03 255.09 250.28 250.28 265.1 265.1
+vom ts 417.44 663.29 495.82 465.37 445.13 429.4 415.63 404.76 395.64 387.46 380.66 373 365.56 358.31 351.24 344.36 337.65 331.12 324.75 324.75 324.75 324.75 324.75 324.75 324.75
 con1a CO2 c 2.44
 # Description: HFO NAIROBI
 *
 KEHF00I00 b
 moutp h-K c 1
-vom ts 340.77 474.73 338.02 313.16 296.64 283.8 272.56 263.69 256.24 249.56 244.01 237.76 231.69 225.77 220 214.38 208.9 203.57 198.36 193.3 188.36 183.55 183.55 198.36 198.36
+vom ts 417.44 581.54 414.07 383.62 363.38 347.66 333.89 323.02 313.89 305.71 298.91 291.26 283.82 276.57 269.5 262.62 255.9 249.37 242.99 242.99 242.99 242.99 242.99 242.99 242.99
 con1a CO2 c 2.44
 # Description: HFO Mombasa
 *
@@ -1068,13 +1026,13 @@ con1a DOM c 1
 *
 KENG00I00_LNG a
 moutp l-K c 1
-vom ts 260.48 1035.97 1092.94 1153.04 1089.63 1029.71 973.09 919.58 869.01 821.22 776.06 733.39 693.06 654.95 618.93 584.9 552.73 522.34 493.62 466.47 440.82 416.58 416.58 363.16 363.16
+vom ts 319.09 933.66 985.01 1039.17 982.03 928.02 876.99 828.76 783.19 740.12 699.43 660.96 624.62 590.27 557.82 527.14 498.15 470.76 444.87 444.87 444.87 444.87 444.87 444.87 444.87
 con1a CO2 c 1.77
 # Description: Import of Natural Gas
 *
 KENG00I00 g
 moutp g-K c 1
-vom ts 260.48 762.17 804.09 848.3 801.66 757.57 715.91 676.54 639.34 604.18 570.96 539.56 509.89 481.85 455.36 430.32 406.65 384.29 363.16 343.19 324.32 306.48 306.48 377.89 377.89
+vom ts 319.09 325.69 332.31 338.93 345.55 352.15 358.77 365.37 371.98 381.07 390.16 399.26 408.35 417.44 426.53 435.63 444.72 453.83 462.92 462.92 462.92 462.92 462.92 462.92 462.92
 con1a CO2 c 1.77
 # Description: Import of Natural Gas
 *
@@ -5114,7 +5072,7 @@ fom c 59.63
 vom c 4.26
 optm c 1
 ctime c 5
-bdi up c 700
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5230,10 +5188,304 @@ con1a DOM c 1
 # source: Not used
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
+KEHYRO_Small_2033 l
+minp H-K 1
+moutp u-s c 1
+fyear 2033
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 14.6
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Njumbi/Hydel
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2032 k
+minp H-K 1
+moutp u-s c 1
+fyear 2032
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 48.8
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Chevron_Africa/Dominion Farms/Webuye Falls_KenGen
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2031 j
+minp H-K 1
+moutp u-s c 1
+fyear 2031
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 12.2
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Karuga_Gitugi/Tridax/Truck_City
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_KTDA_2031 i
+minp H-K 1
+moutp u-s c 1
+fyear 2031
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 10.1
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KTDA Ltd Chemosit_Kiptiget/Chemosit_Yurith/Rupingazi_Rutune/Chemosit_Itare/R_Yala_Taunet
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: EAPP database
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2030 f
+minp H-K 1
+moutp u-s c 1
+fyear 2030
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 69.7
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Rianjue_Gichuki/Mwikhupo_Mwibale/Virunga_Sossio_Kaptama/Njega_Rukenya/Western Hydro/Virunga_Kibisi /Kirogori/Rareh Nyamindi_1_2_3/VSHydro/
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_KTDA_2030 e
+minp H-K 1
+moutp u-s c 1
+fyear 2030
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdi up c 2.5
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KTDA Ltd Chemosit
+# status: Candidate
+# lat: -0.64
+# long: 37.91
+# source: EAPP database
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2029 d
+minp H-K 1
+moutp u-s c 1
+fyear 2029
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc up ts 0 0 0 0 0 0 0 54.7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 54.7
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Kaptis/Buchangu/Mutunguru /Ventus/Khalala
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2028 c
+minp H-K 1
+moutp u-s c 1
+fyear 2028
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc fx ts 0 0 0 0 0 0 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 28.6
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Gogo upgrade/Rieke Ltd Kaiuthi
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2027 b
+minp H-K 1
+moutp u-s c 1
+fyear 2027
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc fx ts 0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 30.2
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KTDA Ltd Kipsonoi/Gatiki/Rieke Ltd Ithanji
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2026 a
+minp H-K 1
+moutp u-s c 1
+fyear 2026
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc fx ts 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 15.35
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KTDA Ltd Chemosit/Frontier/Gem Gen
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_2025 Z
+minp H-K 1
+moutp u-s c 1
+fyear 2025
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc fx ts 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 9
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Mt Kenya/Tindinyo/KleenEnergy
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: KY_Small_hydro%%user:Bassam%%date:08/04/2022 20:36:59
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYRO_Small_KTDA_2024 Y
+minp H-K 1
+moutp u-s c 1
+fyear 2024
+plf c 0.5
+pll c 60
+inv c 3276.57
+fom c 98.29
+vom c 0
+optm c 1
+ctime c 2
+bdc fx ts 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 3.8
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KTDA Ltd_South Maara/Iraru/NyambundeNyakwana/Lower Nyamindi
+# status: Committed
+# lat: -0.64
+# long: 37.91
+# source: EAPP database
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
 KEHYRO_High_Grand2 K
 minp H-K 1
 moutp u-s c 1
-fyear 2037
+fyear 2031
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5257,7 +5509,7 @@ con1a DOM c 1
 KEHYRO_High_Grand I
 minp H-K 1
 moutp u-s c 1
-fyear 2032
+fyear 2031
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5281,7 +5533,7 @@ con1a DOM c 1
 KEHYRO_Small_Chevron X
 minp H-K 1
 moutp u-s c 1
-fyear 2035
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5289,14 +5541,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 28.8
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Chevron Africa/Dominion Farms/Khalala Navakholo
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5305,7 +5557,7 @@ con1a DOM c 1
 KEHYRO_Small_KDTA2 W
 minp H-K 1
 moutp u-s c 1
-fyear 2034
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5313,14 +5565,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 22.3
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Karuga/Kiptiget/Yurith/Rupingazi Rutune/Itare/Yala Taunet/Tridax/Truck city
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5329,7 +5581,7 @@ con1a DOM c 1
 KEHYRO_Small_Rareh V
 minp H-K 1
 moutp u-s c 1
-fyear 2033
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5337,14 +5589,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 29.7
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Rareh Nyamindi123/VSHydro
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5353,7 +5605,7 @@ con1a DOM c 1
 KEHYRO_Small_Kirogori S
 minp H-K 1
 moutp r-t c 1
-fyear 2032
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5361,14 +5613,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 16
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Kirogori/Kibisi_Virunga/Chemosit
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5377,7 +5629,7 @@ con1a DOM c 1
 KEHYRO_Small_GemGen R
 minp H-K 1
 moutp r-t c 1
-fyear 2031
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5385,14 +5637,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 26
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Gem Gen/Rianjue_Gichuki/Mwikhupo-Mwibale/Kaptama/Njega/Rukenya
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5401,7 +5653,7 @@ con1a DOM c 1
 KEHYRO_Small_Kaptis Q
 minp H-K 1
 moutp u-s c 1
-fyear 2030
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5409,14 +5661,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 34.7
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Kaptis/Buchangu/Mutunguru/Ventus
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5425,7 +5677,7 @@ con1a DOM c 1
 KEHYRO_Small_Nithi P
 minp H-K 1
 moutp u-s c 1
-fyear 2029
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5433,14 +5685,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 5.6
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Frontier Investment_Nithi
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5449,7 +5701,7 @@ con1a DOM c 1
 KEHYRO_Small_Tindinyo O
 minp H-K 1
 moutp u-s c 1
-fyear 2028
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5457,14 +5709,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 1.5
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Tindinyo Falls Resort
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5473,7 +5725,7 @@ con1a DOM c 1
 KEHYRO_Small_Gatiki N
 minp H-K 1
 moutp u-s c 1
-fyear 2027
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5481,14 +5733,14 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdi up c 9.6
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Power Technologies_Gatiki
-# status: Candidate
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5497,7 +5749,7 @@ con1a DOM c 1
 KEHYRO_Small_KTDA_Gogo M
 minp H-K 1
 moutp u-s c 1
-fyear 2026
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5505,15 +5757,15 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdc fx ts 0 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 9.2
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: KTDA Kipsonoi/Gogo upgrade
-# status: Committed
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5522,7 +5774,7 @@ con1a DOM c 1
 KEHYRO_Small_MtKenya_CBO L
 minp H-K 1
 moutp u-s c 1
-fyear 2025
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5530,15 +5782,15 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdc fx ts 0 0 0 0.6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 0.6
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Mt Kenya Community Based Organisation
-# status: Committed
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5547,7 +5799,7 @@ con1a DOM c 1
 KEHYRO_Small_KTDA R
 minp H-K 1
 moutp u-s c 1
-fyear 2024
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5555,15 +5807,15 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdc fx ts 0 0 2.5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 2.5
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: KTDA Ltd_South Maara/Iraru
-# status: Committed
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5572,7 +5824,7 @@ con1a DOM c 1
 KEHYRO_Small_KTDA_Kleen m
 minp H-K 1
 moutp u-s c 1
-fyear 2023
+fyear 2050
 plf c 0.5
 pll c 60
 inv c 3276.57
@@ -5580,15 +5832,15 @@ fom c 98.29
 vom c 0
 optm c 1
 ctime c 2
-bdc fx ts 0 7.3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 7.3
+bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: KTDA Ltd_Lower Nyamindi/Nyambunde Nyakwana/Kleen Energy Ltd
-# status: Committed
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5785,11 +6037,11 @@ pll c 60
 inv c 3931.88
 fom c 59.63
 vom c 4.26
-hisc 0 hc 2010 24.9
+hisc 0 hc 2010 24.87
 optm c 1
 ctime c 2
 bdc up c 0
-bdi up c 24.9
+bdi up c 24.867
 con1c RM:tin c 1
 con1c DX01:tin c 1
 # Description: Existing KY_Small_hydro
