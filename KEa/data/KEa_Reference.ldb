@@ -78,6 +78,8 @@ LNG l
 # LNG Import
 GeothermalC T 
 # Gethermal conventional
+GeothermalG G 
+# Gethermal conventional
 HFON f 
 # HFO Nairobi
 GeothermalS t 
@@ -375,6 +377,9 @@ KENU00I00 a
 *
 KEGE00I00 b
 # Description: Geothermal conventional
+*
+KEGE00I00 a
+# Description: Geothermal generic
 *
 KEGE00I00_steam a
 # Description: Geothermal steam
@@ -689,6 +694,66 @@ KESOPCZ001 A
 KEGOCV00 k
 # Description: Generic Geothermal
 *
+KEGOCV18_Menengai_V A
+# Description: Menengai V
+*
+KEGOCV16_Olkaria_7 a
+# Description: 6_Olkaria_7
+*
+KEGOCV16_Olkaria_6 p
+# Description: 6_Olkaria_6
+*
+KEGOCV12_Suswa_I n
+# Description: Suswa I
+*
+KEGOCV12_Suswa_II Q
+# Description: Suswa II
+*
+KEGOCV12_Suswa_III z
+# Description: Suswa III
+*
+KEGOCV12_Olsuswa_I y
+# Description: Olsuswa Unit I
+*
+KEGOCV13_Akiira_I i
+# Description: Marine Power Akiira Stage I
+*
+KEGOCV13_Akiira_II h
+# Description: Marine Power Akiira Stage II
+*
+KEGOCV20_AGIL_I g
+# Description: AGIL Longonot Stage I
+*
+KEGOCV20_AGIL_II f
+# Description: AGIL Longonot Stage II
+*
+KEGOCV20_AGIL_III V
+# Description: AGIL Longonot Stage III
+*
+KEGOCV20_AGIL_IV S
+# Description: AGIL Longonot Stage IV
+*
+KEGOCV17_Korosi_I I
+# Description: Baringo Silali Korosi I
+*
+KEGOCV17_Paka_I H
+# Description: Baringo Silali Paka I
+*
+KEGOCV16_Olkaria_II_Rehab G
+# Description: Olkaria_II_Rehabilitation
+*
+KEGOCV17_Paka_II F
+# Description: Baringo Silali Paka II
+*
+KEGOCV17_Silali_II E
+# Description: Baringo Silali Silali II
+*
+KEGOCV17_Paka_III D
+# Description: Baringo Silali Paka III
+*
+KEGOCV17_Silali_III A
+# Description: Baringo Silali Silali III
+*
 KEGOCV18_Menengai_IV x
 # Description: Menengai IV
 *
@@ -719,17 +784,11 @@ KEGOCV10_OLK_IV f
 KEGOCV17_Baringo_Silali_I o
 # Description: Baringo Silali I
 *
-KEGOCV18_Menengai_IV_V n
-# Description: Menengai IV&V
-*
 KEGOCV18_Menengai_III m
 # Description: Menengai III
 *
 KEGOCV18_Menengai_1_Stage2 l
 # Description: Menengai 1 Phase 1 Stage 2
-*
-KEGOCV16_Olkaria_6_7 Q
-# Description: Olkaria 6 & 7
 *
 KEGOCV12_Suswa r
 # Description: Suswa I_II_III
@@ -739,9 +798,6 @@ KEGOCV12_Eburru R
 *
 KEGOCV16_Menengai_1_Orpower22 p
 # Description: Menengai 1 Phase 1 Stage 1 Orpower 22
-*
-KEGOCV12_Olsuswa q
-# Description: Olsuswa Unit I_II
 *
 KEGOCV18_Wellheadleasing e
 # Description: Wellhead Leasing
@@ -755,9 +811,6 @@ KEGOCV16_Olkaria8 c
 KEGOCV16_Olkaria9 b
 # Description: Olkaria 9
 *
-KEGOCV20_AGIL_Longonot a
-# Description: AGIL Longonot Stage I_II_III_IV
-*
 KEGOCV17_Baringo_Silali Z
 # Description: Baringo Silali Korosi 1/Paka 1
 *
@@ -766,9 +819,6 @@ KEGOCV16_Olkaria_1V_Uprating Y
 *
 KEGOCV16_Olkaria_1_Uprating X
 # Description: Olkaria_1_Uprating (Topping)
-*
-KEGOCV16_Olkaria_1_Unit1_3 W
-# Description: Olkaria_1_Unit 1,2,3 Rehabilitation
 *
 KEGOCV18_Menengai_1_Quantum V
 # Description: Menengai 1 Phase 1 Stage 1 Quantum

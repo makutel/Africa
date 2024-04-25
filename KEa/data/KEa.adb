@@ -78,6 +78,8 @@ LNG l
 # LNG Import
 GeothermalC T 
 # Gethermal conventional
+GeothermalG G 
+# Gethermal conventional
 HFON f 
 # HFO Nairobi
 GeothermalS t 
@@ -527,6 +529,12 @@ moutp T-K c 1
 vom c 0
 con1a CO2 c 0
 # Description: Geothermal conventional
+*
+KEGE00I00 a
+moutp G-K c 1
+vom c 0
+con1a CO2 c 0
+# Description: Geothermal generic
 *
 KEGE00I00_steam a
 moutp t-K c 1
@@ -2997,7 +3005,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01
 *
 KEGOCV00 k
-minp T-K 1
+minp G-K 1
 moutp u-s c 1
 fyear 2030
 plf c 0.775
@@ -3014,6 +3022,92 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Generic Geothermal
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV18_Menengai_V A
+minp G-K 1
+moutp u-s c 1
+fyear 2039
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Menengai V
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV16_Olkaria_7 a
+minp G-K 1
+moutp u-s c 1
+fyear 2027
+plf c 0.775
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.775
+ctime c 4
+minutil c 0.2
+bdc fx ts 0 0 0 0 0 140 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 140
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: 6_Olkaria_7
+# status: Committed
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV16_Olkaria_6 p
+minp T-K 1
+moutp u-s c 1
+fyear 2027
+plf c 0.775
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.775
+ctime c 4
+minutil c 0.2
+bdc fx ts 0 0 0 0 0 80 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bdi up c 80
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: 6_Olkaria_6
+# status: Committed
 # lat: -0.585969115656408
 # long: 36.2495793738294
 # source: SAPP 2017
@@ -3909,35 +4003,6 @@ con1a DOM c 1
 # inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
-KEGOCV12_Olsuswa q
-minp T-K 1
-moutp u-s c 1
-fyear 2051
-plf c 0.92
-pll c 25
-inv c 3457.47
-fom c 71.45
-vom c 0
-optm c 0.92
-ctime c 4
-minutil c 0.2
-bdc up ts 0 0 0 0 0 0 0 0 0 0 0 0 0 70 0 0 70 0 0 0 0 0 0 0 0
-bdi up c 140
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Olsuswa Unit I_II
-# status: Deleted
-# lat: -0.585969115656408
-# long: 36.2495793738294
-# source: Geothermal SSS Report 2022
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37%%user:Bothwell%%date:4/21/2023 5:14:39 PM
-# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
 KEGOCV18_Wellheadleasing e
 minp T-K 1
 moutp u-s c 1
@@ -3951,7 +4016,7 @@ optm c 0.92
 ctime c 4
 minutil c 0.2
 bdc fx ts 0 0 0 0 58 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 58
+bdi up c 58.64
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -4052,35 +4117,6 @@ con1a DOM c 1
 # inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
-KEGOCV20_AGIL_Longonot a
-minp T-K 1
-moutp u-s c 1
-fyear 2051
-plf c 0.92
-pll c 25
-inv c 3457.47
-fom c 71.45
-vom c 0
-optm c 0.92
-ctime c 4
-minutil c 0.2
-bdc up ts 0 0 0 0 0 0 0 0 0 0 0 0 0 35 0 35 35 35 0 0 0 0 0 0 0
-bdi up c 140
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: AGIL Longonot Stage I_II_III_IV
-# status: Deleted
-# lat: -0.585969115656408
-# long: 36.2495793738294
-# source: Geothermal SSS Report 2022
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37%%user:Bothwell%%date:4/21/2023 5:14:39 PM
-# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
 KEGOCV17_Baringo_Silali Z
 minp T-K 1
 moutp u-s c 1
@@ -4158,35 +4194,6 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Olkaria_1_Uprating (Topping)
-# status: Committed
-# lat: -0.585969115656408
-# long: 36.2495793738294
-# source: EAPP database
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37%%user:Bothwell%%date:4/21/2023 5:14:39 PM
-# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
-KEGOCV16_Olkaria_1_Unit1_3 W
-minp T-K 1
-moutp u-s c 1
-fyear 2026
-plf c 0.92
-pll c 25
-inv c 3457.47
-fom c 71.45
-vom c 0
-optm c 0.92
-ctime c 4
-minutil c 0.2
-bdc fx ts 0 0 0 0 63 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-bdi up c 63
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Olkaria_1_Unit 1,2,3 Rehabilitation
 # status: Committed
 # lat: -0.585969115656408
 # long: 36.2495793738294
