@@ -537,12 +537,13 @@ con1a CO2 c 0
 KEDSRC00 g
 minp d-K 1
 moutp u-s c 0.35
-plf c 0.8944
+fyear 2051
+plf c 0.894
 pll c 25
 inv c 1161.91
 fom c 35.31
 vom c 0
-optm c 0.8944
+optm c 0.894
 ctime c 1
 minutil c 0.05
 con1c RM:tin c 1
@@ -584,7 +585,7 @@ con1a DOM c 1
 KEDSSC00 h
 minp d-K 1
 moutp u-s c 0.35
-fyear 2025
+fyear 2051
 plf c 0.922
 pll c 25
 inv c 850.57
@@ -606,12 +607,13 @@ con1a DOM c 1
 KEDSRI00 g
 minp d-K 1
 moutp i-t c 0.35
-plf c 0.8944
+fyear 2051
+plf c 0.894
 pll c 20
 inv c 1161.91
 fom c 35.31
 vom c 0
-optm c 0.8944
+optm c 0.894
 ctime c 3
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
@@ -625,12 +627,13 @@ con1a DOM c 1
 KEDSRU00 g
 minp d-K 1
 moutp u-t c 0.16
-plf c 0.5477
+fyear 2051
+plf c 0.548
 pll c 10
 inv c 1161.91
 fom c 35.31
 vom c 0
-optm c 0.5477
+optm c 0.548
 ctime c 3
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
@@ -644,12 +647,13 @@ con1a DOM c 1
 KEDSRB00 g
 minp d-K 1
 moutp c-t c 0.16
-plf c 0.5477
+fyear 2051
+plf c 0.548
 pll c 10
 inv c 1161.91
 fom c 35.31
 vom c 0
-optm c 0.5477
+optm c 0.548
 ctime c 3
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
@@ -663,12 +667,13 @@ con1a DOM c 1
 KEDSRR00 g
 minp d-K 1
 moutp r-t c 0.16
-plf c 0.5477
+fyear 2051
+plf c 0.548
 pll c 10
 inv c 850.57
 fom c 25.68
 vom c 0
-optm c 0.5477
+optm c 0.548
 ctime c 3
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
@@ -694,13 +699,13 @@ con1a CO2 c 2.44
 KEHFRC00 g
 minp h-K 1
 moutp u-s c 0.35
-fyear 2022
-plf c 0.8944
+fyear 2051
+plf c 0.894
 pll c 25
 inv c 1161.91
 fom c 35.31
 vom c 0
-optm c 0.8944
+optm c 0.894
 ctime c 2
 minutil c 0.05
 con1c RM:tin c 1
@@ -967,7 +972,7 @@ con1a CO2 c 2.98
 KECOSC00 g
 minp c-K 1
 moutp u-s c 0.39
-fyear 2026
+fyear 2051
 plf c 0.922
 pll c 35
 inv c 2181
@@ -1026,7 +1031,7 @@ con1a CO2 c 1.77
 KENGSC00 g
 minp g-K 1
 moutp u-s c 0.35
-fyear 2030
+fyear 2051
 plf c 0.922
 pll c 25
 inv c 850.57
@@ -1074,7 +1079,7 @@ con1a DOM c 1
 KENGCC00 h
 minp g-K 1
 moutp u-s c 0.58
-fyear 2030
+fyear 2051
 plf c 0.922
 pll c 30
 inv c 1084.88
@@ -1222,7 +1227,7 @@ con1a DOM c 1
 KENUPW00 g
 minp n-K 1
 moutp u-s c 0.33
-fyear 2025
+fyear 2051
 plf c 0.922
 pll c 50
 inv c 6565.98
@@ -1340,7 +1345,7 @@ con1a DOM c 1
 KEWDLC00 g
 minp w-K 1
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 0.75
 pll c 25
 inv ts 1736.29 1680.73 1625.18 1569.63 1514.08 1458.53 1402.98 1347.43 1291.88 1269.79 1247.69 1225.6 1203.5 1181.41 1159.32 1137.22 1115.13 1093.03 1070.94 1070.94 1070.94 1070.94 1070.94 1070.94 1070.94
@@ -1791,7 +1796,7 @@ con1a DOM c 1
 KEWDOC00 M
 minp w-K 1
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 0.75
 pll c 25
 inv ts 5185.39 5028.42 4871.45 4714.49 4557.52 4400.55 4243.58 4086.61 3929.64 3828.16 3726.68 3625.19 3523.71 3422.23 3320.75 3219.27 3117.78 3016.3 2914.82 2914.82 2914.82 2914.82 2914.82 2914.82 2914.82
@@ -2117,7 +2122,7 @@ con1a DOM c 1
 *
 KESOTN00 h
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 1
 pll c 30
 inv ts 5217.7 5061.41 4905.11 4748.82 4592.53 4436.24 4279.95 4123.66 3967.37 3923.21 3879.06 3834.9 3790.74 3746.58 3702.42 3658.26 3614.1 3569.95 3525.79 3525.79 3525.79 3525.79 3525.79 3525.79 3525.79
@@ -2187,7 +2192,7 @@ con1a DOM c 1
 *
 KESOTS00 i
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 1
 pll c 30
 inv ts 4790.98 4588.98 4386.99 4185 4022.44 3859.88 3697.32 3534.76 3372.2 3362.88 3353.56 3344.24 3334.92 3325.6 3316.46 3307.32 3298.18 3289.03 3279.89 3279.89 3279.89 3279.89 3279.89 3279.89 3279.89
@@ -2256,7 +2261,7 @@ con1a DOM c 1
 KESOTG00 i
 minp g-K 1
 moutp u-s c 0.53
-fyear 2050
+fyear 2051
 plf c 0.922
 pll c 30
 inv c 6473.96
@@ -2277,7 +2282,7 @@ con1a DOM c 1
 KESOPC00 j
 minp s-K 1
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 0.8
 pll c 24
 inv ts 1161.07 1094.56 1028.06 961.55 895.04 828.54 762.03 695.52 629.02 611.32 593.61 575.91 558.21 540.51 522.81 505.11 487.41 469.71 452.01 452.01 452.01 452.01 452.01 452.01 452.01
@@ -2992,14 +2997,15 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM%%user:Bassam%%date:08/04/2022 17:51:01
 *
 KEGOCV00 k
+minp T-K 1
 moutp u-s c 1
-fyear 2025
-plf c 0.7746
+fyear 2030
+plf c 0.775
 pll c 25
 inv c 3457.47
 fom c 113.6
 vom c 0
-optm c 0.7746
+optm c 0.775
 ctime c 4
 minutil c 0.2
 con1c RM:tin c 1
@@ -3008,6 +3014,479 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: Generic Geothermal
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV12_Suswa_I n
+minp T-K 1
+moutp u-s c 1
+fyear 2032
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Suswa I
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV12_Suswa_II Q
+minp T-K 1
+moutp u-s c 1
+fyear 2038
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Suswa II
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV12_Suswa_III z
+minp T-K 1
+moutp u-s c 1
+fyear 2039
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Suswa III
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV12_Olsuswa_I y
+minp T-K 1
+moutp u-s c 1
+fyear 2040
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Olsuswa Unit I
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV13_Akiira_I i
+minp T-K 1
+moutp u-s c 1
+fyear 2033
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Marine Power Akiira Stage I
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV13_Akiira_II h
+minp T-K 1
+moutp u-s c 1
+fyear 2040
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Marine Power Akiira Stage II
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV20_AGIL_I g
+minp T-K 1
+moutp u-s c 1
+fyear 2034
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 35
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: AGIL Longonot Stage I
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV20_AGIL_II f
+minp T-K 1
+moutp u-s c 1
+fyear 2035
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 35
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: AGIL Longonot Stage II
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV20_AGIL_III V
+minp T-K 1
+moutp u-s c 1
+fyear 2035
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 35
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: AGIL Longonot Stage III
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV20_AGIL_IV S
+minp T-K 1
+moutp u-s c 1
+fyear 2037
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 35
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: AGIL Longonot Stage IV
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Korosi_I I
+minp T-K 1
+moutp u-s c 1
+fyear 2035
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Korosi I
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Paka_I H
+minp T-K 1
+moutp u-s c 1
+fyear 2027
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdc fx ts 0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Paka I
+# status: Committed
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV16_Olkaria_II_Rehab G
+minp T-K 1
+moutp u-s c 1
+fyear 2033
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 105
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Olkaria_II_Rehabilitation
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Paka_II F
+minp T-K 1
+moutp u-s c 1
+fyear 2033
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Paka II
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Silali_II E
+minp T-K 1
+moutp u-s c 1
+fyear 2038
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Silali II
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Paka_III D
+minp T-K 1
+moutp u-s c 1
+fyear 2040
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Paka III
+# status: Candidate
+# lat: -0.585969115656408
+# long: 36.2495793738294
+# source: SAPP 2017
+# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEGOCV17_Silali_III A
+minp T-K 1
+moutp u-s c 1
+fyear 2040
+plf c 0.92
+pll c 25
+inv c 3457.47
+fom c 113.6
+vom c 0
+optm c 0.92
+ctime c 4
+minutil c 0.2
+bdi up c 100
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: Baringo Silali Silali III
+# status: Candidate
 # lat: -0.585969115656408
 # long: 36.2495793738294
 # source: SAPP 2017
@@ -3207,7 +3686,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
 KEGOCV10_OLK_IAU g
-minp T-K 1
+minp t-K 1
 moutp u-s c 1
 plf c 0.92
 pll c 25
@@ -3234,7 +3713,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
 KEGOCV10_OLK_IV f
-minp T-K 1
+minp t-K 1
 moutp u-s c 1
 plf c 0.92
 pll c 25
@@ -3288,34 +3767,6 @@ con1a DOM c 1
 # inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
-KEGOCV18_Menengai_IV_V n
-minp T-K 1
-moutp u-s c 1
-fyear 2051
-plf c 0.92
-pll c 25
-inv c 3457.47
-fom c 71.45
-vom c 0
-optm c 0.92
-ctime c 4
-minutil c 0.2
-bdi up c 200
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Menengai IV&V
-# status: Deleted
-# lat: -0.585969115656408
-# long: 36.2495793738294
-# source: EAPP database
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37%%user:Bothwell%%date:4/21/2023 5:14:39 PM
-# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
 KEGOCV18_Menengai_III m
 minp T-K 1
 moutp u-s c 1
@@ -3364,34 +3815,6 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 # Description: Menengai 1 Phase 1 Stage 2
 # status: Candidate
-# lat: -0.585969115656408
-# long: 36.2495793738294
-# source: EAPP database
-# vom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fom: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37%%user:Bothwell%%date:4/21/2023 5:14:39 PM
-# inv: IRENA Februray 2022%%user:Bassam%%date:17/02/2022 21:05:37
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
-KEGOCV16_Olkaria_6_7 Q
-minp T-K 1
-moutp u-s c 1
-fyear 2051
-plf c 0.92
-pll c 25
-inv c 3457.47
-fom c 71.45
-vom c 0
-optm c 0.92
-ctime c 4
-minutil c 0.2
-bdi up c 280
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Olkaria 6 & 7
-# status: Deleted
 # lat: -0.585969115656408
 # long: 36.2495793738294
 # source: EAPP database
@@ -3458,7 +3881,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
 KEGOCV16_Menengai_1_Orpower22 p
-minp T-K 1
+minp t-K 1
 moutp u-s c 1
 fyear 2026
 plf c 0.92
@@ -3774,7 +4197,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
 KEGOCV18_Menengai_1_Quantum V
-minp T-K 1
+minp t-K 1
 moutp u-s c 1
 fyear 2025
 plf c 0.92
@@ -3832,7 +4255,7 @@ con1a DOM c 1
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
 KEGOCV18_Menengai_1_Sosian S
-minp T-K 1
+minp t-K 1
 moutp u-s c 1
 fyear 2023
 plf c 0.92
@@ -4134,13 +4557,13 @@ vom c 0
 KEBMST00 g
 minp b-K 1
 moutp u-s c 0.26
-fyear 2024
-plf c 0.8185
+fyear 2051
+plf c 0.818
 pll c 25
 inv c 1237.28
 fom c 30.93
 vom c 0
-optm c 0.8185
+optm c 0.818
 ctime c 4
 minutil c 0.2
 bdi up ts 766.1 875.5 984.9 1094.4 1203.8 1313.3 1422.7 1532.1 1641.6 1652.3 1663 1673.7 1684.4 1695.1 1705.8 1716.5 1727.2 1737.9 1748.6 1748.6 1748.6 1748.6 1748.6 1748.6 1748.6
@@ -4533,13 +4956,13 @@ con1a DOM c 1
 KEBWST00 a
 minp B-K 1
 moutp u-s c 0.26
-fyear 2024
-plf c 0.8185
+fyear 2051
+plf c 0.818
 pll c 15
 inv c 2580.6
 fom c 82.57
 vom c 41.9
-optm c 0.8185
+optm c 0.818
 ctime c 4
 minutil c 0.2
 bdi up c 0
@@ -4611,7 +5034,7 @@ con1a DOM c 1
 KEHYDM00 g
 minp H-K 1
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 1
 pll c 50
 inv c 3209.7
@@ -4738,7 +5161,7 @@ consa D003 c -1
 KEHYRO00 h
 minp H-K 1
 moutp u-s c 1
-fyear 2050
+fyear 2051
 plf c 0.5
 pll c 50
 inv c 2674.75
@@ -5291,7 +5714,7 @@ con1a DOM c 1
 KEHYMI00 g
 minp H-K 1
 moutp r-t c 1
-fyear 2024
+fyear 2051
 plf c 0.5
 pll c 50
 inv c 3209.7
@@ -5328,6 +5751,7 @@ con1c DX01:tin c 1
 *
 KESOPU00 g
 moutp u-t c 1
+fyear 2051
 plf c 1
 pll c 20
 inv ts 1644.22 1610.41 1576.6 1542.8 1512.41 1482.03 1451.64 1421.26 1390.87 1373.11 1355.35 1337.59 1319.83 1302.07 1285.59 1269.12 1252.64 1236.16 1219.69 1219.69 1219.69 1219.69 1219.69 1219.69 1219.69
@@ -5342,6 +5766,7 @@ ctime c 3
 *
 KESOPB00 g
 moutp c-t c 1
+fyear 2051
 plf c 1
 pll c 20
 inv ts 1474.96 1415.91 1356.85 1297.79 1272.11 1246.43 1220.76 1195.08 1169.4 1151.32 1133.24 1115.16 1097.08 1078.99 1062.52 1046.04 1029.56 1013.09 996.61 996.61 996.61 996.61 996.61 996.61 996.61
@@ -5356,6 +5781,7 @@ ctime c 3
 *
 KESOPR00 g
 moutp r-t c 1
+fyear 2051
 plf c 1
 pll c 24
 inv ts 3168.19 3023.32 2878.46 2733.59 2619.12 2504.64 2390.16 2275.68 2161.2 2109.41 2057.63 2005.85 1954.07 1902.28 1856.7 1811.13 1765.55 1719.97 1674.39 1674.39 1674.39 1674.39 1674.39 1674.39 1674.39
@@ -5370,6 +5796,7 @@ ctime c 3
 *
 KESOPS00 h
 moutp r-t c 1
+fyear 2051
 plf c 1
 pll c 24
 inv ts 4234.66 4041.01 3847.36 3653.71 3500.71 3347.72 3194.72 3041.73 2888.73 2819.4 2750.07 2680.74 2611.41 2542.08 2481.1 2420.11 2359.13 2298.15 2237.16 2237.16 2237.16 2237.16 2237.16 2237.16 2237.16
