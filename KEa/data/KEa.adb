@@ -530,7 +530,7 @@ vom c 0
 con1a CO2 c 0
 # Description: Geothermal conventional
 *
-KEGE00I00 a
+KEGE00I00_Generic a
 moutp G-K c 1
 vom c 0
 con1a CO2 c 0

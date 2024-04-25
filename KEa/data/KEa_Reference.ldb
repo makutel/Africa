@@ -378,7 +378,7 @@ KENU00I00 a
 KEGE00I00 b
 # Description: Geothermal conventional
 *
-KEGE00I00 a
+KEGE00I00_Generic a
 # Description: Geothermal generic
 *
 KEGE00I00_steam a
