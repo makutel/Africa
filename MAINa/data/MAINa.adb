@@ -454,7 +454,7 @@ minp a-s-AOa 1
 moutp e-s-CDa c 1
 fyear 2050
 pll c 50
-inv c 318.5
+inv c 390.16
 optm c 0.9954
 con1c TXCD:tin c 1
 con1c TXAO:tin c 1
@@ -469,7 +469,7 @@ minp a-s-AOa 1
 moutp e-s-CDa c 0.95
 fyear 2050
 pll c 50
-inv c 49.2
+inv c 60.27
 optm c 0.9954
 bdi up c 1662.8
 con1c TXCD:tin c 1
@@ -484,7 +484,7 @@ minp c-s-BIa 1
 moutp e-s-CDa c 0.95
 fyear 2022
 pll c 60
-inv c 356.6
+inv c 436.84
 bdi up c 748.2
 con1c TXCD:tin c 1
 con1c TXBI:tin c 1
@@ -498,7 +498,7 @@ minp c-s-BIa 1
 moutp G-s-RWa c 0.97
 fyear 2029
 pll c 60
-inv c 96.3
+inv c 117.97
 bdi up c 609.7
 con1c TXBI:tin c 1
 con1c TXRW:tin c 1
@@ -513,7 +513,7 @@ minp c-s-BIa 1
 moutp G-s-RWa c 1
 fyear 2050
 pll c 60
-inv c 113.8
+inv c 139.4
 con1c TXBI:tin c 1
 con1c TXRW:tin c 1
 # Description: Generic Burundi - Rwanda
@@ -575,7 +575,7 @@ minp t-s-BWa 1
 moutp T-s-ZWa c 0.98
 fyear 2026
 pll c 50
-inv c 74.9
+inv c 91.75
 optm c 1
 bdi up c 600
 con1c TXBW:tin c 1
@@ -591,7 +591,7 @@ minp t-s-BWa 1
 moutp R-s-ZAa c 0.983
 fyear 2030
 pll c 50
-inv c 108.1
+inv c 132.42
 optm c 0.9872
 bdi up c 600
 con1c TXZA:tin c 1
@@ -607,7 +607,7 @@ minp e-s-CDa 1
 moutp R-s-ZAa c 0.94
 fyear 2030
 pll c 80
-inv c 2125.2
+inv c 2603.37
 optm c 0.992
 bdi up c 1130.23
 con1c TXCD:tin c 1
@@ -623,7 +623,7 @@ minp e-s-CDa 1
 moutp R-s-ZAa c 0.94
 fyear 2050
 pll c 80
-inv c 2026.7
+inv c 2482.71
 optm c 0.992
 con1c TXCD:tin c 1
 con1c TXZA:tin c 0
@@ -654,7 +654,7 @@ minp e-s-CDa 1
 moutp S-s-ZMa c 1
 fyear 2050
 pll c 50
-inv c 213.8
+inv c 261.91
 optm c 0.991
 con1c TXZM:tin c 1
 con1c TXCD:tin c 1
@@ -669,7 +669,7 @@ minp e-s-CDa 1
 moutp S-s-ZMa c 0.944
 fyear 2031
 pll c 50
-inv c 807.8
+inv c 989.56
 optm c 0.9918
 bdi up c 2000
 con1c TXZM:tin c 1
@@ -685,7 +685,7 @@ minp j-s-DJa 1
 moutp m-s-ERa c 0.963
 fyear 2050
 pll c 60
-inv c 665.3
+inv c 814.99
 # Description: Generic Djibouti - Eritrea
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -697,7 +697,7 @@ minp j-s-DJa 1
 moutp K-s-SOa c 0.984
 fyear 2050
 pll c 60
-inv c 614.8
+inv c 753.13
 # Description: Generic Djibouti - Somalia
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -722,7 +722,7 @@ minp n-s-ETa 1
 moutp j-s-DJa c 0.986
 fyear 2050
 pll c 60
-inv c 237.7
+inv c 291.18
 con1c TXET:tin c 1
 # Description: Generic Ethiopia - Djibouti
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
@@ -735,7 +735,7 @@ minp n-s-ETa 1
 moutp j-s-DJa c 0.95
 fyear 2030
 pll c 60
-inv c 524.2
+inv c 642.15
 bdi up c 200
 con1c TXET:tin c 1
 # Description: Committed Ethiopia-Dijbouti (Samara-Tajura) 400AC
@@ -748,7 +748,7 @@ minp n-s-ETa 1
 moutp m-s-ERa c 0.99
 fyear 2050
 pll c 60
-inv c 244.2
+inv c 299.14
 # Description: Generic Ethiopia - Eritrea
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -760,7 +760,7 @@ minp n-s-ETa 1
 moutp K-s-SOa c 0.983
 fyear 2050
 pll c 60
-inv c 433.2
+inv c 530.67
 # Description: Generic Ethiopia - Somalia
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -787,7 +787,7 @@ minp n-s-ETa 1
 moutp H-s-SDa c 0.95
 fyear 2050
 pll c 60
-inv c 123
+inv c 150.68
 bdi up c 2320.9
 con1c TXET:tin c 1
 con1c TXSD:tin c 1
@@ -801,7 +801,7 @@ minp n-s-ETa 1
 moutp H-s-SDa c 1
 fyear 2050
 pll c 60
-inv c 263.8
+inv c 323.16
 con1c TXET:tin c 1
 con1c TXSD:tin c 1
 # Description: Generic Ethiopia-Sudan () 500AC
@@ -814,7 +814,7 @@ ETELNC1KE f
 minp u-s-KEa 1
 moutp n-s-ETa c 0.95
 pll c 60
-inv c 674
+inv c 825.65
 hisc 0 hc 2019 1100
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 con1c TXET:tin c 1
@@ -830,7 +830,7 @@ minp u-s-KEa 1
 moutp n-s-ETa c 0.97
 fyear 2050
 pll c 60
-inv c 738
+inv c 904.05
 con1c TXET:tin c 1
 con1c TXKE:tin c 1
 # Description: Generic PIDA North-South Power Transmission Corridor Project () 500DC
@@ -844,7 +844,7 @@ minp u-s-KEa 1
 moutp K-s-SOa c 0.915
 fyear 2050
 pll c 60
-inv c 3164.4
+inv c 3876.39
 # Description: Generic Kenya - Somalia
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -856,7 +856,7 @@ minp u-s-KEa 1
 moutp P-s-TZa c 0.987
 fyear 2050
 pll c 60
-inv c 221.6
+inv c 271.46
 con1c TXKE:tin c 1
 con1c TXTZ:tin c 1
 # Description: Generic PIDA North-South Power Transmission Corridor Project () 765AC
@@ -869,7 +869,7 @@ TZELNC1KE f
 minp u-s-KEa 1
 moutp P-s-TZa c 0.95
 pll c 60
-inv c 382
+inv c 467.95
 hisc 0 hc 2021 600
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 1500
@@ -885,7 +885,7 @@ minp u-s-KEa 1
 moutp Q-s-UGa c 0.97
 fyear 2030
 pll c 60
-inv c 163.8
+inv c 200.66
 bdi up c 400
 con1c TXKE:tin c 1
 con1c TXUG:tin c 1
@@ -900,7 +900,7 @@ minp u-s-KEa 1
 moutp Q-s-UGa c 1
 fyear 2050
 pll c 60
-inv c 163.8
+inv c 200.66
 con1c TXKE:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic Kenya - Uganda
@@ -930,7 +930,7 @@ minp w-s-LSa 1
 moutp R-s-ZAa c 1
 fyear 2050
 pll c 50
-inv c 88.8
+inv c 108.78
 optm c 1
 con1c TXLS:tin c 1
 con1c TXZA:tin c 0
@@ -945,7 +945,7 @@ minp P-s-TZa 1
 moutp C-s-MZa c 0.95
 fyear 2022
 pll c 60
-inv c 396.9
+inv c 486.2
 optm c 0.996
 bdi up c 300
 con1c TXMZ:tin c 1
@@ -961,7 +961,7 @@ minp B-s-MWa 1
 moutp C-s-MZa c 1
 fyear 2050
 pll c 60
-inv c 330.6
+inv c 404.99
 optm c 0.996
 con1c TXMZ:tin c 1
 con1c TXMW:tin c 1
@@ -976,7 +976,7 @@ minp B-s-MWa 1
 moutp S-s-ZMa c 0.991
 fyear 2050
 pll c 50
-inv c 143.1
+inv c 175.3
 optm c 1
 con1c TXZM:tin c 1
 con1c TXMW:tin c 1
@@ -1023,7 +1023,7 @@ minp C-s-MZa 1
 moutp S-s-ZMa c 0.95
 fyear 2025
 pll c 50
-inv c 396.9
+inv c 486.2
 optm c 0.94
 bdi up c 300
 con1c TXZM:tin c 1
@@ -1038,7 +1038,7 @@ minp C-s-MZa 1
 moutp S-s-ZMa c 0.988
 fyear 2050
 pll c 50
-inv c 309.1
+inv c 378.65
 optm c 0.94
 con1c TXZM:tin c 1
 con1c TXMZ:tin c 1
@@ -1085,7 +1085,7 @@ minp C-s-MZa 1
 moutp T-s-ZWa c 0.97
 fyear 2035
 pll c 50
-inv c 28.9
+inv c 35.4
 optm c 0.991
 bdi up c 2300.2
 con1c TXMZ:tin c 1
@@ -1100,7 +1100,7 @@ minp C-s-MZa 1
 moutp T-s-ZWa c 0.97
 fyear 2030
 pll c 50
-inv c 165.8
+inv c 203.1
 optm c 0.9954
 bdi up c 600
 con1c TXMZ:tin c 1
@@ -1116,7 +1116,7 @@ minp D-s-NAa 1
 moutp R-s-ZAa c 1
 fyear 2050
 pll c 50
-inv c 309.2
+inv c 378.77
 optm c 0.992
 con1c TXNA:tin c 1
 con1c TXZA:tin c 0
@@ -1147,7 +1147,7 @@ minp D-s-NAa 1
 moutp R-s-ZAa c 0.95
 fyear 2023
 pll c 50
-inv c 411.9
+inv c 504.58
 optm c 0.992
 bdc fx ts 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 600
@@ -1163,7 +1163,7 @@ minp D-s-NAa 1
 moutp t-s-BWa c 0.95
 fyear 2030
 pll c 50
-inv c 1030.3
+inv c 1262.12
 optm c 0.992
 bdi up c 300
 con1c TXNA:tin c 1
@@ -1178,7 +1178,7 @@ minp D-s-NAa 1
 moutp S-s-ZMa c 0.98
 fyear 2026
 pll c 50
-inv c 79.2
+inv c 97.02
 optm c 1
 bdi up c 300
 con1c TXZM:tin c 1
@@ -1194,7 +1194,7 @@ minp D-s-NAa 1
 moutp a-s-AOa c 0.95
 fyear 2025
 pll c 51
-inv c 171.2
+inv c 209.72
 optm c 0.9909
 bdc fx ts 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 600
@@ -1211,7 +1211,7 @@ minp G-s-RWa 1
 moutp e-s-CDa c 0.965
 fyear 2050
 pll c 60
-inv c 576.1
+inv c 705.72
 vom c 0
 con1c TXCD:tin c 1
 con1c TXRW:tin c 1
@@ -1226,7 +1226,7 @@ minp G-s-RWa 1
 moutp e-s-CDa c 0.97
 fyear 2030
 pll c 60
-inv c 576.1
+inv c 705.72
 vom c 0
 bdi up c 388
 con1c TXCD:tin c 1
@@ -1241,7 +1241,7 @@ minp G-s-RWa 1
 moutp e-s-CDa c 0.97
 fyear 2029
 pll c 60
-inv c 576.1
+inv c 705.72
 vom c 0
 bdi up c 600
 con1c TXCD:tin c 1
@@ -1256,7 +1256,7 @@ minp Q-s-UGa 1
 moutp e-s-CDa c 0.978
 fyear 2030
 pll c 60
-inv c 480.1
+inv c 588.12
 vom c 0
 con1c TXCD:tin c 1
 con1c TXUG:tin c 1
@@ -1286,7 +1286,7 @@ minp G-s-RWa 1
 moutp Q-s-UGa c 0.99
 fyear 2050
 pll c 60
-inv c 162.8
+inv c 199.43
 con1c TXRW:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic Uganda-Rwanda () 220AC
@@ -1300,7 +1300,7 @@ minp H-s-SDa 1
 moutp m-s-ERa c 0.986
 fyear 2050
 pll c 60
-inv c 356.6
+inv c 436.84
 # Description: Generic Sudan - Eritrea
 # source: https://github.com/SPLATteam/splat_auxiliary_cost_differentiated_generic_interconnectors commit c5bd87a+adjustments March
 2. activity q
@@ -1312,7 +1312,7 @@ minp h-s-SSa 1
 moutp Q-s-UGa c 0.95
 fyear 2030
 pll c 60
-inv c 396.9
+inv c 486.2
 bdi up c 250
 con1c TXSS:tin c 1
 con1c TXUG:tin c 1
@@ -1327,7 +1327,7 @@ minp h-s-SSa 1
 moutp H-s-SDa c 0.95
 fyear 2025
 pll c 60
-inv c 2380.5
+inv c 2916.11
 bdi up c 120
 con1c TXSS:tin c 1
 con1c TXSD:tin c 1
@@ -1342,7 +1342,7 @@ minp h-s-SSa 1
 moutp Q-s-UGa c 0.954
 fyear 2050
 pll c 60
-inv c 669.3
+inv c 819.89
 con1c TXSS:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic Sudan - Uganda
@@ -1356,7 +1356,7 @@ minp P-s-TZa 1
 moutp c-s-BIa c 0.979
 fyear 2050
 pll c 60
-inv c 438.6
+inv c 537.29
 con1c TXBI:tin c 1
 con1c TXTZ:tin c 1
 # Description: Generic Tanzania - Burundi
@@ -1370,7 +1370,7 @@ minp P-s-TZa 1
 moutp c-s-BIa c 0.965
 fyear 2022
 pll c 60
-inv c 42.8
+inv c 52.43
 bdi up c 1108.5
 con1c TXBI:tin c 1
 con1c TXTZ:tin c 1
@@ -1385,7 +1385,7 @@ minp P-s-TZa 1
 moutp B-s-MWa c 0.988
 fyear 2050
 pll c 60
-inv c 309.1
+inv c 378.65
 con1c TXTZ:tin c 1
 con1c TXMW:tin c 1
 # Description: Generic PIDA North-South Power Transmission Corridor Project () 400?AC
@@ -1399,7 +1399,7 @@ minp P-s-TZa 1
 moutp S-s-ZMa c 1
 fyear 2050
 pll c 60
-inv c 288.8
+inv c 353.78
 vom c 0
 con1c TXZM:tin c 1
 con1c TXTZ:tin c 1
@@ -1415,7 +1415,7 @@ minp P-s-TZa 1
 moutp S-s-ZMa c 0.94
 fyear 2024
 pll c 50
-inv c 820.6
+inv c 1005.24
 optm c 0.9925
 bdc fx ts 0 0 750 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 750
@@ -1432,7 +1432,7 @@ minp P-s-TZa 1
 moutp G-s-RWa c 0.971
 fyear 2022
 pll c 60
-inv c 278.2
+inv c 340.8
 bdi up c 181
 con1c TXTZ:tin c 1
 con1c TXRW:tin c 1
@@ -1447,7 +1447,7 @@ minp P-s-TZa 1
 moutp G-s-RWa c 0.989
 fyear 2050
 pll c 60
-inv c 176.6
+inv c 216.34
 con1c TXTZ:tin c 1
 con1c TXRW:tin c 1
 # Description: Generic Tanzania - Rwanda
@@ -1461,7 +1461,7 @@ minp P-s-TZa 1
 moutp Q-s-UGa c 0.95
 fyear 2030
 pll c 60
-inv c 320.7
+inv c 392.86
 bdi up c 430.6
 con1c TXTZ:tin c 1
 con1c TXUG:tin c 1
@@ -1476,7 +1476,7 @@ minp Q-s-UGa 1
 moutp e-s-CDa c 0.978
 fyear 2050
 pll c 60
-inv c 480.1
+inv c 588.12
 con1c TXCD:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic DRC-Uganda
@@ -1490,7 +1490,7 @@ minp P-s-TZa 1
 moutp e-s-CDa c 0.971
 fyear 2050
 pll c 60
-inv c 725.2
+inv c 888.37
 con1c TXCD:tin c 1
 con1c TXTZ:tin c 1
 # Description: Generic DRC-Tanzania
@@ -1504,7 +1504,7 @@ minp P-s-TZa 1
 moutp Q-s-UGa c 1
 fyear 2050
 pll c 60
-inv c 320.7
+inv c 392.86
 con1c TXTZ:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic Tanzania - Uganda 400 AC
@@ -1534,7 +1534,7 @@ minp R-s-ZAa 1
 moutp L-s-SZa c 1
 fyear 2050
 pll c 50
-inv c 63.8
+inv c 78.16
 optm c 0.99
 con1c TXSZ:tin c 1
 con1c TXZA:tin c 0
@@ -1549,7 +1549,7 @@ minp R-s-ZAa 1
 moutp T-s-ZWa c 0.95
 fyear 2039
 pll c 50
-inv c 69.5
+inv c 85.14
 optm c 1
 bdi up c 1725.1
 con1c TXZA:tin c 1
@@ -1564,7 +1564,7 @@ minp R-s-ZAa 1
 moutp T-s-ZWa c 0.95
 fyear 2030
 pll c 50
-inv c 179.7
+inv c 220.13
 optm c 0.9918
 bdi up c 600
 con1c TXZA:tin c 1
@@ -1580,7 +1580,7 @@ minp R-s-ZAa 1
 moutp T-s-ZWa c 1
 fyear 2050
 pll c 50
-inv c 163.8
+inv c 200.66
 optm c 0.9918
 con1c TXZA:tin c 0
 con1c TXZW:tin c 1
@@ -1611,7 +1611,7 @@ minp S-s-ZMa 1
 moutp T-s-ZWa c 0.99
 fyear 2026
 pll c 50
-inv c 181.9
+inv c 222.83
 optm c 1
 bdi up c 600
 con1c TXZM:tin c 1
@@ -1627,7 +1627,7 @@ minp S-s-ZMa 1
 moutp T-s-ZWa c 0.995
 fyear 2033
 pll c 50
-inv c 232.2
+inv c 284.44
 optm c 0.9918
 bdi up c 500
 con1c TXZM:tin c 1
@@ -1643,7 +1643,7 @@ minp T-s-ZWa 1
 moutp S-s-ZMa c 0.991
 fyear 2050
 pll c 50
-inv c 143.1
+inv c 175.3
 optm c 0.9918
 con1c TXZM:tin c 1
 con1c TXZW:tin c 1
@@ -1658,7 +1658,7 @@ minp I-s-CMa 1
 moutp O-s-TDa c 0.95
 fyear 2025
 pll c 50
-inv c 133.7
+inv c 163.78
 bdc fx ts 0 0 0 200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 200
 con1c TXCM:tin c 1
@@ -1674,7 +1674,7 @@ minp I-s-CMa 1
 moutp O-s-TDa c 0.95
 fyear 2030
 pll c 50
-inv c 1457.2
+inv c 1785.07
 bdi up c 1900
 con1c TXCM:tin c 1
 con1c TXTD:tin c 1
@@ -1689,7 +1689,7 @@ minp I-s-CMa 1
 moutp F-s-CFa c 0.95
 fyear 2035
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 185
 con1c TXCM:tin c 1
 con1c TXCF:tin c 1
@@ -1704,7 +1704,7 @@ minp I-s-CMa 1
 moutp Y-s-GAa c 0.95
 fyear 2050
 pll c 50
-inv c 160.5
+inv c 196.61
 bdi up c 210
 con1c TXCM:tin c 1
 con1c TXGA:tin c 1
@@ -1719,7 +1719,7 @@ minp I-s-CMa 1
 moutp F-s-CFa c 0.961
 fyear 2050
 pll c 50
-inv c 894.5
+inv c 1095.76
 con1c TXCM:tin c 1
 con1c TXCF:tin c 1
 # Description: Generic Cameroon-CAR
@@ -1733,7 +1733,7 @@ minp I-s-CMa 1
 moutp O-s-TDa c 0.986
 fyear 2050
 pll c 50
-inv c 254.4
+inv c 311.64
 con1c TXCM:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic Cameroon-Chad
@@ -1747,7 +1747,7 @@ minp I-s-CMa 1
 moutp V-s-CGa c 0.961
 fyear 2050
 pll c 50
-inv c 765.3
+inv c 937.49
 con1c TXCM:tin c 1
 con1c TXCG:tin c 1
 # Description: Generic Cameroon-Congo
@@ -1761,7 +1761,7 @@ minp I-s-CMa 1
 moutp Y-s-GAa c 0.987
 fyear 2050
 pll c 50
-inv c 344.4
+inv c 421.89
 con1c TXCM:tin c 1
 con1c TXGA:tin c 1
 # Description: Generic Cameroon-Gabon
@@ -1775,7 +1775,7 @@ minp X-s-GQa 1
 moutp I-s-CMa c 0.95
 fyear 2050
 pll c 50
-inv c 160.5
+inv c 196.61
 bdi up c 210
 con1c TXGQ:tin c 1
 con1c TXCM:tin c 1
@@ -1790,7 +1790,7 @@ minp X-s-GQa 1
 moutp I-s-CMa c 1
 fyear 2050
 pll c 50
-inv c 375.1
+inv c 459.5
 con1c TXGQ:tin c 1
 con1c TXCM:tin c 1
 # Description: Generic Cameroon-EQG
@@ -1804,7 +1804,7 @@ minp V-s-CGa 1
 moutp F-s-CFa c 0.95
 fyear 2027
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 185
 con1c TXCF:tin c 1
 con1c TXCG:tin c 1
@@ -1819,7 +1819,7 @@ minp V-s-CGa 1
 moutp Y-s-GAa c 0.95
 fyear 2024
 pll c 50
-inv c 160.5
+inv c 196.61
 bdi up c 400
 con1c TXGA:tin c 1
 con1c TXCG:tin c 1
@@ -1834,7 +1834,7 @@ minp V-s-CGa 1
 moutp F-s-CFa c 0.964
 fyear 2050
 pll c 50
-inv c 877.2
+inv c 1074.57
 con1c TXCF:tin c 1
 con1c TXCG:tin c 1
 # Description: Generic Congo-CAR
@@ -1848,7 +1848,7 @@ minp V-s-CGa 1
 moutp Y-s-GAa c 0.986
 fyear 2050
 pll c 50
-inv c 254.4
+inv c 311.64
 con1c TXGA:tin c 1
 con1c TXCG:tin c 1
 # Description: Generic Congo-Gabon
@@ -1862,7 +1862,7 @@ minp Y-s-GAa 1
 moutp X-s-GQa c 0.95
 fyear 2050
 pll c 50
-inv c 160.5
+inv c 196.61
 bdi up c 210
 con1c TXGQ:tin c 1
 con1c TXGA:tin c 1
@@ -1877,7 +1877,7 @@ minp Y-s-GAa 1
 moutp X-s-GQa c 0.95
 fyear 2029
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 300
 con1c TXGQ:tin c 1
 con1c TXGA:tin c 1
@@ -1892,7 +1892,7 @@ minp Y-s-GAa 1
 moutp X-s-GQa c 1
 fyear 2050
 pll c 50
-inv c 151.3
+inv c 185.34
 con1c TXGQ:tin c 1
 con1c TXGA:tin c 1
 # Description: Generic Gabon-EQG
@@ -1906,7 +1906,7 @@ minp a-s-AOa 1
 moutp V-s-CGa c 0.95
 fyear 2050
 pll c 50
-inv c 855.9
+inv c 1048.48
 con1c TXAO:tin c 1
 con1c TXCG:tin c 1
 # Description: Generic Angola-Congo
@@ -1919,7 +1919,7 @@ minp a-s-AOa 1
 moutp V-s-CGa c 0.95
 fyear 2028
 pll c 50
-inv c 204.4
+inv c 250.39
 bdc fx ts 0 0 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 1514
 con1c TXAO:tin c 1
@@ -1949,7 +1949,7 @@ minp c-s-BIa 1
 moutp G-s-RWa c 0.95
 fyear 2023
 pll c 50
-inv c 28.1
+inv c 34.42
 bdi up c 184
 con1c TXBI:tin c 1
 con1c TXRW:tin c 1
@@ -1963,7 +1963,7 @@ UGELNC1RW A
 minp G-s-RWa 1
 moutp Q-s-UGa c 0.95
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 300
 con1c TXRW:tin c 1
 con1c TXUG:tin c 1
@@ -2020,7 +2020,7 @@ minp e-s-CDa 1
 moutp a-s-AOa c 0.95
 fyear 2026
 pll c 50
-inv c 204.4
+inv c 250.39
 bdc fx ts 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 1514
 con1c TXCD:tin c 1
@@ -2036,7 +2036,7 @@ minp e-s-CDa 1
 moutp c-s-BIa c 0.986
 fyear 2050
 pll c 50
-inv c 356.6
+inv c 436.84
 con1c TXCD:tin c 1
 con1c TXBI:tin c 1
 # Description: Generic DRC-Burundi
@@ -2050,7 +2050,7 @@ minp e-s-CDa 1
 moutp F-s-CFa c 0.951
 fyear 2050
 pll c 50
-inv c 1020.4
+inv c 1249.99
 con1c TXCD:tin c 1
 con1c TXCF:tin c 1
 # Description: Generic DRC-CAR
@@ -2064,7 +2064,7 @@ minp e-s-CDa 1
 moutp V-s-CGa c 0.991
 fyear 2050
 pll c 50
-inv c 136.8
+inv c 167.58
 con1c TXCD:tin c 1
 con1c TXCG:tin c 1
 # Description: Generic DRC-Congo
@@ -2077,7 +2077,7 @@ MAELEX1DZ r
 minp M-s-DZa 1
 moutp A-s-MAa c 0.95
 pll c 50
-inv c 855.9
+inv c 1048.48
 hisc 0 hc 2009 400
 optm c 0.9918
 bdc up c 0
@@ -2096,7 +2096,7 @@ TNELEX1DZ t
 minp M-s-DZa 1
 moutp E-s-TNa c 0.95
 pll c 95
-inv c 855.9
+inv c 1048.48
 hisc 0 hc 1952 60 1955 60 1984 60 1988 200
 optm c 0.9918
 bdc up c 0
@@ -2115,7 +2115,7 @@ LYELEX1TN v
 minp E-s-TNa 1
 moutp J-s-LYa c 0.95
 pll c 50
-inv c 855.9
+inv c 1048.48
 hisc 0 hc 2002 267 2005 534
 optm c 0.9918
 bdc up c 0
@@ -2134,7 +2134,7 @@ EGELEX1LY y
 minp J-s-LYa 1
 moutp l-s-EGa c 0.95
 pll c 50
-inv c 855.9
+inv c 1048.48
 hisc 0 hc 1998 240
 optm c 0.9918
 bdc up c 0
@@ -2153,7 +2153,7 @@ EGELEX1SD C
 minp H-s-SDa 1
 moutp l-s-EGa c 0.95
 pll c 50
-inv c 855.9
+inv c 1048.48
 hisc 0 hc 2020 300
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 300
@@ -2170,7 +2170,7 @@ minp M-s-DZa 1
 moutp J-s-LYa c 0.984
 fyear 2050
 pll c 50
-inv c 461.1
+inv c 564.85
 con1c TXLY:tin c 1
 con1c TXDZ:tin c 1
 # Description: Generic Algeria-Libya
@@ -2184,7 +2184,7 @@ minp M-s-DZa 1
 moutp o-s-MLa c 0.946
 fyear 2050
 pll c 50
-inv c 1273.3
+inv c 1559.79
 con1c TXML:tin c 1
 con1c TXDZ:tin c 1
 # Description: Generic Algeria-Mali
@@ -2198,7 +2198,7 @@ minp M-s-DZa 1
 moutp N-s-MRa c 0.94
 fyear 2050
 pll c 50
-inv c 1598
+inv c 1957.55
 con1c TXMR:tin c 1
 con1c TXDZ:tin c 1
 # Description: Generic Algeria-Mauritania
@@ -2212,7 +2212,7 @@ minp M-s-DZa 1
 moutp A-s-MAa c 1
 fyear 2050
 pll c 50
-inv c 375.1
+inv c 459.5
 con1c TXDZ:tin c 1
 con1c TXMA:tin c 1
 # Description: Generic Algeria-Morocco
@@ -2226,7 +2226,7 @@ minp M-s-DZa 1
 moutp p-s-NEa c 0.954
 fyear 2050
 pll c 50
-inv c 921.9
+inv c 1129.33
 con1c TXNE:tin c 1
 con1c TXDZ:tin c 1
 # Description: Generic Algeria-Niger
@@ -2240,7 +2240,7 @@ minp M-s-DZa 1
 moutp E-s-TNa c 1
 fyear 2050
 pll c 50
-inv c 201.3
+inv c 246.59
 con1c TXTN:tin c 1
 con1c TXDZ:tin c 1
 # Description: Generic Algeria-Tunisia
@@ -2254,7 +2254,7 @@ minp a-s-AOa 1
 moutp D-s-NAa c 0.98
 fyear 2050
 pll c 50
-inv c 418.5
+inv c 512.66
 con1c TXNA:tin c 1
 con1c TXAO:tin c 1
 # Description: Generic Angola-Namibia
@@ -2268,7 +2268,7 @@ minp a-s-AOa 1
 moutp S-s-ZMa c 0.977
 fyear 2050
 pll c 50
-inv c 668.6
+inv c 819.04
 con1c TXZM:tin c 1
 con1c TXAO:tin c 1
 # Description: Generic Angola-Zambia
@@ -2282,7 +2282,7 @@ minp g-s-BJa 1
 moutp U-s-BFa c 0.976
 fyear 2050
 pll c 50
-inv c 348.8
+inv c 427.28
 con1c TXBJ:tin c 1
 con1c TXBF:tin c 1
 # Description: Generic Benin-BurkinaFaso
@@ -2296,7 +2296,7 @@ minp g-s-BJa 1
 moutp p-s-NEa c 0.978
 fyear 2050
 pll c 50
-inv c 480.1
+inv c 588.12
 con1c TXBJ:tin c 1
 con1c TXNE:tin c 1
 # Description: Generic Benin-Niger
@@ -2310,7 +2310,7 @@ minp g-s-BJa 1
 moutp q-s-NGa c 0.981
 fyear 2050
 pll c 50
-inv c 260.8
+inv c 319.48
 con1c TXNG:tin c 1
 con1c TXBJ:tin c 1
 # Description: Generic Benin-Nigeria
@@ -2324,7 +2324,7 @@ minp g-s-BJa 1
 moutp x-s-TGa c 1
 fyear 2050
 pll c 50
-inv c 188.8
+inv c 231.28
 con1c TXTG:tin c 1
 con1c TXBJ:tin c 1
 # Description: Generic Benin-Togo
@@ -2338,7 +2338,7 @@ minp t-s-BWa 1
 moutp D-s-NAa c 0.991
 fyear 2050
 pll c 50
-inv c 205.2
+inv c 251.37
 con1c TXNA:tin c 1
 con1c TXBW:tin c 1
 # Description: Generic Botswana-Namibia
@@ -2352,7 +2352,7 @@ minp t-s-BWa 1
 moutp R-s-ZAa c 1
 fyear 2050
 pll c 50
-inv c 188.8
+inv c 231.28
 con1c TXZA:tin c 0
 con1c TXBW:tin c 1
 # Description: Generic Botswana-SouthAfrica
@@ -2366,7 +2366,7 @@ minp t-s-BWa 1
 moutp S-s-ZMa c 0.98
 fyear 2050
 pll c 50
-inv c 398.9
+inv c 488.65
 con1c TXZM:tin c 1
 con1c TXBW:tin c 1
 # Description: Generic Botswana-Zambia
@@ -2380,7 +2380,7 @@ minp t-s-BWa 1
 moutp T-s-ZWa c 0.987
 fyear 2050
 pll c 50
-inv c 664.9
+inv c 814.5
 con1c TXBW:tin c 1
 con1c TXZW:tin c 1
 # Description: Generic Botswana-Zimbabwe
@@ -2394,7 +2394,7 @@ minp U-s-BFa 1
 moutp W-s-CIa c 0.99
 fyear 2050
 pll c 50
-inv c 244.2
+inv c 299.14
 con1c TXBF:tin c 1
 con1c TXCI:tin c 1
 # Description: Generic BurkinaFaso-CotedIvoire
@@ -2408,7 +2408,7 @@ minp U-s-BFa 1
 moutp b-s-GHa c 0.99
 fyear 2050
 pll c 50
-inv c 162.8
+inv c 199.43
 con1c TXGH:tin c 1
 con1c TXBF:tin c 1
 # Description: Generic BurkinaFaso-Ghana
@@ -2422,7 +2422,7 @@ minp U-s-BFa 1
 moutp o-s-MLa c 0.98
 fyear 2050
 pll c 50
-inv c 418.5
+inv c 512.66
 con1c TXML:tin c 1
 con1c TXBF:tin c 1
 # Description: Generic BurkinaFaso-Mali
@@ -2436,7 +2436,7 @@ minp U-s-BFa 1
 moutp x-s-TGa c 0.985
 fyear 2050
 pll c 50
-inv c 262.9
+inv c 322.05
 con1c TXTG:tin c 1
 con1c TXBF:tin c 1
 # Description: Generic BurkinaFaso-Togo
@@ -2450,7 +2450,7 @@ minp F-s-CFa 1
 moutp O-s-TDa c 0.976
 fyear 2050
 pll c 50
-inv c 697.6
+inv c 854.56
 con1c TXCF:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic CentralAfricanRepublic-Chad
@@ -2464,7 +2464,7 @@ minp F-s-CFa 1
 moutp h-s-SSa c 0.938
 fyear 2050
 pll c 50
-inv c 1703.7
+inv c 2087.03
 con1c TXSS:tin c 1
 con1c TXCF:tin c 1
 # Description: Generic CentralAfricanRepublic-SouthSudan
@@ -2478,7 +2478,7 @@ minp F-s-CFa 1
 moutp H-s-SDa c 0.94
 fyear 2050
 pll c 50
-inv c 1598
+inv c 1957.55
 con1c TXSD:tin c 1
 con1c TXCF:tin c 1
 # Description: Generic CentralAfricanRepublic-Sudan
@@ -2492,7 +2492,7 @@ minp I-s-CMa 1
 moutp q-s-NGa c 0.992
 fyear 2050
 pll c 50
-inv c 130.7
+inv c 160.11
 con1c TXNG:tin c 1
 con1c TXCM:tin c 1
 # Description: Generic Cameroon-Nigeria
@@ -2506,7 +2506,7 @@ minp O-s-TDa 1
 moutp J-s-LYa c 0.932
 fyear 2050
 pll c 50
-inv c 2060.1
+inv c 2523.62
 con1c TXLY:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic Chad-Libya
@@ -2520,7 +2520,7 @@ minp O-s-TDa 1
 moutp p-s-NEa c 0.957
 fyear 2050
 pll c 50
-inv c 792.9
+inv c 971.3
 con1c TXNE:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic Chad-Niger
@@ -2534,7 +2534,7 @@ minp O-s-TDa 1
 moutp q-s-NGa c 0.974
 fyear 2050
 pll c 50
-inv c 394.1
+inv c 482.77
 con1c TXNG:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic Chad-Nigeria
@@ -2548,7 +2548,7 @@ minp O-s-TDa 1
 moutp H-s-SDa c 0.939
 fyear 2050
 pll c 50
-inv c 1617
+inv c 1980.82
 con1c TXSD:tin c 1
 con1c TXTD:tin c 1
 # Description: Generic Chad-Sudan
@@ -2562,7 +2562,7 @@ minp W-s-CIa 1
 moutp b-s-GHa c 0.992
 fyear 2050
 pll c 50
-inv c 130.7
+inv c 160.11
 con1c TXGH:tin c 1
 con1c TXCI:tin c 1
 # Description: Generic CotedIvoire-Ghana
@@ -2576,7 +2576,7 @@ minp W-s-CIa 1
 moutp f-s-GNa c 0.96
 fyear 2050
 pll c 50
-inv c 716.1
+inv c 877.22
 con1c TXGN:tin c 1
 con1c TXCI:tin c 1
 # Description: Generic CotedIvoire-Guinea
@@ -2590,7 +2590,7 @@ minp W-s-CIa 1
 moutp k-s-LRa c 0.983
 fyear 2050
 pll c 50
-inv c 324.9
+inv c 398
 con1c TXLR:tin c 1
 con1c TXCI:tin c 1
 # Description: Generic CotedIvoire-Liberia
@@ -2604,7 +2604,7 @@ minp W-s-CIa 1
 moutp o-s-MLa c 1
 fyear 2050
 pll c 50
-inv c 339.4
+inv c 415.76
 con1c TXML:tin c 1
 con1c TXCI:tin c 1
 # Description: Generic CotedIvoire-Mali
@@ -2618,7 +2618,7 @@ minp e-s-CDa 1
 moutp h-s-SSa c 0.96
 fyear 2050
 pll c 50
-inv c 954.7
+inv c 1169.51
 con1c TXSS:tin c 1
 con1c TXCD:tin c 1
 # Description: Generic DemocraticRepublicoftheCongo-SouthSudan
@@ -2632,7 +2632,7 @@ minp l-s-EGa 1
 moutp J-s-LYa c 0.968
 fyear 2050
 pll c 50
-inv c 816.8
+inv c 1000.58
 con1c TXLY:tin c 1
 con1c TXEG:tin c 1
 # Description: Generic Egypt-Libya
@@ -2646,7 +2646,7 @@ minp l-s-EGa 1
 moutp H-s-SDa c 1
 fyear 2050
 pll c 50
-inv c 562.6
+inv c 689.18
 con1c TXSD:tin c 1
 con1c TXEG:tin c 1
 # Description: Generic Egypt-Sudan
@@ -2660,7 +2660,7 @@ minp Z-s-GMa 1
 moutp r-s-SNa c 0.988
 fyear 2050
 pll c 50
-inv c 206.1
+inv c 252.47
 con1c TXSN:tin c 1
 con1c TXGM:tin c 1
 # Description: Generic Gambia-Senegal
@@ -2674,7 +2674,7 @@ minp b-s-GHa 1
 moutp x-s-TGa c 0.991
 fyear 2050
 pll c 50
-inv c 143.1
+inv c 175.3
 con1c TXTG:tin c 1
 con1c TXGH:tin c 1
 # Description: Generic Ghana-Togo
@@ -2688,7 +2688,7 @@ minp f-s-GNa 1
 moutp i-s-GWa c 0.963
 fyear 2050
 pll c 50
-inv c 672.8
+inv c 824.18
 con1c TXGN:tin c 1
 con1c TXGW:tin c 1
 # Description: Generic Guinea-GuineaBissau
@@ -2702,7 +2702,7 @@ minp f-s-GNa 1
 moutp k-s-LRa c 0.962
 fyear 2050
 pll c 50
-inv c 703.1
+inv c 861.3
 con1c TXGN:tin c 1
 con1c TXLR:tin c 1
 # Description: Generic Guinea-Liberia
@@ -2716,7 +2716,7 @@ minp f-s-GNa 1
 moutp o-s-MLa c 0.966
 fyear 2050
 pll c 50
-inv c 543.3
+inv c 665.54
 con1c TXGN:tin c 1
 con1c TXML:tin c 1
 # Description: Generic Guinea-Mali
@@ -2730,7 +2730,7 @@ minp f-s-GNa 1
 moutp r-s-SNa c 0.963
 fyear 2050
 pll c 50
-inv c 672.8
+inv c 824.18
 con1c TXGN:tin c 1
 con1c TXSN:tin c 1
 # Description: Generic Guinea-Senegal
@@ -2744,7 +2744,7 @@ minp f-s-GNa 1
 moutp v-s-SLa c 0.99
 fyear 2050
 pll c 50
-inv c 244.2
+inv c 299.14
 con1c TXGN:tin c 1
 con1c TXSL:tin c 1
 # Description: Generic Guinea-SierraLeone
@@ -2758,7 +2758,7 @@ minp i-s-GWa 1
 moutp r-s-SNa c 0.978
 fyear 2050
 pll c 50
-inv c 459.1
+inv c 562.4
 con1c TXGW:tin c 1
 con1c TXSN:tin c 1
 # Description: Generic GuineaBissau-Senegal
@@ -2772,7 +2772,7 @@ minp L-s-SZa 1
 moutp C-s-MZa c 1
 fyear 2050
 pll c 50
-inv c 76.3
+inv c 93.47
 con1c TXSZ:tin c 1
 con1c TXMZ:tin c 1
 # Description: Generic Eswatini-Mozambique
@@ -2786,7 +2786,7 @@ minp n-s-ETa 1
 moutp h-s-SSa c 0.966
 fyear 2050
 pll c 50
-inv c 724.5
+inv c 887.51
 con1c TXET:tin c 1
 con1c TXSS:tin c 1
 # Description: Generic Ethiopia-SouthSudan
@@ -2800,7 +2800,7 @@ minp n-s-ETa 1
 moutp Q-s-UGa c 0.95
 fyear 2050
 pll c 50
-inv c 855.9
+inv c 1048.48
 con1c TXET:tin c 1
 con1c TXUG:tin c 1
 # Description: Generic Ethiopia-Uganda
@@ -2813,7 +2813,7 @@ minp u-s-KEa 1
 moutp h-s-SSa c 0.951
 fyear 2050
 pll c 50
-inv c 1036
+inv c 1269.1
 con1c TXSS:tin c 1
 con1c TXKE:tin c 1
 # Description: Generic Kenya-SouthSudan
@@ -2827,7 +2827,7 @@ minp k-s-LRa 1
 moutp v-s-SLa c 0.976
 fyear 2050
 pll c 50
-inv c 545.4
+inv c 668.12
 con1c TXSL:tin c 1
 con1c TXLR:tin c 1
 # Description: Generic Liberia-SierraLeone
@@ -2841,7 +2841,7 @@ minp J-s-LYa 1
 moutp p-s-NEa c 0.953
 fyear 2050
 pll c 50
-inv c 951.7
+inv c 1165.83
 con1c TXLY:tin c 1
 con1c TXNE:tin c 1
 # Description: Generic Libya-Niger
@@ -2855,7 +2855,7 @@ minp J-s-LYa 1
 moutp H-s-SDa c 0.949
 fyear 2050
 pll c 50
-inv c 1123.4
+inv c 1376.17
 con1c TXLY:tin c 1
 con1c TXSD:tin c 1
 # Description: Generic Libya-Sudan
@@ -2869,7 +2869,7 @@ minp J-s-LYa 1
 moutp E-s-TNa c 1
 fyear 2050
 pll c 50
-inv c 330.6
+inv c 404.99
 con1c TXTN:tin c 1
 con1c TXLY:tin c 1
 # Description: Generic Libya-Tunisia
@@ -2883,7 +2883,7 @@ minp o-s-MLa 1
 moutp N-s-MRa c 0.957
 fyear 2050
 pll c 50
-inv c 779.1
+inv c 954.4
 con1c TXML:tin c 1
 con1c TXMR:tin c 1
 # Description: Generic Mali-Mauritania
@@ -2897,7 +2897,7 @@ minp o-s-MLa 1
 moutp p-s-NEa c 0.955
 fyear 2050
 pll c 50
-inv c 849.2
+inv c 1040.27
 con1c TXML:tin c 1
 con1c TXNE:tin c 1
 # Description: Generic Mali-Niger
@@ -2911,7 +2911,7 @@ minp o-s-MLa 1
 moutp r-s-SNa c 0.96
 fyear 2050
 pll c 50
-inv c 716.1
+inv c 877.22
 con1c TXML:tin c 1
 con1c TXSN:tin c 1
 # Description: Generic Mali-Senegal
@@ -2925,7 +2925,7 @@ minp N-s-MRa 1
 moutp A-s-MAa c 0.964
 fyear 2030
 pll c 50
-inv c 813.1
+inv c 996.05
 bdi up c 500
 con1c TXMR:tin c 1
 con1c TXMA:tin c 1
@@ -2940,7 +2940,7 @@ minp N-s-MRa 1
 moutp r-s-SNa c 0.986
 fyear 2050
 pll c 50
-inv c 237.7
+inv c 291.18
 con1c TXMR:tin c 1
 con1c TXSN:tin c 1
 # Description: Generic Mauritania-Senegal
@@ -2954,7 +2954,7 @@ minp C-s-MZa 1
 moutp R-s-ZAa c 0.99
 fyear 2050
 pll c 50
-inv c 162.8
+inv c 199.43
 con1c TXMZ:tin c 1
 con1c TXZA:tin c 0
 # Description: Generic Mozambique-SouthAfrica
@@ -2968,7 +2968,7 @@ minp C-s-MZa 1
 moutp P-s-TZa c 0.965
 fyear 2050
 pll c 50
-inv c 584.5
+inv c 716.01
 con1c TXMZ:tin c 1
 con1c TXTZ:tin c 1
 # Description: Generic Mozambique-Tanzania
@@ -2982,7 +2982,7 @@ minp C-s-MZa 1
 moutp T-s-ZWa c 1
 fyear 2050
 pll c 50
-inv c 238.8
+inv c 292.53
 con1c TXMZ:tin c 1
 con1c TXZW:tin c 1
 # Description: Generic Mozambique-Zimbabwe
@@ -2996,7 +2996,7 @@ minp D-s-NAa 1
 moutp S-s-ZMa c 1
 fyear 2050
 pll c 50
-inv c 320.7
+inv c 392.86
 con1c TXNA:tin c 1
 con1c TXZM:tin c 1
 # Description: Generic Namibia-Zambia
@@ -3010,7 +3010,7 @@ minp D-s-NAa 1
 moutp T-s-ZWa c 0.988
 fyear 2050
 pll c 50
-inv c 309.1
+inv c 378.65
 con1c TXNA:tin c 1
 con1c TXZW:tin c 1
 # Description: Generic Namibia-Zimbabwe
@@ -3024,7 +3024,7 @@ minp p-s-NEa 1
 moutp q-s-NGa c 1
 fyear 2050
 pll c 50
-inv c 502.5
+inv c 615.56
 con1c TXNG:tin c 1
 con1c TXNE:tin c 1
 # Description: Generic Niger-Nigeria
@@ -3038,7 +3038,7 @@ minp h-s-SSa 1
 moutp H-s-SDa c 0.978
 fyear 2050
 pll c 50
-inv c 459.1
+inv c 562.4
 con1c TXSS:tin c 1
 con1c TXSD:tin c 1
 # Description: Generic SouthSudan-Sudan
@@ -3177,7 +3177,7 @@ TGELNC1GH C
 minp b-s-GHa 1
 moutp x-s-TGa c 0.975
 pll c 50
-inv c 137.4
+inv c 168.32
 bdi up c 1018
 con1c TXTG:tin c 1
 con1c TXGH:tin c 1
@@ -3192,7 +3192,7 @@ minp W-s-CIa 1
 moutp b-s-GHa c 0.98
 fyear 2022
 pll c 50
-inv c 137.4
+inv c 168.32
 bdi up c 655.2
 con1c TXGH:tin c 1
 con1c TXCI:tin c 1
@@ -3206,7 +3206,7 @@ LRELNC1CI B
 minp W-s-CIa 1
 moutp k-s-LRa c 0.975
 pll c 50
-inv c 176.9
+inv c 216.7
 bdi up c 327
 con1c TXLR:tin c 1
 con1c TXCI:tin c 1
@@ -3220,7 +3220,7 @@ GNELNC1LR A
 minp k-s-LRa 1
 moutp f-s-GNa c 0.975
 pll c 50
-inv c 176.9
+inv c 216.7
 bdi up c 327
 con1c TXGN:tin c 1
 con1c TXLR:tin c 1
@@ -3234,7 +3234,7 @@ SLELNC1LR B
 minp k-s-LRa 1
 moutp v-s-SLa c 0.932
 pll c 50
-inv c 815.6
+inv c 999.11
 bdi up c 178.8
 con1c TXSL:tin c 1
 con1c TXLR:tin c 1
@@ -3249,7 +3249,7 @@ minp v-s-SLa 1
 moutp f-s-GNa c 0.975
 fyear 2022
 pll c 50
-inv c 242.9
+inv c 297.55
 bdi up c 333.7
 con1c TXGN:tin c 1
 con1c TXSL:tin c 1
@@ -3264,7 +3264,7 @@ minp r-s-SNa 1
 moutp f-s-GNa c 0.906
 fyear 2022
 pll c 50
-inv c 1012.3
+inv c 1240.07
 bdi up c 286.3
 con1c TXGN:tin c 1
 con1c TXSN:tin c 1
@@ -3278,7 +3278,7 @@ GMELNC1SN A
 minp r-s-SNa 1
 moutp Z-s-GMa c 0.975
 pll c 50
-inv c 106.3
+inv c 130.22
 bdi up c 176
 con1c TXSN:tin c 1
 con1c TXGM:tin c 1
@@ -3293,7 +3293,7 @@ minp Z-s-GMa 1
 moutp i-s-GWa c 0.971
 fyear 2022
 pll c 50
-inv c 275.3
+inv c 337.24
 bdi up c 329.1
 con1c TXGW:tin c 1
 con1c TXGM:tin c 1
@@ -3308,7 +3308,7 @@ minp i-s-GWa 1
 moutp f-s-GNa c 0.941
 fyear 2022
 pll c 50
-inv c 585
+inv c 716.62
 bdi up c 309.6
 con1c TXGN:tin c 1
 con1c TXGW:tin c 1
@@ -3323,7 +3323,7 @@ minp q-s-NGa 1
 moutp p-s-NEa c 0.969
 fyear 2023
 pll c 50
-inv c 219.1
+inv c 268.4
 bdi up c 653.1
 con1c TXNG:tin c 1
 con1c TXNE:tin c 1
@@ -3338,7 +3338,7 @@ minp p-s-NEa 1
 moutp g-s-BJa c 0.964
 fyear 2023
 pll c 50
-inv c 256.4
+inv c 314.09
 bdi up c 649.7
 con1c TXBJ:tin c 1
 con1c TXNE:tin c 1
@@ -3353,7 +3353,7 @@ minp p-s-NEa 1
 moutp U-s-BFa c 0.945
 fyear 2023
 pll c 50
-inv c 392.8
+inv c 481.18
 bdi up c 637.5
 con1c TXNE:tin c 1
 con1c TXBF:tin c 1
@@ -3368,7 +3368,7 @@ minp o-s-MLa 1
 moutp r-s-SNa c 0.971
 fyear 2023
 pll c 50
-inv c 287.6
+inv c 352.31
 bdi up c 329.1
 con1c TXML:tin c 1
 con1c TXSN:tin c 1
@@ -3383,7 +3383,7 @@ minp q-s-NGa 1
 moutp g-s-BJa c 0.959
 fyear 2027
 pll c 50
-inv c 254.6
+inv c 311.88
 bdi up c 646.7
 con1c TXNG:tin c 1
 con1c TXBJ:tin c 1
@@ -3398,7 +3398,7 @@ minp x-s-TGa 1
 moutp b-s-GHa c 0.971
 fyear 2027
 pll c 50
-inv c 179.7
+inv c 220.13
 bdi up c 654.5
 con1c TXTG:tin c 1
 con1c TXGH:tin c 1
@@ -3413,7 +3413,7 @@ minp U-s-BFa 1
 moutp o-s-MLa c 0.936
 fyear 2025
 pll c 50
-inv c 573.9
+inv c 703.03
 bdi up c 305.8
 con1c TXML:tin c 1
 con1c TXBF:tin c 1
@@ -3428,7 +3428,7 @@ minp o-s-MLa 1
 moutp W-s-CIa c 0.957
 fyear 2025
 pll c 50
-inv c 428.3
+inv c 524.67
 bdi up c 319.7
 con1c TXML:tin c 1
 con1c TXCI:tin c 1
@@ -3443,7 +3443,7 @@ minp f-s-GNa 1
 moutp o-s-MLa c 0.959
 fyear 2025
 pll c 50
-inv c 366.1
+inv c 448.47
 bdi up c 321.3
 con1c TXGN:tin c 1
 con1c TXML:tin c 1
@@ -3546,7 +3546,7 @@ minp B-s-MWa 1
 moutp C-s-MZa c 0.95
 fyear 2023
 pll c 50
-inv c 150.9
+inv c 184.85
 bdc fx ts 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 600
 con1c TXMZ:tin c 1
@@ -3575,7 +3575,7 @@ minp e-s-CDa 1
 moutp G-s-RWa c 0.95
 fyear 2023
 pll c 50
-inv c 576.1
+inv c 705.72
 bdi up c 400
 con1c TXCD:tin c 1
 con1c TXRW:tin c 1
@@ -3672,7 +3672,7 @@ minp x-s-TGa 1
 moutp g-s-BJa c 0.975
 fyear 2022
 pll c 50
-inv c 137.4
+inv c 168.32
 bdi up c 1018
 con1c TXTG:tin c 1
 con1c TXBJ:tin c 1
@@ -3687,7 +3687,7 @@ minp a-s-AOa 1
 moutp D-s-NAa c 0.95
 fyear 2027
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 1514
 con1c TXNA:tin c 1
 con1c TXAO:tin c 1
@@ -3702,7 +3702,7 @@ minp a-s-AOa 1
 moutp D-s-NAa c 0.95
 fyear 2025
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 10
 con1c TXNA:tin c 1
 con1c TXAO:tin c 1
@@ -3717,7 +3717,7 @@ minp a-s-AOa 1
 moutp e-s-CDa c 0.95
 fyear 2026
 pll c 50
-inv c 855.9
+inv c 1048.48
 bdi up c 318
 con1c TXCD:tin c 1
 con1c TXAO:tin c 1
@@ -3732,7 +3732,7 @@ minp U-s-BFa 1
 moutp W-s-CIa c 0.95
 fyear 2027
 pll c 50
-inv c 154.7
+inv c 189.51
 bdi up c 814.4
 con1c TXCI:tin c 1
 con1c TXBF:tin c 1
@@ -3747,7 +3747,7 @@ minp b-s-GHa 1
 moutp U-s-BFa c 0.95
 fyear 2027
 pll c 50
-inv c 573.9
+inv c 703.03
 bdi up c 305.8
 con1c TXGH:tin c 1
 con1c TXBF:tin c 1
@@ -3762,7 +3762,7 @@ minp o-s-MLa 1
 moutp f-s-GNa c 0.95
 fyear 2024
 pll c 50
-inv c 317.3
+inv c 388.69
 bdi up c 523.2
 con1c TXML:tin c 1
 con1c TXGN:tin c 1
@@ -3777,7 +3777,7 @@ minp g-s-BJa 1
 moutp x-s-TGa c 0.95
 fyear 2027
 pll c 50
-inv c 179.7
+inv c 220.13
 bdi up c 654.5
 con1c TXTG:tin c 1
 con1c TXBJ:tin c 1
@@ -3792,7 +3792,7 @@ minp I-s-CMa 1
 moutp q-s-NGa c 0.95
 fyear 2033
 pll c 50
-inv c 169
+inv c 207.02
 bdi up c 814.4
 con1c TXNG:tin c 1
 con1c TXCM:tin c 1
@@ -3807,7 +3807,7 @@ minp W-s-CIa 1
 moutp f-s-GNa c 0.95
 fyear 2025
 pll c 50
-inv c 243.3
+inv c 298.04
 bdi up c 523.2
 con1c TXGN:tin c 1
 con1c TXCI:tin c 1
@@ -3822,7 +3822,7 @@ minp W-s-CIa 1
 moutp o-s-MLa c 0.95
 fyear 2029
 pll c 50
-inv c 367
+inv c 449.58
 bdi up c 261.6
 con1c TXML:tin c 1
 con1c TXCI:tin c 1
@@ -3837,7 +3837,7 @@ minp e-s-CDa 1
 moutp q-s-NGa c 0.95
 fyear 2030
 pll c 50
-inv c 1935.8
+inv c 2371.36
 bdi up c 1029.51
 con1c TXCD:tin c 1
 con1c TXNG:tin c 1
@@ -3852,7 +3852,7 @@ minp e-s-CDa 1
 moutp l-s-EGa c 0.95
 fyear 2030
 pll c 50
-inv c 4727.5
+inv c 5791.19
 bdi up c 2514.19
 con1c TXCD:tin c 1
 con1c TXEG:tin c 1
@@ -3897,7 +3897,7 @@ minp n-s-ETa 1
 moutp K-s-SOa c 0.983
 fyear 2030
 pll c 50
-inv c 433.2
+inv c 530.67
 bdi up c 180
 con1c TXET:tin c 1
 con1c TXSO:tin c 1
@@ -3912,7 +3912,7 @@ minp n-s-ETa 1
 moutp m-s-ERa c 0.99
 fyear 2030
 pll c 50
-inv c 244.2
+inv c 299.14
 bdi up c 180
 con1c TXET:tin c 1
 con1c TXER:tin c 1
@@ -3927,7 +3927,7 @@ minp N-s-MRa 1
 moutp A-s-MAa c 0.964
 fyear 2030
 pll c 50
-inv c 813.1
+inv c 996.05
 bdi up c 500
 con1c TXMR:tin c 1
 con1c TXMA:tin c 1
@@ -3941,7 +3941,7 @@ minp H-s-SDa 1
 moutp l-s-EGa c 0.95
 fyear 2030
 pll c 50
-inv c 562.6
+inv c 689.18
 bdi up c 2000
 con1c TXSD:tin c 1
 con1c TXEG:tin c 1
