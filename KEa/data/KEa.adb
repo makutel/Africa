@@ -237,20 +237,12 @@ systems.KESOPCZ001.A.capfac 0.002538 0.460535 0 0.003078 0.433527 \
 0 0 0.004901 0.469135 0
 systems.KEHYRO_Lower_Grand.T.capfac 0.235527 0.235527 0.236466 0.322375 0.322375 \
 0.322375 0.320244 0.29909 0.29909 0.299506
-systems.KEHYRO_Karura.U.capfac 0.353767 0.353767 0.354032 0.095416 0.095416 \
-0.095416 0.094656 0.226398 0.226398 0.226618
-systems.KEHYRO_Kindaruma_Opt.J.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KEHYRO_Tana.H.capfac 0.344075 0.344075 0.345499 0.292068 0.292068 \
 0.292068 0.28949 0.352792 0.352792 0.352998
 systems.KEHYRO_Sangoro.G.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
 0.428488 0.427974 0.356276 0.356276 0.355532
-systems.KEHYRO_Kindaruma.F.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KEHYRO_Sondu_Miriu.E.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
 0.428488 0.427974 0.356276 0.356276 0.355532
-systems.KEHYRO_Gitaru.D.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KESOPU00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
 0 0 0.072461 0.438894 0
 systems.KESOPB00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
@@ -293,16 +285,16 @@ type None
 D_KEHYDM_Turkwell D002 o 0
 units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
 for_ldr all
-upper c 119.438
-initval 79.625
+upper c 149.076
+initval 74.538
 stortype continuous
 type None
 *
 D_KEHYDM_Kiambere D003 o 0
 units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
 for_ldr all
-upper c 16.915
-initval 11.276
+upper c 23.721
+initval 11.861
 stortype continuous
 type None
 *
@@ -313,6 +305,54 @@ upper c 1000000
 stortype continuous
 type None
 con1a PS01 c 1
+*
+D_KEHYDM_MASINGA D004 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 18.151
+initval 9.076
+stortype continuous
+type None
+*
+D_KEHYDM_KAMBURU D005 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 2.691
+initval 1.346
+stortype continuous
+type None
+*
+D_KEHYDM_Gitaru D006 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 0.685
+initval 0.342
+stortype continuous
+type None
+*
+D_KEHYDM_Kindaruma D007 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 0.245
+initval 0.122
+stortype continuous
+type None
+*
+D_KEHYDM_Karura D008 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 5.21
+initval 2.605
+stortype continuous
+type None
+*
+D_KEHYDM_High_Grand D009 o 0
+units type: energy, cost:US$'00/kWyr, inv:US$'00/kW, fom:US$'00/kW/yr, pll:yr, cmix:MW, hisccap:MW, ctime:yr, reten:yr, retenhist:MWyr, upper:MWyr, lower:MWyr, transfac:%
+for_ldr all
+upper c 94.608
+initval 47.304
+stortype continuous
+type None
 *
 relations1:
 ReserveMargin RM o 
@@ -5113,6 +5153,202 @@ con1a DOM c 1
 # source: Not used
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
+KEHYDM_High_Grand o
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D009 c -1
+# Description: KEHYDM_High_Grand
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYDM_Karura n
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D008 c -1
+# Description: KEHYDM_Karura
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYDM_TURKWEL U
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: TURKWEL
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYDM_KIAMBERE K
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+# Description: KIAMBERE
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYDM_Kindaruma J
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D007 c -1
+# Description: KEHYDM_Kindaruma
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+*
+KEHYDM_Gitaru I
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D006 c -1
+# Description: KEHYDM_Gitaru
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+# river: Based on max flow:257.4m3/s, Energy.Per.Vol.of:1.303MJ/m3
+# damstorage: Based on Storage size:585mil.m3, assuming min.vol.of:0.3
+*
+KEHYDM_KAMBURU F
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D005 c -1
+# Description: KEHYDM_KAMBURU
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+# river: Based on max flow:24.9m3/s, Energy.Per.Vol.of:3.271MJ/m3
+# damstorage: Based on Storage size:1645mil.m3, assuming min.vol.of:0.3
+*
+KEHYDM_MASINGA D
+minp H-K 1
+moutp u-s c 1
+fyear 2051
+plf c 1
+pll c 50
+inv c 3931.88
+fom c 117.96
+vom c 0
+optm c 0.5
+ctime c 5
+minutil c 0
+con1c RM:tin c 1
+con1c RMG:tin c 1
+con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
+con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
+con1a DOM c 1
+consa D004 c -1
+# Description: KEHYDM_MASINGA
+# lat: -0.64
+# long: 37.91
+# source: Not used
+# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
+# river: Based on max flow:441.4m3/s, Energy.Per.Vol.of:0.398MJ/m3
+# damstorage: Based on Storage size:1560mil.m3, assuming min.vol.of:0.3
+*
 KEHYRO_Lower_Grand T
 minp H-K 1
 moutp u-s c 1
@@ -5182,13 +5418,11 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 consa D002 c -1
-# Description: Existing Turkwell
+# Description: KEHYDM_Turkwell
 # status: Existing
 # lat: 1.89818
 # long: 35.33373
 # source: Turkwell
-# river: Based on max flow:24.9m3/s, Energy.Per.Vol.of:3.271MJ/m3
-# damstorage: Based on Storage size:1645mil.m3, assuming min.vol.of:0.3
 *
 KEHYDM_Kiambere A
 minp H-K 1
@@ -5209,13 +5443,11 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 consa D003 c -1
-# Description: Existing Kiambere
+# Description: KEHYDM_Kiambere
 # status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Kiambere
-# river: Based on max flow:257.4m3/s, Energy.Per.Vol.of:1.303MJ/m3
-# damstorage: Based on Storage size:585mil.m3, assuming min.vol.of:0.3
 *
 KEHYRO00 h
 minp H-K 1
@@ -5529,54 +5761,6 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 # Description: KTDA Ltd_South Maara/Iraru/NyambundeNyakwana/Lower Nyamindi
 # status: Committed
-# lat: -0.64
-# long: 37.91
-# source: EAPP database
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
-KEHYRO_High_Grand2 K
-minp H-K 1
-moutp u-s c 1
-fyear 2031
-plf c 0.5
-pll c 60
-inv c 3276.57
-fom c 98.29
-vom c 0
-optm c 1
-ctime c 2
-bdi up c 198
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: High Grand Falls Stage 2
-# status: Candidate
-# lat: -0.64
-# long: 37.91
-# source: EAPP database
-# fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
-*
-KEHYRO_High_Grand I
-minp H-K 1
-moutp u-s c 1
-fyear 2031
-plf c 0.5
-pll c 60
-inv c 3276.57
-fom c 98.29
-vom c 0
-optm c 1
-ctime c 2
-bdi up c 495
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: High Grand Falls Stage 1
-# status: Candidate
 # lat: -0.64
 # long: 37.91
 # source: EAPP database
@@ -5898,52 +6082,6 @@ con1a DOM c 1
 # source: EAPP database
 # fyear: Based on lead times%%user:Bruno%%date:2020/05/15 4:35:49 PM
 *
-KEHYRO_Karura U
-minp H-K 1
-moutp u-s c 1
-fyear 2031
-plf c 1
-pll c 60
-inv c 4849.32
-fom c 59.63
-vom c 4.26
-optm c 1
-ctime c 2
-bdi up c 90
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Karura
-# status: Candidate
-# lat: -1.243201
-# long: 36.835689
-# source: EAPP database
-*
-KEHYRO_Kindaruma_Opt J
-minp H-K 1
-moutp u-s c 1
-fyear 2050
-plf c 1
-pll c 60
-inv c 3276.57
-fom c 59.63
-vom c 4.26
-optm c 1
-ctime c 2
-bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-con1c RM:tin c 1
-con1c RMG:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Kindaruma_opt
-# status: Deleted
-# lat: -0.80622
-# long: 37.81074
-# source: Kindaruma_opt%%user:Bassam%%date:08/04/2022 20:36:59
-*
 KEHYRO_Tana H
 minp H-K 1
 moutp u-s c 1
@@ -5990,29 +6128,6 @@ con1a DOM c 1
 # long: 34.8108405
 # source: Sangoro%%user:Bassam%%date:08/04/2022 20:36:59
 *
-KEHYRO_Kindaruma F
-minp H-K 1
-moutp u-s c 1
-plf c 1
-pll c 82
-inv c 3276.57
-fom c 59.63
-vom c 4.26
-hisc 0 hc 1968 59.5 2013 10.5
-optm c 1
-ctime c 2
-bdc up c 0
-con1c RM:tin c 1
-con1c DX01:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Existing Kindaruma
-# status: Existing
-# lat: -0.80622
-# long: 37.81074
-# source: Kindaruma%%user:Bassam%%date:08/04/2022 20:36:59
-*
 KEHYRO_Sondu_Miriu E
 minp H-K 1
 moutp u-s c 1
@@ -6035,29 +6150,6 @@ con1a DOM c 1
 # lat: -0.3972848
 # long: 35.0176364999999
 # source: Sondu_Miriu%%user:Bassam%%date:08/04/2022 20:36:59
-*
-KEHYRO_Gitaru D
-minp H-K 1
-moutp u-s c 1
-plf c 1
-pll c 60
-inv c 3276.57
-fom c 59.63
-vom c 4.26
-hisc 0 hc 1998 216
-optm c 1
-ctime c 2
-bdc up c 0
-con1c RM:tin c 1
-con1c DX01:tin c 1
-con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
-con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
-con1a DOM c 1
-# Description: Existing Gitaru
-# status: Existing
-# lat: -0.79527
-# long: 37.74936
-# source: Gitaru%%user:Bassam%%date:08/04/2022 20:36:59
 *
 KEHYMI00 g
 minp H-K 1
@@ -6174,12 +6266,12 @@ consa D001 c 1
 *
 KERIDM_Turkwell F
 moutp d-s c 1
-bdi up c 81.52
+bdi up c 214.5
 consa D002 c 1
 *
 KERIDM_Kiambere G
 moutp d-s c 1
-bdi up c 335.34
+bdi up c 239.19
 consa D003 c 1
 *
 KEELST04 D
@@ -6242,6 +6334,36 @@ pll c 1
 inv c 0
 con1c RMG:tin c 1
 con1c DX01:tin c -1
+*
+KERIDM_MASINGA A
+moutp d-s c 1
+bdi up c 61.25
+consa D004 c 1
+*
+KERIDM_KAMBURU B
+moutp d-s c 1
+bdi up c 118.84
+consa D005 c 1
+*
+KERIDM_Gitaru C
+moutp d-s c 1
+bdi up c 214.32
+consa D006 c 1
+*
+KERIDM_Kindaruma D
+moutp d-s c 1
+bdi up c 50.17
+consa D007 c 1
+*
+KERIDM_Karura H
+moutp d-s c 1
+bdi up c 70.56
+consa D008 c 1
+*
+KERIDM_High_Grand I
+moutp d-s c 1
+bdi up c 869.28
+consa D009 c 1
 *
 resources: 
 endata

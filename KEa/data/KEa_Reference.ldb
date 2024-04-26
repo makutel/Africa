@@ -237,20 +237,12 @@ systems.KESOPCZ001.A.capfac 0.002538 0.460535 0 0.003078 0.433527 \
 0 0 0.004901 0.469135 0
 systems.KEHYRO_Lower_Grand.T.capfac 0.235527 0.235527 0.236466 0.322375 0.322375 \
 0.322375 0.320244 0.29909 0.29909 0.299506
-systems.KEHYRO_Karura.U.capfac 0.353767 0.353767 0.354032 0.095416 0.095416 \
-0.095416 0.094656 0.226398 0.226398 0.226618
-systems.KEHYRO_Kindaruma_Opt.J.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KEHYRO_Tana.H.capfac 0.344075 0.344075 0.345499 0.292068 0.292068 \
 0.292068 0.28949 0.352792 0.352792 0.352998
 systems.KEHYRO_Sangoro.G.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
 0.428488 0.427974 0.356276 0.356276 0.355532
-systems.KEHYRO_Kindaruma.F.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KEHYRO_Sondu_Miriu.E.capfac 0.405524 0.405524 0.406567 0.428488 0.428488 \
 0.428488 0.427974 0.356276 0.356276 0.355532
-systems.KEHYRO_Gitaru.D.capfac 0.713264 0.713264 0.713694 0.710162 0.710162 \
-0.710162 0.708571 0.728316 0.728316 0.728908
 systems.KESOPU00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
 0 0 0.072461 0.438894 0
 systems.KESOPB00.g.capfac 0.068628 0.427854 0 0.056589 0.390535 \
@@ -289,6 +281,18 @@ D_KEHYDM_Turkwell D002 o 0
 D_KEHYDM_Kiambere D003 o 0
 *
 SS_KEELST04 SS01 o 0
+*
+D_KEHYDM_MASINGA D004 o 0
+*
+D_KEHYDM_KAMBURU D005 o 0
+*
+D_KEHYDM_Gitaru D006 o 0
+*
+D_KEHYDM_Kindaruma D007 o 0
+*
+D_KEHYDM_Karura D008 o 0
+*
+D_KEHYDM_High_Grand D009 o 0
 *
 relations1:
 ReserveMargin RM o 
@@ -933,6 +937,30 @@ KEBMST01 A
 KEHYDM00 g
 # Description: Generic Hydro with DAM
 *
+KEHYDM_High_Grand o
+# Description: High_Grand
+*
+KEHYDM_Karura n
+# Description: Karura
+*
+KEHYDM_TURKWEL U
+# Description: TURKWEL
+*
+KEHYDM_KIAMBERE K
+# Description: KIAMBERE
+*
+KEHYDM_Kindaruma J
+# Description: Kindaruma
+*
+KEHYDM_Gitaru I
+# Description: Gitaru
+*
+KEHYDM_KAMBURU F
+# Description: KAMBURU
+*
+KEHYDM_MASINGA D
+# Description: MASINGA
+*
 KEHYRO_Lower_Grand T
 # Description: Candidate LowerGrand
 *
@@ -984,12 +1012,6 @@ KEHYRO_Small_2025 Z
 KEHYRO_Small_KTDA_2024 Y
 # Description: KTDA Ltd_South Maara/Iraru/NyambundeNyakwana/Lower Nyamindi
 *
-KEHYRO_High_Grand2 K
-# Description: High Grand Falls Stage 2
-*
-KEHYRO_High_Grand I
-# Description: High Grand Falls Stage 1
-*
 KEHYRO_Small_Chevron X
 # Description: Chevron Africa/Dominion Farms/Khalala Navakholo
 *
@@ -1029,26 +1051,14 @@ KEHYRO_Small_KTDA R
 KEHYRO_Small_KTDA_Kleen m
 # Description: KTDA Ltd_Lower Nyamindi/Nyambunde Nyakwana/Kleen Energy Ltd
 *
-KEHYRO_Karura U
-# Description: Karura
-*
-KEHYRO_Kindaruma_Opt J
-# Description: Kindaruma_opt
-*
 KEHYRO_Tana H
 # Description: Existing Tana
 *
 KEHYRO_Sangoro G
 # Description: Existing Sangoro
 *
-KEHYRO_Kindaruma F
-# Description: Existing Kindaruma
-*
 KEHYRO_Sondu_Miriu E
 # Description: Existing Sondu_Miriu
-*
-KEHYRO_Gitaru D
-# Description: Existing Gitaru
 *
 KEHYMI00 g
 # Description: Generic Hydro Small
@@ -1093,6 +1103,18 @@ KEELDT04_03 I
 2. activity J
 *
 KEEXDT00 K
+*
+KERIDM_MASINGA A
+*
+KERIDM_KAMBURU B
+*
+KERIDM_Gitaru C
+*
+KERIDM_Kindaruma D
+*
+KERIDM_Karura H
+*
+KERIDM_High_Grand I
 *
 resources: 
 endata
