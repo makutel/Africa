@@ -5156,7 +5156,7 @@ con1a DOM c 1
 KEHYDM_High_Grand o
 minp H-K 1
 moutp u-s c 1
-fyear 2051
+fyear 2031
 plf c 1
 pll c 50
 inv c 3931.88
@@ -5165,6 +5165,7 @@ vom c 0
 optm c 0.5
 ctime c 5
 minutil c 0
+bdi up c 693
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5180,7 +5181,7 @@ consa D009 c -1
 KEHYDM_Karura n
 minp H-K 1
 moutp u-s c 1
-fyear 2051
+fyear 2031
 plf c 1
 pll c 50
 inv c 3931.88
@@ -5189,6 +5190,7 @@ vom c 0
 optm c 0.5
 ctime c 5
 minutil c 0
+bdi up c 90
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5204,15 +5206,16 @@ consa D008 c -1
 KEHYDM_TURKWEL U
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1991 105
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5227,15 +5230,16 @@ con1a DOM c 1
 KEHYDM_KIAMBERE K
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1988 164
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5250,15 +5254,16 @@ con1a DOM c 1
 KEHYDM_Kindaruma J
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1968 59.5 2013 10.5
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5274,15 +5279,16 @@ consa D007 c -1
 KEHYDM_Gitaru I
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1978 136 1998 80
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5300,15 +5306,16 @@ consa D006 c -1
 KEHYDM_KAMBURU F
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1974 90
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5326,15 +5333,16 @@ consa D005 c -1
 KEHYDM_MASINGA D
 minp H-K 1
 moutp u-s c 1
-fyear 2051
 plf c 1
 pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
+hisc 0 hc 1981 40
 optm c 0.5
 ctime c 5
 minutil c 0
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -5375,12 +5383,12 @@ con1a DOM c 1
 KEHYDM_Kamburu_Masinga C
 minp H-K 1
 moutp u-s c 1
+fyear 2050
 plf c 1
 pll c 72
 inv c 3931.88
 fom c 59.63
 vom c 4.26
-hisc 0 hc 1974 90 1981 40
 optm c 1
 ctime c 5
 bdc up c 0
@@ -5402,12 +5410,12 @@ consa D001 c -1
 KEHYDM_Turkwell B
 minp H-K 1
 moutp u-s c 1
+fyear 2050
 plf c 1
 pll c 59
 inv c 3931.88
 fom c 59.63
 vom c 4.26
-hisc 0 hc 1991 105
 optm c 1
 ctime c 5
 bdc up c 0
@@ -5427,12 +5435,12 @@ consa D002 c -1
 KEHYDM_Kiambere A
 minp H-K 1
 moutp u-s c 1
+fyear 2050
 plf c 1
 pll c 62
 inv c 3931.88
 fom c 59.63
 vom c 4.26
-hisc 0 hc 1988 164
 optm c 1
 ctime c 5
 bdc up c 0
