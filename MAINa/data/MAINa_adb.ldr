@@ -1,18 +1,22 @@
 loadregions:
 ltype seasonal
-year 2022 sa sb sc
-range 2022-01-01 2022-05-02 2022-09-06 2023-01-01
+year 2022 sa sb sc sd
+range 2022-01-01 2022-04-01 2022-07-01 2022-11-01 2023-01-01
 season sa anyday
-day anyday 121
-name  aaa aab aac
-length  0.291665 0.499999 0.208334
+day anyday 90
+name  aaa aab aac aad aae aaf aag
+length  0.20833 0.208334 0.208334 0.125 0.083334 0.083334 0.083334
 season sb anyday
-day anyday 127
-name  baa bab bac bad
-length  0.291667 0.500004 0.083332 0.125
+day anyday 91
+name  baa bab bac bad bae baf bag
+length  0.208336 0.208335 0.208335 0.124998 0.083332 0.083332 0.083332
 season sc anyday
-day anyday 117
-name  caa cab cac
-length  0.291666 0.5 0.208334
+day anyday 123
+name  caa cab cac cad cae caf cag
+length  0.208338 0.208332 0.208332 0.124999 0.083333 0.083333 0.083333
+season sd anyday
+day anyday 61
+name  daa dab dac dad dae daf dag
+length  0.208338 0.208331 0.208331 0.124998 0.083334 0.083334 0.083334
 loadcurves:
 
