@@ -805,6 +805,7 @@ hisc 0 hc 2010 88.6
 optm c 0.894
 ctime c 2
 minutil c 0.05
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -829,6 +830,7 @@ hisc 0 hc 2011 115
 optm c 0.894
 ctime c 2
 minutil c 0.05
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -853,6 +855,7 @@ hisc 0 hc 2014 87
 optm c 0.894
 ctime c 2
 minutil c 0.05
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -877,6 +880,7 @@ hisc 0 hc 2014 80.3
 optm c 0.894
 ctime c 2
 minutil c 0.05
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -901,6 +905,7 @@ hisc 0 hc 2015 83
 optm c 0.894
 ctime c 2
 minutil c 0.05
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -1599,6 +1604,7 @@ vom c 0
 hisc 0 hc 2015 20.4
 optm c 1
 ctime c 2
+bdc up c 0
 con1c WDBR c 1
 con1a RE c 1
 con1a RELO ts 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 0.8 0.8 0.8 0.8 0.8
@@ -1626,6 +1632,7 @@ vom c 0
 hisc 0 hc 2008 5.1
 optm c 1
 ctime c 2
+bdc up c 0
 con1c WDBR c 1
 con1a RE c 1
 con1a RELO ts 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.905 0.9 0.89 0.88 0.87 0.86 0.85 0.84 0.83 0.82 0.81 0.8 0.8 0.8 0.8 0.8 0.8 0.8
@@ -1681,6 +1688,7 @@ vom c 0
 hisc 0 hc 2021 100
 optm c 1
 ctime c 2
+bdc up c 0
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 100
 con1c WDBR c 1
@@ -2392,6 +2400,7 @@ vom c 0
 hisc 0 hc 2018 0.25
 optm c 1
 ctime c 1
+bdc up c 0
 bdi up c 0.25
 con1c PVBR c 1
 con1a RE c 1
@@ -2419,6 +2428,7 @@ vom c 0
 hisc 0 hc 2018 50
 optm c 1
 ctime c 1
+bdc up c 0
 bdi up c 50
 con1c PVBR c 1
 con1a RE c 1
@@ -2558,6 +2568,7 @@ vom c 0
 hisc 0 hc 2021 40
 optm c 1
 ctime c 1
+bdc up c 0
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 40
 con1c PVBR c 1
@@ -2586,6 +2597,7 @@ vom c 0
 hisc 0 hc 2021 40
 optm c 1
 ctime c 1
+bdc up c 0
 bdc fx ts 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 bdi up c 40
 con1c PVBR c 1
@@ -3673,6 +3685,7 @@ hisc 0 hc 2016 29
 optm c 0.775
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3700,6 +3713,7 @@ hisc 0 hc 2014 17.6
 optm c 0.775
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3727,6 +3741,7 @@ hisc 0 hc 2013 39.6
 optm c 0.775
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3754,6 +3769,7 @@ hisc 0 hc 2018 63.8
 optm c 0.775
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3781,6 +3797,7 @@ hisc 0 hc 2003 101
 optm c 0.92
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3808,6 +3825,7 @@ hisc 0 hc 2019 158
 optm c 0.92
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3835,6 +3853,7 @@ hisc 0 hc 2014 140
 optm c 0.92
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
@@ -3862,6 +3881,7 @@ hisc 0 hc 2014 140
 optm c 0.92
 ctime c 4
 minutil c 0.2
+bdc up c 0
 con1c RM:tin c 1
 con1c RMG:tin c 1
 con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.12 -0.13 -0.14 -0.15 -0.16 -0.17 -0.18 -0.19 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2 -0.2
