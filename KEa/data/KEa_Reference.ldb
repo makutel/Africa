@@ -669,6 +669,7 @@ KEGE00I00_steam a
 # Description: Geothermal steam
 *
 KEDSRC00 g
+fyear 2025
 # Description: Generic Diesel Centralized
 *
 KEDSRC01_Tsavo_Extended C
@@ -1204,81 +1205,106 @@ KEBMST01 A
 # Description: Existing Mumias
 *
 KEHYDM00 g
+optm c 1
 # Description: Generic Hydro with DAM
 *
 KEHYDM_High_Grand o
+optm c 1
 # Description: KEHYDM_High_Grand
 *
 KEHYDM_Karura n
+optm c 1
 # Description: KEHYDM_Karura
 *
 KEHYDM_TURKWEL U
+optm c 1
 # Description: TURKWEL
 *
 KEHYDM_KIAMBERE K
+optm c 1
 # Description: KIAMBERE
 *
 KEHYDM_Kindaruma J
+optm c 1
 # Description: KEHYDM_Kindaruma
 *
 KEHYDM_Gitaru I
+optm c 1
 # Description: KEHYDM_Gitaru
 *
 KEHYDM_KAMBURU F
+optm c 1
 # Description: KEHYDM_KAMBURU
 *
 KEHYDM_MASINGA D
+optm c 1
 # Description: KEHYDM_MASINGA
 *
 KEHYRO_Lower_Grand T
 # Description: Candidate LowerGrand
 *
 KEHYDM_Kamburu_Masinga C
+optm c 1
 # Description: Existing Kamburu/Masinga
 *
 KEHYDM_Turkwell B
+optm c 1
 # Description: KEHYDM_Turkwell
 *
 KEHYDM_Kiambere A
+optm c 1
 # Description: KEHYDM_Kiambere
 *
 KEHYRO00 h
+optm c 1
 # Description: Generic Hydro ROR
 *
 KEHYRO_Small_2033 l
+optm c 1
 # Description: Njumbi/Hydel
 *
 KEHYRO_Small_2032 k
+optm c 1
 # Description: Chevron_Africa/Dominion Farms/Webuye Falls_KenGen
 *
 KEHYRO_Small_2031 j
+optm c 1
 # Description: Karuga_Gitugi/Tridax/Truck_City
 *
 KEHYRO_Small_KTDA_2031 i
+optm c 1
 # Description: KTDA Ltd Chemosit_Kiptiget/Chemosit_Yurith/Rupingazi_Rutune/Chemosit_Itare/R_Yala_Taunet
 *
 KEHYRO_Small_2030 f
+optm c 1
 # Description: Rianjue_Gichuki/Mwikhupo_Mwibale/Virunga_Sossio_Kaptama/Njega_Rukenya/Western Hydro/Virunga_Kibisi /Kirogori/Rareh Nyamindi_1_2_3/VSHydro/
 *
 KEHYRO_Small_KTDA_2030 e
+optm c 1
 # Description: KTDA Ltd Chemosit
 *
 KEHYRO_Small_2029 d
+optm c 1
 # Description: Kaptis/Buchangu/Mutunguru /Ventus/Khalala
 *
 KEHYRO_Small_2028 c
+optm c 1
 # Description: Gogo upgrade/Rieke Ltd Kaiuthi
 *
 KEHYRO_Small_2027 b
+optm c 1
 # Description: KTDA Ltd Kipsonoi/Gatiki/Rieke Ltd Ithanji
 *
 KEHYRO_Small_2026 a
+optm c 1
 # Description: KTDA Ltd Chemosit/Frontier/Gem Gen
 *
 KEHYRO_Small_2025 Z
+optm c 1
 # Description: Mt Kenya/Tindinyo/KleenEnergy
 *
 KEHYRO_Small_KTDA_2024 Y
+optm c 1
 # Description: KTDA Ltd_South Maara/Iraru/NyambundeNyakwana/Lower Nyamindi
 *
 KEHYRO_Small_Chevron X
@@ -1321,18 +1347,22 @@ KEHYRO_Small_KTDA_Kleen m
 # Description: KTDA Ltd_Lower Nyamindi/Nyambunde Nyakwana/Kleen Energy Ltd
 *
 KEHYRO_Tana H
+optm c 1
 # Description: Existing Tana
 *
 KEHYRO_Sangoro G
+optm c 1
 # Description: Existing Sangoro
 *
 KEHYRO_Sondu_Miriu E
+optm c 1
 # Description: Existing Sondu_Miriu
 *
 KEHYMI00 g
 # Description: Generic Hydro Small
 *
 KEHYRO_Existing_Small S
+optm c 1
 # Description: Existing KY_Small_hydro
 *
 KESOPU00 g

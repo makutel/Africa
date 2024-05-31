@@ -782,7 +782,6 @@ moutp u-s c 1
 pll c 60
 inv c 0.01
 abda up c 0
-con1c RM:tin c 0.5
 con1c TXKE:tin c -1
 # Description: Import of Electricity
 *
@@ -1114,7 +1113,6 @@ pll c 20
 inv c 1423.34
 fom c 43.25
 vom c 0
-hisc 0 hc 2010 88.6
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1139,7 +1137,6 @@ pll c 20
 inv c 1423.34
 fom c 43.25
 vom c 0
-hisc 0 hc 2011 115
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1164,7 +1161,6 @@ pll c 20
 inv c 1423.34
 fom c 43.25
 vom c 0
-hisc 0 hc 2014 87
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1189,7 +1185,6 @@ pll c 20
 inv c 1423.34
 fom c 43.25
 vom c 0
-hisc 0 hc 2014 80.3
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1214,7 +1209,6 @@ pll c 20
 inv c 1423.34
 fom c 43.25
 vom c 0
-hisc 0 hc 2015 83
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1288,7 +1282,6 @@ pll c 20
 inv c 1423.34
 fom c 28.57
 vom c 2.39
-hisc 0 hc 2009 52.5
 optm c 0.894
 ctime c 2
 minutil c 0.05
@@ -1911,7 +1904,6 @@ pll c 20
 inv ts 2126.96 2058.89 1990.85 1922.8 1854.75 1786.7 1718.65 1650.6 1582.55 1555.49 1528.42 1501.36 1474.29 1447.23 1420.17 1393.09 1366.03 1338.96 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9
 fom ts 34.03 32.94 31.85 30.76 29.68 28.59 27.5 26.41 25.32 24.89 24.45 24.02 23.59 23.15 22.72 22.3 21.85 21.43 21 21 21 21 21 21 21
 vom c 0
-hisc 0 hc 2015 20.4
 optm c 1
 ctime c 2
 bdc up c 0
@@ -1939,7 +1931,6 @@ pll c 20
 inv ts 2126.96 2058.89 1990.85 1922.8 1854.75 1786.7 1718.65 1650.6 1582.55 1555.49 1528.42 1501.36 1474.29 1447.23 1420.17 1393.09 1366.03 1338.96 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9
 fom ts 34.03 32.94 31.85 30.76 29.68 28.59 27.5 26.41 25.32 24.89 24.45 24.02 23.59 23.15 22.72 22.3 21.85 21.43 21 21 21 21 21 21 21
 vom c 0
-hisc 0 hc 2008 5.1
 optm c 1
 ctime c 2
 bdc up c 0
@@ -1995,7 +1986,6 @@ pll c 20
 inv ts 2126.96 2058.89 1990.85 1922.8 1854.75 1786.7 1718.65 1650.6 1582.55 1555.49 1528.42 1501.36 1474.29 1447.23 1420.17 1393.09 1366.03 1338.96 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9 1311.9
 fom ts 34.03 32.94 31.85 30.76 29.68 28.59 27.5 26.41 25.32 24.89 24.45 24.02 23.59 23.15 22.72 22.3 21.85 21.43 21 21 21 21 21 21 21
 vom c 0
-hisc 0 hc 2021 100
 optm c 1
 ctime c 2
 bdc up c 0
@@ -2445,7 +2435,6 @@ pll c 20
 inv ts 1682.07 1613.93 1547.08 1480.24 1456.65 1433.05 1409.46 1385.87 1362.27 1328.21 1292.82 1257.43 1223.36 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97 1187.97
 fom ts 61.86 59.24 56.48 53.86 52.94 51.9 50.98 50.07 49.15 47.7 46.39 44.96 43.51 42.2 42.2 42.2 42.2 42.2 42.2 42.2 42.2 42.2 42.2 42.2 42.2
 vom c 0
-hisc 0 hc 2018 300
 optm c 1
 ctime c 2
 bdc up c 0
@@ -2706,7 +2695,6 @@ pll c 20
 inv ts 1422.31 1340.84 1259.37 1177.9 1096.42 1014.96 933.49 852.01 770.55 748.87 727.17 705.49 683.81 662.12 640.44 618.76 597.08 575.39 553.71 553.71 553.71 553.71 553.71 553.71 553.71
 fom ts 9.96 9.38 8.82 8.24 7.68 7.1 6.53 5.97 5.39 5.24 5.1 4.94 4.79 4.63 4.48 4.34 4.18 4.03 3.87 3.87 3.87 3.87 3.87 3.87 3.87
 vom c 0
-hisc 0 hc 2018 0.25
 optm c 1
 ctime c 1
 bdc up c 0
@@ -2733,7 +2721,6 @@ pll c 20
 inv ts 1422.31 1340.84 1259.37 1177.9 1096.42 1014.96 933.49 852.01 770.55 748.87 727.17 705.49 683.81 662.12 640.44 618.76 597.08 575.39 553.71 553.71 553.71 553.71 553.71 553.71 553.71
 fom ts 9.96 9.38 8.82 8.24 7.68 7.1 6.53 5.97 5.39 5.24 5.1 4.94 4.79 4.63 4.48 4.34 4.18 4.03 3.87 3.87 3.87 3.87 3.87 3.87 3.87
 vom c 0
-hisc 0 hc 2018 50
 optm c 1
 ctime c 1
 bdc up c 0
@@ -2872,7 +2859,6 @@ pll c 20
 inv ts 1422.31 1340.84 1259.37 1177.9 1096.42 1014.96 933.49 852.01 770.55 748.87 727.17 705.49 683.81 662.12 640.44 618.76 597.08 575.39 553.71 553.71 553.71 553.71 553.71 553.71 553.71
 fom ts 9.96 9.38 8.82 8.24 7.68 7.1 6.53 5.97 5.39 5.24 5.1 4.94 4.79 4.63 4.48 4.34 4.18 4.03 3.87 3.87 3.87 3.87 3.87 3.87 3.87
 vom c 0
-hisc 0 hc 2021 40
 optm c 1
 ctime c 1
 bdc up c 0
@@ -2900,7 +2886,6 @@ pll c 20
 inv ts 1422.31 1340.84 1259.37 1177.9 1096.42 1014.96 933.49 852.01 770.55 748.87 727.17 705.49 683.81 662.12 640.44 618.76 597.08 575.39 553.71 553.71 553.71 553.71 553.71 553.71 553.71
 fom ts 9.96 9.38 8.82 8.24 7.68 7.1 6.53 5.97 5.39 5.24 5.1 4.94 4.79 4.63 4.48 4.34 4.18 4.03 3.87 3.87 3.87 3.87 3.87 3.87 3.87
 vom c 0
-hisc 0 hc 2021 40
 optm c 1
 ctime c 1
 bdc up c 0
@@ -3986,7 +3971,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2016 29
 optm c 0.775
 ctime c 4
 minutil c 0.2
@@ -4014,7 +3998,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2014 17.6
 optm c 0.775
 ctime c 4
 minutil c 0.2
@@ -4042,7 +4025,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2013 39.6
 optm c 0.775
 ctime c 4
 minutil c 0.2
@@ -4070,7 +4052,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2018 63.8
 optm c 0.775
 ctime c 4
 minutil c 0.2
@@ -4098,7 +4079,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2003 101
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4126,7 +4106,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2019 158
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4154,7 +4133,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2014 140
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4182,7 +4160,6 @@ pll c 25
 inv c 4235.4
 fom c 139.16
 vom c 0
-hisc 0 hc 2014 140
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4712,7 +4689,6 @@ pll c 25
 inv c 5242.51
 fom c 56.62
 vom c 4.05
-hisc 0 hc 2015 25.4
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4737,7 +4713,6 @@ pll c 25
 inv c 5242.51
 fom c 56.62
 vom c 4.05
-hisc 0 hc 2014 44.6
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -4858,7 +4833,6 @@ pll c 25
 inv c 5242.51
 fom c 56.62
 vom c 4.05
-hisc 0 hc 2012 2.1
 optm c 0.92
 ctime c 4
 minutil c 0.2
@@ -5413,7 +5387,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 con1c RM:tin c 1
@@ -5436,7 +5410,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdi up c 693
@@ -5447,6 +5421,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D009 c -1
 # Description: KEHYDM_High_Grand
+# status: candidate
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5461,7 +5436,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdi up c 90
@@ -5472,6 +5447,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D008 c -1
 # Description: KEHYDM_Karura
+# status: candidate
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5485,8 +5461,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1991 105
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5496,6 +5471,7 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: TURKWEL
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5509,8 +5485,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1988 164
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5520,6 +5495,7 @@ con1a RELO ts -0.06 -0.065 -0.07 -0.075 -0.08 -0.085 -0.09 -0.095 -0.1 -0.11 -0.
 con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.375 -0.4 -0.425 -0.45 -0.475 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5 -0.5
 con1a DOM c 1
 # Description: KIAMBERE
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5533,8 +5509,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1968 59.5 2013 10.5
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5545,6 +5520,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D007 c -1
 # Description: KEHYDM_Kindaruma
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5558,8 +5534,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1978 136 1998 80
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5570,6 +5545,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D006 c -1
 # Description: KEHYDM_Gitaru
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5585,8 +5561,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1974 90
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5597,6 +5572,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D005 c -1
 # Description: KEHYDM_KAMBURU
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5612,8 +5588,7 @@ pll c 50
 inv c 3931.88
 fom c 117.96
 vom c 0
-hisc 0 hc 1981 40
-optm c 0.5
+optm c 1
 ctime c 5
 minutil c 0
 bdc up c 0
@@ -5624,6 +5599,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D004 c -1
 # Description: KEHYDM_MASINGA
+# status: Existing
 # lat: -0.64
 # long: 37.91
 # source: Not used
@@ -5674,7 +5650,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D001 c -1
 # Description: Existing Kamburu/Masinga
-# status: Existing
+# status: Deleted
 # lat: -0.84339
 # long: 37.63786
 # source: Kamburu/Masinga
@@ -5701,7 +5677,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D002 c -1
 # Description: KEHYDM_Turkwell
-# status: Existing
+# status: Deleted
 # lat: 1.89818
 # long: 35.33373
 # source: Turkwell
@@ -5726,7 +5702,7 @@ con1a REHI ts 0 0 0 0 -0.05 -0.1 -0.15 -0.2 -0.25 -0.275 -0.3 -0.325 -0.35 -0.37
 con1a DOM c 1
 consa D003 c -1
 # Description: KEHYDM_Kiambere
-# status: Existing
+# status: Deleted
 # lat: -0.64
 # long: 37.91
 # source: Kiambere
@@ -6372,7 +6348,6 @@ pll c 95
 inv c 3276.57
 fom c 59.63
 vom c 4.26
-hisc 0 hc 1955 20
 optm c 1
 ctime c 2
 bdc up c 0
@@ -6395,7 +6370,6 @@ pll c 60
 inv c 3276.57
 fom c 59.63
 vom c 4.26
-hisc 0 hc 2012 20
 optm c 1
 ctime c 2
 bdc up c 0
@@ -6418,7 +6392,6 @@ pll c 60
 inv c 3276.57
 fom c 59.63
 vom c 4.26
-hisc 0 hc 2008 60
 optm c 1
 ctime c 2
 bdc up c 0
@@ -6458,7 +6431,6 @@ pll c 60
 inv c 3931.88
 fom c 59.63
 vom c 4.26
-hisc 0 hc 2010 24.87
 optm c 1
 ctime c 2
 bdc up c 0
@@ -6563,7 +6535,7 @@ pll c 15
 inv ts 1572.75 1572.75 1572.75 1572.75 1481.01 1389.26 1297.52 1205.78 1114.04 1090.45 1066.85 1043.26 1019.67 996.07 972.49 948.9 925.3 901.71 878.12 878.12 878.12 878.12 878.12 878.12 878.12
 fom ts 39.32 39.32 39.32 39.32 37.02 34.73 32.44 30.15 27.86 27.26 26.67 26.08 25.49 24.9 24.32 23.73 23.13 22.54 21.95 21.95 21.95 21.95 21.95 21.95 21.95
 vom c 1.23
-con1c RM:tin c 0.25
+con1c RM:tin c 0.75
 con1c PC01:tin c 1
 con1c RMG:tin c 0.75
 consa SS01 c -1
