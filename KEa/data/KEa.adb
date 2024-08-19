@@ -782,7 +782,7 @@ moutp u-s c 1
 pll c 60
 inv c 0.01
 abda up c 0
-con1c RM:tin c 0.5
+con1c RM:tin c 0
 con1c TXKE:tin c -1
 # Description: Import of Electricity
 *
@@ -901,7 +901,7 @@ con1a CO2 c 0
 KEDSRC00 g
 minp d-K 1
 moutp u-s c 0.35
-fyear 2051
+fyear 2025
 plf c 0.894
 pll c 25
 inv c 1423.34
@@ -1062,7 +1062,7 @@ con1a CO2 c 2.44
 KEHFRC00 g
 minp h-K 1
 moutp u-s c 0.35
-fyear 2051
+fyear 2030
 plf c 0.894
 pll c 25
 inv c 1423.34
@@ -1337,7 +1337,7 @@ con1a CO2 c 2.98
 KECOSC00 g
 minp c-K 1
 moutp u-s c 0.39
-fyear 2051
+fyear 2032
 plf c 0.922
 pll c 35
 inv c 2671.73
@@ -1396,7 +1396,7 @@ con1a CO2 c 1.77
 KENGSC00 g
 minp g-K 1
 moutp u-s c 0.35
-fyear 2051
+fyear 2030
 plf c 0.922
 pll c 25
 inv c 1041.95
@@ -1444,7 +1444,7 @@ con1a DOM c 1
 KENGCC00 h
 minp g-K 1
 moutp u-s c 0.58
-fyear 2051
+fyear 2030
 plf c 0.922
 pll c 30
 inv c 1328.98
@@ -1592,7 +1592,7 @@ con1a DOM c 1
 KENUPW00 g
 minp n-K 1
 moutp u-s c 0.33
-fyear 2051
+fyear 2036
 plf c 0.922
 pll c 50
 inv c 8043.33

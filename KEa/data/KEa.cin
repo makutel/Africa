@@ -267,6 +267,14 @@ KEELDT04_02_02 = d.HA:out
 KEELDT04_03_01 = d.IA:out
 KEELDT04_03_02 = d.JA:out
 KEEXDT00_01 = s.Kd:out
+KERIDM_MASINGA_01 = s.Ad:out
+KERIDM_KAMBURU_01 = s.Bd:out
+KERIDM_Gitaru_01 = s.Cd:out
+KERIDM_Kindaruma_01 = s.Dd:out
+KERIDM_Karura_01 = s.Hd:out
+KERIDM_High_Grand_01 = s.Id:out
+KEELDT04_04_01 = d.EA:out
+KEELDT04_04_02 = d.FA:out
 @
 title: KEaCumulNewCapacity
 unit: , 1.
@@ -526,6 +534,13 @@ KEELDT04_01 = d.BA:cic
 KEELDT04_02 = d.DA:cic
 KEELDT04_03 = d.IA:cic
 KEEXDT00 = s.Kd:cic
+KERIDM_MASINGA = s.Ad:cic
+KERIDM_KAMBURU = s.Bd:cic
+KERIDM_Gitaru = s.Cd:cic
+KERIDM_Kindaruma = s.Dd:cic
+KERIDM_Karura = s.Hd:cic
+KERIDM_High_Grand = s.Id:cic
+KEELDT04_04 = d.EA:cic
 @
 title: KEaTotalCapacity
 unit: , 1.
@@ -785,6 +800,13 @@ KEELDT04_01 = d.BA:tic
 KEELDT04_02 = d.DA:tic
 KEELDT04_03 = d.IA:tic
 KEEXDT00 = s.Kd:tic
+KERIDM_MASINGA = s.Ad:tic
+KERIDM_KAMBURU = s.Bd:tic
+KERIDM_Gitaru = s.Cd:tic
+KERIDM_Kindaruma = s.Dd:tic
+KERIDM_Karura = s.Hd:tic
+KERIDM_High_Grand = s.Id:tic
+KEELDT04_04 = d.EA:tic
 @
 @
 @
