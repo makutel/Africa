@@ -1,0 +1,72 @@
+TDB: empty
+ADB: MAINa
+problem: MAINa
+description:
+# MAINa
+drate: 12.8
+timesteps: 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047
+loadregions:
+ltype ordered seasonal 1 0
+year 2022 1 28
+name aaa aab aac aad aae aaf aag \
+baa bab bac bad bae baf bag \
+caa cab cac cad cae caf cag \
+daa dab dac dad dae daf dag 
+length 0.05137 0.05137 0.05137 0.030822 0.020548 0.020548 0.020548 \
+0.051941 0.051941 0.051941 0.031164 0.020776 0.020776 0.020776 \
+0.070208 0.070205 0.070205 0.042123 0.028082 0.028082 0.028082 \
+0.034817 0.034817 0.034817 0.02089 0.013927 0.013927 0.013927 
+energyforms:
+final f
+# final demand
+demand d 
+# demand
+*
+Exports x
+# DRC, Jordan etc
+EL_EU X 
+# Export Europe
+EL_JLS Y 
+# Export Jordan and Syria
+*
+demand:
+d-f  c 1
+loadcurve:
+relationsc:
+relationsp:
+relationss:
+relations1:
+ReserveMarginGlobal RMG o 
+*
+DomesticCAPP DOMC o 
+*
+DomesticEAPP DOME o 
+*
+DomesticNAPP DOMN o 
+*
+DomesticSAPP DOMS o 
+*
+RECAPP REC o 
+*
+REEAPP REE o 
+*
+RENAPP REN o 
+*
+RESAPP RES o 
+*
+REWAPP REW o 
+*
+RELO RELO o 
+*
+REHI REHI o 
+*
+TXKE TXKE o 
+*
+relations2:
+variables:
+systems:
+DEM a
+*
+resources: 
+endata
+
