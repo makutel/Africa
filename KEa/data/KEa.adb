@@ -726,10 +726,10 @@ pll c 60
 inv c 262.13
 fom c 26.22
 hisc 0 hc 2014 0
-con1c RM:tin c -1.1
 con1c RMG:tin c -1.1
 con1a RE ts -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25 -0.25
 con1a IPW c -0.7
+con1a RM ts 0 0 0 0 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1 -1.1
 # Description: Transmission
 # fom: Assumption based on South Africa. Needs review by Country.%%user:Bruno%%date:2020/05/21 11:15:58 AM
 # moutp: Assumption. Needs review by Country.%%user:Bruno%%date:2020/05/21 11:15:28 AM
