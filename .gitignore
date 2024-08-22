@@ -8,3 +8,15 @@ KEa/chkunits
 KEa/KEa_Reference.chn
 
 KEa/KEa.mst
+
+KEa/cer/
+
+*.lbu
+
+*.bat
+
+*.txt
+
+*.toc
+
+KEa/obj_db
